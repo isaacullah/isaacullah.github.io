@@ -198,6 +198,7 @@ dd {
   list-style-position: inside;
   width: 10em;
   margin: 0;
+  margin-top: 20px;
   padding: 1ex 0;
   border: 1px solid rgb(204,204,204);
   position: absolute;
