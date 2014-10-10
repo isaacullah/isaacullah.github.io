@@ -39,3 +39,11 @@ Downloadable PDF's of some of my publications can be found on my [Academia.edu p
 [2]: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
 [3]: https://asu.academia.edu/IsaacUllah
 [4]: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
