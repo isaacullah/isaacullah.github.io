@@ -1,1 +1,0 @@
-./configure --without-grass --with-hdf4=/usr/local/hdf4.2r1 --with-libtiff=internal --with-geotiff=internal --with-python --without-ogdi --without-libgrass --enable-shared
