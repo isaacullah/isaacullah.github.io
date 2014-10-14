@@ -11,4 +11,7 @@ image:
 ## Some ideas on the origins of agriculture
 
 This is a test post. Content to be added at a later date! Here's an image of sheep and wheat to look at:
-![Sheep and wheat](Sheep_under_olive_tree.png)
+<figure>
+	!(Sheep_under_olive_tree.png)
+	<figcaption>Sheep under an olive tree near the site of Tell Abu Suwan in northern Jordan.</figcaption>
+</figure>
