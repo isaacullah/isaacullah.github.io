@@ -4,7 +4,7 @@ title: About Isaac
 tags: [Isaac Ullah]
 modified: 2014-10-14
 comments: true
-image:
+image: bio-photo.jpg
   feature: Gathering_Microref_Samples.JPG
 ---
 
