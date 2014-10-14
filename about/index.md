@@ -5,12 +5,12 @@ tags: [Isaac Ullah]
 modified: 2014-10-14
 comments: true
 link:
-  [2]: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
-  [3]: https://asu.academia.edu/IsaacUllah
-  [4]: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
-  [5]: http://medland.asu.edu
-  [6]: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
-  [7]: http://talgar.sbc.edu/
+  2: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
+  3: https://asu.academia.edu/IsaacUllah
+  4: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
+  5: http://medland.asu.edu
+  6: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
+  7: http://talgar.sbc.edu/
 image:
   feature: Gathering_Microref_Samples.JPG
 ---
