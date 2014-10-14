@@ -29,7 +29,6 @@ As a fun way for you to quickly get a grasp of the types of things I research, I
 ### My Publications
 
 Please see my [Google Scholar Citation Index page](http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ) for a complete list of my publications, their citation indices, and lists of works that cite them.
-
 Downloadable PDF's of some of my publications can be found on my [Academia.edu page](https://asu.academia.edu/IsaacUllah).
 
 * * *
@@ -41,7 +40,7 @@ Downloadable PDF's of some of my publications can be found on my [Academia.edu p
 * * *
 
 ### Projects
-I am involved in several actively ongoing field and research projects. Here are some links!
+Please visit the following links for information about several actively ongoing field and research projects that I am involved with.
 
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
 * The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))

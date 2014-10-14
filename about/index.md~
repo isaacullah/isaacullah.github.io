@@ -5,7 +5,7 @@ tags: [Isaac Ullah]
 modified: 2014-10-14
 comments: true
 image:
-  feature: Gathering_Microref_Samples.JPG
+  feature: isaac_on_a_cliff.png
 ---
 
 ### About me

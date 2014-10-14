@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
-excerpt: "A List of Posts"
+title: A running list of ideas about Complex Systems, Archaeology, Social-Ecolocical Systems, and Early Domestication Economies
+excerpt: ""
 ---
