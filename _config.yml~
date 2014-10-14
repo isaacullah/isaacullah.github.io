@@ -26,10 +26,10 @@ kramdown:
 
 # Site owner
 owner:
-  name: Isaac I. Ullah, PhD
+  name: Your Name
   avatar: bio-photo.jpg
-  bio: "Computational Archaeologist"
-  email: isaaciullah@gmail.com
+  bio: "Describe your self."
+  email: 
   disqus-shortname: 
   twitter: #username
   facebook: #username
@@ -40,7 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
-  github: isaacullah
+  github: #username
   stackoverflow: #http://stackoverflow.com/users/123456/username
   linkedin: #username
   instagram: #username
