@@ -4,15 +4,15 @@ title: About Isaac
 tags: [Isaac Ullah]
 modified: 2014-10-14
 comments: true
-[2]: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
-[3]: https://asu.academia.edu/IsaacUllah
-[4]: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
-[5]: http://medland.asu.edu
-[6]: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
-[7]: http://talgar.sbc.edu/
+link:
+  [2]: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
+  [3]: https://asu.academia.edu/IsaacUllah
+  [4]: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
+  [5]: http://medland.asu.edu
+  [6]: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
+  [7]: http://talgar.sbc.edu/
 image:
   feature: Gathering_Microref_Samples.JPG
-  wordcloud: total_wordcloud.png
 ---
 
 ### About me
@@ -27,7 +27,7 @@ In addition to these large human-environment interaction studies, I also study h
 
 As a fun way for you to quickly get a grasp of the types of things I research, I created this wordcloud from the text of my recent publications:
 <figure>
-	![wordcloud]
+	<a href="/images/total_wordcloud.png"><img src="/images/total_wordcloud.png"></a>
 	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words</figcaption>
 </figure>
 
