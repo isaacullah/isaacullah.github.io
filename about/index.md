@@ -4,8 +4,15 @@ title: About Isaac
 tags: [Isaac Ullah]
 modified: 2014-10-14
 comments: true
+[2]: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
+[3]: https://asu.academia.edu/IsaacUllah
+[4]: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
+[5]: http://medland.asu.edu
+[6]: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
+[7]: http://talgar.sbc.edu/
 image:
   feature: Gathering_Microref_Samples.JPG
+  wordcloud: total_wordcloud.png
 ---
 
 ### About me
@@ -19,8 +26,10 @@ In addition to these large human-environment interaction studies, I also study h
 ### My Research
 
 As a fun way for you to quickly get a grasp of the types of things I research, I created this wordcloud from the text of my recent publications:
-
-![Wordcloud for Isaac's research][1]
+<figure>
+	![wordcloud]
+	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words</figcaption>
+</figure>
 
 * * *
 
@@ -48,11 +57,3 @@ Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe --
 <li><p>Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/][7])
 
 * * *
-
-[1]: total_wordcloud.png
-[2]: http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ
-[3]: https://asu.academia.edu/IsaacUllah
-[4]: http://isaacullah.github.io/pdf/Isaac_Ullah_CV.pdf
-[5]: http://medland.asu.edu
-[6]: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
-[7]: http://talgar.sbc.edu/
