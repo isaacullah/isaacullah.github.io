@@ -7,7 +7,7 @@ excerpt: "A post about some ideas I have on the origins of agriculture"
 tags: [agriculture, origins, ideas]
 ---
 
-## Some ideas on the origins of agriculture
+## This is just a test
 
 This is a test post. Content to be added at a later date[^1]! Here's an image of sheep and wheat to look at:
 <figure>
