@@ -27,12 +27,12 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
-{{ content }}
 <div id="main" role="main"> 
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <div id="index">
+	{{ content }}
     <h3><a href="{{ site.url}}/posts/">A running list of ideas about Complex Systems, Archaeology, Social-Ecolocical Systems, and Early Domestication Economies</a></h3>
     {% for post in site.posts limit:5 %}    
     <article>
