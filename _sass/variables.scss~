@@ -10,7 +10,7 @@ $alt-font: $base-font;
 // COLOR ======================================================
 $bodycolor      : #E6E8DF;
 $body-color     : $bodycolor;
-$textcolor      : #262623;
+$textcolor      : #333332;
 $text-color     : $textcolor;
 $border-color   : $text-color;
 $basecolor 		  : #343434;	  

@@ -43,9 +43,9 @@ Downloadable PDF's of some of my publications can be found on my [Academia.edu p
 ### Projects
 I am involved in several actively ongoing field and research projects. Here are some links!
 
-*The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
-*The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
-*Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
-*Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/](http://talgar.sbc.edu/))
+* The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
+* The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
+* Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
+* Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/](http://talgar.sbc.edu/))
 
 * * *

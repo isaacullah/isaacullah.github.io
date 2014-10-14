@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Some ideas on the origins of agriculture"
+author: isaacullah
 modified: 2014-10-14
 excerpt: "A post about some ideas I have on the origins of agriculture"
 tags: [agriculture, origins, ideas]
