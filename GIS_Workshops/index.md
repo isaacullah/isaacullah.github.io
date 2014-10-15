@@ -8,6 +8,17 @@ tags: [GIS, Landscape Reconstruction, GRASS, Workshop]
 image:
   feature: GIS_workshop_feat-img.png
 ---
+
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 ##Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists
 
 Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I believe that it is therefore imperative that GIS skills are taught to all social scientists. That is the main purpose of this page, which disseminates several workshops and "short-courses" that I have taught to graduate students and fellow faculty at a variety of institutions. 
