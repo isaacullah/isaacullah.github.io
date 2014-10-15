@@ -64,8 +64,10 @@ terrain models (DTM’s) of ancient landscapes. These paleolandscape DTM’s can
 This course was created in Fall, 2006, and was originaly given in the SHESC graduate tutorial seminars
 series. It is a basic introduction to GRASS GIS and what anthropologists can do with it. Some of the information is now outdated, but it may still be a useful resource for applications of GRASS GIS in social science research.
 
+####Course Material (PDF):
+
 * [GRASS GIS for Anthropologists](/GIS_Workshops/GRASS_GIS_for_Anthropologists.pdf)
 
 ---
 
-[1]: For a particularly eloquent arguement in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, ["Natives of a connected world: free and open source software in archaeology"](http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak)
+[^1]: For a particularly eloquent arguement in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, ["Natives of a connected world: free and open source software in archaeology"](http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak)
