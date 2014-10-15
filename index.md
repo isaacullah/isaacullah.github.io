@@ -8,7 +8,7 @@ image:
 This is the academic website of Isaac I. Ullah, PhD, and will contain information about my research and ideas about the intersection of complexity theory, archaeology, complex adaptive systems, and early food production. 
 
 <figure>
-	<a href="/images/total_wordcloud.png"><img src="/images/total_wordcloud.png"></a> width="500"
+	<img src="/images/total_wordcloud.png" width="500">
 	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words.</figcaption>
 </figure>
 
