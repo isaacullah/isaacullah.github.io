@@ -1,13 +1,13 @@
 # Site navigation links
 
-- title: About
+- title: About Isaac
   url: /about/
 
-- title: Sample Posts
+- title: Posts
   url: /posts/
 
-- title: Theme Setup
-  url: /theme-setup/
+- title: The MedLanD Project
+  url: http://medland.asu.edu
 
-- title: Made Mistakes
-  url: http://mademistakes.com
+- title: The Wadi Ziqlab Project
+  url: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
