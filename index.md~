@@ -12,7 +12,9 @@ This is the academic website of Isaac I. Ullah, PhD, and will contain informatio
 	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words.</figcaption>
 </figure>
 
+
 You can read a little bit more about me and my research [**here**](/about).
+
 
 You can learn about my approach to Free Open Source GIS software in archaeological research [**here**](/GIS_Workshops)
 
