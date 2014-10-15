@@ -1,12 +1,12 @@
 ---
-layout: {{ page }}
-title: {{ GRAS GIS Workshops and Short-courses }}
-date: {{ 2014-10-15 }}
-modified:
-excerpt:
+layout: page
+title: GRASS GIS, Workshops, and Short-courses
+date: 2014-10-15
+modified: 
+excerpt: Information about FOSS GIS tools, why I use them, and workshops about FOSS GIS applications in archaeology. 
 tags: [GIS, Landscape Reconstruction, GRASS, Workshop]
 image:
-  feature: 
+  feature: GIS_workshop_feat-img.png
 ---
 ###Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists
 
