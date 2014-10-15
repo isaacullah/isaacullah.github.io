@@ -27,8 +27,26 @@ visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo.org)) 
 
 I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager. Here are some links to several modules that facilitate archaeological analyses and simulation modeling:
 
-(links to come shortly)
+####Addon Modules for GRASS 6.4.x
+#####Raster Modules
 
+* [r.landscape.evol.py](https://svn.osgeo.org/grass/grass-addons/grass6/raster/r.landscape.evol/) -- Simulates the cumulative effect of erosion and deposition on a landscape over time. This module uses appropriate flow on different landforms by default; however, singular flow regimes can be chosen by manipulating the cutoff points. 
+
+* [r.catchment.py](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.catchment.py/) -- Creates a raster buffer of specified area around vector points using cost distances.
+
+* [r.soildepth.py](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.soildepth.py/) -- Estimates soil depths on a landscape based on hillslope curvatures.
+
+* [r.agropast.extensive](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.agropast.extensive/) -- Creates a series of iterative landuse maps from a pastoral catchment and an extensive (swiddening) agricultural catchment (both need to be created by r.catchment), and outputs c factor as well.
+
+* [r.agropast.intensive](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.agropast.intensive/) -- Creates a series of iterative landuse maps from a pastoral catchment and an intensive agricultural catchment (both need to be created by r.catchment), and outputs c factor as well.
+
+* [r.shift.cult](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.shift.cult/) -- Creates a series of iterative agricultural landuse maps from a catchment created by r.catchment. This model takes natural vegetational succession into account. Optionally outputs c factor as well.
+
+* [r.cfactor.py](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/devs_landcover_scripts/r.cfactor.py/) -- Converts a map of landcover values to a c-factor map based on a set of reclass rules.
+
+#####Vector Modules
+
+####How to install Addon Modules in GRASS 6.4.x
 ---
 
 ##Short Courses in GIS for Archaeologists and Geoarchaeologists
@@ -64,8 +82,10 @@ terrain models (DTM’s) of ancient landscapes. These paleolandscape DTM’s can
 This course was created in Fall, 2006, and was originaly given in the SHESC graduate tutorial seminars
 series. It is a basic introduction to GRASS GIS and what anthropologists can do with it. Some of the information is now outdated, but it may still be a useful resource for applications of GRASS GIS in social science research.
 
+####Course Material (PDF):
+
 * [GRASS GIS for Anthropologists](/GIS_Workshops/GRASS_GIS_for_Anthropologists.pdf)
 
 ---
 
-[1]: For a particularly eloquent arguement in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, ["Natives of a connected world: free and open source software in archaeology"](http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak)
+[^1]: For a particularly eloquent arguement in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, ["Natives of a connected world: free and open source software in archaeology"](http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak)
