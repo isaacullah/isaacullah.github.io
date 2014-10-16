@@ -6,7 +6,7 @@ modified:
 excerpt: Information about the free and open-source GRASS GIS software suite and some custom GRASS modules that I developed. 
 tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
 image:
-  feature: GIS_workshop_feat-img.png
+  feature: gbanner.gif
 ---
 
 ##What is GRASS GIS?
