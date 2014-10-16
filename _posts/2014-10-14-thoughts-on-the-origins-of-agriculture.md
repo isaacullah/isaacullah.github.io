@@ -4,7 +4,7 @@ title: "Some ideas on the origins of agriculture"
 author: isaacullah
 modified: 2014-10-16
 comments: True
-excerpt: "A post about some ideas I have about why and how the switch to food production began"
+excerpt: "Some of my current thinking about why and how people made the initial switch to food production"
 tags: [agriculture, origins, ideas]
 ---
 
