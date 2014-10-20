@@ -8,6 +8,16 @@ image:
   feature: isaac_on_a_cliff.png
 ---
 
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
+
 I am a post-doctoral researcher at Arizona State University, studying the long term effects of human landuse decisions, especially those associated with Neolithic farming and pastoralism. I use a combination of traditional archaeological and geoarchaeological approaches with GIS, computational modeling, and computer simulation to investigate the dynamics of agropastoral socio-natural systems. My work is largely based in a complex adaptive systems theory perspective.
 
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient housefloors as a way to get at long-term patterns in domesticity.
