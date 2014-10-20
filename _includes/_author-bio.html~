@@ -23,5 +23,5 @@
 {% if author.pinterest %}<a href="http://www.pinterest.com/{{ author.pinterest }}" class="author-social" target="_blank"><i class="fa fa-pinterest"></i> Pinterest</a>{% endif %}
 {% if author.foursquare %}<a href="http://foursquare.com/{{ author.foursquare }}" class="author-social" target="_blank"><i class="fa fa-foursquare"></i> Foursquare</a>{% endif %}
 {% if author.steam %}<a href="http://steamcommunity.com/id/{{ author.steam }}" class="author-social" target="_blank"><i class="fa fa-steam-square"></i> Steam</a>{% endif %}
-{% if author.academia %}<a href="https://asu.academia.edu/{{ author.steam }}" class="author-social" target="_blank"><i class="fa fa-font"></i> Academia.edu</a>{% endif %}
+{% if author.academia %}<a href="https://asu.academia.edu/{{ author.steam }}" class="author-social" target="_blank"><i class="fa fa-academia-square"></i> Academia.edu</a>{% endif %}
 
