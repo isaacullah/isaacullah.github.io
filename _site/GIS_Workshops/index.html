@@ -1,0 +1,302 @@
+<!doctype html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7" lang="en"> <![endif]-->
+<!--[if (IE 7)&!(IEMobile)]><html class="no-js lt-ie9 lt-ie8" lang="en"><![endif]-->
+<!--[if (IE 8)&!(IEMobile)]><html class="no-js lt-ie9" lang="en"><![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"><!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<title>Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists &#8211; Computational Archaeology and Neolithic Subsistence Economies</title>
+<meta name="description" content="Short courses in open-source GIS applications for Archaeologists, Anthropologists, and other Social Scientists.">
+<meta name="keywords" content="GIS, Landscape Reconstruction, GRASS, Workshop">
+
+
+
+<!-- Twitter Cards -->
+<meta name="twitter:title" content="Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists">
+<meta name="twitter:description" content="Short courses in open-source GIS applications for Archaeologists, Anthropologists, and other Social Scientists.">
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="http://isaacullah.github.io/images/GIS_workshop_feat-img.png">
+
+<!-- Open Graph -->
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists">
+<meta property="og:description" content="Short courses in open-source GIS applications for Archaeologists, Anthropologists, and other Social Scientists.">
+<meta property="og:url" content="http://isaacullah.github.io/GIS_Workshops/">
+<meta property="og:site_name" content="Computational Archaeology and Neolithic Subsistence Economies">
+
+
+
+
+
+<link rel="canonical" href="http://isaacullah.github.io/GIS_Workshops/">
+<link href="http://isaacullah.github.io/feed.xml" type="application/atom+xml" rel="alternate" title="Computational Archaeology and Neolithic Subsistence Economies Feed">
+<link rel="author" href="http://plus.google.com/+IsaacUllah4?rel=author">
+
+<!-- http://t.co/dKP3o1e -->
+<meta name="HandheldFriendly" content="True">
+<meta name="MobileOptimized" content="320">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- For all browsers -->
+<link rel="stylesheet" href="http://isaacullah.github.io/assets/css/main.css">
+
+<meta http-equiv="cleartype" content="on">
+
+<!-- HTML5 Shiv and Media Query Support -->
+<!--[if lt IE 9]>
+	<script src="http://isaacullah.github.io/assets/js/vendor/html5shiv.min.js"></script>
+	<script src="http://isaacullah.github.io/assets/js/vendor/respond.min.js"></script>
+<![endif]-->
+
+<!-- Modernizr -->
+<script src="http://isaacullah.github.io/assets/js/vendor/modernizr-2.7.1.custom.min.js"></script>
+
+<link href='//fonts.googleapis.com/css?family=PT+Sans+Narrow:400,700%7CPT+Serif:400,700,400italic' rel='stylesheet' type='text/css'>
+
+<!-- Icons -->
+<!-- 16x16 -->
+<link rel="shortcut icon" href="http://isaacullah.github.io/favicon.ico">
+<!-- 32x32 -->
+<link rel="shortcut icon" href="http://isaacullah.github.io/favicon.png">
+<!-- 57x57 (precomposed) for iPhone 3GS, pre-2011 iPod Touch and older Android devices -->
+<link rel="apple-touch-icon-precomposed" href="http://isaacullah.github.io/images/apple-touch-icon-precomposed.png">
+<!-- 72x72 (precomposed) for 1st generation iPad, iPad 2 and iPad mini -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://isaacullah.github.io/images/apple-touch-icon-72x72-precomposed.png">
+<!-- 114x114 (precomposed) for iPhone 4, 4S, 5 and post-2011 iPod Touch -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://isaacullah.github.io/images/apple-touch-icon-114x114-precomposed.png">
+<!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://isaacullah.github.io/images/apple-touch-icon-144x144-precomposed.png">
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-55626306-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+</head>
+
+<body class="page">
+
+<!--[if lt IE 9]><div class="browser-upgrade alert alert-info">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div><![endif]-->
+
+<div class="navigation-wrapper">
+	<div class="site-name">
+		<a href="http://isaacullah.github.io">Computational Archaeology and Neolithic Subsistence Economies</a>
+	</div><!-- /.site-name -->
+	<div class="top-navigation">
+		<nav role="navigation" id="site-nav" class="nav">
+		    <ul>
+		        
+					    
+					        
+					    
+					    <li><a href="http://isaacullah.github.io/about/" >About Isaac</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://isaacullah.github.io/posts/" >Posts</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://isaacullah.github.io/GIS_Workshops/" >Isaac's GIS Short-Courses</a></li>
+					  
+					    
+					        
+					    
+					    <li><a href="http://isaacullah.github.io/GRASS/" >Isaac's GRASS GIS applications page</a></li>
+					  
+					    
+					        
+					        
+					    <li><a href="http://medland.asu.edu" target="_blank">The MedLanD Project</a></li>
+					  
+					    
+					        
+					        
+					    <li><a href="http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/" target="_blank">The Wadi Ziqlab Project</a></li>
+					  
+		    </ul>
+		</nav>
+	</div><!-- /.top-navigation -->
+</div><!-- /.navigation-wrapper -->
+
+
+  <div class="image-wrap">
+  <img src=
+    
+      "http://isaacullah.github.io/images/GIS_workshop_feat-img.png"
+    
+  alt="Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists feature image">
+  
+  </div><!-- /.image-wrap -->
+
+
+<div id="main" role="main">
+  <div class="article-author-side">
+    
+
+
+
+	<img src="http://isaacullah.github.io/images/bio-photo.jpg" class="bio-photo" alt="Isaac I. Ullah, PhD bio photo">
+
+<h3>Isaac I. Ullah, PhD</h3>
+<p>Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology</p>
+<a href="mailto:isaaciullah@gmail.com" class="author-social" target="_blank"><i class="fa fa-envelope-square"></i> Email</a>
+
+<a href="http://facebook.com/isaac.ullah" class="author-social" target="_blank"><i class="fa fa-facebook-square"></i> Facebook</a>
+<a href="http://plus.google.com/+IsaacUllah4" class="author-social" target="_blank"><i class="fa fa-google-plus-square"></i> Google+</a>
+
+
+
+<a href="http://github.com/isaacullah" class="author-social" target="_blank"><i class="fa fa-github"></i> Github</a>
+
+
+
+
+
+
+<a href="http://asu.academia.edu/IsaacUllah" class="author-social" target="_blank"><i class="fa fa-font"></i> Academia.edu</a>
+
+
+  </div>
+  <article class="page">
+    <h1>Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists</h1>
+    <div class="article-wrap">
+      <section id="table-of-contents" class="toc">
+  <header>
+    <h3>Overview</h3>
+  </header>
+<div id="drawer">
+<ul id="markdown-toc">
+  <li><a href="#short-courses-in-gis-for-archaeologists-and-geoarchaeologists">Short Courses in GIS for Archaeologists and Geoarchaeologists</a>    <ul>
+      <li><a href="#course-1-paleolandscape-reconstruction-and-ancient-human-landuse">Course 1: Paleolandscape Reconstruction and Ancient Human Landuse</a>        <ul>
+          <li><a href="#course-material-pdf">Course Material (PDF):</a></li>
+        </ul>
+      </li>
+      <li><a href="#course-2-grass-gis-for-anthropoligists">Course 2: GRASS GIS for Anthropoligists</a>        <ul>
+          <li><a href="#course-material-pdf-1">Course Material (PDF):</a></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+</ul>
+
+  </div>
+</section>
+<!-- /#table-of-contents -->
+
+<p>Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I believe that it is therefore imperative that GIS skills are taught to all social scientists. That is the main purpose of this page, which disseminates several workshops and “short-courses” that I have taught to graduate students and fellow faculty at a variety of institutions. </p>
+
+<p>I am equally dedicated to <a href="http://www.fsf.org/">FOSS (Free and Open-Source Software)</a>, however, which I find to be much more amenable to the goals of academic inquiry than commercial software<sup id="fnref:1"><a href="#fn:1" class="footnote">1</a></sup>. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, <a href="http://grass.osgeo.org">GRASS GIS</a>, and all of my course materials are formulated to teach you how to use this software in your research.</p>
+
+<hr />
+
+<h2 id="short-courses-in-gis-for-archaeologists-and-geoarchaeologists">Short Courses in GIS for Archaeologists and Geoarchaeologists</h2>
+
+<p>The following workshops and “short-courses” were developed primarily for Archaeologists and Geoarchaeologists, but also teach skills that would be interesting to a more general social scientist as well. Feel free to download, use, and distribute these materials, but I do ask that you credit me as their source.</p>
+
+<h3 id="course-1-paleolandscape-reconstruction-and-ancient-human-landuse">Course 1: Paleolandscape Reconstruction and Ancient Human Landuse</h3>
+
+<p>Paleolandscape reconstruction is an essential first step for archaeologists interested in how ancient humans interacted with their environment. This is often achieved only schematically through the use of
+narrative models based on paleoenvironmental proxy data. A new alternative approach utilizes geomorphologic data to digitally model ancient landscapes within a GIS framework, resulting in digital
+terrain models (DTM’s) of ancient landscapes. These paleolandscape DTM’s can be used as input into spatially explicit models of ancient human landuse and human-environment interaction. This workshop will cover the basic theory and methodology behind GIS-based paleolandscape reconstruction, and will introduce techniques for ancient human landuse simulation. Specific techniques that will be covered include digitization of landscape features, terrain interpolation techniques, site catchment modeling, erosion and deposition modeling, and GIS-based human landuse simulation. The workshop will also teach participants the basics of GRASS GIS, a robust free and open source GIS software suite. Using GRASS offers several methodological and academic advantages because it is actively and collaboratively developed by scientists, allows users to easily create custom scripts, and all modules within GRASS are based upon referable scholarly work. (This course was first created in October, 2009, and was originally taught as part of the University of Toronto Archaeology Center’s invited workshop series)<br /></p>
+
+<h4 id="course-material-pdf">Course Material (PDF):</h4>
+
+<ul>
+  <li>
+    <p><a href="/GIS_Workshops/01-What_is_GIS.pdf">01-What is GIS?</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshops/02-A_Quick_Note_on_Projections.pdf">02-A quick note on projections.</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshops/03-GRASS_basics.pdf">03-GRASS GIS basics.</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshops/04-DEMs_surfaces_and_images.pdf">04-DEM’s, surfaces, and images.</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshops/05-Mediterranean_Landscapes_project.pdf">05-The Mediterranean Landscapes Dynamics Project.</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshops/06-Erosion%20Modeling%20Exercise.pdf">06-Erosion modeling in GIS.</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshop/Paleolandscape%20Reconstruction%20Handout.pdf">Paleolandscape Reconstruction Excercise</a></p>
+  </li>
+  <li>
+    <p><a href="/GIS_Workshop/GIS_workshop_bib.pdf">A brief GIS bibliography.</a></p>
+  </li>
+</ul>
+
+<h3 id="course-2-grass-gis-for-anthropoligists">Course 2: GRASS GIS for Anthropoligists</h3>
+
+<p>This course was created in Fall, 2006, and was originally given in the SHESC graduate tutorial seminars
+series. It is a basic introduction to GRASS GIS and what anthropologists can do with it. Some of the information is now outdated, but it may still be a useful resource for applications of GRASS GIS in social science research.</p>
+
+<h4 id="course-material-pdf-1">Course Material (PDF):</h4>
+
+<ul>
+  <li><a href="/GIS_Workshops/GRASS_GIS_for_Anthropologists.pdf">GRASS GIS for Anthropologists</a></li>
+</ul>
+
+<hr />
+
+<div class="footnotes">
+  <ol>
+    <li id="fn:1">
+      <p>For a particularly eloquent argument in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, <a href="http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak">“Natives of a connected world: free and open source software in archaeology”</a> <a href="#fnref:1" class="reversefootnote">&#8617;</a></p>
+    </li>
+  </ol>
+</div>
+
+    </div><!-- /.article-wrap -->
+    
+  </article>
+</div><!-- /#index -->
+
+<div class="footer-wrap">
+  <footer>
+    
+
+<span>&copy; 2015 Isaac I. Ullah, PhD. Powered by <a href="http://jekyllrb.com">Jekyll</a> using the <a href="http://mademistakes.com/minimal-mistakes/">Minimal Mistakes</a> theme.</span>
+
+  </footer>
+</div><!-- /.footer-wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+<script>window.jQuery || document.write('<script src="http://isaacullah.github.io/assets/js/vendor/jquery-1.9.1.min.js"><\/script>')</script>
+<script src="http://isaacullah.github.io/assets/js/scripts.min.js"></script>
+
+<!-- Asynchronous Google Analytics snippet -->
+<script>
+  var _gaq = _gaq || [];
+  var pluginUrl = 
+ '//www.google-analytics.com/plugins/ga/inpage_linkid.js';
+  _gaq.push(['_require', 'inpage_linkid', pluginUrl]);
+  _gaq.push(['_setAccount', 'UA-55626306-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+          
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">Computational Archaeology and Neolithic Subsistence Economies</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://isaacullah.github.io/feed.xml" />
+<link rel="alternate" type="text/html" href="http://isaacullah.github.io" />
+<updated>2015-04-10T15:15:00-07:00</updated>
+<id>http://isaacullah.github.io/</id>
+<author>
+  <name>Isaac I. Ullah, PhD</name>
+  <uri>http://isaacullah.github.io/</uri>
+  <email>isaaciullah@gmail.com</email>
+</author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Some ideas on the origins of agriculture]]></title>
+  <link rel="alternate" type="text/html" href="http://isaacullah.github.io/thoughts-on-the-origins-of-agriculture/" />
+  <id>http://isaacullah.github.io/thoughts-on-the-origins-of-agriculture</id>
+  <updated>2014-10-16T00:00:00-00:00</updated>
+  <published>2014-10-14T00:00:00-07:00</published>
+  
+  <author>
+    <name>Isaac I. Ullah, PhD</name>
+    <uri>http://isaacullah.github.io</uri>
+    <email>isaaciullah@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;As a first post, I thought I would take the opportunity to jot down some ideas that have been floating around in my head about &lt;em&gt;why&lt;/em&gt; hunter-gatherers would have made the transition from extensive use of natural foods to intensive management of domesticated ones. I’m currently developing some of these ideas for full-fledged journal articles, which will have all the requisite citations and background info, and I won’t include much of that here. Many of these ideas stem from my understanding of Complex Adaptive Systems Science (a.k.a. ‘Complexity Theory). For a nice glossary of complexity terms, see the &lt;a href=&quot;http://c.ymcdn.com/sites/www.plexusinstitute.org/resource/resmgr/files/goldstein_-_resource_guide_a.pdf&quot;&gt;Resource Guide and Glossary for Nonlinear/Complex Systems Terms&lt;/a&gt; compiled by Jeffrey Goldstein of the &lt;a href=&quot;www.plexusinstitute,org&quot;&gt;Plexus Institute&lt;/a&gt;, and the &lt;a href=&quot;http://thecomplexityspace.com/resources/organizations/definitions/&quot;&gt;Glossary of Nonlinear Terms&lt;/a&gt; compiled by Terry Marks-Tarlow, Keith Clayton, and Stephen Guastello of &lt;a href=&quot;thecomplexityspace.com&quot;&gt;thecomplexityspace.com&lt;/a&gt;. Feel free to &lt;a href=&quot;mailto:isaaciullah@gmail.com&quot;&gt;email me&lt;/a&gt; with any questions or comments, or use the comment section below!&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Hypothesis: Human subsistence strategies are socio-ecological &lt;a href=&quot;http://mathworld.wolfram.com/Attractor.html&quot;&gt;&lt;em&gt;attractors&lt;/em&gt;&lt;/a&gt; in the phase space created by the ecological characteristics of the food stuffs being used, the general environmental productivity, and the technology, cultural adaptations, mobility strategy, size, and organization of the group. These variables are my &lt;a href=&quot;http://www.ecologyandsociety.org/vol11/iss1/art13/&quot;&gt;“rule of hand”&lt;/a&gt; variables; there could certainly be others, but I hypothesize that these are the most important. These attractors are &lt;em&gt;zones of relative stability&lt;/em&gt; within the entirety of the phase space; they represent combinations of socio-ecological variables that make it &lt;em&gt;easier&lt;/em&gt;, or at least &lt;em&gt;more predictable&lt;/em&gt; to make a living. As such, they tend to exert &lt;em&gt;pull&lt;/em&gt; on human groups, that keeps groups near the “center of gravity” of these attractors (i.e., in a particular &lt;a href=&quot;http://mathworld.wolfram.com/BasinofAttraction.html&quot;&gt;basin of attraction&lt;/a&gt;).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Human subsistence attractors are separated by &lt;a href=&quot;http://thecomplexityspace.com/resources/organizations/definitions/&quot;&gt;&lt;em&gt;repellers&lt;/em&gt;&lt;/a&gt;, which are combinations of those previously listed variables that prove to be &lt;em&gt;unstable&lt;/em&gt;. These repellers tend to &lt;em&gt;push&lt;/em&gt; groups away from them.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The interaction of subsistence attractors and repellers is such that the socio-ecology of human groups tend to coalesce in patterns of relatively mutually exclusive subsistence “phenotypes” (i.e., distinct clustering as, e.g., hunting/gathering, fishing, herding, extensive agriculture, or intensive agriculture subsistence “types”).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;These patterns are &lt;em&gt;dynamic&lt;/em&gt;, however, and change over time and space. Both &lt;em&gt;internal&lt;/em&gt; and &lt;em&gt;external&lt;/em&gt; forces can change the relative strength and weakness of attractors &lt;strong&gt;and&lt;/strong&gt; repellers. This means that there are some sets of conditions (in the phase space) in which it is &lt;em&gt;easier&lt;/em&gt; to make a transition between two particular attractors (e.g., hunting to farming) than it would be under other sets of conditions. And the converse is also true (it is sometimes &lt;em&gt;harder&lt;/em&gt; to make a transition).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If this is all true, then there must have been some &lt;em&gt;internal&lt;/em&gt; and/or &lt;em&gt;external&lt;/em&gt; changes of the socio-ecological phase space in the centers of early agriculture, apparently sometime at the end of the Pleistocene, that either, a) &lt;em&gt;weakened&lt;/em&gt; the hunting/gathering attractor, b) &lt;em&gt;strengthened&lt;/em&gt; a nascent farming/crop management/herding attractor, c) &lt;em&gt;weakened&lt;/em&gt; the repellor separating the two, or d) any combination of the above. The interesting thing about this idea, is that it does not require &lt;em&gt;any one single driver&lt;/em&gt; of this change. It could be climate, it could be environmental change (even human-induced!), it could be cultural changes, it could technology, it could be population, or it could be (most probably &lt;em&gt;is&lt;/em&gt;) a combination of these, and other things. And this combination can be &lt;em&gt;unique&lt;/em&gt; to each center of early agriculture, but &lt;em&gt;can still be explained under the same body of theory&lt;/em&gt;. That last aspect is, in my opinion, a very powerful attribute that sets this complexity-based hypothesis apart from other explanations of the rise of early domestication economies.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;So where does that leave us? Well, what I’m doing now is trying to show that these hypothesized attractors and repellers &lt;em&gt;actually exist&lt;/em&gt;, and so I’m undertaking a multivariate analysis of cross-cultural data with my “rule of hand” variables. That manuscript is most of the way through, and I hope to have it out very soon. Further, I want to look at the archaeological record of some early centers of domestication (let’s say the Near East and China), and see if we can find any evidence for these kinds of phenomena. That’s a little further down the line, but I’m working on it too. I’ll be posting more of my ideas here, as they develop.&lt;/p&gt;
+
+&lt;p&gt;In the mean time, Here’s an image of sheep and wheat to look at:&lt;/p&gt;
+&lt;figure&gt;
+	&lt;a href=&quot;/images/Sheep_under_olive_tree.png&quot;&gt;&lt;img src=&quot;/images/Sheep_under_olive_tree.png&quot; alt=&quot;Sheep under an olive tree near the site of Tell Abu Suwwan in northern Jordan.&quot; /&gt;&lt;/a&gt;
+	&lt;figcaption&gt;Sheep under an olive tree near the site of Tell Abu Suwwan in northern Jordan.&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://isaacullah.github.io/thoughts-on-the-origins-of-agriculture/&quot;&gt;Some ideas on the origins of agriculture&lt;/a&gt; was originally published by Isaac I. Ullah, PhD at &lt;a href=&quot;http://isaacullah.github.io&quot;&gt;Computational Archaeology and Neolithic Subsistence Economies&lt;/a&gt; on October 14, 2014.&lt;/p&gt;</content>
+</entry>
+
+</feed>
