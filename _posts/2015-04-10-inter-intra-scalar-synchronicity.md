@@ -1,0 +1,21 @@
+---
+layout: post
+title: "Inter- and Intra-scalar synchronicity in social-ecological systems"
+author: isaacullah
+modified: 2015-04-10
+comments: True
+excerpt: "Some graphics about issues of scale and time in coupled human-natural systems"
+tags: [agriculture, origins, ideas]
+---
+
+Here are some animated gifs I've put together to help illustrate some ideas about hierarchical linking of subsystems at different temporal and physical scales.
+
+1) A non-synched hierarchical system
+
+![HH1]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle.gif) ![HH2]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle2.gif) ![HH3]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle3.gif) ![HH4]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle4.gif) ![HH5]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle5.gif)
+
+![V1]({{ site.url }}/images/scaled_adcyc_gifs/slow_cycle.gif) ![V2]({{ site.url }}/images/scaled_adcyc_gifs/slow_cycle3.gif)
+
+![VN1]({{ site.url }}/images/scaled_adcyc_gifs/very_slow_cycle.gif)
+
+
