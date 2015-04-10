@@ -9,8 +9,8 @@ tags: [agriculture, origins, ideas]
 ---
 
 Here are some animated gifs I've put together to help illustrate some ideas about hierarchical linking of subsystems at different temporal and physical scales.
-
-
+<br>
+<br>
 
 1) A non-synched hierarchical system
 
@@ -20,7 +20,7 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle4.gif">
 	<figcaption>Fast, small, low-level systems (e.g., households), maintaining resilience at the medium scale by non-alignment of temporal changes in each system's potential.</figcaption>
 </figure>
-
+<br>
 
 
 <figure class="half">
@@ -28,25 +28,26 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/slow_cycle3.gif">
 	<figcaption>Slower, medium-sized, mid-level systems (e.g., villages). Non-alignment of small subsystems keeps these systems also un-synched.</figcaption>
 </figure>
-
+<br>
 
 
 <figure>
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/very_slow_cycle.gif">
 	<figcaption>Very slow, large top-level system (e.g., regional village network). Not at risk for fast change.</figcaption>
 </figure>
+<br>
+<br>
 
 
 
-
-1) A synched hierarchical system
+2) A synched hierarchical system
 
 <figure class="third">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<figcaption>Fast, small, low-level systems (e.g., households) are now temporally aligned. System potential grows and crashes at the same time for all of these small systems, and so they no longer maintain resilience at the medium scale.</figcaption>
-
+<br>
 
 
 </figure>
@@ -56,7 +57,7 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/slow_cycle.gif">
 	<figcaption>Slower, medium-sized, mid-level systems (e.g., villages). Alignment of the small subsystems allows these medium systems to also align.</figcaption>
 </figure>
-
+<br>
 
 
 <figure>
