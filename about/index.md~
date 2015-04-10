@@ -28,7 +28,7 @@ In addition to these large human-environment interaction studies, I also study h
 
 As a fun way for you to quickly get a grasp of the types of things I research, I created this wordcloud from the text of my recent publications:
 <figure>
-	<a href="/images/total_wordcloud.png"><img src="/images/total_wordcloud.png" alt="A wordcloud of terms from Isaac's recent publications></a>
+	<a href="/images/total_wordcloud.png"><img src="/images/total_wordcloud.png" alt="A wordcloud of terms from Isaac's recent publications>"</a>
 	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words.</figcaption>
 </figure>
 
