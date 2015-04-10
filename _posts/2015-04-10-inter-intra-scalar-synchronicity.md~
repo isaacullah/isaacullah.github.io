@@ -12,7 +12,7 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 <br>
 <br>
 
-1) A non-synched hierarchical system
+1) A non-synched system hierarchy
 
 <figure class="third">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
@@ -40,7 +40,7 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 
 
 
-2) A synched hierarchical system
+2) A synched system hierarchy
 
 <figure class="third">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
