@@ -12,17 +12,16 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 
 1) A non-synched hierarchical system
 
-<figure class="fourth">
+<figure class="third">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle2.gif">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle3.gif">
-	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle4.gif">
 	<figcaption>Fast, un-synched, small, low-level systems (e.g., households).</figcaption>
 </figure>
 
 <figure class="half">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/slow_cycle.gif">
-	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs2/slow_cycle3.gif">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs2/slow_cycle2.gif">
 	<figcaption>Slower, un-synched, medium-sized, mid-level systems (e.g., villages).</figcaption>
 </figure>
 
