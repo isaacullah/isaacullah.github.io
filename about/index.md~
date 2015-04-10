@@ -43,7 +43,7 @@ Downloadable PDF's of some of my publications can be found on my [Academia.edu p
 
 ### My CV
 
-[Isaac Ullah, CV, Fall 2014 (PDF)](/pdf/Isaac_Ullah_CV.pdf)
+[Isaac Ullah, CV (PDF)](/pdf/Isaac_Ullah_CV.pdf)
 
 * * *
 

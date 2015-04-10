@@ -9,7 +9,7 @@ This is the academic website of Isaac I. Ullah, PhD, and will contain informatio
 
 
 <figure>
-	<img src="/images/total_wordcloud.png">
+	<img src="/images/total_wordcloud.png" alt="A wordcloud of terms from Isaac's recent publications">
 	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words.</figcaption>
 </figure>
 
