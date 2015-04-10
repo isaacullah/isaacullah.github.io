@@ -5,7 +5,7 @@ tags: [Computational Modeling, Neolithic, GIS, Land-use, Complexity, Social-Envi
 image:
   feature: main_banner.png
 ---
-This is the academic website of Isaac I. Ullah, PhD, and will contain information about my research and ideas about the intersection of complexity theory, archaeology, complex adaptive systems, and early food production. 
+This is the academic website of Isaac I. Ullah, PhD, and contains information about my research and ideas about the intersection of complexity theory, archaeology, complex adaptive systems, and early food production. You can download my CV [here](/pdf/Isaac_Ullah_CV.pdf).
 
 
 <figure>
