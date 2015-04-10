@@ -11,6 +11,7 @@ tags: [agriculture, origins, ideas]
 Here are some animated gifs I've put together to help illustrate some ideas about hierarchical linking of subsystems at different temporal and physical scales.
 <br>
 <br>
+<br>
 
 1) A non-synched system hierarchy
 
@@ -47,10 +48,9 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<figcaption>Fast, small, low-level systems (e.g., households) are now temporally aligned. System potential grows and crashes at the same time for all of these small systems, and so they no longer maintain resilience at the medium scale.</figcaption>
+</figure>
 <br>
 
-
-</figure>
 
 <figure class="half">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/slow_cycle.gif">
