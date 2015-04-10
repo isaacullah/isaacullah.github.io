@@ -4,13 +4,55 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://isaacullah.github.io/feed.xml" />
 <link rel="alternate" type="text/html" href="http://isaacullah.github.io" />
-<updated>2015-04-10T15:31:56-07:00</updated>
+<updated>2015-04-10T15:54:51-07:00</updated>
 <id>http://isaacullah.github.io/</id>
 <author>
   <name>Isaac I. Ullah, PhD</name>
   <uri>http://isaacullah.github.io/</uri>
   <email>isaaciullah@gmail.com</email>
 </author>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Inter- and Intra-scalar synchronicity in social-ecological systems]]></title>
+  <link rel="alternate" type="text/html" href="http://isaacullah.github.io/inter-intra-scalar-synchronicity/" />
+  <id>http://isaacullah.github.io/inter-intra-scalar-synchronicity</id>
+  <updated>2015-04-10T00:00:00-00:00</updated>
+  <published>2015-04-10T00:00:00-07:00</published>
+  
+  <author>
+    <name>Isaac I. Ullah, PhD</name>
+    <uri>http://isaacullah.github.io</uri>
+    <email>isaaciullah@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Here are some animated gifs I’ve put together to help illustrate some ideas about hierarchical linking of subsystems at different temporal and physical scales.&lt;/p&gt;
+
+&lt;p&gt;1) A non-synched hierarchical system&lt;/p&gt;
+
+&lt;figure class=&quot;fourth&quot;&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif&quot; /&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle2.gif&quot; /&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle3.gif&quot; /&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle4.gif&quot; /&gt;
+	&lt;figcaption&gt;Fast, un-synched, small, low-level systems (e.g., households).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure class=&quot;half&quot;&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs/slow_cycle.gif&quot; /&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs2/slow_cycle3.gif&quot; /&gt;
+	&lt;figcaption&gt;Slower, un-synched, medium-sized, mid-level systems (e.g., villages).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;figure&gt;
+	&lt;img src=&quot;//isaacullah.github.io/images/scaled_adcyc_gifs/very_very_slow_cycle.gif&quot; /&gt;
+	&lt;figcaption&gt;Very slow, large top-level system (e.g., regional village network).&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+
+  &lt;p&gt;&lt;a href=&quot;http://isaacullah.github.io/inter-intra-scalar-synchronicity/&quot;&gt;Inter- and Intra-scalar synchronicity in social-ecological systems&lt;/a&gt; was originally published by Isaac I. Ullah, PhD at &lt;a href=&quot;http://isaacullah.github.io&quot;&gt;Computational Archaeology and Neolithic Subsistence Economies&lt;/a&gt; on April 10, 2015.&lt;/p&gt;</content>
+</entry>
 
 
   

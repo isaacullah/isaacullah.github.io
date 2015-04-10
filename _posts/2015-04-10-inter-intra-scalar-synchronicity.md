@@ -12,10 +12,24 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 
 1) A non-synched hierarchical system
 
-![HH1]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle.gif) ![HH2]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle2.gif) ![HH3]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle3.gif) ![HH4]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle4.gif) ![HH5]({{ site.url }}/images/scaled_adcyc_gifs/fast_cycle5.gif)
+<figure class="fourth">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle2.gif">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle3.gif">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle4.gif">
+	<figcaption>Fast, un-synched, small, low-level systems (e.g., households).</figcaption>
+</figure>
 
-![V1]({{ site.url }}/images/scaled_adcyc_gifs/slow_cycle.gif) ![V2]({{ site.url }}/images/scaled_adcyc_gifs/slow_cycle3.gif)
+<figure class="half">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/slow_cycle.gif">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs2/slow_cycle3.gif">
+	<figcaption>Slower, un-synched, medium-sized, mid-level systems (e.g., villages).</figcaption>
+</figure>
 
-![VN1]({{ site.url }}/images/scaled_adcyc_gifs/very_slow_cycle.gif)
+
+<figure>
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/very_very_slow_cycle.gif">
+	<figcaption>Very slow, large top-level system (e.g., regional village network).</figcaption>
+</figure>
 
 
