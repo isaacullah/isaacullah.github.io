@@ -15,7 +15,7 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 <figure class="third">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle.gif">
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle2.gif">
-	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle3.gif">
+	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/fast_cycle4.gif">
 	<figcaption>Fast, small, low-level systems (e.g., households), maintaining resilience at the medium scale by non-alignment of temporal changes in each system's potential.</figcaption>
 </figure>
 
