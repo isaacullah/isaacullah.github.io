@@ -1,0 +1,61 @@
+body {
+    background-color: black;
+}
+.sss {
+	height: 0;
+	margin: 0; 
+	padding: 0;
+	position: relative;
+	display: block;
+	overflow: hidden;
+}
+
+.centered {
+	text-align: center;
+	vertical-align: middle;
+	overflow: hidden;
+	background-color: black;
+	color: white;
+}
+
+.ssslide {
+	width: 70%;
+	height: auto;
+	margin: 0 auto;
+	display: none;
+	overflow: hidden;
+	background-color: black;
+	color: white;
+}
+
+.ssslide img {
+	max-width: 100%;
+	height: auto;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	display: block;
+}
+
+.sssnext, .sssprev {
+	width: 25px;
+	height: 100%;
+	margin: 0;
+	position: absolute;
+	top: 0;
+	background: url('images/arr.png') no-repeat;
+}
+
+.sssprev {
+	left: 3%;
+	background-position: 0 50%;
+}
+
+.sssnext {
+	right: 3%;
+	background-position: -26px 50%;
+}
+
+.sssprev:hover, .sssnext:hover {
+	cursor: pointer;
+}
