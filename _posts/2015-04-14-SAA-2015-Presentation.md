@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "SAA Presentation"
+title: "2015 SAA Presentation"
 author: isaacullah
-modified: 2015-04-10
+modified: 2015-14-10
 comments: True
-excerpt: "Some graphics about issues of scale and time in coupled human-natural systems"
+excerpt: "Timing, synchonicity, and synchronicity in Social-Ecological Systems"
 tags: [agriculture, origins, ideas]
 ---
 
