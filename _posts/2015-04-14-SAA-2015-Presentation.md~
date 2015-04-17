@@ -8,4 +8,4 @@ excerpt: "Some graphics about issues of scale and time in coupled human-natural 
 tags: [agriculture, origins, ideas]
 ---
 
-View my 2015 SAA presentation, entitled, [*Complexity in Space and Time: Spatio-temporal variability and scale in simulations of socio-natural systems*](/saa2015/Presentation.html).
+View my 2015 SAA presentation, entitled, [*Complexity in Space and Time: Spatio-temporal variability and scale in simulations of socio-natural systems*](/presentation/saa2015.html).
