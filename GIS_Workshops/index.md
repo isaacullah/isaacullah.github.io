@@ -20,9 +20,9 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I believe that it is therefore imperative that GIS skills are taught to all social scientists. That is the main purpose of this page, which disseminates several workshops and "short-courses" that I have taught to graduate students and fellow faculty at a variety of institutions. 
+Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I therefore believe that it is imperative that GIS skills are taught to all social scientists. That is the main purpose of this page. Here, I make available several workshops and "short-courses" that I have taught to graduate students and fellow faculty at a variety of institutions. 
 
-I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.org/), however, which I find to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](http://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
+I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.org/). I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](http://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
 
 ---
 
