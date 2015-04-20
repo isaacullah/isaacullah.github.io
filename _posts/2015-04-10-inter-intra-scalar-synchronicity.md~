@@ -62,7 +62,7 @@ Here are some animated gifs I've put together to help illustrate some ideas abou
 
 <figure>
 	<img src="//isaacullah.github.io/images/scaled_adcyc_gifs/very_slow_cycle.gif">
-	<figcaption>Very slow, large top-level system (e.g., regional village network). Now at rish for rapid change when all subsystems fail at the same time. </figcaption>
+	<figcaption>Very slow, large top-level system (e.g., regional village network). Now at risk for rapid change when all subsystems fail at the same time. </figcaption>
 </figure>
 
 

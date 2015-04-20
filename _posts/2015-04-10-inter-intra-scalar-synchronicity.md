@@ -5,7 +5,7 @@ author: isaacullah
 modified: 2015-04-10
 comments: True
 excerpt: "Some graphics about issues of scale and time in coupled human-natural systems"
-tags: [agriculture, origins, ideas]
+tags: [Complexity Science, Time, Space, Simulation]
 ---
 
 Here are some animated gifs I've put together to help illustrate some ideas about hierarchical linking of subsystems at different temporal and physical scales.
