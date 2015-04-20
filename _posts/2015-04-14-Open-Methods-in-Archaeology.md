@@ -4,7 +4,7 @@ title: "Open sourcing archaeology"
 author: Isahella
 modified: 2015-21-10
 comments: True
-excerpt: ""
+excerpt: "Thoughts on the 2015 SAA symposium on open methods in archaeology"
 tags: [open source, publishing, archaeology]
 ---
 
