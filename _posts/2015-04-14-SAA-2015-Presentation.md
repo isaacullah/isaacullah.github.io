@@ -4,7 +4,7 @@ title: "2015 SAA Presentation"
 author: isaacullah
 modified: 2015-14-10
 comments: True
-excerpt: "Timing, synchonicity, and synchronicity in Social-Ecological Systems"
+excerpt: "Complexity in space and time: spatio-temporal variability and scale in simulations of social-ecological systems"
 tags: [agriculture, origins, ideas]
 ---
 
