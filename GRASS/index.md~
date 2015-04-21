@@ -29,6 +29,8 @@ I have coded and contributed several custom modules that you can add to GRASS vi
 
 * [r.soildepth](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.soildepth.py/) -- Estimates soil depths on a landscape based on hillslope curvatures. (GRASS 6 only)
 
+* r.agropast.semiadaptive -- This module is an updated version of the previous r.agropast.* modules (see below), and will be available for GRASS 7 only. A manuscript that is based on experiments conducted with this module has just been submitted to a special issue of Land. I am finalizing some code comments before uploading the module to the SVN. Stay tuned!
+
 * [r.agropast.extensive](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.agropast.extensive/) -- Creates a series of iterative landuse maps from a pastoral catchment and an extensive (swiddening) agricultural catchment (both need to be created by r.catchment), and outputs c factor as well. This module was used in [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia). (GRASS 6 only)
 
 * [r.agropast.intensive](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.agropast.intensive/) -- Creates a series of iterative landuse maps from a pastoral catchment and an intensive agricultural catchment (both need to be created by r.catchment), and outputs c factor as well.  This module was used in [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia). (GRASS 6 only)
