@@ -6,12 +6,12 @@ modified:
 excerpt: Information about the free and open-source GRASS GIS software suite and some custom GRASS modules that I developed. 
 tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
 image:
-  feature: GIS_workshop_feat-img.png
+  feature: gbanner.gif
 ---
 
 ##What is GRASS GIS?
 
-GRASS is a very powerful and completely free GIS software suite for Linux, Macintosh, and Windows. It is developed for scientists by scientists, and is fully open-source. This means you know *exactly* what the software does, how it does, and you even have citations to the scholarly publications that provided the algorithms used. Also, if you find and error, don't like something, or want a missing feature, you can [get involved](http://grass.osgeo.org/get-involved/) and have the potential to enact those changes!
+GRASS is a very powerful and completely free GIS software suite for Linux, Macintosh, and Windows. It is developed for scientists by scientists, and is fully open-source. This means you know *exactly* what the software does, *how* it does what it does, and you even have citations to the scholarly publications that provided the algorithms used. Also, if you find an error, don't like something, or want a missing feature, you can [get involved](http://grass.osgeo.org/get-involved/) and have the potential to enact those changes!
 
 
 Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo.org)) for [more information about GRASS](http://grass.osgeo.org/documentation/general-overview/), [GRASS modules](http://grass.osgeo.org/documentation/manuals/), [tutorials](http://grass.osgeo.org/documentation/tutorials/) and [other resources for open-source GIS](http://grass.osgeo.org/documentation/books/). Also check out the [OS-Geo homepage](http://www.osgeo.org/) for information and downloads of many other great open-source geospatial software.
@@ -20,7 +20,7 @@ Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo
 
 ##GRASS "Addon" modules that I have contributed
 
-I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to my publications that use them.
+I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed.
 
 
 * [r.landscape.evol.py](https://svn.osgeo.org/grass/grass-addons/grass6/raster/r.landscape.evol/) -- Simulates the cumulative effect of erosion and deposition on a landscape over time. This module uses appropriate flow on different landforms by default; however, singular flow regimes can be chosen by manipulating the cutoff points. This module has been used in several of my publications, including [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia), [Barton Ullah, & Bergin 2010](https://www.academia.edu/350609/Land_use_water_and_Mediterranean_landscapes_modelling_long-term_dynamics_of_complex_socio-ecological_systems), [Ullah & Bergin, 2012](https://www.academia.edu/398249/Modeling_the_Consequences_of_Village_Site_Location_Least_Cost_Path_Modeling_in_a_Coupled_GIS_and_Agent-Based_Model_of_Village_Agropastoralism_in_Eastern_Spain), and [Barton, Ullah, et al., 2012](https://www.academia.edu/841547/Looking_for_the_Future_in_the_Past_Long-Term_Change_in_Socioecological_Systems). In particular, the details of the equations and methods can be found in [Mitasova, Harmon, et al., 2013](https://www.academia.edu/421211/Geospatial_Information_Science-based_Erosion_Modeling).
