@@ -7,7 +7,7 @@ comments: True
 excerpt: "Complexity in space and time: spatio-temporal variability and scale in simulations of social-ecological systems"
 tags: [Complexity Science, Time, Space, Simulation]
 image:
-  feature: /presentations/images/img29.png
+  feature: 2015_presentation_banner.png
 ---
 
 View my 2015 SAA presentation, entitled, [*Complexity in Space and Time: Spatio-temporal variability and scale in simulations of socio-natural systems*](/presentations/saa2015.html).
