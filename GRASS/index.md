@@ -14,9 +14,7 @@ image:
 GRASS is a very powerful and completely free GIS software suite for Linux, Macintosh, and Windows. It is developed for scientists by scientists, and is fully open-source. This means you know *exactly* what the software does, *how* it does what it does, and you even have citations to the scholarly publications that provided the algorithms used. Also, if you find an error, don't like something, or want a missing feature, you can [get involved](http://grass.osgeo.org/get-involved/) and have the potential to enact those changes!
 
 
-Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo.org)) for [more information about GRASS](http://grass.osgeo.org/documentation/general-overview/), [GRASS modules](http://grass.osgeo.org/documentation/manuals/), [tutorials](http://grass.osgeo.org/documentation/tutorials/) and [other resources for open-source GIS](http://grass.osgeo.org/documentation/books/). Also check out the [OS-Geo homepage](http://www.osgeo.org/) for information and downloads of many other great open-source geospatial software.
-
-Finally, I manage the [GRASS GIS Facebook page](https://www.facebook.com/groups/96121775724/), which you may wish to join if you'd like to keep in touch about GRASS-related topics in a more social media-ish way.
+Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo.org)) for [more information about GRASS](http://grass.osgeo.org/documentation/general-overview/), [GRASS modules](http://grass.osgeo.org/documentation/manuals/), [tutorials](http://grass.osgeo.org/documentation/tutorials/) and [other resources for open-source GIS](http://grass.osgeo.org/documentation/books/). I also manage the [GRASS GIS Facebook page](https://www.facebook.com/groups/96121775724/), which you may wish to join if you'd like to keep in touch about GRASS-related topics in a more social media-ish way. Finally, you should also check out the [OS-Geo homepage](http://www.osgeo.org/) for information and downloads of many other great open-source geospatial software. 
 
 ---
 
