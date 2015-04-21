@@ -27,9 +27,9 @@ Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo
 
 ---
 
-##GRASS "Addon" modules that I have contributed
+##GRASS "Addon" modules for computational archaeology
 
-I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have, or am in the process of, updated most of these for use in GRASS 7. They are noted thusly.
+I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have, or am in the process of, updated most of these for use in GRASS 7 (they are noted thusly). These tools are specifically formulated to accomplish computational analyses of archaeological problems or data. Please feel free to [contact me](mailto:iullah@asu.edu) with any questions or comments about these modules.
 
 ####Maintained Modules (will be updated reasonable regularly)
 
