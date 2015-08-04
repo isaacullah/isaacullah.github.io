@@ -54,6 +54,7 @@ Please visit the following links for information about several actively ongoing 
 * The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
 * Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
 * Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/](http://talgar.sbc.edu/))
+* Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
 
 * * *
 
@@ -61,13 +62,13 @@ Please visit the following links for information about several actively ongoing 
 
 ####Articles in Peer-Reviewed Journals
 
-* n.d.	Barton, C.M., Ullah, I.I., and Heimsath, A. How to make a Barranco: Modeling socioecological dynamics of landscape change in the Mediterranean”. Invited submission to a special issue of Land entitled, “Agent-Based Modelling and Landscape Change”, guest edited by J. Millington and J. Wainwright. Submitted to editors, 04/14/15.
+* n.d.	Ullah, I.I., Kuijt, I., and Freeman, J.F. Toward a theory of punctuated subsistence change. Proceedings of the National Academy of Sciences. Status: Accepted, available ahead of print online, 06/20/2015. doi:10.1073/pnas.1503628112
 
-* n.d.	Ullah, I.I., Kuijt, I., and Freeman, J.F. Slow and Rapid Transitions to Agriculture as Complex, Adaptive, Evolutionary Processes. Submitted to PNAS. Received reviews, 3/18/15, currently completing requested revisions.
+* n.d.	Ullah, I.I. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Advances in Archaeological Practice. Status: Accepted for publication, 5/26/2015. Expected print date, 10/2015.
 
-* n.d.	Ullah, I.I. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Manuscript submitted to Advances in Archaeological Practice. Reviewed, revised, and resubmitted, 04/01/15.
+* n.d.	Ullah, I.I., Duffy, P.R., and Banning, E.B. Modernizing spatial micro-refuse analysis: New methods for collecting, analyzing, and interpreting the spatial patterning of micro-refuse from house-floor contexts. Journal of Archaeological Method and Theory. Status: Accepted, available ahead of print online,, 10/19/2014. doi: 10.1007/s10816-014-9223-x
 
-* 2015	Ullah, I.I., Duffy, P.R., and Banning, E.B. Modernizing spatial micro-refuse analysis: New methods for collecting, analyzing, and interpreting the spatial patterning of micro-refuse from house-floor contexts. Journal of Archaeological Method and Theory. Status: Accepted for publication, 10/19/2014. doi: 10.1007/s10816-014-9223-x
+* 2015	Barton, C.M., Ullah, I.I., and Heimsath, A. How to make a Barranco: Modeling socioecological dynamics of landscape change in the Mediterranean”. Land, 4(3), 578-606. Special issue entitled, “Agent-Based Modelling and Landscape Change”, guest edited by J. Millington and J. Wainwright.
 
 * 2012 	Barton, C.M., Ullah, I.I., Bergin, S.M., Mitasova, H., and Sarjoughian, H. Looking for the future in the past: Long-term change in socioecologicalsystems. Ecological Modeling, Special Issue: Modeling Across Millennia. 241(0):42-53.
 
@@ -79,7 +80,7 @@ Please visit the following links for information about several actively ongoing 
 
 ####Book Chapters
 
-* n.d.	Sarjoughian, H., Mayer, G., Ullah, I.I., Barton, C.M. Managing hybrid model composition complexity: Human-environment simulation models . Submitted as an invited chapter in an edited volume on Modeling and Simulation in honor of Tuncer Ören, to be published by Springer. Status: Peer-reviewed, revised and resubmitted, 01/25/2015.
+* 2015	Sarjoughian, H., Mayer, G., Ullah, I.I., Barton, C.M. Managing Hybrid Model Composition Complexity: Human–Environment Simulation Models. In: Levent Yilmaz (Ed.), Concepts and Methodologies for Modeling and Simulation. Springer, 107-134. DOI: 10.1007/978-3-319-15096-3
 
 * 2013	Mitasova, H.; Barton, C.M.; Ullah, I.I.; Hofierka, J., Harmon, R.S., GIS-based soil erosion modeling. In: Treatise in Geomorphology, Vol. 3: Remote Sensing and GIScience in Geomorphology. Academic Press, San Diego. pp. 228-258
 
