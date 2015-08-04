@@ -19,7 +19,7 @@ For this paper, my coauthors and I decided to approach the ethnographic record o
 ***
 <br>
 <br>
-  As always, I'm happy to [field any questions or queries](mailto:iullah@asu.edu) about this, or any other topic you read here! In the mean time, here's an image of Calabrian goats to look at:  
+  As always, I'm happy to field any questions or queries about this, or any other topic you read here (by <a href="mailto:iullah@asu.edu">email</a>, or use the comments section below)! In the mean time, here's an image of Calabrian goats to look at:  
 <br>
 <figure>
 	<a href="/images/Calabrian-Goats.jpg"><img src="/images/Calabrian-Goats.jpg" alt="Goats in the Fiumara de San Pasquale, Calabria, Italy."></a>

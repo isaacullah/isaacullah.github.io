@@ -26,7 +26,7 @@ So where does that leave us? Well, what I'm doing now is trying to show that the
 
 In the mean time, Here's an image of sheep and wheat to look at:
 <figure>
-	<a href="/images/Sheep_under_olive_tree.png"><img src="/images/Sheep_under_olive_tree.png"></a>
+	<a href="/images/Sheep_under_olive_tree.png"><img src="/images/Sheep_under_olive_tree.png" alt="Sheep under an olive tree near the site of Tell Abu Suwwan in northern Jordan."></a>
 	<figcaption>Sheep under an olive tree near the site of Tell Abu Suwwan in northern Jordan.</figcaption>
 </figure>
 
