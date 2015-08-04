@@ -80,7 +80,7 @@ Please visit the following links for information about several actively ongoing 
 
 ####Book Chapters
 
-* 2015	Sarjoughian, H., Mayer, G., Ullah, I.I., Barton, C.M. Managing Hybrid Model Composition Complexity: Human–Environment Simulation Models. In: Levent Yilmaz (Ed.), Concepts and Methodologies for Modeling and Simulation. Springer, 107-134. DOI: 10.1007/978-3-319-15096-3
+* [2015	Sarjoughian, H., Mayer, G., Ullah, I.I., Barton, C.M. Managing Hybrid Model Composition Complexity: Human–Environment Simulation Models. In: Levent Yilmaz (Ed.), Concepts and Methodologies for Modeling and Simulation. Springer, 107-134. DOI: 10.1007/978-3-319-15096-3](http://link.springer.com/chapter/10.1007/978-3-319-15096-3_6)
 
 * 2013	Mitasova, H.; Barton, C.M.; Ullah, I.I.; Hofierka, J., Harmon, R.S., GIS-based soil erosion modeling. In: Treatise in Geomorphology, Vol. 3: Remote Sensing and GIScience in Geomorphology. Academic Press, San Diego. pp. 228-258
 
@@ -88,7 +88,7 @@ Please visit the following links for information about several actively ongoing 
 
 * 2012 	Ullah, I.I., and Bergin, S.M. Modeling the consequences of village site location: Least cost path modeling in a coupled GIS and agent-based model of village agropastoralism in eastern Spain, in: White, D.A., Surface-Evans, S.L. (Eds.), Least Cost Analysis of Social Landscapes: Archaeological Case Studies. University of Utah Press, Salt Lake City, pp. 155–173.
 
-* 2009 	Ullah, I.I. Within-room spatial analysis of activity areas at Late Neolithic Tabaqat Al-Buma, Wadi Ziqlab, Al Koura, Jordan. In: Studies in the History and Archaeology of Jordan, X. The Department of Antiquities of Jordan, Amman, pp. 87-95.
+* [2009 	Ullah, I.I. Within-room spatial analysis of activity areas at Late Neolithic Tabaqat Al-Buma, Wadi Ziqlab, Al Koura, Jordan. In: Studies in the History and Archaeology of Jordan, X. The Department of Antiquities of Jordan, Amman, pp. 87-95.](https://www.academia.edu/350610/Within_room_analysis_of_activity_areas_at_Late_Neolithic_Tabaqat_Al-Buma_Wadi_Ziqlab_Al_Kura_Jordan)
 
 ####Reports and Non-reviewed Publications
 
