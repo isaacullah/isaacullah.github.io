@@ -40,6 +40,7 @@ owner:
     ad-client: 
     ad-slot: 
   bing-verify: 
+  academia: IsaacUllah
   github: isaacullah
   stackoverflow: #3083347/user3083347
   linkedin: #username
@@ -50,7 +51,6 @@ owner:
   foursquare: #username
   steam: #username
   dribbble: #username
-  academia: IsaacUllah
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]
