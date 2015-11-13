@@ -112,8 +112,10 @@ Please visit the following links for information about several actively ongoing 
 
 ####Works in Progress
 
-* Neolithic Human Landuse in Northern Jordan: A Simulation Modeling Approach. This is an edited version of my dissertation that was solicited for publication by Arizona State University Anthropological Research Papers. The manuscript is currently being edited for an early 2016 publication date.
+* Ullah, I.I.T., Chang C., and Tourtellette, P. Co-evolution of landscapes, Kurgans, and settlements in southeast Kazakhstan during the first millennium BC. Intended for Journal of Archaeological Science.
 
-* Landscapes of visuality and flow: Kurgans and settlements in Talgar, Kazakhstan. With C. Chang. Manuscript in preparation, intended for Antiquity.
+* Barton L. and Ullah, I.I.T. A dynamic behavioral ecology model of early domestication processes. Intended for Journal of Anthropological Archaeology.
 
-* When hunting meets herding: Subsistence attractors and transitional societies Manuscript in preparation. Intended for Journal of Archaeological Science.
+* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Geoarchaeology.
+
+* Banning, E.B., Ullah, I.I.T., Hitchings, P., Abu Jayyab, K., Rhodes, S., Gibbon, E., and Glasser, A. A Late Neolithic Site in Wâdî al-Bîr, northern Jordan. Intended for Antiquity. 
