@@ -62,13 +62,13 @@ Please visit the following links for information about several actively ongoing 
 
 ####Articles in Peer-Reviewed Journals
 
-* [n.d.	Ullah, I.I., Kuijt, I., and Freeman, J.F. Toward a theory of punctuated subsistence change. Proceedings of the National Academy of Sciences. Status: Accepted, available ahead of print online, 06/20/2015. doi:10.1073/pnas.1503628112](http://www.pnas.org/content/112/31/9579.abstract)
+* n.d.	Ullah, I.I. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Advances in Archaeological Practice. Status: Accepted for publication. Expected print date, 10/2015.
 
-* n.d.	Ullah, I.I. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Advances in Archaeological Practice. Status: Accepted for publication, 5/26/2015. Expected print date, 10/2015.
+* [2015	Ullah, I.I., Kuijt, I., and Freeman, J.F. Toward a theory of punctuated subsistence change. Proceedings of the National Academy of Sciences. 112(31), 9579-9584. doi:10.1073/pnas.1503628112](http://www.pnas.org/content/112/31/9579.abstract)
 
-* [n.d.	Ullah, I.I., Duffy, P.R., and Banning, E.B. Modernizing spatial micro-refuse analysis: New methods for collecting, analyzing, and interpreting the spatial patterning of micro-refuse from house-floor contexts. Journal of Archaeological Method and Theory. Status: Accepted, available ahead of print online, 10/19/2014. doi: 10.1007/s10816-014-9223-x](http://link.springer.com/article/10.1007/s10816-014-9223-x)
+* [2015	Ullah, I.I., Duffy, P.R., and Banning, E.B. Modernizing spatial micro-refuse analysis: New methods for collecting, analyzing, and interpreting the spatial patterning of micro-refuse from house-floor contexts. Journal of Archaeological Method and Theory. 22(4), 1238-1262. doi: 10.1007/s10816-014-9223-x](http://link.springer.com/article/10.1007/s10816-014-9223-x)
 
-* [2015	Barton, C.M., Ullah, I.I., and Heimsath, A. How to make a Barranco: Modeling socioecological dynamics of landscape change in the Mediterranean. Land, 4(3), 578-606. Special issue entitled, “Agent-Based Modelling and Landscape Change”, guest edited by J. Millington and J. Wainwright.](http://www.mdpi.com/2073-445X/4/3/578/htm)
+* [2015		Barton, C.M., Ullah, I.I., and Heimsath, A. How to make a Barranco: Modeling socioecological dynamics of landscape change in the Mediterranean. Land, 4(3), 578-606. Special issue entitled, “Agent-Based Modelling and Landscape Change”, guest edited by J. Millington and J. Wainwright.](http://www.mdpi.com/2073-445X/4/3/578/htm)
 
 * [2012 	Barton, C.M., Ullah, I.I., Bergin, S.M., Mitasova, H., and Sarjoughian, H. Looking for the future in the past: Long-term change in socioecological systems. Ecological Modeling, Special Issue: Modeling Across Millennia. 241(0):42-53.](http://www.sciencedirect.com/science/article/pii/S0304380012000786)
 
