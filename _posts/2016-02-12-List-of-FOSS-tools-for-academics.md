@@ -6,7 +6,7 @@ modified: 2016-02-12
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
-- --
+---
 
 # Isaac's List of FOSS tools for academics, and what to use them for!
 
@@ -149,7 +149,7 @@ HUGIN - Best panorama sticher out there. Can also do mosaicing and image unwarpi
 AVI-Demux - Simple program to trim video, extract audio, etc.
 Blender - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage.
 
--  Audio Editing
+- Audio Editing
 Audacity - Easy to use, but powerful multitrack audio editor.
 
 - Multimedia Players/Converters
