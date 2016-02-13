@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Isaac's List of FOSS tools for academics"
+title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
 modified: 2016-02-12
 comments: True

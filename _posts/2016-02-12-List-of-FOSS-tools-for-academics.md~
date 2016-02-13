@@ -8,9 +8,10 @@ excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
 ---
 
-# Isaac's List of FOSS tools for academics, and what to use them for!
+# ...and what to use them for!
 
 *All tools available on Linux, most on MacOS and quite a few on Windows too.*
+
 (Links coming soon! For now, Google is your friend.)
 
 
@@ -66,7 +67,7 @@ Git - Commandline tools. Needed to move stuff to and from your GitHub repo.
 
 
 
-Plotting and Data Exploration
+## Plotting and Data Exploration
 
 - Plotting Tools
 Veusz - A GUI front-end for MatPlotLib from SciPy. Easy to get your data in, and then create a lot of different kinds of plots. Might be easier for a non-programmer than simply learning Python and MatPlotLib.
