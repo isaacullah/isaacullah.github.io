@@ -26,17 +26,17 @@ I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.
 
 ---
 
-##Short Courses in GIS for Archaeologists and Geoarchaeologists
+## Short Courses in GIS for Archaeologists and Geoarchaeologists
 
 The following workshops and "short-courses" were developed primarily for Archaeologists and Geoarchaeologists, but also teach skills that would be interesting to a more general social scientist as well. I am releasing them here under the [GPL license](https://www.gnu.org/copyleft/gpl.html). What this means is that you should feel free to download, use, modify, and distribute these materials, but I do ask that you credit me as their source.
 
-###Course 1: Paleolandscape Reconstruction and Ancient Human Landuse
+### Course 1: Paleolandscape Reconstruction and Ancient Human Landuse
 
 Paleolandscape reconstruction is an essential first step for archaeologists interested in how ancient humans interacted with their environment. This is often achieved only schematically through the use of
 narrative models based on paleoenvironmental proxy data. A new alternative approach utilizes geomorphologic data to digitally model ancient landscapes within a GIS framework, resulting in digital
 terrain models (DTM’s) of ancient landscapes. These paleolandscape DTM’s can be used as input into spatially explicit models of ancient human landuse and human-environment interaction. This workshop will cover the basic theory and methodology behind GIS-based paleolandscape reconstruction, and will introduce techniques for ancient human landuse simulation. Specific techniques that will be covered include digitization of landscape features, terrain interpolation techniques, site catchment modeling, erosion and deposition modeling, and GIS-based human landuse simulation. The workshop will also teach participants the basics of GRASS GIS, a robust free and open source GIS software suite. Using GRASS offers several methodological and academic advantages because it is actively and collaboratively developed by scientists, allows users to easily create custom scripts, and all modules within GRASS are based upon referable scholarly work. (This course was first created in October, 2009, and was originally taught as part of the University of Toronto Archaeology Center's invited workshop series)<br />
 
-####Course Material (PDF):
+#### Course Material (PDF):
 
 * [01-What is GIS?](/GIS_Workshops/01-What_is_GIS.pdf)
 
@@ -54,12 +54,12 @@ terrain models (DTM’s) of ancient landscapes. These paleolandscape DTM’s can
 
 * [A brief GIS bibliography.](/GIS_Workshop/GIS_workshop_bib.pdf)
 
-###Course 2: GRASS GIS for Anthropoligists
+### Course 2: GRASS GIS for Anthropoligists
 
 This course was created in Fall, 2006, and was originally given in the SHESC graduate tutorial seminars
 series. It is a basic introduction to GRASS GIS and what anthropologists can do with it. Some of the information is now outdated, but it may still be a useful resource for applications of GRASS GIS in social science research.
 
-####Course Material (PDF):
+#### Course Material (PDF):
 
 * [GRASS GIS for Anthropologists](/GIS_Workshops/GRASS_GIS_for_Anthropologists.pdf)
 
