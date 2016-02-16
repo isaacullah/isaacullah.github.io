@@ -167,15 +167,15 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### Video Editing
 - [AVI-Demux](http://avidemux.sourceforge.net/) - Simple program to trim video, extract audio, etc. [Linux. Mac, Windows]
-- [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage. [Linux, Mac, Windows]
+- [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, animations, etc. [Linux, Mac, Windows]
 
 #### Audio Editing
-- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
+- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
 
 #### Multimedia Players/Converters
 - [VLC](http://www.videolan.org/vlc/index.html) - Will play pretty much any media file. [Linux, Mac, Windows]
 - [SoundConverter](http://soundconverter.org/) - To/from pretty much any audio file format. GUI. [Linux]
-- [Handbrake](https://handbrake.fr/) - GUI video converter. Powerful. [Linux, Mac, Windows]
+- [Handbrake](https://handbrake.fr/) - GUI video converter. Powerful. Convert to/from pretty much any format. [Linux, Mac, Windows]
 - [avconv/ffmpeg](https://libav.org/avconv.html) - Command line tools for video conversion. Very powerful. Useful for making movies from a series of still images or reducing movie file size. [Linux, Windows]
 
 
