@@ -63,10 +63,10 @@ The great majority of these software tools are available on all three major OS p
 #### Scientific Computing/Statistics
 - [R](https://www.r-project.org/) - Very robust, huge community, lots of modules. [Linux, Mac, Windows]
 - [SciPy](http://www.scipy.org/) - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's. [Linux, Mac, Windows]
-- [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave was developed as a FOSS alternative for MatLab, but I don't use it, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
+- [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
 - [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
-- [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a stand-in for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
+- [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 
 #### Scientific Computing IDE's
 - [Spyder](https://github.com/spyder-ide/spyder) - Excellent for scientific Python work. Similar to R-Studio. [Linux, Mac, Windows]
@@ -116,11 +116,11 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - A great alternative to Zotero, with some in-text support for word processors. Best feature is it's integration of a visual "mind-map" organization of citations and documents.  [Linux, Mac, Windows]
 
 #### Spreadsheet
-- [LibreOffice Calc](www.libreoffice.org) - Stand in for MSExcel. Slick, but limited in terms of statistical analysis and plots (as is MS Excel). [Linux, Mac, Windows]
+- [LibreOffice Calc](www.libreoffice.org) - A FOSS alternative for MSExcel. Slick, but limited in terms of statistical analysis and plots (as is MS Excel). [Linux, Mac, Windows]
 - [Gnumeric](www.gnumeric.org) - More capabilities, better graphics, more plot types, slightly less slick. [Linux, can be compiled on Mac]
 
 #### Database
-- [LibreOffice Base](www.libreoffice.org) - Stand in for MS Access. [Linux, Mac, Windows]
+- [LibreOffice Base](www.libreoffice.org) - A FOSS alternative for MS Access. [Linux, Mac, Windows]
 
 #### Text editing
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic lightweight text editor with syntax highlighting that just does what you want it to. My personal favorite. Does require GTK libraries, however. [Linux, Mac, Windows]
@@ -143,11 +143,11 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Jekyll](https://jekyllrb.com/) - Simple website development for "Web 2.0". If you want to maintain a modern website, it's really worth your time to learn Jekyll and/or other modern web frameworks. Once your site is set up, this allows easy editing of site content with MarkDown text and seamless integration on a lot of hosting platforms including GitHub pages (like this very site you are reading now). [Linux, Mac, Windows] 
 
 #### Desktop Publishing
-- [Scribus](http://www.scribus.net/) - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A direct stand-in for Adobe Pagemaker. [Linux, Mac, Windows]
+- [Scribus](http://www.scribus.net/) - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A FOSS alternative for Adobe Pagemaker. [Linux, Mac, Windows]
 - [LibreOffice Impress](www.libreoffice.org) - More for presentations, but you can make posters, etc. in it too. [Linux, Mac, Windows]
 
 #### Presentations
-- [LibreOffice Impress](www.libreoffice.org) - A direct stand-in for MS Powerpoint. [Linux, Mac, Windows]
+- [LibreOffice Impress](www.libreoffice.org) - A FOSS alternative for MS Powerpoint. [Linux, Mac, Windows]
 - [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
 - [Lyx](https://www.lyx.org/) - Lyx will also help you make nice PDF presentations using LaTex styles/formatting. [Linux, Mac, Windows]
 - [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. [Linux, and probably Mac and Windows?]
@@ -161,18 +161,18 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 ### Graphics and Photography
 
 #### Vector Graphics
-- [Inkscape](www.inkscape,org) - Direct stand in for Adobe Illustrator. Very functional, and powerful. Bitmap trace function is very, very useful. Excellent for publication-ready line drawings. Highly recommended. [Linux, Mac, Windows]
+- [Inkscape](www.inkscape,org) - A FOSS alternative for Adobe Illustrator. Very functional, and powerful. Bitmap trace function is very, very useful. Excellent for publication-ready line drawings. Highly recommended. [Linux, Mac, Windows]
 - [LibreOffice Draw](www.libreoffice.org) - Does vector graphics. More limited than Inkscape, but simpler to use, perhaps. [Linux, Mac, Windows]
 
 #### Raster Graphics
-- [GIMP](www.gimp.org) - Very functional and powerful. Great for editing raster graphics of any kind. Direct stand in for Adobe Photoshop.  [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - Very functional and powerful. Great for editing raster graphics of any kind. A FOSS alternative for Adobe Photoshop.  [Linux, Mac, Windows]
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
 
 #### Photography
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
-- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
+- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
-- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
 
 ---
 
