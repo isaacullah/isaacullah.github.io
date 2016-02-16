@@ -127,7 +127,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 #### Web Browsing/development
 - [Firefox](www.mozilla.org) - Best FOSS web browser. [Linux, Mac, Windows]
 - [Chromium](www.chromium.org) - Open Source version of Chrome. [Linux, Mac, Windows]
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - A WYSIWYG HTML website editor. Note that I now use web back-ends like Jekyll that interpret MarkDown to do my websites, so this tool my be depreciated for many web development uses. If you are doing basic HTML websites, this will work for you. [Linux, Mac, Windows]
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - A WYSIWYG HTML website editor. Note that the web is different now than it was in good old HTML days, so this tool may be depreciated for many web development uses. If you are still doing basic HTML websites, however, this will work for you. [Linux, Mac, Windows]
 - [Jekyll](https://jekyllrb.com/) - Simple website development for "Web 2.0". If you want to maintain a modern website, it's really worth your time to learn Jekyll and/or other modern web frameworks. Once your site is set up, this allows easy editing of site content with MarkDown text and seamless integration on a lot of hosting platforms including GitHub pages (like this very site you are reading now). [Linux, Mac, Windows] 
 
 #### Desktop Publishing
