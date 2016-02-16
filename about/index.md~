@@ -96,6 +96,20 @@ Please visit the following links for information about several actively ongoing 
 
 [2015 	Barton, C.M., Ullah, I.I.T., Mayer G., Bergin, S., Sarjoughian, H., and Mitasova, H. MedLanD Modeling Laboratory v.1 - A hybrid modeling environment that couples an agent-based model of small-holder agropastoral households and a cellular landscape evolution model that simulates changes in erosion/deposition, soils, and vegetation. Retrievable from: CoMSES Computational Model Library, www.openabm.org/model/4609/version/1](www.openabm.org/model/4609/version/1)
 
+#### Publicly Available Computer Software
+
+* [2015 	Ullah, I.I.T. AgModel, v.0.3 - An agent-based model of the forager-farmer transition. Retrievable from: GitHub, dx.doi.org/10.5281/zenodo.17551](dx.doi.org/10.5281/zenodo.17551)
+
+* [2015	Ullah, I.I.T. r.viewshed.cva - A GRASS GIS module that undertakes a cumulative viewshed analysis using a vector points map as input “viewing” locations. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass7/raster/r.viewshed.cva/](svn.osgeo.org/grass/grass-addons/grass7/raster/r.viewshed.cva/)
+
+* [2014	Ullah, I.I.T., Barton, C.M., Mitasova, H. r.landscape.evol – A GRASS GIS module that simulates the cumulative effect of erosion and deposition on a landscape over time. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass7/raster/r.landscape.evol/](svn.osgeo.org/grass/grass-addons/grass7/raster/r.landscape.evol/)
+
+* [2014	Ullah, I.I.T. r.floorsim – A GRASS GIS module that simulates artifact deposition on a house floor, with site formation disturbance, sampling, and re-randomization.  Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass6/raster/r.floorsim/](svn.osgeo.org/grass/grass-addons/grass6/raster/r.floorsim/)
+
+* [2014	Ullah, I.I.T. r.soildepth – A GRASS GIS module that estimates soil depths based on hillslope curvatures. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.soildepth.py/](svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.soildepth.py/)
+
+* [2011	Ullah, I.I.T. r.catchment -  A GRASS GIS module that creates a raster buffer of specified area around vector points using cost distances. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass7/raster/r.catchment/](svn.osgeo.org/grass/grass-addons/grass7/raster/r.catchment/)
+
 #### Reports and Non-reviewed Publications
 
 * [2015	Banning, E.B., Gibbs, K., Ullah I.I., Hitchings, P., Abu Jayyab, K., Edwards, S., and Rhodes, S. Archaeological Excavations in Wadi Quseiba and Wadi al-Bîr, northern Jordan. Antiquity Project Gallery. 344. http://antiquity.ac.uk/projgall/508](http://antiquity.ac.uk/projgall/banning344)
@@ -122,6 +136,6 @@ Please visit the following links for information about several actively ongoing 
 
 * Barton L. and Ullah, I.I.T. A dynamic behavioral ecology model of early domestication processes. Intended for Journal of Anthropological Archaeology.
 
-* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Geoarchaeology.
+* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Quaternary International.
 
 * Banning, E.B., Ullah, I.I.T., Hitchings, P., Abu Jayyab, K., Rhodes, S., Gibbon, E., and Glasser, A. A Late Neolithic Site in Wâdî al-Bîr, northern Jordan. Intended for Antiquity. 
