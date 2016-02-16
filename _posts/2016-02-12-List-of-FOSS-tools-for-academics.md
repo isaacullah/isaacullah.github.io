@@ -148,10 +148,10 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [LibreOffice Impress](www.libreoffice.org) - More for presentations, but you can make posters, etc. in it too. [Linux, Mac, Windows]
 
 #### Presentations
-- [LibreOffice Impress](www.libreoffice.org) - A FOSS alternative for MS Powerpoint. [Linux, Mac, Windows]
-- [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
+- [LibreOffice Impress](www.libreoffice.org) - A FOSS alternative for MS Powerpoint. Great if you want a standard presentation experience with transitions, animations, etc. [Linux, Mac, Windows]
+- [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. My main PDF presentation tool. [Linux, Windows]
 - [Lyx](https://www.lyx.org/) - Lyx will also help you make nice PDF presentations using LaTex styles/formatting. [Linux, Mac, Windows]
-- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. [Linux, and probably Mac and Windows?]
+- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. I've not used it, but have it on good authority that it works very well. [Linux, Mac, Windows]
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]

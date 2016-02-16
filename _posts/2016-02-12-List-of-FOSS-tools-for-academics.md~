@@ -66,7 +66,7 @@ The great majority of these software tools are available on all three major OS p
 - [Anaconda](https://www.continuum.io/downloads) - Anaconda is a self-contained system for scientific computing with Python. Although you don't need it, it might simplify your installation of SciPy, etc., and will ensure it all plays together well. While technically FOSS, Anaconda is product of an enterprise/open software company that offers some paid services too. [Linux, Mac, Windows]
 - [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
-- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
+- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. Recommended for people who aren't programmers! [Windows, Mac]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 
 #### Scientific Computing IDE's
@@ -151,7 +151,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [LibreOffice Impress](www.libreoffice.org) - A FOSS alternative for MS Powerpoint. [Linux, Mac, Windows]
 - [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
 - [Lyx](https://www.lyx.org/) - Lyx will also help you make nice PDF presentations using LaTex styles/formatting. [Linux, Mac, Windows]
-- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. [Linux, and probably Mac and Windows?]
+- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. [Linux, Mac, Windows]
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
