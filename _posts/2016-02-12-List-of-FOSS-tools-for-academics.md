@@ -19,9 +19,8 @@ The great majority of these software tools are available on all three major OS p
 <br>
  I plan to maintain and update this list over time. Please [e-mail me](mailto:isaaciullah@gmail.com) if you have a piece of FOSS software you think should be on this list. Please provide examples of how your suggestion could be used in an academic context.
 
----
-
 # The List!
+---
 
 ### GIS and Image Analysis
 
@@ -47,8 +46,7 @@ The great majority of these software tools are available on all three major OS p
 - [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - For creating rectified photomosaics from aerial imagery. [Linux, perhaps Mac and Windows with some work]
 
-
-
+---
 
 ### Software Development and Scientific Computing
 
@@ -74,8 +72,7 @@ The great majority of these software tools are available on all three major OS p
 - [RapidSVN](http://rapidsvn.tigris.org/) - A great tool to manage SVN repositories. [Linux. Mac, Windows(?)]
 - [Git](www.github.org) - Command-line tools. Needed to move stuff to and from your GitHub repo. [Linux, Mac, Windows]
 
-
-
+---
 
 ### Plotting and Data Exploration
 
@@ -92,8 +89,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 #### Network Analysis
 - [Cytoscape](http://www.cytoscape.org/) - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
 
-
-
+---
 
 ### Office and Text
 
@@ -147,8 +143,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - Docear also has a mind-map function. [Linux, Mac, Windows]
 
-
-
+---
 
 ### Graphics and Photography
 
@@ -166,8 +161,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
 - [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
 
-
-
+---
 
 ### Multimedia
 
