@@ -127,7 +127,8 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 #### Web Browsing/development
 - [Firefox](www.mozilla.org) - Best FOSS web browser. [Linux, Mac, Windows]
 - [Chromium](www.chromium.org) - Open Source version of Chrome. [Linux, Mac, Windows]
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - A WYSIWIG website editor. [Linux, Mac, Windows]
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - A WYSIWYG HTML website editor. Note that I now use web back-ends like Jekyll that interpret MarkDown to do my websites, so this tool my be depreciated for many web development uses. If you are doing basic HTML websites, this will work for you. [Linux, Mac, Windows]
+- [Jekyll](https://jekyllrb.com/) - Web 2.0 website development. Really worth your time to figure out how all this works. Easy editing of site content with MarkDown text, and seamless integration on a lot of hosting platforms including GitHub pages (like this very site you are reading now). [Linux, Mac, Windows] 
 
 #### Desktop Publishing
 - [Scribus](http://www.scribus.net/) - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A direct stand-in for Adobe Pagemaker. [Linux, Mac, Windows]
@@ -166,7 +167,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 ### Multimedia
 
 #### Video Editing
-- [AVI-Demux](http://avidemux.sourceforge.net/) - Simple program to trim video, extract audio, etc. [Linux. Mac, Windows]
+- [AVI-Demux](http://avidemux.sourceforge.net/) - Simple program to trim video, extract audio, etc. [Linux, Mac, Windows]
 - [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, animations, etc. [Linux, Mac, Windows]
 
 #### Audio Editing
