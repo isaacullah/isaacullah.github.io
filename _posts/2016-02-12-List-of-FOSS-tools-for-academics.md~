@@ -87,7 +87,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [GGobi](http://www.ggobi.org/) - A very cool program to interact with your 2D and 3D scatterplotted data. Not neccessarily for publication plots, but to get to know your data better. Very useful! [Linux, Mac, Windows]
 
 #### Network Analysis
-- Cytoscape - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
+- [Cytoscape](http://www.cytoscape.org/) - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
 
 
 
