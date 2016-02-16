@@ -120,9 +120,11 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### PDF Tools
 - [PDF Shuffler](https://sourceforge.net/projects/pdfshuffler/) - For moving/deleting pages in a PDF, or merging more than one PDF. [Linux]
+- [PDF-Mod](https://wiki.gnome.org/Apps/PdfMod) - Does basically exactly what PDF Shuffler does. Made for GTK, so might work better on some distros. [Linux]
 - [Xournal](http://xournal.sourceforge.net/) - For annotating PDF's. Can write or draw on the page, and all annotations saved separately. Can export to a condensed PDF with annotations embedded. [Linux]
 - [GhostScript](http://www.ghostscript.com/) - Command-line PDF manipulation. Good for batch resize, or quick creation of PDF from other file formats. [Linux, Mac, Windows]
-- [DocumentViewer] - A basic PDF viewer. [Linux]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - A basic PDF viewer with some of the same capabilities of Acrobat Reader. [Linux, Windows]
+- [Briss](http://briss.sourceforge.net/) - A super-simple cross-platform tool to crop multi-page PDF files. Great for getting rid of that black margin on scanned photcopies! [Linux, Mac, Windows]
 
 #### Web Browsing/development
 - [Firefox](www.mozilla.org) - Best FOSS web browser. [Linux, Mac, Windows]

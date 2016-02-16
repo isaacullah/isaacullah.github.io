@@ -120,14 +120,15 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### PDF Tools
 - [PDF Shuffler](https://sourceforge.net/projects/pdfshuffler/) - For moving/deleting pages in a PDF, or merging more than one PDF. [Linux]
+- [PDF-Mod](https://wiki.gnome.org/Apps/PdfMod) - Does basically exactly what PDF Shuffler does. Made for GTK, so might work better on some distros. [Linux]
 - [Xournal](http://xournal.sourceforge.net/) - For annotating PDF's. Can write or draw on the page, and all annotations saved separately. Can export to a condensed PDF with annotations embedded. [Linux]
 - [GhostScript](http://www.ghostscript.com/) - Command-line PDF manipulation. Good for batch resize, or quick creation of PDF from other file formats. [Linux, Mac, Windows]
-- [DocumentViewer] - A basic PDF viewer. [Linux]
+- [Evince](https://wiki.gnome.org/Apps/Evince) - A basic PDF viewer with some of the same capabilities of Acrobat Reader. [Linux, Windows]
 
 #### Web Browsing/development
 - [Firefox](www.mozilla.org) - Best FOSS web browser. [Linux, Mac, Windows]
 - [Chromium](www.chromium.org) - Open Source version of Chrome. [Linux, Mac, Windows]
-- [Bluefish](http://bluefish.openoffice.nl/index.html) - A WYSIWYG HTML website editor. Note that the web is different now than it was in good old HTML days, so this tool may be depreciated for many web development uses. If you are doing basic HTML websites, this will work for you. [Linux, Mac, Windows]
+- [Bluefish](http://bluefish.openoffice.nl/index.html) - A WYSIWYG HTML website editor. Note that the web is different now than it was in good old HTML days, so this tool may be depreciated for many web development uses. If you are still doing basic HTML websites, however, this will work for you. [Linux, Mac, Windows]
 - [Jekyll](https://jekyllrb.com/) - Simple website development for "Web 2.0". If you want to maintain a modern website, it's really worth your time to learn Jekyll and/or other modern web frameworks. Once your site is set up, this allows easy editing of site content with MarkDown text and seamless integration on a lot of hosting platforms including GitHub pages (like this very site you are reading now). [Linux, Mac, Windows] 
 
 #### Desktop Publishing
