@@ -11,7 +11,7 @@ tags: [FOSS, software, list, tools]
 ## ...and what to use them for!
 
 *What is "FOSS," and what does it stand for? ["FOSS" stands for "Free and Open Source Software."](http://www.fsf.org/) It is important to note that this different from "software you don't pay for" in an important way: FOSS software is not only "free" in a monetary sense, but is also "free" in the sense that you or anyone else is "free" to take and use it in any way that you want, with only a very few restrictions (typically only that you credit where you got it from). FOSS software is usually (but not always) developed by a community of programmers who do it because the love it and want to contribute to the greater good. They are usually very passionate about their projects and they use the software themselves (often in their "day job"). Because FOSS projects are really **community** projects, it means that **you** can get involved if you want to. This means that **you** can contribute to fixing bugs, asking for features to be added, beta testing, styling, or coding, and so **you** can help make the software look and work the way **you** want it too. Not only that, but because the source code is always made available, **you**, as a scientist, can confirm that the software is **actually doing what it purports to do**, which is something you cannot do with any closed source software, free or paid-for.*
-<br><br>
+<br><br><br>
 **Notes about this list:**
 <br><br>
 The great majority of these software tools are available on all three major OS platforms: Linux, MacOS, and MS Windows. There are a couple of pieces of nice software that are for one or two platforms only, and these are noted. It's important to remember, however, that many pieces of Windows software will run on Linux under the [WINE Windows compatibility layer](https://www.winehq.org/), and a lot of Linux software can be run inside Windows or Mac in a [virtual machine](https://www.virtualbox.org/) or compatibility layer like [MinGW](http://www.mingw.org/). However, since *all* varieties of Linux are also FOSS projects themselves, I highly recommend that you use a Linux OS. Gone are the days where you needed a degree in Computer Science to install and use Linux. Now, anyone can do it! Have a look at [distrowatch.com](http://distrowatch.com/) for some of the more popular flavors of Linux. I personally use and recommend [Xubuntu](xubuntu.org), which is very lightweight, and that has a desktop interface that will be comfortable for Windows users. Mac users may prefer the main [Ubuntu distro](www.ubuntu.com), which has a desktop interface that will be more familiar to them, albeit larger and more system-intensive to run.
@@ -27,6 +27,7 @@ The great majority of these software tools are available on all three major OS p
 #### GIS
 - [GRASS](grass.osgeo.org) - Most powerful, fully-functional FOSS GIS suite. "Heavy lifting" GIS work and scientific geo-spatial analysis. [Linux, Mac, Windows]
 - [QGIS](www.qgis.org) - Less powerful, but very functional GIS. Great for web mapping applications and making finished cartographic products. [Linux, Mac, Windows]
+- [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools for basic manipulation of file formats and projections. Many of the core tools are included in GRASS and QGIS, but if you are a minimalist, you might like to use these independently of a larger GIS suite. [Linux, Windows]
 
 #### Structure from Motion Analysis
 - ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
@@ -48,11 +49,21 @@ The great majority of these software tools are available on all three major OS p
 
 ---
 
+### Computational Modeling
+
+#### Agent-Based Modeling Platforms
+- [NetLogo](https://ccl.northwestern.edu/netlogo/) - A simple-to-use plaform for creating agent-based models. Scalable, with a nice development interface and good model interactivity. Many online resources and large model repository. I recommend this as a good way to get into Agent Based Modeling. [Linux, Mac, Windows]
+- [Repast Simphony](http://repast.sourceforge.net/repast_simphony.php) - Perhaps a bit more complex than NetLogo, but also perhaps more powerful. There is a graphical programming interface which may make this easier to use for non-programmers. There is a very good user-base, and nice online documentation. [Linux, Mac, Windows]
+
+
+---
+
 ### Software Development and Scientific Computing
 
 #### Scientific Computing/Statistics
 - [R](https://www.r-project.org/) - Very robust, huge community, lots of modules. [Linux, Mac, Windows]
 - [SciPy](http://www.scipy.org/) - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's. [Linux, Mac, Windows]
+- [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave was developed as a FOSS alternative for MatLab, but I don't use it, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
 - [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a stand-in for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
@@ -137,7 +148,9 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### Presentations
 - [LibreOffice Impress](www.libreoffice.org) - A direct stand-in for MS Powerpoint. [Linux, Mac, Windows]
-- [Impressive](http://impressive.sourceforge.net/) - A great tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
+- [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
+- [Lyx](https://www.lyx.org/) - Lyx will also help you make nice PDF presentations using LaTex styles/formatting. [Linux, Mac, Windows]
+- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. [Linux, and probably Mac and Windows?]
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
