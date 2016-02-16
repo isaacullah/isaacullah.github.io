@@ -29,7 +29,7 @@ The great majority of these software tools are available on all three major OS p
 #### Structure from Motion Analysis
 - ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. [Linux, Windows]
 - [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - Command line driven. Are in PPT anyway, but still useful to know how to do it from scratch. [Linux, Mac, Windows]
-- [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, taking a slightly different approach than does Bundler (and PPS). I've developed scripts to run these as batches. [Linux, Mac, Windows]
+- [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. [Linux, perhaps Mac and Windows with some work]
 
 #### Point Cloud Editing and Viewing
