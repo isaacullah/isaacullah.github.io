@@ -2,7 +2,7 @@
 layout: page
 title: About Isaac
 tags: [Isaac Ullah]
-modified: 2014-10-14
+modified: 2016-02-16
 comments: true
 image:
   feature: isaac_on_a_cliff.png
@@ -18,9 +18,11 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-I am a post-doctoral researcher at Arizona State University, studying the long term effects of human landuse decisions, especially those associated with Neolithic farming and pastoralism. I use a combination of traditional archaeological and geoarchaeological approaches with GIS, computational modeling, and computer simulation to investigate the dynamics of agropastoral socio-natural systems. My work is largely based in a complex adaptive systems theory perspective.
+I am currently a post-doctoral researcher at Arizona State University, studying the long term effects of human landuse decisions, especially those associated with Neolithic farming and pastoralism. I use a combination of traditional archaeological and geoarchaeological approaches with GIS, computational modeling, and computer simulation to investigate the dynamics of agropastoral socio-natural systems. My work is largely based in a complex adaptive systems theory perspective.
 
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient housefloors as a way to get at long-term patterns in domesticity.
+
+It is with great pleasure that I can also now announce that starting in Fall, 2016, I will be joining the faculty in the [Department of Anthropology at San Diego State University](http://anthropology.sdsu.edu/). There, I will also be affiliated with the [Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/), and I look forward to working with my new colleagues and students.
 
 * * *
 
