@@ -53,13 +53,13 @@ The great majority of these software tools are available on all three major OS p
 - [R](https://www.r-project.org/) - Very robust, huge community, lots of modules. [Linux, Mac, Windows]
 - [SciPy](http://www.scipy.org/) - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
-- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
+- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a stand-in for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 
 #### Scientific Computing IDE's
 - [Spyder](https://github.com/spyder-ide/spyder) - Excellent for scientific Python work. Similar to R-Studio. [Linux, Mac, Windows]
 - [Jupyter](http://jupyter.org/) - A different way to get into Scientific Python. Runs in your web-browser. [Linux, Mac, Windows]
-- R-Studio - The best interface for using R. [Linux, Mac, Windows]
+- [R-Studio](https://www.rstudio.com/) - The best interface for using R. [Linux, Mac, Windows]
 
 #### Software Development
 - [Spyder](https://github.com/spyder-ide/spyder) - Great for general Python devel too. [Linux, Mac, Windows]
@@ -78,13 +78,13 @@ The great majority of these software tools are available on all three major OS p
 
 #### Plotting Tools
 - [Veusz](http://home.gna.org/veusz/) - A GUI front-end for MatPlotLib from SciPy. Easy to get your data in, and then create a lot of different kinds of plots. Might be easier for a non-programmer than simply learning Python and MatPlotLib. [Linux, Mac, Windows]
-- [XYScan](http://rhig.physics.yale.edu/~ullrich/software/xyscan/) - A cool little tool for grabbing x/y coords of data points from, eg.,plots in PDF papers you downloaded. Might be the only way to get raw data from some publications. [Linux, Mac]
+- [XYScan](http://rhig.physics.yale.edu/~ullrich/software/xyscan/) - A cool little tool for grabbing x/y coords of data points from, eg., plots in PDF papers you downloaded. Might be the only way to get raw data from some publications. [Linux, Mac]
 - [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - An additional library to make MatPlotLib plotting easier/nicer in SciPy. [Linux, Mac, Windows]
 GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [GeoRose](https://yonggeng.wordpress.com/2013/03/06/rose-diagram-software/) - A little software tool for making quick Rose diagrams and strike/dip plots. [Windows, Mac]
 
 #### Data Exploration
-- [GGobi](http://www.ggobi.org/) - A very cool program to interact with your 2D and 3D scatter-plotted data. Not necessarily for publication plots, but to get to know your data better. Very useful! [Linux, Mac, Windows]
+- [GGobi](http://www.ggobi.org/) - A very cool program to interact with your 2D and 3D scatter-plotted data. Not necessarily for publication-ready plots, but rather simply to get to know your data better. Very useful! [Linux, Mac, Windows]
 
 #### Network Analysis
 - [Cytoscape](http://www.cytoscape.org/) - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
@@ -106,16 +106,17 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - A great alternative to Zotero, with some in-text support for word processors. Best feature is it's integration of a visual "mind-map" organization of citations and documents.  [Linux, Mac, Windows]
 
 #### Spreadsheet
-- [LibreOffice Calc](www.libreoffice.org) - Stand in for MSExcel. Slick, but limited. [Linux, Mac, Windows]
+- [LibreOffice Calc](www.libreoffice.org) - Stand in for MSExcel. Slick, but limited in terms of statistical analysis and plots (as is MS Excel). [Linux, Mac, Windows]
 - [Gnumeric](www.gnumeric.org) - More capabilities, better graphics, more plot types, slightly less slick. [Linux, can be compiled on Mac]
 
 #### Database
 - [LibreOffice Base](www.libreoffice.org) - Stand in for MS Access. [Linux, Mac, Windows]
 
 #### Text editing
-- [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic text editor that does what you want it to. Does require GTK libraries. [Linux, Mac, Windows]
-- [Medit](http://mooedit.sourceforge.net/) - Also good, doesn't require GTK. [Linux]
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic lightweight text editor with syntax highlighting that just does what you want it to. My personal favorite. Does require GTK libraries, however. [Linux, Mac, Windows]
+- [Medit](http://mooedit.sourceforge.net/) - Also good and lightweight, and doesn't require GTK. [Linux]
 - [Notepad++](https://notepad-plus-plus.org/) - Probably the best option for Windows users. [Windows, Mac, Linux]
+- [Geany](http://www.geany.org/) - Another good cross-platform text editor. Some basic IDE tools included. [Linux, Mac, Windows]
 
 #### PDF Tools
 - [PDF Shuffler](https://sourceforge.net/projects/pdfshuffler/) - For moving/deleting pages in a PDF, or merging more than one PDF. [Linux]
