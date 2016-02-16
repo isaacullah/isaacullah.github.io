@@ -116,7 +116,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic lightweight text editor with syntax highlighting that just does what you want it to. My personal favorite. Does require GTK libraries, however. [Linux, Mac, Windows]
 - [Medit](http://mooedit.sourceforge.net/) - Also good and lightweight, and doesn't require GTK. [Linux]
 - [Notepad++](https://notepad-plus-plus.org/) - Probably the best option for Windows users. [Windows, Mac, Linux]
-- [Geany](http://www.geany.org/) - Another good cross-platform text editor. [Linux, Mac, Windows]
+- [Geany](http://www.geany.org/) - Another good cross-platform text editor. Some basic IDE tools included. [Linux, Mac, Windows]
 
 #### PDF Tools
 - [PDF Shuffler](https://sourceforge.net/projects/pdfshuffler/) - For moving/deleting pages in a PDF, or merging more than one PDF. [Linux]
@@ -150,14 +150,15 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Inkscape](www.inkscape,org) - Direct stand in for Adobe Illustrator. Very functional, and powerful. [Linux, Mac, Windows]
 - [LibreOffice Draw](www.libreoffice.org) - Does vector graphics. More limited than Inkscape, but simpler to use, perhaps. [Linux, Mac, Windows]
 
-#### Bitmap Graphics
-- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. [Linux, Mac, Windows]
+#### Raster Graphics
+- [GIMP](www.gimp.org) - Very functional and powerful. Great for editing raster graphics of any kind. Direct stand in for Adobe Photoshop.  [Linux, Mac, Windows]
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
 
 #### Photography
-- [GThumb](https://wiki.gnome.org/Apps/gthumb) - Most functional picture viewer/organizer. Linux only. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
+- [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
 - [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. [Linux, Mac]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support.  [Linux, Mac, Windows]
 
 
 

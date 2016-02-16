@@ -150,14 +150,15 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Inkscape](www.inkscape,org) - Direct stand in for Adobe Illustrator. Very functional, and powerful. [Linux, Mac, Windows]
 - [LibreOffice Draw](www.libreoffice.org) - Does vector graphics. More limited than Inkscape, but simpler to use, perhaps. [Linux, Mac, Windows]
 
-#### Bitmap Graphics
-- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. [Linux, Mac, Windows]
+#### Raster Graphics
+- [GIMP](www.gimp.org) - Very functional and powerful. Great for editing raster graphics of any kind. Direct stand in for Adobe Photoshop.  [Linux, Mac, Windows]
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
 
 #### Photography
-- [GThumb](https://wiki.gnome.org/Apps/gthumb) - Most functional picture viewer/organizer. Linux only. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
+- [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
 - [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. [Linux, Mac]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support.  [Linux, Mac, Windows]
 
 
 
@@ -166,15 +167,15 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### Video Editing
 - [AVI-Demux](http://avidemux.sourceforge.net/) - Simple program to trim video, extract audio, etc. [Linux. Mac, Windows]
-- [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage. [Linux, Mac, Windows]
+- [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, animations, etc. [Linux, Mac, Windows]
 
 #### Audio Editing
-- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
+- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
 
 #### Multimedia Players/Converters
 - [VLC](http://www.videolan.org/vlc/index.html) - Will play pretty much any media file. [Linux, Mac, Windows]
 - [SoundConverter](http://soundconverter.org/) - To/from pretty much any audio file format. GUI. [Linux]
-- [Handbrake](https://handbrake.fr/) - GUI video converter. Powerful. [Linux, Mac, Windows]
+- [Handbrake](https://handbrake.fr/) - GUI video converter. Powerful. Convert to/from pretty much any format. [Linux, Mac, Windows]
 - [avconv/ffmpeg](https://libav.org/avconv.html) - Command line tools for video conversion. Very powerful. Useful for making movies from a series of still images or reducing movie file size. [Linux, Windows]
 
 
