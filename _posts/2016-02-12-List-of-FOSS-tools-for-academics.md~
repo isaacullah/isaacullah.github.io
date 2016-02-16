@@ -19,7 +19,9 @@ The great majority of these software tools are available on all three major OS p
 <br>
  I plan to maintain and update this list over time. Please [e-mail me](mailto:isaaciullah@gmail.com) if you have a piece of FOSS software you think should be on this list. Please provide examples of how your suggestion could be used in an academic context.
 
+---
 
+# The List!
 
 ### GIS and Image Analysis
 
