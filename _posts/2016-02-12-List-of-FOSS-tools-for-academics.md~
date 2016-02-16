@@ -29,7 +29,7 @@ The great majority of these software tools are available on all three major OS p
 #### Structure from Motion Analysis
 - ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
 - [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - These are the core command-line programs that the PPT is built around, but it is still useful to know how to do it from scratch. [Linux, Mac, Windows]
-- [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download [Linux, Mac, Windows]
+- [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download. [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. Has a really great GUI interface. [Linux, perhaps Mac and Windows with some work]
 
 #### Point Cloud Editing and Viewing
@@ -156,9 +156,9 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### Photography
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
-- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. [Linux, Mac]
+- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
-- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support.  [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
 
 
 

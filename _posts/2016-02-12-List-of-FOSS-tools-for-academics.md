@@ -147,7 +147,7 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 ### Graphics and Photography
 
 #### Vector Graphics
-- [Inkscape](www.inkscape,org) - Direct stand in for Adobe Illustrator. Very functional, and powerful. [Linux, Mac, Windows]
+- [Inkscape](www.inkscape,org) - Direct stand in for Adobe Illustrator. Very functional, and powerful. Bitmap trace function is very, very useful. Excellent for publication-ready line drawings. Highly recommended. [Linux, Mac, Windows]
 - [LibreOffice Draw](www.libreoffice.org) - Does vector graphics. More limited than Inkscape, but simpler to use, perhaps. [Linux, Mac, Windows]
 
 #### Raster Graphics
@@ -156,9 +156,9 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 
 #### Photography
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
-- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. [Linux, Mac]
+- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
-- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support.  [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - Direct stand in for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
 
 
 
