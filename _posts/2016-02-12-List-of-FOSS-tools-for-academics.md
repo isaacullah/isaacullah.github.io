@@ -97,9 +97,13 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 #### Word Processing
 - [LibreOffice Writer](www.libreoffice.org) - Part of the LibreOffice suite. Fully functional replacement for MSWord, including Zotero bibliographic manager integration. [Linux, Mac, Windows]
 - [AbiWord](www.abiword.org) - Lighter, but still functional. No Zotero integration. [Linux, Windows]
+- [LaTex](https://www.latex-project.org/) - A sort of markdown language for word-processing. Very powerful control of the formatting of your output document, but more intense to set up than a standard Word Processor. [Linux, Mac, Windows]
+- [Lyx](https://www.lyx.org/) - A gui for LaTex, which might make it easier for you to use it. Helpful especially if you are a non-LaTex user trying to collaborate with a LaTex afficiando. [Linux, Mac, Windows]
 
 #### Bibliographic Manager
-- [Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice, and MSWord. [Linux, Mac, Windows]
+- [Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice, and MSWord. Seamless integration with Google Scholar. VERY highly recommended. [Linux, Mac, Windows]
+- [BibTex](http://www.bibtex.org/) - If you use LaTex, you are likely using BibTex for your citation managment. Same idea as LaTex: a sort of Markdown for formatting bibliographies. [Linux, Mac, Windows]
+- [Docear](http://www.docear.org/) - A great alternative to Zotero, with some in-text support for word processors. Best feature is it's integration of a visual "mind-map" organization of citations and documents.  [Linux, Mac, Windows]
 
 #### Spreadsheet
 - [LibreOffice Calc](www.libreoffice.org) - Stand in for MSExcel. Slick, but limited. [Linux, Mac, Windows]
@@ -131,6 +135,10 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 #### Presentations
 - [LibreOffice Impress](www.libreoffice.org) - A direct stand-in for MS Powerpoint. [Linux, Mac, Windows]
 - [Impressive](http://impressive.sourceforge.net/) - A great tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
+
+#### Mind Mapping and Diagramming
+- [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
+- [Docear](http://www.docear.org/) - Docear also has a mind-map function. [Linux, Mac, Windows]
 
 
 
