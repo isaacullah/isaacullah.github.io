@@ -24,8 +24,6 @@ The great majority of these software tools are available on all three major OS p
 
 ---
 
----
-
 ### GIS and Image Analysis
 
 #### GIS
