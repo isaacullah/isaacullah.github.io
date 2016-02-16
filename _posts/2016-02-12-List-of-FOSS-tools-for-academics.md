@@ -61,12 +61,12 @@ The great majority of these software tools are available on all three major OS p
 ### Software Development and Scientific Computing
 
 #### Scientific Computing/Statistics
-- [R](https://www.r-project.org/) - Very robust, huge community, lots of modules. [Linux, Mac, Windows]
-- [SciPy](http://www.scipy.org/) - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's. [Linux, Mac, Windows]
+- [R](https://www.r-project.org/) - Very robust, huge community, lots of modules. If it's statistical, R can do it. Was my main stats tool before switching to SciPy. [Linux, Mac, Windows]
+- [SciPy](http://www.scipy.org/) - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's. Because I'm most comfortable in the Python language, this is what I now use most of the time. [Linux, Mac, Windows]
 - [Anaconda](https://www.continuum.io/downloads) - Anaconda is a self-contained system for scientific computing with Python. Although you don't need it, it might simplify your installation of SciPy, etc., and will ensure it all plays together well. While technically FOSS, Anaconda is product of an enterprise/open software company that offers some paid services too. [Linux, Mac, Windows]
 - [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
-- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
+- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. Recommended for people who aren't programmers! [Windows, Mac]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 
 #### Scientific Computing IDE's
