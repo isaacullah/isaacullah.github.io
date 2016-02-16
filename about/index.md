@@ -60,11 +60,13 @@ Please visit the following links for information about several actively ongoing 
 
 ### Publications
 
-####Articles in Peer-Reviewed Journals
+#### Articles in Peer-Reviewed Journals
 
-* n.d.	Ullah, I.I. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Advances in Archaeological Practice. Status: Accepted for publication. Expected print date, 10/2015.
+* [2016 	Barton, C.M., Ullah, I.I.T., Bergin, S.M., Sarjoughian, H.S., Mayer, G.R., Bernabeu Auban, J.E., Heimsath, A.M., Acevedo, M.F., Riel-Salvatore, J.G., and Arrowsmith, J.R. Experimental Socioecology: Integrative Science for Anthropocene Landscape Dynamics. Anthropocene. Pre-press online: 10.1016/j.ancene.2015.12.004.](http://www.sciencedirect.com/science/article/pii/S2213305415300278)
 
-* [2015	Ullah, I.I., Kuijt, I., and Freeman, J.F. Toward a theory of punctuated subsistence change. Proceedings of the National Academy of Sciences. 112(31), 9579-9584. doi:10.1073/pnas.1503628112](http://www.pnas.org/content/112/31/9579.abstract)
+* 2015	Ullah, I.I.T. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Advances in Archaeological Practice. 3(4): 331-350.
+
+* [2015	Ullah, I.I., Kuijt, I., and Freeman, J.F. Toward a theory of punctuated subsistence change. Proceedings of the National Academy of Sciences. 112(31), 9579-9584. doi:10.1073/pnas.1503628112.](http://www.pnas.org/content/112/31/9579.abstract)
 
 * [2015	Ullah, I.I., Duffy, P.R., and Banning, E.B. Modernizing spatial micro-refuse analysis: New methods for collecting, analyzing, and interpreting the spatial patterning of micro-refuse from house-floor contexts. Journal of Archaeological Method and Theory. 22(4), 1238-1262. doi: 10.1007/s10816-014-9223-x](http://link.springer.com/article/10.1007/s10816-014-9223-x)
 
@@ -78,7 +80,7 @@ Please visit the following links for information about several actively ongoing 
 
 * [2010 	Barton, C.M., Ullah, I.I., and Mitasova, H. Computational modeling and Neolithic socioecological dynamics: A case study from Southwest Asia. American Antiquity.  75(2):364-386.](http://www.jstor.org/stable/25766199?seq=1#page_scan_tab_contents)
 
-####Book Chapters
+#### Book Chapters
 
 * [2015	Sarjoughian, H., Mayer, G., Ullah, I.I., Barton, C.M. Managing Hybrid Model Composition Complexity: Human–Environment Simulation Models. In: Levent Yilmaz (Ed.), Concepts and Methodologies for Modeling and Simulation. Springer, 107-134. DOI: 10.1007/978-3-319-15096-3](http://link.springer.com/chapter/10.1007/978-3-319-15096-3_6)
 
@@ -90,7 +92,25 @@ Please visit the following links for information about several actively ongoing 
 
 * [2009 	Ullah, I.I. Within-room spatial analysis of activity areas at Late Neolithic Tabaqat Al-Buma, Wadi Ziqlab, Al Koura, Jordan. In: Studies in the History and Archaeology of Jordan, X. The Department of Antiquities of Jordan, Amman, pp. 87-95.](https://www.academia.edu/350610/Within_room_analysis_of_activity_areas_at_Late_Neolithic_Tabaqat_Al-Buma_Wadi_Ziqlab_Al_Kura_Jordan)
 
-####Reports and Non-reviewed Publications
+#### Peer-Reviewed Computer Software
+
+[2015 	Barton, C.M., Ullah, I.I.T., Mayer G., Bergin, S., Sarjoughian, H., and Mitasova, H. MedLanD Modeling Laboratory v.1 - A hybrid modeling environment that couples an agent-based model of small-holder agropastoral households and a cellular landscape evolution model that simulates changes in erosion/deposition, soils, and vegetation. Retrievable from: CoMSES Computational Model Library, www.openabm.org/model/4609/version/1](www.openabm.org/model/4609/version/1)
+
+#### Publicly Available Computer Software
+
+* [2015 	Ullah, I.I.T. AgModel, v.0.3 - An agent-based model of the forager-farmer transition. Retrievable from: GitHub, dx.doi.org/10.5281/zenodo.17551](dx.doi.org/10.5281/zenodo.17551)
+
+* [2015	Ullah, I.I.T. r.viewshed.cva - A GRASS GIS module that undertakes a cumulative viewshed analysis using a vector points map as input “viewing” locations. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass7/raster/r.viewshed.cva/](svn.osgeo.org/grass/grass-addons/grass7/raster/r.viewshed.cva/)
+
+* [2014	Ullah, I.I.T., Barton, C.M., Mitasova, H. r.landscape.evol – A GRASS GIS module that simulates the cumulative effect of erosion and deposition on a landscape over time. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass7/raster/r.landscape.evol/](svn.osgeo.org/grass/grass-addons/grass7/raster/r.landscape.evol/)
+
+* [2014	Ullah, I.I.T. r.floorsim – A GRASS GIS module that simulates artifact deposition on a house floor, with site formation disturbance, sampling, and re-randomization.  Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass6/raster/r.floorsim/](svn.osgeo.org/grass/grass-addons/grass6/raster/r.floorsim/)
+
+* [2014	Ullah, I.I.T. r.soildepth – A GRASS GIS module that estimates soil depths based on hillslope curvatures. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.soildepth.py/](svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.soildepth.py/)
+
+* [2011	Ullah, I.I.T. r.catchment -  A GRASS GIS module that creates a raster buffer of specified area around vector points using cost distances. Retrievable from: GRASS Addons Repository, svn.osgeo.org/grass/grass-addons/grass7/raster/r.catchment/](svn.osgeo.org/grass/grass-addons/grass7/raster/r.catchment/)
+
+#### Reports and Non-reviewed Publications
 
 * [2015	Banning, E.B., Gibbs, K., Ullah I.I., Hitchings, P., Abu Jayyab, K., Edwards, S., and Rhodes, S. Archaeological Excavations in Wadi Quseiba and Wadi al-Bîr, northern Jordan. Antiquity Project Gallery. 344. http://antiquity.ac.uk/projgall/508](http://antiquity.ac.uk/projgall/banning344)
 
@@ -102,7 +122,7 @@ Please visit the following links for information about several actively ongoing 
 
 * [2008 	Ullah, I.I., Schuldenrien, J., and Smith, M. Preliminary report of the 2008 season of the Wadi Hasa Ancient Pastoralism Project. Report on file with the Department of Antiquities of Jordan, Amman.](/pdf/WHAPP_2008_Report.pdf)
 
-####Reviews
+#### Reviews
 
 * [2014 	Ullah, I.I. Review of: Mediterranean Archaeological Landscapes: Current Issues. Geoarchaeology. 29(2), March/April, 2014.](http://onlinelibrary.wiley.com/doi/10.1002/gea.21467/abstract)
 
@@ -110,12 +130,12 @@ Please visit the following links for information about several actively ongoing 
 
 * [2002 	Gibbs, K., Kadowaki, S., and Ullah, I.I. Domesticating Space: Notes on the Toronto Conference. Neo-Lithics. 1/02:21-22.](http://www.exoriente.org/docs/00044.pdf)
 
-####Works in Progress
+#### Works in Progress
 
 * Ullah, I.I.T., Chang C., and Tourtellette, P. Co-evolution of landscapes, Kurgans, and settlements in southeast Kazakhstan during the first millennium BC. Intended for Journal of Archaeological Science.
 
 * Barton L. and Ullah, I.I.T. A dynamic behavioral ecology model of early domestication processes. Intended for Journal of Anthropological Archaeology.
 
-* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Geoarchaeology.
+* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Quaternary International.
 
 * Banning, E.B., Ullah, I.I.T., Hitchings, P., Abu Jayyab, K., Rhodes, S., Gibbon, E., and Glasser, A. A Late Neolithic Site in Wâdî al-Bîr, northern Jordan. Intended for Antiquity. 
