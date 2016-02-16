@@ -27,15 +27,15 @@ The great majority of these software tools are available on all three major OS p
 - [QGIS](www.qgis.org) - Less powerful, but very functional GIS. Great for web mapping applications and making finished cartographic products. [Linux, Mac, Windows]
 
 #### Structure from Motion Analysis
-- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. [Linux, Windows]
-- [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - Command line driven. Are in PPT anyway, but still useful to know how to do it from scratch. [Linux, Mac, Windows]
+- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
+- [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - These are the core command-line programs that the PPT is built around, but it is still useful to know how to do it from scratch. [Linux, Mac, Windows]
 - [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download [Linux, Mac, Windows]
-- [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. [Linux, perhaps Mac and Windows with some work]
+- [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. Has a really great GUI interface. [Linux, perhaps Mac and Windows with some work]
 
 #### Point Cloud Editing and Viewing
 - [MeshLab](http://meshlab.sourceforge.net/) - The most full-featured point cloud and mesh editor around. A bit of a learning curve, but can do most everything. [Linux, Mac, Windows]
-- [CloudCompare](http://www.danielgm.net/cc/) - Easier to get into, but more limited than MeshLab [Linux, Mac, Windows]
-- [Blender](https://www.blender.org/) - The 3D modeling mode of Blender can be use to edit meshes and point clouds quite effectively. Many plugins. More geared to digital animation than scientific analysis though. [Linux, Mac, Windows]
+- [CloudCompare](http://www.danielgm.net/cc/) - Easier to get into, but more limited than MeshLab. Great for measuring/quantifying volumetric changes between two point clouds. [Linux, Mac, Windows]
+- [Blender](https://www.blender.org/) - The 3D modeling mode of Blender can be use to edit meshes and point clouds quite effectively. Many plugins. Most geared to digital animation than scientific analysis though. Can export to various 3D printer formats, however. [Linux, Mac, Windows]
 
 #### Image Analysis/Remote Sensing
 - [Multispec](https://engineering.purdue.edu/~biehl/MultiSpec/) - Great tool for analysis and manipulation of multispectral satellite imagery. Can do clustering. [Mac, Windows, Online in browser]
