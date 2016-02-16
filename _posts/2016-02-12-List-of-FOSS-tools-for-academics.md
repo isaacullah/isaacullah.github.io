@@ -8,135 +8,142 @@ excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
 ---
 
-# ...and what to use them for!
+## ...and what to use them for!
 
-*All tools available on Linux, most on MacOS and quite a few on Windows too.*
+*What is "FOSS," and what does it stand for? ["FOSS" stands for, "Free and Open Source Software."](http://www.fsf.org/) It is important to note that this different from simply, "Software you don't pay for" in one important way: FOSS software not only is "free" in a monetary sense, but is also "free" in the sense that you or anyone else is "free" to take and use the source code or software in any way you want, with only a very few restrictions (typically only that you credit where you got it from). FOSS software is usually (but not always!) developed by a community of programmers who do it because the love it, and want to contribute to the greater good. They are usually very passionate about their projects and use the software themselves (often in their "day job"). Because FOSS projects are really _community_ projects, that means **you** can get involved if want to. This means that **you** can contribute to fixing bugs, asking for features to be added, beta testing, or coding, and so **you** can help make the software work the way you want it too. Not only that, but because the source code is always made available, **you**, as a scientist, can confirm that the software is _actually doing what it purports to do_, which is something you cannot do with any closed source software, free or not free.*
 
-(Links coming soon! For now, Google is your friend.)
+*The great majority of these software tools are available on all three major OS platforms: Linux, MacOS, and MS Windows, except where noted. There are a couple of pieces of nice software that are for one or two platforms only, and these are also noted. It's important to remember, however, that many pieces of Windows software will run on Linux under the [WINE Windows compatability layer](https://www.winehq.org/). Since all varieties of Linux are also FOSS projects themselves, I highly recommend that you use a Linux OS. Gone are the days where you needed a degree in Computer Science to install and use Linux. Now, anyone can do it! Have a look at [distrowatch.com](http://distrowatch.com/) for some of the more popular flavors of Linux. I personally use and recommend [Xubuntu](xubuntu.org), which is very lightweight, and that has a desktop interface that will be comfortable for Windows users. Mac users may prefer the main [Ubuntu distro](www.ubuntu.com), which has a desktop interface that will be more familiar to them, albeit larger and more system-intensive to run.*
 
-
-
-## GIS and Image Analysis
-
-- GIS
-GRASS - Most powerful, fully-functional FOSS GIS suite. "Heavy lifting" GIS work and scientific geo-spatial analysis.
-QGIS - Less powerful, but very functional GIS. Great for web mapping applications and making finished cartographic products.
-
-- Structure from Motion Analysis
-Python Photogrammetry Suite - A bit buggy, but it does work. Graphical interface to bundler and PMVS.
-OSM-Bundler and MVS/PMVS - Command line driven. Are in PPS anyway, but still useful to know how to do it from scratch.
-MVE with MVS-texturing - Another set of command-line tools, taking a slightly different approach than does Bundler (and PPS). I've developed scripts to run these as batches.
-OpenDroneMap - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images.
-
-- Point Cloud Editing and Viewing
-MeshLab - The most full-featured point cloud and mesh editor around. A bit of a learning curve, but can do most everything.
-CloudCompare - Easier to get into, but more limited than MeshLab
-Blender - The 3D modeling mode of Blender can be use to edit meshes and point clouds quite effectively. Many plugins. More geared to digital animation than scientific analysis though.
-
-- Image Analysis/Remote Sensing
-Multispec - Great tool for analysis and manipulation of multispectral satellite imagery. Can do clustering.
-ImageJ - Great tool for general image manipultion and analysis. A LOT of plugins. Mostly used for medical imaging, but great for analysis of artifacts via imagery.
-HyperCube - Another multispectral image analysis tool. Very powerful.
-GRASS - GRASS does most satellite imagery analysis things too.
-OpenDroneMap - For creating rectified photomosaics from aerial imagery.
+(NOTE: Eventually all of the software listed below will be linked to their respective project's site. But for now, Google is your friend.)
 
 
 
+### GIS and Image Analysis
 
-## Software Development and Sientific Computing
+#### GIS
+- [GRASS](grass.osgeo.org) - Most powerful, fully-functional FOSS GIS suite. "Heavy lifting" GIS work and scientific geo-spatial analysis. [Linux, Mac, Windows]
+- [QGIS](www.qgis.org) - Less powerful, but very functional GIS. Great for web mapping applications and making finished cartographic products. [Linux, Mac, Windows]
 
-- Scientific Computing/Statistics
-R - Very robust, huge community, lots of modules. 
-SciPy - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's.
-KNIME - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. 
+#### Structure from Motion Analysis
+- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. [Linux, Windows]
+- [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - Command line driven. Are in PPT anyway, but still useful to know how to do it from scratch. [Linux, Mac, Windows]
+- [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, taking a slightly different approach than does Bundler (and PPS). I've developed scripts to run these as batches. [Linux, Mac, Windows]
+- [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. [Linux, perhaps Mac and Windows with some work]
 
-- Scientific Computing IDE's
-Spyder - Excellent for scientific Python work. Similar to R-Studio.
-Jupyter - A different way to get into Scientific Python. Runs in your webbrowser.
-R-Studio - The best interface for using R.
+#### Point Cloud Editing and Viewing
+- [MeshLab](http://meshlab.sourceforge.net/) - The most full-featured point cloud and mesh editor around. A bit of a learning curve, but can do most everything. [Linux, Mac, Windows]
+- [CloudCompare](http://www.danielgm.net/cc/) - Easier to get into, but more limited than MeshLab [Linux, Mac, Windows]
+- [Blender](https://www.blender.org/) - The 3D modeling mode of Blender can be use to edit meshes and point clouds quite effectively. Many plugins. More geared to digital animation than scientific analysis though. [Linux, Mac, Windows]
 
-- Software Development
-Spyder - Great for general Python devel too.
-iPython - Great interactive Python shell.
-Geany - An ok IDE too.
-Eclipse - A must if you are doing Java work. Will work with many other languages, but I find it a bit bloated an unfriendly to use.
-Meld - A good "dif" tool to see and merge two versions of a document or script.
-RapidSVN - A great tool to manage SVN repositories.
-Git - Commandline tools. Needed to move stuff to and from your GitHub repo.
+#### Image Analysis/Remote Sensing
+- [Multispec](https://engineering.purdue.edu/~biehl/MultiSpec/) - Great tool for analysis and manipulation of multispectral satellite imagery. Can do clustering. [Mac, Windows, Online in browser]
+- [ImageJ](http://imagej.nih.gov/ij/) - Great tool for general image manipultion and analysis. A LOT of plugins. Mostly used for medical imaging, but great for analysis of artifacts via imagery. [Linux, Mac, Windows]
+- [HyperCube](http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/610433/hypercube.aspx) - Another multispectral image analysis tool. Very powerful. [Windows, Mac]
+- [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
+- [OpenDroneMap](http://opendronemap.github.io/odm/) - For creating rectified photomosaics from aerial imagery. [Linux, perhaps Mac and Windows with some work]
 
 
 
 
-## Plotting and Data Exploration
+### Software Development and Scientific Computing
 
-- Plotting Tools
-Veusz - A GUI front-end for MatPlotLib from SciPy. Easy to get your data in, and then create a lot of different kinds of plots. Might be easier for a non-programmer than simply learning Python and MatPlotLib.
-XYScan - A cool little tool for grabbing x/y coords of data points from, eg.,plots in PDF papers you downloaded. Might be the only way to get raw data from some publications.
-Seaborn - An additional library to make MatPlotLib plotting easier/nicer in SciPy
-GGPlot2 - Ditto for R.
+#### Scientific Computing/Statistics
+- [R](https://www.r-project.org/) - Very robust, huge community, lots of modules. [Linux, Mac, Windows]
+- [SciPy](http://www.scipy.org/) - Scientific Python. Growing community, also robust, advantage of huge amount of other Python modules and resources. Possible to chain together with other programs (e.g., GRASS) through native Python API's. [Linux, Mac, Windows]
+- [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
+- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. [Windows, Mac]
+- [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a stand-in for SPSS. Not as fully functional as other solutions above, but works for basic analysese and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 
-- Data Exploration
-GGobi - A very cool program to interact with your 2D and 3D scatterplotted data. Not neccessarily for publication plots, but to get to know your data better. Very useful!
+#### Scientific Computing IDE's
+- [Spyder](https://github.com/spyder-ide/spyder) - Excellent for scientific Python work. Similar to R-Studio. [Linux, Mac, Windows]
+- [Jupyter](http://jupyter.org/) - A different way to get into Scientific Python. Runs in your webbrowser. [Linux, Mac, Windows]
+- R-Studio - The best interface for using R. [Linux, Mac, Windows]
 
-- Network Analysis
-Cytoscape - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base.
+#### Software Development
+[Spyder](https://github.com/spyder-ide/spyder) - Great for general Python devel too. [Linux, Mac, Windows]
+[iPython](http://ipython.org/) - Great interactive Python shell. Seems to be merging with Jupyter. [Linux, Mac, Windows]
+[Geany](http://www.geany.org/) - A good text editor, and an ok IDE too. [Linux, Mac, Windows]
+[Notepad++](https://notepad-plus-plus.org/) - Ditto. [Windows, Mac, Linux]
+Eclipse - A must if you are doing Java work. Will work with many other languages, but I find it a bit bloated an unfriendly to use. [Linux, Mac, Windows]
+[Meld](http://meldmerge.org/) - A good "dif" tool to see and merge two versions of a document or script. [Linux, Mac, Windows]
+RapidSVN - A great tool to manage SVN repositories. [Linux]
+Git - Commandline tools. Needed to move stuff to and from your GitHub repo. [Linux, Mac, Windows]
 
 
 
 
-## Office and Text
+### Plotting and Data Exploration
 
-- Word Processing
-LibreOffice Writer - Part of the LibreOffice suite. Fully functional replacement for MSWord, including Zotero biliographic manager integration.
-AbiWord - Lighter, but still functional. No Zotero integration.
+#### Plotting Tools
+[Veusz](http://home.gna.org/veusz/) - A GUI front-end for MatPlotLib from SciPy. Easy to get your data in, and then create a lot of different kinds of plots. Might be easier for a non-programmer than simply learning Python and MatPlotLib. [Linux, Mac, Windows]
+[XYScan](http://rhig.physics.yale.edu/~ullrich/software/xyscan/) - A cool little tool for grabbing x/y coords of data points from, eg.,plots in PDF papers you downloaded. Might be the only way to get raw data from some publications. [Linux, Mac]
+[Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - An additional library to make MatPlotLib plotting easier/nicer in SciPy. [Linux, Mac, Windows]
+GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
+[GeoRose](https://yonggeng.wordpress.com/2013/03/06/rose-diagram-software/) - A little software tool for making quick Rose diagrams and strike/dip plots. [Windows, Mac]
 
-- Bibligraphic Manager
-Zotero - Integrates into Firefox, Chrome/Chromium, LibreOffice, and MSWord.
+#### Data Exploration
+[GGobi](http://www.ggobi.org/) - A very cool program to interact with your 2D and 3D scatterplotted data. Not neccessarily for publication plots, but to get to know your data better. Very useful! [Linux, Mac, Windows]
 
-- Spreadsheet
-LibreOffice Calc - Stand in for MSExcel. Slick, but limited. 
-Gnumeric - More capabilities, better graphics, more plot types, slightly less slick.
+#### Network Analysis
+Cytoscape - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
 
-- Database
-LibreOffice Base - Stand in for MS
 
-- Text editing
-Gedit - A basic text editor that does what you want it to. Does require GTK libraries.
-Medit - Also good, doesn't require GTK.
 
-- PDF Tools
-PDF Shuffler - For moving/deleting pages in a PDF, or mergeing more than one PDF.
-Xournal - For annotating PDF's. Can write or draw on the page, and all annotations saved separately. Can export to a condensed PDF with annotations embedded.
-GhostScript - Command-line PDF manipulation. Good for batch resize, or quick creation of PDF from other file formats.
-DocumentViewer - A basic PDF viewer.
 
-- Web Browsing/development
-Firefox - Best FOSS web browser.
-Chromium - Open Source version of Chrome.
+### Office and Text
+
+#### Word Processing
+[LibreOffice Writer](www.libreoffice.org) - Part of the LibreOffice suite. Fully functional replacement for MSWord, including Zotero biliographic manager integration. [Linux, Mac, Windows]
+[AbiWord](www.abiword.org) - Lighter, but still functional. No Zotero integration. [Linux, Windows]
+
+#### Bibligraphic Manager
+[Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice, and MSWord. [Linux, Mac, Windows]
+
+#### Spreadsheet
+[LibreOffice Calc](www.libreoffice.org) - Stand in for MSExcel. Slick, but limited. [Linux, Mac, Windows]
+[Gnumeric](www.gnumeric.org) - More capabilities, better graphics, more plot types, slightly less slick. [Linux, can be compiled on Mac]
+
+#### Database
+(LibreOffice Base)[www.libreoffice.org] - Stand in for MS Access. [Linux, Mac, Windows]
+
+#### Text editing
+[Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic text editor that does what you want it to. Does require GTK libraries. [Linux, Mac, Windows]
+[Medit](http://mooedit.sourceforge.net/) - Also good, doesn't require GTK. [Linux]
+[Notepad++](https://notepad-plus-plus.org/) - Probably the best option for Windows users. [Windows, Mac, Linux]
+
+#### PDF Tools
+[PDF Shuffler](https://sourceforge.net/projects/pdfshuffler/) - For moving/deleting pages in a PDF, or mergeing more than one PDF. [Linux]
+[Xournal](http://xournal.sourceforge.net/) - For annotating PDF's. Can write or draw on the page, and all annotations saved separately. Can export to a condensed PDF with annotations embedded. [Linux]
+[GhostScript](http://www.ghostscript.com/) - Command-line PDF manipulation. Good for batch resize, or quick creation of PDF from other file formats. [Linux, Mac, Windows]
+[DocumentViewer] - A basic PDF viewer. [Linux]
+
+#### Web Browsing/development
+Firefox - Best FOSS web browser. [Linux, Mac, Windows]
+Chromium - Open Source version of Chrome. [Linux, Mac, Windows]
 Bluefish - A GUI html editor.
 
-- Desktop Publishing
-Scribus - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A direct stand-in for Adobe Pagemaker.
-LibreOffice Impress - More for presentations, but you can make posters, etc. in it too.
+#### Desktop Publishing
+[Scribus](http://www.scribus.net/) - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A direct stand-in for Adobe Pagemaker. [Linux, Mac, Windows]
+[LibreOffice Impress](www.libreoffice.org) - More for presentations, but you can make posters, etc. in it too. [Linux, Mac, Windows]
 
-- Presentations
-LibreOffice Impress - A direct stand-in for MS Powerpoint.
-Impressive - A great tool for PDF presentations. Gives you some great interactivity with your slides.
-
-
+#### Presentations
+[LibreOffice Impress](www.libreoffice.org) - A direct stand-in for MS Powerpoint. [Linux, Mac, Windows]
+[Impressive](http://impressive.sourceforge.net/) - A great tool for PDF presentations. Gives you some great interactivity with your slides. [Linux, Windows]
 
 
-## Graphics and Photography
 
-- Vector Graphics
+
+### Graphics and Photography
+
+#### Vector Graphics
 Inkscape - Direct stand in for Adobe Illustrator. Very functional, and powerful.
 LibreOffice Draw - Does vector graphics. More limited than Inkscape, but simpler to use, perhaps.
 
-- Bitmap Graphics
+#### Bitmap Graphics
 GIMP - Direct stand in for Adobe Photoshop. Very functional and powerful.
 ImageMagick - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation.
 
-- Photography
+#### Photography
 GThumb - Most functional picture viewer/organizer. Linux only. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well.
 Darktable - Very powerful photgraphy post-processing suite, including RAW development, collection management, and all sorts of other goodies. Direct stand-in for Adobe Lightroom.
 HUGIN - Best panorama sticher out there. Can also do mosaicing and image unwarping.
@@ -144,16 +151,16 @@ HUGIN - Best panorama sticher out there. Can also do mosaicing and image unwarpi
 
 
 
-## Multimedia
+### Multimedia
 
-- Video Editing
+#### Video Editing
 AVI-Demux - Simple program to trim video, extract audio, etc.
 Blender - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage.
 
-- Audio Editing
+#### Audio Editing
 Audacity - Easy to use, but powerful multitrack audio editor.
 
-- Multimedia Players/Converters
+#### Multimedia Players/Converters
 VLC - Will play pretty much any media file.
 SoundConverter - To/from pretty much any audio file format. GUI.
 Handbrake - GUI video converter. Powerful.
