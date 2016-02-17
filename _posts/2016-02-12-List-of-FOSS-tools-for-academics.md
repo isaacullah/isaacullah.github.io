@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2016-02-16
+modified: 2016-02-17
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
