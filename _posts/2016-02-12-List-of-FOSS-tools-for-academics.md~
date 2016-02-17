@@ -10,7 +10,7 @@ tags: [FOSS, software, list, tools]
 
 ## ...and what to use them for!
 
-*What is "FOSS," and what does it stand for? ["FOSS" stands for "Free and Open Source Software."](http://www.fsf.org/) It is important to note that this different from "software you don't pay for" in an important way: FOSS software is not only "free" in a monetary sense, but is also "free" in the sense that you or anyone else is "free" to take and use it in any way that you want, with only a very few restrictions (typically only that you credit where you got it from). FOSS software is usually (but not always) developed by a community of programmers who do it because the love it and want to contribute to the greater good. They are usually very passionate about their projects and they use the software themselves (often in their "day job"). Because FOSS projects are really **community** projects, it means that **you** can get involved if you want to. This means that **you** can contribute to fixing bugs, asking for features to be added, beta testing, styling, or coding, and so **you** can help make the software look and work the way **you** want it too. Not only that, but because the source code is always made available, **you**, as a scientist, can confirm that the software is **actually doing what it purports to do**, which is something you cannot do with any closed source software, free or paid-for.*
+*What is "FOSS," and what does it stand for? ["FOSS" stands for "Free and Open Source Software."](http://www.fsf.org/) It is important to note that this different from "Software You Don't Pay For" in an important way: FOSS software is not only "free" in a monetary sense, but it is also "free" in the sense that you or anyone are "free" to use it in any way that you want, with only a very few restrictions (typically only that you credit where you got it from). FOSS software is usually (but not always) developed by a community of programmers who do it because they love it and want to contribute to the greater good. They are usually very passionate about their projects and they use the software themselves (often in their "day job"). Because FOSS projects are really **community** projects, it means that **you** can get involved if you want to. This means that **you** can contribute to fixing bugs, asking for features to be added, beta testing, styling, or coding, and so **you** can help make the software look and work the way **you** want it too. Not only that, but because the source code is always made available, **you**, as a scientist, can confirm that the software is **actually doing what it purports to do**, which is something you cannot do with any closed source software, free or paid-for.*
 <br><br>
 *Read more about Open Source and the FOSS movement at the websites of the [Open Source Initiative](https://opensource.org/) and the [Free Software Foundation](http://www.fsf.org/). Also recommended is an article by Benjamin Ducke, [Natives of a connected world: free and open source software in archaeology](http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259).*
 
@@ -18,9 +18,9 @@ tags: [FOSS, software, list, tools]
 
 **Notes about this list:**
 <br><br>
-The great majority of these software tools are available on all three major OS platforms: Linux, MacOS, and MS Windows. There are a couple of pieces of nice software that are for one or two platforms only, and these are noted. It's important to remember, however, that many pieces of Windows software will run on Linux under the [WINE Windows compatibility layer](https://www.winehq.org/), and a lot of Linux software can be run inside Windows or Mac in a [virtual machine](https://www.virtualbox.org/) or compatibility layer like [MinGW](http://www.mingw.org/). However, since *all* varieties of Linux are also FOSS projects themselves, I highly recommend that you use a Linux OS. Gone are the days where you needed a degree in Computer Science to install and use Linux. Now, anyone can do it! Have a look at [distrowatch.com](http://distrowatch.com/) for some of the more popular flavors of Linux. I personally use and recommend [Xubuntu](xubuntu.org), which is very lightweight, and that has a desktop interface that will be comfortable for Windows users. Mac users may prefer the main [Ubuntu distro](www.ubuntu.com), which has a desktop interface that will be more familiar to them, albeit larger and more system-intensive to run.
+The great majority of these software tools are available on all three major OS platforms: Linux, MacOS, and MS Windows. There are a couple of pieces of nice software that are for one or two platforms only, and these are noted. It's important to remember, however, that many pieces of Windows software will run on Linux under the [WINE Windows compatibility layer](https://www.winehq.org/), and a lot of Linux software can be run inside Windows or Mac in a [virtual machine](https://www.virtualbox.org/) or compatibility layer like [MinGW](http://www.mingw.org/). However, since *all* varieties of Linux are also FOSS projects themselves, I highly recommend that you use a Linux OS. Gone are the days where you needed a degree in Computer Science to install and use Linux. Now, anyone can do it! Have a look at [distrowatch.com](http://distrowatch.com/) for some of the more popular flavors of Linux. I personally use and recommend [Xubuntu](xubuntu.org), which is very lightweight, and which has a desktop interface that will be comfortable for old school Windows users. Mac users may prefer the main [Ubuntu distro](www.ubuntu.com), which has a desktop interface that will be more familiar to them, albeit which is also larger and more system-intensive to run.
 <br><br>
- I plan to maintain and update this list over time. Please [e-mail me](mailto:isaaciullah@gmail.com) or leave a comment below if you have a piece of FOSS software you think should be on this list. Please provide examples of how your suggestion could be used in an academic context.
+ I plan to maintain and update this list over time. Please [e-mail me](mailto:isaaciullah@gmail.com) or leave a comment below if you have a piece of FOSS software you think should be on this list. Please provide examples of how your suggestion could be used in an academic context. Do note, however, that I want to keep this a *curated* list in the sense that I'd like to be able to either personally vouch for each piece of software, or at least know that it is a good, widely used, and accepted tool. I like having more than one option for each kind of software, but do not want the list to become too unweildy. Finally, I want to emphasize that this list is for FOSS options *only*. There are indeed some good *free* but *closed source* tools for some of the categories listed below. While these may be good options for you, I've chosen not to include them here.
 
 ---
 
@@ -32,14 +32,16 @@ The great majority of these software tools are available on all three major OS p
 - [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools for basic manipulation of file formats and projections. Many of the core tools are included in GRASS and QGIS, but if you are a minimalist, you might like to use these independently of a larger GIS suite. [Linux, Windows]
 
 #### Structure from Motion Analysis
-- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
+- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to Bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
 - [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - These are the core command-line programs that the PPT is built around, but it is still useful to know how to do it from scratch. [Linux, Mac, Windows]
-- [MVE with MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download. [Linux, Mac, Windows]
+- [MVE with Open-MVG and MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download. [Linux, Mac, Windows]
+- [Regard3D](http://www.regard3d.org/) - This is a new GUI wrapper for Open-MVG, for Windows and Mac only. I therefore can't put it through its paces, but it promises to be a great new tool for an easy SfM workflow. [Windows, Mac]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. Has a really great GUI interface. [Linux, perhaps Mac and Windows with some work]
+
 
 #### Point Cloud Editing and Viewing
 - [MeshLab](http://meshlab.sourceforge.net/) - The most full-featured point cloud and mesh editor around. A bit of a learning curve, but can do most everything. [Linux, Mac, Windows]
-- [CloudCompare](http://www.danielgm.net/cc/) - Easier to get into, but more limited than MeshLab. Great for measuring/quantifying volumetric changes between two point clouds. [Linux, Mac, Windows]
+- [CloudCompare](http://www.danielgm.net/cc/) - Easier to get into, but more limited than MeshLab. Great for measuring/quantifying volumetric changes between two point clouds. Comes with an excellent lightweight and simple point cloud viewer. [Linux, Mac, Windows]
 - [Blender](https://www.blender.org/) - The 3D modeling mode of Blender can be use to edit meshes and point clouds quite effectively. Many plugins. Most geared to digital animation than scientific analysis though. Can export to various 3D printer formats, however. [Linux, Mac, Windows]
 
 #### Image Analysis/Remote Sensing
@@ -74,16 +76,17 @@ The great majority of these software tools are available on all three major OS p
 #### Scientific Computing IDE's
 - [Spyder](https://github.com/spyder-ide/spyder) - Excellent for scientific Python work. Similar to R-Studio. [Linux, Mac, Windows]
 - [Jupyter](http://jupyter.org/) - A different way to get into Scientific Python. Runs in your web-browser. [Linux, Mac, Windows]
-- [R-Studio](https://www.rstudio.com/) - The best interface for using R. [Linux, Mac, Windows]
+- [R-Studio](https://www.rstudio.com/) - In my opnion, the best graphical interface for using R. [Linux, Mac, Windows]
+- [Rcommander](http://socserv.mcmaster.ca/jfox/Misc/Rcmdr/) - A different GUI for R. You may or may not like it better than R studio. [Linux, Mac, Windows]
 
 #### Software Development
 - [Spyder](https://github.com/spyder-ide/spyder) - Great for general Python devel too. [Linux, Mac, Windows]
 - [iPython](http://ipython.org/) - Great interactive Python shell. Seems to be merging with Jupyter. [Linux, Mac, Windows]
 - [Geany](http://www.geany.org/) - A good text editor, and an ok IDE too. [Linux, Mac, Windows]
 - [Notepad++](https://notepad-plus-plus.org/) - Ditto. [Windows, Mac, Linux]
-- [Eclipse](https://eclipse.org/) - A must if you are doing Java work. Will work with many other languages, but I find it a bit bloated an unfriendly to use. [Linux, Mac, Windows]
-- [Meld](http://meldmerge.org/) - A good "dif" tool to see and merge two versions of a document or script. [Linux, Mac, Windows]
-- [RapidSVN](http://rapidsvn.tigris.org/) - A great tool to manage SVN repositories. [Linux. Mac, Windows(?)]
+- [Eclipse](https://eclipse.org/) - A must if you are doing Java work. Will work with many other languages, but I find it a bit bloated and unfriendly to use. [Linux, Mac, Windows]
+- [Meld](http://meldmerge.org/) - A good "diff" tool to see differences between, and merge two versions of, a document or script. [Linux, Mac, Windows]
+- [RapidSVN](http://rapidsvn.tigris.org/) - A great tool to manage SVN repositories. [Linux, Mac, Windows(?)]
 - [Git](www.github.org) - Command-line tools. Needed to move stuff to and from your GitHub repo. [Linux, Mac, Windows]
 
 ---
@@ -94,7 +97,7 @@ The great majority of these software tools are available on all three major OS p
 - [Veusz](http://home.gna.org/veusz/) - A GUI front-end for MatPlotLib from SciPy. Easy to get your data in, and then create a lot of different kinds of plots. Might be easier for a non-programmer than simply learning Python and MatPlotLib. [Linux, Mac, Windows]
 - [XYScan](http://rhig.physics.yale.edu/~ullrich/software/xyscan/) - A cool little tool for grabbing x/y coords of data points from, eg., plots in PDF papers you downloaded. Might be the only way to get raw data from some publications. [Linux, Mac]
 - [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - An additional library to make MatPlotLib plotting easier/nicer in SciPy. [Linux, Mac, Windows]
-GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
+- [GGPlot2](http://ggplot2.org/) - Ditto, but for R instead. [Linux, Mac, Windows]
 - [GeoRose](https://yonggeng.wordpress.com/2013/03/06/rose-diagram-software/) - A little software tool for making quick Rose diagrams and strike/dip plots. [Windows, Mac]
 
 #### Data Exploration
@@ -114,16 +117,20 @@ GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
 - [Lyx](https://www.lyx.org/) - A gui for LaTex, which might make it easier for you to use it. Helpful especially if you are a non-LaTex user trying to collaborate with a LaTex afficiando. [Linux, Mac, Windows]
 
 #### Bibliographic Manager
-- [Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice, and MSWord. Seamless integration with Google Scholar. VERY highly recommended. [Linux, Mac, Windows]
-- [BibTex](http://www.bibtex.org/) - If you use LaTex, you are likely using BibTex for your citation managment. Same idea as LaTex: a sort of Markdown for formatting bibliographies. [Linux, Mac, Windows]
-- [Docear](http://www.docear.org/) - A great alternative to Zotero, with some in-text support for word processors. Best feature is it's integration of a visual "mind-map" organization of citations and documents.  [Linux, Mac, Windows]
+- [Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice Writer, and MS Word. Seamless integration with Google Scholar in your webbrowser. Online storage possible, nice collaboration features, and many plugins and citation styles. VERY highly recommended. [Linux, Mac, Windows]
+- [Docear](http://www.docear.org/) - A great alternative to Zotero, with in-text support for some word processors. Best feature is it's integration of a visual "mind-map" organization of citations and documents. [Linux, Mac, Windows]
+- [BibTex](http://www.bibtex.org/) - If you use LaTex, you are likely using BibTex for your citation managment. Same idea as LaTex: a sort of MarkDown for formatting bibliographies and a format for storing citations. [Linux, Mac, Windows]
 
 #### Spreadsheet
-- [LibreOffice Calc](www.libreoffice.org) - A FOSS alternative for MSExcel. Slick, but limited in terms of statistical analysis and plots (as is MS Excel). [Linux, Mac, Windows]
+- [LibreOffice Calc](www.libreoffice.org) - A FOSS alternative for MS Excel. Slick, but limited in terms of statistical analysis and plots (as is MS Excel). [Linux, Mac, Windows]
 - [Gnumeric](www.gnumeric.org) - More capabilities, better graphics, more plot types, slightly less slick. [Linux, can be compiled on Mac]
+- [PAST](http://folk.uio.no/ohammer/past/) - PAST also has basic spreadsheet capabilities, as well as its more complex statistical functions. [Windows, Mac]
 
 #### Database
 - [LibreOffice Base](www.libreoffice.org) - A FOSS alternative for MS Access. [Linux, Mac, Windows]
+- [PGAdmin](http://www.pgadmin.org/) - Aninterface for PostgreSQL databases which is fully cross platform. I'm not a huge database-user myself, but I'm given to understand that this is a good tool for managing PostgreSQL databases. [Linux, Mac, Windows]
+- [Postgres.app](http://postgresapp.com/) - A Mac-specific interface for PostgreSQL, which you might like instead of PGAdmin. [Mac]
+- [SQLite](https://www.sqlite.org/) - SQLite is a very widely used Open database format. It's used as a database engine by a lot of other FOSS projects, such as GRASS, so it's useful to be familiar with it. [Linux, Mac, Windows]
 
 #### Text editing
 - [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic lightweight text editor with syntax highlighting that just does what you want it to. My personal favorite. Does require GTK libraries, however. [Linux, Mac, Windows]
