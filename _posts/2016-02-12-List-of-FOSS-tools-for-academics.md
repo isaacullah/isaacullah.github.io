@@ -81,9 +81,9 @@ The great majority of these software tools are available on all three major OS p
 - [iPython](http://ipython.org/) - Great interactive Python shell. Seems to be merging with Jupyter. [Linux, Mac, Windows]
 - [Geany](http://www.geany.org/) - A good text editor, and an ok IDE too. [Linux, Mac, Windows]
 - [Notepad++](https://notepad-plus-plus.org/) - Ditto. [Windows, Mac, Linux]
-- [Eclipse](https://eclipse.org/) - A must if you are doing Java work. Will work with many other languages, but I find it a bit bloated an unfriendly to use. [Linux, Mac, Windows]
-- [Meld](http://meldmerge.org/) - A good "dif" tool to see and merge two versions of a document or script. [Linux, Mac, Windows]
-- [RapidSVN](http://rapidsvn.tigris.org/) - A great tool to manage SVN repositories. [Linux. Mac, Windows(?)]
+- [Eclipse](https://eclipse.org/) - A must if you are doing Java work. Will work with many other languages, but I find it a bit bloated and unfriendly to use. [Linux, Mac, Windows]
+- [Meld](http://meldmerge.org/) - A good "diff" tool to see differences between, and merge two versions of, a document or script. [Linux, Mac, Windows]
+- [RapidSVN](http://rapidsvn.tigris.org/) - A great tool to manage SVN repositories. [Linux, Mac, Windows(?)]
 - [Git](www.github.org) - Command-line tools. Needed to move stuff to and from your GitHub repo. [Linux, Mac, Windows]
 
 ---
@@ -94,7 +94,7 @@ The great majority of these software tools are available on all three major OS p
 - [Veusz](http://home.gna.org/veusz/) - A GUI front-end for MatPlotLib from SciPy. Easy to get your data in, and then create a lot of different kinds of plots. Might be easier for a non-programmer than simply learning Python and MatPlotLib. [Linux, Mac, Windows]
 - [XYScan](http://rhig.physics.yale.edu/~ullrich/software/xyscan/) - A cool little tool for grabbing x/y coords of data points from, eg., plots in PDF papers you downloaded. Might be the only way to get raw data from some publications. [Linux, Mac]
 - [Seaborn](http://stanford.edu/~mwaskom/software/seaborn/) - An additional library to make MatPlotLib plotting easier/nicer in SciPy. [Linux, Mac, Windows]
-GGPlot2 - Ditto, but for R instead. [Linux, Mac, Windows]
+- [GGPlot2](http://ggplot2.org/) - Ditto, but for R instead. [Linux, Mac, Windows]
 - [GeoRose](https://yonggeng.wordpress.com/2013/03/06/rose-diagram-software/) - A little software tool for making quick Rose diagrams and strike/dip plots. [Windows, Mac]
 
 #### Data Exploration
