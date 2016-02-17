@@ -105,6 +105,7 @@ The great majority of these software tools are available on all three major OS p
 
 #### Network Analysis
 - [Cytoscape](http://www.cytoscape.org/) - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
+- [Gephi](https://gephi.org/) - I'm told it's still a bit buggy, but I do remember it being easier to use than Cytoscape. Not sure if it can do as much, but definitely worth checking out as well! [Linux, Mac, Windows]
 
 ---
 
