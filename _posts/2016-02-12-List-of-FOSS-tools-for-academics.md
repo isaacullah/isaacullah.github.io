@@ -163,7 +163,7 @@ The great majority of these software tools are available on all three major OS p
 - [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. I've not used it, but have it on good authority that it works very well. [Linux, Mac, Windows]
 - [Sozi](http://sozi.baierouge.fr/) - Sozi looks to be an open source alternative to "Prezi". I've not used it yet, but it seems quite promising if you like that Prezi style of presentations. [Linux, Mac, Windows]
 - [DeckJS](http://imakewebthings.com/deck.js) - DeckJS is a really cool HTML5 presentation back-end. It's "Web 2.0" ready, and you can use it locally in any browser or deployed on your website. Once set up, it's pretty easy to use with standard HTML or MarkDown. I've started doing more and more presentations this way. [Linux, Mac, Windows]
-- [SuperSimpleSlider](http://supersimpleslider.com/) - The most stripped down, basic HTML5 slide presenter you can find. Dead easy to make presentations in HTML and/or MarkDown. I've used it for [this SAA presentation](http://isaacullah.github.io/SAA-2015-Presentation/). [Linux, Mac, Windows]
+- [SuperSimpleSlider](http://supersimpleslider.com/) - The most stripped down, basic HTML5 slide presenter you can find. Dead easy to make presentations in HTML and/or MarkDown. I used it for [my 2015 SAA presentation](http://isaacullah.github.io/SAA-2015-Presentation/). [Linux, Mac, Windows]
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
