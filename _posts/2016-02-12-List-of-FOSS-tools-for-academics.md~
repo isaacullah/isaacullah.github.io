@@ -161,6 +161,8 @@ The great majority of these software tools are available on all three major OS p
 - [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. My main PDF presentation tool. [Linux, Windows]
 - [Lyx](https://www.lyx.org/) - Lyx will also help you make nice PDF presentations using LaTex styles/formatting. [Linux, Mac, Windows]
 - [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. I've not used it, but have it on good authority that it works very well. [Linux, Mac, Windows]
+- [Sozi](http://sozi.baierouge.fr/) - Sozi looks to be an open source alternative to "Prezi". I've not used it yet, but it seems quite promising if you like that Prezi style of presentations. [Linux, Mac, Windows]
+- [DeckJS](http://imakewebthings.com/deck.js) - DeckJS is a really cool HTML5 presentation back-end. It's "Web 2.0" ready, and you can use it locally in any browser or deployed on your website. Once set up, it's pretty easy to use with standard HTML or MarkDown. I've started doing more and more presentations this way. [Linux, Mac, Windows]
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
@@ -193,10 +195,11 @@ The great majority of these software tools are available on all three major OS p
 
 #### Video Editing
 - [AVI-Demux](http://avidemux.sourceforge.net/) - Simple program to trim video, extract audio, etc. [Linux, Mac, Windows]
-- [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, animations, etc. [Linux, Mac, Windows]
+- [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, 3D animations, etc. If you want to do professional video production or computer animation, this is the FOSS tool for you. [Linux, Mac, Windows]
 
 #### Audio Editing
 - [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
+- [Ardour](http://ardour.org/) - Ardour is what is called a DAW (Digital Audio Workstation). As such, it's more complex than Audacity, but also potentially more powerful. If you really want to be doing full-fledged audio production, then this is what you should be using. Do note that while Ardour is still technically FOSS, they only offer the source code (to be compiled by you) for "free". You have to donate a small sum to get the pre-compiled binaries for your OS. [Linux, Mac, Windows version forthcoming]
 
 #### Multimedia Players/Converters
 - [VLC](http://www.videolan.org/vlc/index.html) - Will play pretty much any media file. [Linux, Mac, Windows]
