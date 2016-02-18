@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2016-02-17
+modified: 2016-02-18
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
@@ -70,6 +70,7 @@ The great majority of these software tools are available on all three major OS p
 - [Anaconda](https://www.continuum.io/downloads) - Anaconda is a self-contained system for scientific computing with Python. Although you don't need it, it might simplify your installation of SciPy, etc., and will ensure it all plays together well. While technically FOSS, Anaconda is product of an enterprise/open software company that offers some paid services too. [Linux, Mac, Windows]
 - [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
+- [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Another nice data-mining program. Weka libraries can also be brought into KNIME as plugins. [Linux,Mac, Windows]
 - [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. Recommended for people who aren't programmers! [Windows, Mac]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 
