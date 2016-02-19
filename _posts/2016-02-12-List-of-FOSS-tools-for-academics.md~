@@ -178,8 +178,9 @@ The great majority of these software tools are available on all three major OS p
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
-- [XMind](http://www.xmind.net/) - Perhaps a little more slick than Freemind. Be aware that although there is a paid-for "Pro" version, the normal version is totally FOSS. [Linux, Mac, Windows]
-- [Docear](http://www.docear.org/) - Docear also has a mind-map function. [Linux, Mac, Windows]
+- [Freeplane](http://www.freeplane.org/wiki/index.php/Main_Page) - A spin-off from Freemind. Similar, but might be more to your liking. [Linux, Mac, Windows]
+- [XMind](http://www.xmind.net/) - Perhaps a little more slick than Freemind/Freeplane. Be aware that although there is a paid-for "Pro" version, the normal version is totally FOSS. [Linux, Mac, Windows]
+- [Docear](http://www.docear.org/) - Docear also has a decent mind-map function. It's integration with your references list make it very well suited for mapping out a writing project. [Linux, Mac, Windows]
 
 ---
 
@@ -211,7 +212,7 @@ The great majority of these software tools are available on all three major OS p
 - [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, 3D animations, etc. If you want to do professional video production or computer animation, this is the FOSS tool for you. [Linux, Mac, Windows]
 
 #### Audio Editing
-- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
+- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. I generally use Audacity for all my normal audio editing needs. [Linux, Mac, Windows]
 - [Ardour](http://ardour.org/) - Ardour is what is called a DAW (Digital Audio Workstation). As such, it's more complex than Audacity, but also potentially more powerful. If you really want to be doing full-fledged audio production, then this is what you should be using. Do note that while Ardour is still technically FOSS, they only offer the source code (to be compiled by you) for "free". You have to donate a small sum to get the pre-compiled binaries for your OS. [Linux, Mac, Windows version forthcoming]
 
 #### Multimedia Players/Converters
