@@ -139,7 +139,7 @@ The great majority of these software tools are available on all three major OS p
 
 #### Database
 - [LibreOffice Base](www.libreoffice.org) - A FOSS alternative for MS Access. [Linux, Mac, Windows]
-- [PGAdmin](http://www.pgadmin.org/) - Aninterface for PostgreSQL databases which is fully cross platform. I'm not a huge database-user myself, but I'm given to understand that this is a good tool for managing PostgreSQL databases. [Linux, Mac, Windows]
+- [PGAdmin](http://www.pgadmin.org/) - An interface for PostgreSQL databases which is fully cross platform. I'm not a huge database-user myself, but I'm given to understand that this is a good tool for managing PostgreSQL databases. [Linux, Mac, Windows]
 - [Postgres.app](http://postgresapp.com/) - A Mac-specific interface for PostgreSQL, which you might like instead of PGAdmin. [Mac]
 - [SQLite](https://www.sqlite.org/) - SQLite is a very widely used Open database format. It's used as a database engine by a lot of other FOSS projects, such as GRASS, so it's useful to be familiar with it. [Linux, Mac, Windows]
 
@@ -166,15 +166,15 @@ The great majority of these software tools are available on all three major OS p
 #### Desktop Publishing
 - [Scribus](http://www.scribus.net/) - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A FOSS alternative for Adobe Pagemaker. [Linux, Mac, Windows]
 - [LibreOffice Impress](www.libreoffice.org) - More for presentations, but you can make posters, etc. in it too. [Linux, Mac, Windows]
+- [LaTex](https://www.latex-project.org/) - Yup, you guessed it! LaTex can be a very powerful tool for Desktop Publishing too! [Linux, Mac, Windows]
 
 #### Presentations
 - [LibreOffice Impress](www.libreoffice.org) - A FOSS alternative for MS Powerpoint. Great if you want a standard presentation experience with transitions, animations, etc. [Linux, Mac, Windows]
 - [Impressive](http://impressive.sourceforge.net/) - A neat tool for PDF presentations. Gives you some great interactivity with your slides. My main PDF presentation tool. [Linux, Windows]
-- [Lyx](https://www.lyx.org/) - Lyx will also help you make nice PDF presentations using LaTex styles/formatting. [Linux, Mac, Windows]
-- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. Works well in tandem with Lyx. I've not used it, but have it on good authority that it works very well. [Linux, Mac, Windows]
+- [Beamer](https://bitbucket.org/rivanvx/beamer/wiki/Home) - The presentation tool for LaTex presentations. I'm told on good authority that it works very well in tandem with Lyx as a total presenation solution. [Linux, Mac, Windows]
 - [Sozi](http://sozi.baierouge.fr/) - Sozi looks to be an open source alternative to "Prezi". I've not used it yet, but it seems quite promising if you like that Prezi style of presentations. [Linux, Mac, Windows]
 - [DeckJS](http://imakewebthings.com/deck.js) - DeckJS is a really cool HTML5 presentation back-end. It's "Web 2.0" ready, and you can use it locally in any browser or deployed on your website. Once set up, it's pretty easy to use with standard HTML or MarkDown. I've started doing more and more presentations this way. [Linux, Mac, Windows]
-- [SuperSimpleSlider](http://supersimpleslider.com/) - The most stripped down, basic HTML5 slide presenter you can find. Dead easy to make presentations in HTML and/or MarkDown. I used it for [my 2015 SAA presentation](http://isaacullah.github.io/SAA-2015-Presentation/). [Linux, Mac, Windows]
+- [SuperSimpleSlider](http://supersimpleslider.com/) - The most stripped down, basic HTML5 slide presenter you can find. It's *less than one kB in size*! Dead easy to make presentations in HTML and/or MarkDown. I used it for [my 2015 SAA presentation](http://isaacullah.github.io/SAA-2015-Presentation/). [Linux, Mac, Windows]
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]

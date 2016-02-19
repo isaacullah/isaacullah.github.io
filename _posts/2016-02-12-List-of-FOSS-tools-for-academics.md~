@@ -32,13 +32,6 @@ The great majority of these software tools are available on all three major OS p
 - [SAGA](http://www.saga-gis.org/) - SAGA is another very powerful FOSS GIS platform. In many ways it parallels GRASS, and seems to have a very dedicated user-base. Personally, I use and recommend GRASS, but SAGA may appeal to you, so you should defintely check it out! [Linux, Mac, Windows]
 - [gvSIG](http://www.gvsig.com/) - Another great FOSS GIS program. Perhaps a smaller user community than the others listed above, but still a quite capable piece of software. Notable is the large array of localizions (languages) that are available for it. [Linux, Mac, Windows]
 
-#### Other Geospatial Tools
-- [GDAL/OGR](http://www.gdal.org/) - GDAL and OGR are libraries used by all FOSS GIS programs to import/export various GIS file formats. They can be accessed from the command-line independently, which may be useful for scripting or batch operations. [Linux, Mac, Windows]
-- [Proj](https://trac.osgeo.org/proj/) - Much like GDAL, this is a library used by all FOSS GIS suites. It is for managing geographic projection systems. Again could be useful to use on its own in certain situations. [Linux, Mac, Wnidows]
-- [PDAL](http://www.pdal.io/) - Very similar to GDAL, PDAL is a library for manipulating and translating point-cloud data (like LiDAR or SfM data). Again, it is generally not accessed directly by the end user, but could be useful if you are developing a custom application or script. [Linux, Mac, Windows]
-- [OSSIM](https://trac.osgeo.org/ossim/) - Another library, but this time to deal with multiband satellite imagery, among other data formats. [Linux, Mac, Windows]
-- [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools (including GDAL/OGR and Proj) with a basic GUI for manipulation of file formats and projections with. [Linux, Windows]
-
 #### Structure from Motion Analysis
 - ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to Bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
 - [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - These are the core command-line programs that the PPT is built around, but it is still useful to know how to do it from scratch. [Linux, Mac, Windows]
@@ -59,6 +52,13 @@ The great majority of these software tools are available on all three major OS p
 - [Orfeo Toolbox](https://www.orfeo-toolbox.org) - A nice-looking piece of software for analyzing satellite imagery. Looks to be especially well-suited for very high resolution imagery. [Linux, Mac, Windows] 
 - [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - For creating rectified photomosaics from aerial imagery. [Linux, perhaps Mac and Windows with some work]
+
+#### Other Geospatial Tools
+- [GDAL/OGR](http://www.gdal.org/) - GDAL and OGR are libraries used by all FOSS GIS programs to import/export various GIS file formats. They can be accessed from the command-line independently, which may be useful for scripting or batch operations. [Linux, Mac, Windows]
+- [Proj](https://trac.osgeo.org/proj/) - Much like GDAL, this is a library used by all FOSS GIS suites. It is for managing geographic projection systems. Again could be useful to use on its own in certain situations. [Linux, Mac, Wnidows]
+- [PDAL](http://www.pdal.io/) - Very similar to GDAL, PDAL is a library for manipulating and translating point-cloud data (like LiDAR or SfM data). Again, it is generally not accessed directly by the end user, but could be useful if you are developing a custom application or script. [Linux, Mac, Windows]
+- [OSSIM](https://trac.osgeo.org/ossim/) - Another library, but this time to deal with multiband satellite imagery, among other data formats. [Linux, Mac, Windows]
+- [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools (including GDAL/OGR and Proj) with a basic GUI for manipulation of file formats and projections with. [Linux, Windows]
 
 ---
 
