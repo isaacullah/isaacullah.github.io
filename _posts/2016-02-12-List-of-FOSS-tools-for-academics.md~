@@ -80,8 +80,8 @@ The great majority of these software tools are available on all three major OS p
 - [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
 - [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Another nice data-mining program. Weka libraries can also be brought into KNIME as plugins. [Linux,Mac, Windows]
-- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. Recommended for people who aren't programmers! [Windows, Mac]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
+- [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. Recommended for people who aren't programmers! NOTE: It has come to my attention that the source-code for PAST is not available. It's also released under a slightly more restrictive liscence than is true open-source software. Thus, it is clearly not FOSS. At the moment, I'm leaving it on this list as a special dispensation because it's a very useful piece of software that is *almost* FOSS, but I may eventually decide to remove it. [Windows, Mac]
 
 #### Scientific Computing IDE's
 - [Spyder](https://github.com/spyder-ide/spyder) - Excellent for scientific Python work. Similar to R-Studio. [Linux, Mac, Windows]
@@ -178,7 +178,7 @@ The great majority of these software tools are available on all three major OS p
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or an idea. I often use it to map out computational models that I plan to create. [Linux, Mac, Windows]
-- [Freeplane](http://www.freeplane.org/wiki/index.php/Main_Page) - A spin-off from Freemind. Similar, but might be more to your liking. [Linux, Mac, Windows]
+- [Freeplane](http://www.freeplane.org/wiki/index.php/Main_Page) - A spin-off from Freemind. Similar, but might be more to your liking. Supposed to have added some features that were percieved to have been missing from Freemind, and supposed to be on a faster release schedule. [Linux, Mac, Windows]
 - [XMind](http://www.xmind.net/) - Perhaps a little more slick than Freemind/Freeplane. Be aware that although there is a paid-for "Pro" version, the normal version is totally FOSS. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - Docear also has a decent mind-map function. It's integration with your references list make it very well suited for mapping out a writing project. [Linux, Mac, Windows]
 
