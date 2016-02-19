@@ -26,10 +26,18 @@ The great majority of these software tools are available on all three major OS p
 
 ### GIS and Image Analysis
 
-#### GIS
-- [GRASS](grass.osgeo.org) - Most powerful, fully-functional FOSS GIS suite. "Heavy lifting" GIS work and scientific geo-spatial analysis. [Linux, Mac, Windows]
-- [QGIS](www.qgis.org) - Less powerful, but very functional GIS. Great for web mapping applications and making finished cartographic products. [Linux, Mac, Windows]
-- [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools for basic manipulation of file formats and projections. Many of the core tools are included in GRASS and QGIS, but if you are a minimalist, you might like to use these independently of a larger GIS suite. [Linux, Windows]
+#### GIS Suites
+- [GRASS](grass.osgeo.org) - Most powerful, fully-functional FOSS GIS suite. "Heavy lifting" GIS work and scientific geo-spatial analysis. Rapid development, excellent community, and some of the most cutting-edge geospatial analysis tools available. This is the GIS I use every day, and I highly recommend that you put in the effort to learn it. It works a bit differently than other GIS systems, so it may take some getting used to. Please see my [page on GRASS GIS](http://isaacullah.github.io/GRASS/) for more information about archaeology-specifc tools that I've developed for GRASS. [Linux, Mac, Windows]
+- [QGIS](www.qgis.org) - Less powerful, but very functional GIS. Great for web mapping applications and making finished cartographic products. Note that you can now access some of the GRASS libraries from within QGIS, as well as growing host of plugins, all of which increase the comptuational power that QGIS can unleash. However, due to the less stringent way it handles projections, map resolution issues, and geographic regions, I still recommend GRASS for the heavy-lifting. The line between them is blurring, however, and, especially if you are coming from a certain well-known commercial GIS application, you might initially feel more at home in QGIS. [Linux, Mac, Windows]
+- [SAGA](http://www.saga-gis.org/) - SAGA is another very powerful FOSS GIS platform. In many ways it parallels GRASS, and seems to have a very dedicated user-base. Personally, I use and recommend GRASS, but SAGA may appeal to you, so you should defintely check it out! [Linux, Mac, Windows]
+- [gvSIG](http://www.gvsig.com/) - Another great FOSS GIS program. Perhaps a smaller user community than the others listed above, but still a quite capable piece of software. Notable is the large array of localizions (languages) that are available for it. [Linux, Mac, Windows]
+
+#### Other Geospatial Tools
+- [GDAL/OGR](http://www.gdal.org/) - GDAL and OGR are libraries used by all FOSS GIS programs to import/export various GIS file formats. They can be accessed from the command-line independently, which may be useful for scripting or batch operations. [Linux, Mac, Windows]
+- [Proj](https://trac.osgeo.org/proj/) - Much like GDAL, this is a library used by all FOSS GIS suites. It is for managing geographic projection systems. Again could be useful to use on its own in certain situations. [Linux, Mac, Wnidows]
+- [PDAL](http://www.pdal.io/) - Very similar to GDAL, PDAL is a library for manipulating and translating point-cloud data (like LiDAR or SfM data). Again, it is generally not accessed directly by the end user, but could be useful if you are developing a custom application or script. [Linux, Mac, Windows]
+- [OSSIM](https://trac.osgeo.org/ossim/) - Another library, but this time to deal with multiband satellite imagery, among other data formats. [Linux, Mac, Windows]
+- [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools (including GDAL/OGR and Proj) with a basic GUI for manipulation of file formats and projections with. [Linux, Windows]
 
 #### Structure from Motion Analysis
 - ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to Bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
@@ -48,6 +56,7 @@ The great majority of these software tools are available on all three major OS p
 - [Multispec](https://engineering.purdue.edu/~biehl/MultiSpec/) - Great tool for analysis and manipulation of multispectral satellite imagery. Can do clustering. [Mac, Windows, Online in browser]
 - [ImageJ](http://imagej.nih.gov/ij/) - Great tool for general image manipulation and analysis. A LOT of plugins. Mostly used for medical imaging, but great for analysis of artifacts via imagery. [Linux, Mac, Windows]
 - [HyperCube](http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/610433/hypercube.aspx) - Another multispectral image analysis tool. Very powerful. [Windows, Mac]
+- [Orfeo Toolbox](https://www.orfeo-toolbox.org) - A nice-looking piece of software for analyzing satellite imagery. Looks to be especially well-suited for very high resolution imagery. [Linux, Mac, Windows] 
 - [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - For creating rectified photomosaics from aerial imagery. [Linux, perhaps Mac and Windows with some work]
 
