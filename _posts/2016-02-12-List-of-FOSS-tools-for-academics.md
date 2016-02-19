@@ -57,8 +57,10 @@ The great majority of these software tools are available on all three major OS p
 - [GDAL/OGR](http://www.gdal.org/) - GDAL and OGR are libraries used by all FOSS GIS programs to import/export various GIS file formats. They can be accessed from the command-line independently, which may be useful for scripting or batch operations. [Linux, Mac, Windows]
 - [Proj](https://trac.osgeo.org/proj/) - Much like GDAL, this is a library used by all FOSS GIS suites. It is for managing geographic projection systems. Again could be useful to use on its own in certain situations. [Linux, Mac, Wnidows]
 - [PDAL](http://www.pdal.io/) - Very similar to GDAL, PDAL is a library for manipulating and translating point-cloud data (like LiDAR or SfM data). Again, it is generally not accessed directly by the end user, but could be useful if you are developing a custom application or script. [Linux, Mac, Windows]
+- [LasLiberator](https://github.com/LASliberator) - A simple tool to convert pointcloud data from the proprietary LAS format to the open LAZ format. [Windows] 
 - [OSSIM](https://trac.osgeo.org/ossim/) - Another library, but this time to deal with multiband satellite imagery, among other data formats. [Linux, Mac, Windows]
 - [FWTools](http://fwtools.maptools.org/) - A small suite of GIS/Geospatial tools (including GDAL/OGR and Proj) with a basic GUI for manipulation of file formats and projections with. [Linux, Windows]
+- [FUSION](http://forsys.cfr.washington.edu/fusion.html) - A GUI tool to deal with LiDAR data, provided by the US Forest Service. Windows only. [Windows]
 
 ---
 
