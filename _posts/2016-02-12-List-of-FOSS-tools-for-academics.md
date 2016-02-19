@@ -178,6 +178,7 @@ The great majority of these software tools are available on all three major OS p
 
 #### Mind Mapping and Diagramming
 - [Freemind](http://freemind.sourceforge.net/wiki/index.php/Main_Page) -  Great for mapping out a project or idea. [Linux, Mac, Windows]
+- [XMind](http://www.xmind.net/) - Perhaps a little more slick than Freemind. Be aware that although there is a paid-for "Pro" version, the normal version is totally FOSS. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - Docear also has a mind-map function. [Linux, Mac, Windows]
 
 ---
@@ -193,10 +194,10 @@ The great majority of these software tools are available on all three major OS p
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
 
 #### Photography
-- [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
 - [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
-- [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. [Linux, Mac, Windows]
 - [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
+- [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
+- [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. A really great piece of software! [Linux, Mac, Windows]
 - [geotag](http://geotag.sourceforge.net/) - Add geographic information to the EXIF tags of your photos by syncing with a track exported from your GPS. Very useful for remember exactly where you took a photo! [Linux, Windows, Web Service]
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Command-line libraries for manipulating the EXIF image information tags of your photographs. [Linux, Mac, Windows]
 - [PyExifToolGUI](https://hvdwolf.github.io/pyExifToolGUI/) - A nice Python GUI for ExifTools. Perhaps easier if you are not a programmer! [Linux, Mac, Windows]
@@ -210,7 +211,7 @@ The great majority of these software tools are available on all three major OS p
 - [Blender](www.blender.org) - In video editing mode, this is the best non-linear, non-destructive video editor in the FOSS world. Can do everything, including digital stabilization of shaky footage color correction/grading, overlays, 3D animations, etc. If you want to do professional video production or computer animation, this is the FOSS tool for you. [Linux, Mac, Windows]
 
 #### Audio Editing
-- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. [Linux, Mac, Windows]
+- [Audacity](http://www.audacityteam.org/) - Easy to use, but powerful multi-track audio editor and recorder. Great for podcasts, etc. Many plugins for audio effects and analysis. I generally use Audacity for all my normal audio editing needs. [Linux, Mac, Windows]
 - [Ardour](http://ardour.org/) - Ardour is what is called a DAW (Digital Audio Workstation). As such, it's more complex than Audacity, but also potentially more powerful. If you really want to be doing full-fledged audio production, then this is what you should be using. Do note that while Ardour is still technically FOSS, they only offer the source code (to be compiled by you) for "free". You have to donate a small sum to get the pre-compiled binaries for your OS. [Linux, Mac, Windows version forthcoming]
 
 #### Multimedia Players/Converters
