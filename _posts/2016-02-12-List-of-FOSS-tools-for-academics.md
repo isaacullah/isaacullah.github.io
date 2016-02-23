@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2016-02-19
+modified: 2016-02-23
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
@@ -198,12 +198,14 @@ The great majority of these software tools are available on all three major OS p
 
 #### Photography
 - [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
+-[LightZone](http://lightzoneproject.org/) - Quite similar to DarkTable, and also a very functional FOSS alternative to Lightroom. I haven't tried this software myself, but it does seem to be actively developed with a good user community. I hear good things. There is a Windows version too. Note that while you have to register to download, it's free and open-source. [Linux, Mac, Windows]
 - [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
+- [G'MIC](http://gmic.eu/) - This is a great set of plugins for GIMP (or Adobe Photoshop) that add tons of new functionality. Highly recommended! [Linux, Mac, Windows]
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. A really great piece of software! [Linux, Mac, Windows]
 - [geotag](http://geotag.sourceforge.net/) - Add geographic information to the EXIF tags of your photos by syncing with a track exported from your GPS. Very useful for remember exactly where you took a photo! [Linux, Windows, Web Service]
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Command-line libraries for manipulating the EXIF image information tags of your photographs. [Linux, Mac, Windows]
-- [PyExifToolGUI](https://hvdwolf.github.io/pyExifToolGUI/) - A nice Python GUI for ExifTools. Perhaps easier if you are not a programmer! [Linux, Mac, Windows]
+- [PyExifToolGUI](https://hvdwolf.github.io/pyExifToolGUI/) - A nice Python GUI for ExifTools. Perhaps easier for you if you are not a command-line user. [Linux, Mac, Windows]
 
 ---
 
