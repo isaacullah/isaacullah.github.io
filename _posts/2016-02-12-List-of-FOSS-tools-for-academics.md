@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2016-02-23
+modified: 2016-03-04
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
@@ -31,6 +31,7 @@ The great majority of these software tools are available on all three major OS p
 - [QGIS](www.qgis.org) - A less powerful, but very functional GIS with a large user-base. Great for web mapping applications and making finished cartographic products. Note that you can now access some of the GRASS libraries from within QGIS, as well as growing host of plugins, all of which increase the comptuational power that QGIS can unleash. However, due to the less stringent way it handles projections, map resolution issues, and geographic regions, I still recommend GRASS for the heavy-lifting. The line between them is blurring, however, and, especially if you are coming from a certain well-known commercial GIS application, you might initially feel more at home in QGIS. [Linux, Mac, Windows]
 - [SAGA](http://www.saga-gis.org/) - SAGA is another very powerful FOSS GIS platform. In many ways it parallels GRASS, and seems to have a very dedicated user-base. Personally, I use and recommend GRASS, but SAGA may appeal to you, so you should defintely check it out! [Linux, Mac, Windows]
 - [gvSIG](http://www.gvsig.com/) - Another great FOSS GIS program. Perhaps a smaller user community than the others listed above, but still a quite capable piece of software. Notable is the large array of localizions (languages) that are available for it. [Linux, Mac, Windows]
+- [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - This is a really interesting project being developed at the University of Geulph. It operates under the "Open Access Software" principle, which purports to be one step beyong even Open Source, in the sense that the project must *actively encourage* examination of the source code. Beyond that, it looks to be a very powerful cross-platform GIS suite under active development. I've downloaded it, and wil be testing it out. Note that it does require the latest Java JRE. [Linux, Mac, Windows]
 
 #### Structure from Motion Analysis
 - ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to Bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. [Linux, Windows]
