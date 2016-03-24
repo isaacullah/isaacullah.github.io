@@ -74,6 +74,7 @@ The great majority of these software tools are available on all three major OS p
 - [NetLogo](https://ccl.northwestern.edu/netlogo/) - A simple-to-use plaform for creating agent-based models. Scalable, with a nice development interface and good model interactivity. Many online resources and large model repository. I recommend this as a good way to get into Agent Based Modeling. [Linux, Mac, Windows]
 - [Repast Simphony](http://repast.sourceforge.net/repast_simphony.php) - Perhaps a bit more complex than NetLogo, but also perhaps more powerful. There is a graphical programming interface which may make this easier to use for non-programmers. There is a very good user-base, and nice online documentation. [Linux, Mac, Windows]
 - [PyABM](http://azvoleff.com/pyabm.html) - A Python library to help write ABM's in the well-known Python scripting language. [Linux, Mac, Windows]
+- [ArgoUML](http://argouml.tigris.org/) - UML is the "Unified Modeling Language". It's helpful for abstracing code to make it language agnostic, and to visually show how the code is supposed to work. Argo is probably the best FOSS UML tool I've come across, but there are a lot of alternatives available. [Linux, Mac, Windows]
 
 ---
 
@@ -187,6 +188,7 @@ The great majority of these software tools are available on all three major OS p
 - [Freeplane](http://www.freeplane.org/wiki/index.php/Main_Page) - A spin-off from Freemind. Similar, but might be more to your liking. Supposed to have added some features that were percieved to have been missing from Freemind, and supposed to be on a faster release schedule. [Linux, Mac, Windows]
 - [XMind](http://www.xmind.net/) - Perhaps a little more slick than Freemind/Freeplane. Be aware that although there is a paid-for "Pro" version, the normal version is totally FOSS. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - Docear also has a decent mind-map function. It's integration with your references list make it very well suited for mapping out a writing project. [Linux, Mac, Windows]
+- [ArgoUML](http://argouml.tigris.org/) - UML is a kind of visual map for formal computational models. It's more than that, but it shares some similarities to the "mind-map" idea, so I'm including Argo UML here. Argo is probably the best FOSS UML tool I've come across, but there are a lot of alternatives available. [Linux, Mac, Windows]
 
 ---
 
@@ -201,7 +203,7 @@ The great majority of these software tools are available on all three major OS p
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
 
 #### Photography
-- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
+- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. I've just been alerted to a potential Windows port of Darktable. Stay tuned! [Linux, Mac, Windows sort of]
 -[LightZone](http://lightzoneproject.org/) - Quite similar to DarkTable. I haven't tried this software myself, but it does seem to be actively developed with a good user community. I hear good things. Windows users, this is your Lightroom alternative. Note that while you have to register to download, it's free and open-source. [Linux, Mac, Windows]
 - [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
 - [G'MIC](http://gmic.eu/) - This is a great set of plugins for GIMP (or Adobe Photoshop) that add tons of new functionality. Highly recommended! [Linux, Mac, Windows]

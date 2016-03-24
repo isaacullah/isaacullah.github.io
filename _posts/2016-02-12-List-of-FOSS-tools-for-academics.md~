@@ -53,9 +53,9 @@ The great majority of these software tools are available on all three major OS p
 - [Orfeo Toolbox](https://www.orfeo-toolbox.org) - A nice-looking piece of software for analyzing satellite imagery. Looks to be especially well-suited for very high resolution imagery. [Linux, Mac, Windows] 
 - [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - For creating rectified photomosaics from aerial imagery. [Linux, perhaps Mac and Windows with some work]
-- [AutoGR-Toolkit](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A set of python scripts to automatically georectify aerial photos to a curated set of rectified imagery hosted on a WMS server. Very cool!! [Linux, Mac, Windows]
-- [Mapknitter](https://mapknitter.org/) - An open-source cloud-based service to create rectified photomosaics from aerial imagery. [In The Cloud!]
-- [3DINV](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A tool to invert the results of Electro-Magnetic Resistivity surveys to creat 3D surfaces. [Windows]
+- [AutoGR-Toolkit](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A set of python scripts to automatically georectify aerial photos to a curated set of rectified imagery hosted on a WMS server. It uses SIFT point matching to do this automagically. Very cool!! [Linux, Mac, Windows]
+- [Mapknitter](https://mapknitter.org/) - An open-source cloud-based service to rectify individual aerial imagery. Basically, you manually rotate and warp your image to match google imagery. You can download the rectified image when you are done. Useful if you don't have GCP's or don't want to use a full-blown GIS to rectify an image. [In The Cloud!]
+- [3DINV](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A tool to invert the results of Electro-Magnetic Resistivity surveys to create 3D surfaces. [Windows]
 
 #### Other Geospatial Tools
 - [GDAL/OGR](http://www.gdal.org/) - GDAL and OGR are libraries used by all FOSS GIS programs to import/export various GIS file formats. They can be accessed from the command-line independently, which may be useful for scripting or batch operations. [Linux, Mac, Windows]
@@ -187,6 +187,7 @@ The great majority of these software tools are available on all three major OS p
 - [Freeplane](http://www.freeplane.org/wiki/index.php/Main_Page) - A spin-off from Freemind. Similar, but might be more to your liking. Supposed to have added some features that were percieved to have been missing from Freemind, and supposed to be on a faster release schedule. [Linux, Mac, Windows]
 - [XMind](http://www.xmind.net/) - Perhaps a little more slick than Freemind/Freeplane. Be aware that although there is a paid-for "Pro" version, the normal version is totally FOSS. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - Docear also has a decent mind-map function. It's integration with your references list make it very well suited for mapping out a writing project. [Linux, Mac, Windows]
+- [ArgoUML](http://argouml.tigris.org/) - UML is a kind of visual map for formal computational models. It's more than that, but it shares some similarities to the "mind-map" idea, so I'm including Argo UML here. Argo is probably the best FOSS UML tool I've come across, but there are a lot of alternatives available. [Linux, Mac, Windows]
 
 ---
 
@@ -201,7 +202,7 @@ The great majority of these software tools are available on all three major OS p
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
 
 #### Photography
-- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. [Linux, Mac]
+- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. I've just been alerted to a potential Windows port of Darktable. Stay tuned! [Linux, Mac, Windows sort of]
 -[LightZone](http://lightzoneproject.org/) - Quite similar to DarkTable. I haven't tried this software myself, but it does seem to be actively developed with a good user community. I hear good things. Windows users, this is your Lightroom alternative. Note that while you have to register to download, it's free and open-source. [Linux, Mac, Windows]
 - [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
 - [G'MIC](http://gmic.eu/) - This is a great set of plugins for GIMP (or Adobe Photoshop) that add tons of new functionality. Highly recommended! [Linux, Mac, Windows]
