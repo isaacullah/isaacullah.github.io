@@ -53,9 +53,9 @@ The great majority of these software tools are available on all three major OS p
 - [Orfeo Toolbox](https://www.orfeo-toolbox.org) - A nice-looking piece of software for analyzing satellite imagery. Looks to be especially well-suited for very high resolution imagery. [Linux, Mac, Windows] 
 - [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
 - [OpenDroneMap](http://opendronemap.github.io/odm/) - For creating rectified photomosaics from aerial imagery. [Linux, perhaps Mac and Windows with some work]
-- [AutoGR-Toolkit](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A set of python scripts to automatically georectify aerial photos to a curated set of rectified imagery hosted on a WMS server. Very cool!! [Linux, Mac, Windows]
-- [Mapknitter](https://mapknitter.org/) - An open-source cloud-based service to create rectified photomosaics from aerial imagery. [In The Cloud!]
-- [3DINV](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A tool to invert the results of Electro-Magnetic Resistivity surveys to creat 3D surfaces. [Windows]
+- [AutoGR-Toolkit](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A set of python scripts to automatically georectify aerial photos to a curated set of rectified imagery hosted on a WMS server. It uses SIFT point matching to do this automagically. Very cool!! [Linux, Mac, Windows]
+- [Mapknitter](https://mapknitter.org/) - An open-source cloud-based service to rectify individual aerial imagery. Basically, you manually rotate and warp your image to match google imagery. You can download the rectified image when you are done. Useful if you don't have GCP's or don't want to use a full-blown GIS to rectify an image. [In The Cloud!]
+- [3DINV](http://www.ims.forth.gr/index_main.php?c=90&l=e&d=7) - A tool to invert the results of Electro-Magnetic Resistivity surveys to create 3D surfaces. [Windows]
 
 #### Other Geospatial Tools
 - [GDAL/OGR](http://www.gdal.org/) - GDAL and OGR are libraries used by all FOSS GIS programs to import/export various GIS file formats. They can be accessed from the command-line independently, which may be useful for scripting or batch operations. [Linux, Mac, Windows]
