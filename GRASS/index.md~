@@ -18,7 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-##What is GRASS GIS?
+## What is GRASS GIS?
 
 GRASS is a very powerful and completely free GIS software suite for Linux, Macintosh, and Windows. It is developed _for_ scientists _by_ scientists, and is **fully open-source**. This means you know *exactly* what the software does, and *how* it does what it does. You even have citations to the scholarly publications that provided the algorithms used. Also, if you find an error, don't like something, or want a missing feature, you can [get involved](http://grass.osgeo.org/get-involved/) and request or enact those changes yourself! Open software promotes the scientific method, and pushes the goals of open knowledge generation, information and skill sharing, and open-access data curating forward.
 
@@ -27,11 +27,11 @@ Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo
 
 ---
 
-##GRASS "Addon" modules for computational archaeology
+## GRASS "Addon" modules for computational archaeology
 
 I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have, or am in the process of, updated most of these for use in GRASS 7 (they are noted thusly). These tools are specifically formulated to accomplish computational analyses of archaeological problems or data. Please feel free to [contact me](mailto:iullah@asu.edu) with any questions or comments about these modules.
 
-####Maintained Modules (will be updated with reasonable regularity)
+#### Maintained Modules (will be updated with reasonable regularity)
 
 * [r.landscape.evol](https://svn.osgeo.org/grass/grass-addons/grass7/raster/r.landscape.evol/) (GRASS 6 version: [r.landscape.evol](https://svn.osgeo.org/grass/grass-addons/grass6/raster/r.landscape.evol/))-- Simulates the cumulative effect of erosion and deposition on a landscape over time. This module uses appropriate flow on different landforms by default; however, singular flow regimes can be chosen by manipulating the cutoff points. This module has been used in several of my publications, including [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia), [Barton Ullah, & Bergin 2010](https://www.academia.edu/350609/Land_use_water_and_Mediterranean_landscapes_modelling_long-term_dynamics_of_complex_socio-ecological_systems), [Ullah & Bergin, 2012](https://www.academia.edu/398249/Modeling_the_Consequences_of_Village_Site_Location_Least_Cost_Path_Modeling_in_a_Coupled_GIS_and_Agent-Based_Model_of_Village_Agropastoralism_in_Eastern_Spain), and [Barton, Ullah, et al., 2012](https://www.academia.edu/841547/Looking_for_the_Future_in_the_Past_Long-Term_Change_in_Socioecological_Systems). In particular, the details of the equations and methods can be found in [Mitasova, Harmon, et al., 2013](https://www.academia.edu/421211/Geospatial_Information_Science-based_Erosion_Modeling).  (GRASS 6 and 7)
 
@@ -47,7 +47,7 @@ I have coded and contributed several custom modules that you can add to GRASS vi
 
 * r.agropast.semiadaptive -- This module is an updated version of the previous r.agropast.* modules (see below), and will be available for GRASS 7 only. A manuscript that is based on experiments conducted with this module has just been submitted to a special issue of Land. I am finalizing some code comments before uploading the module to the SVN. Stay tuned!  (GRASS 7 only, code development finalizing)
 
-####Depricated modules (unmaintained, with no plans for upgrades or GRASS 7 versions. Still useful and useable, however!)
+#### Depricated modules (unmaintained, with no plans for upgrades or GRASS 7 versions. Still useful and useable, however!)
 
 * [r.cfactor](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/devs_landcover_scripts/r.cfactor.py/) -- Converts a map of landcover values to a c-factor map based on a set of reclass rules. (GRASS 6 only)
 
@@ -60,7 +60,7 @@ I have coded and contributed several custom modules that you can add to GRASS vi
 
 --
 
-##How to install GRASS Addon Modules
+## How to install GRASS Addon Modules
 
 The simplest way to install these (and other) addon modules in GRASS is to use the "g.extension" module. See the [help pages for g.extension](http://grass.osgeo.org/grass70/manuals/g.extension.html) for instructions on how to use it. This method will work in *both* GRASS 7 and GRASS 6, and is the preferred method. It may be useful (especially in GRASS 6) to set a custom folder for your addons to live in, which can be done by setting the "GRASS_ADDON_PATH" environmental variable ([instructions here](http://grass.osgeo.org/grass70/manuals/grass7.html#addon-base-for-extra-local-grass-addon-modules)). 
 
@@ -69,4 +69,20 @@ If you can't get g.extension to work, then any addon module can be downloaded di
 Once the module is installed following one of the above methods, it can be run by typing its name at the GRASS command prompt, e.g. `>r.landscape.evol &`. Note that the `&` will ensure that the module runs modally, and doesn't lock the terminal to that process.
 
 ---
+
+## GRASS 7 Video Tutorials by Markus Metz
+
+Here's a series of video tutorials for GRASS 7 recorded by Markus Metz of the GRASS development team. These are a good way to learn about GRASS, what it can do, and how to use it. Highly recommended!!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/g6XaeNNHwO4" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28CyMcde-Ew" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5VyZVEtsvNk" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZK0A8AYJFn0" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4AsRg1qlP8I" frameborder="0" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aQyvmBpf-W0" frameborder="0" allowfullscreen></iframe>
 
