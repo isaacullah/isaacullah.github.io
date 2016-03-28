@@ -74,7 +74,7 @@ Once the module is installed following one of the above methods, it can be run b
 
 Here's a series of video tutorials for GRASS 7 recorded in 2014 by Markus Metz of the GRASS development team. These are a good way to learn about GRASS, what it can do, and how to use it. Highly recommended viewing for students wanting to learn GRASS!!
 
-
+<br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/g6XaeNNHwO4" frameborder="0" allowfullscreen></iframe>
 <br><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/28CyMcde-Ew" frameborder="0" allowfullscreen></iframe>
