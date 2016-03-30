@@ -9,7 +9,7 @@ url:              http://isaacullah.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -42,7 +42,9 @@ owner:
   bing-verify: 
   academia: IsaacUllah
   github: isaacullah
-  stackoverflow: #3083347/user3083347
+  stackoverflow: 3083347
+  zotero: isaacullah
+  researchgate: Isaac_Ullah
   linkedin: #username
   instagram: #username
   lastfm: #username

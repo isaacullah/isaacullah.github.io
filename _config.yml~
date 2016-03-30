@@ -9,7 +9,7 @@ url:              http://isaacullah.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
@@ -31,7 +31,7 @@ owner:
   bio: "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology"
   email: isaaciullah@gmail.com
   disqus-shortname: isaacullah
-  twitter: #username
+  twitter: isaacullah
   facebook: isaac.ullah
   google:
     plus: IsaacUllah4
