@@ -40,7 +40,7 @@ image:
 
 - [s e e &nbsp; a l l &nbsp; i m a g e s &nbsp; o n &nbsp; o n e &nbsp; p a g e .](/photography/All)
 
-- [s e e  &nbsp; m o r e  &nbsp; o n  &nbsp; f l i c k r . <i class="fa fa-flickr"></i>](https://www.flickr.com/photos/isaacullah)
+- [s e e  &nbsp; m o r e  &nbsp; o f &nbsp; m y &nbsp; i m a g e s &nbsp; o n  &nbsp; <i class="fa fa-flickr"></i>](https://www.flickr.com/photos/isaacullah)
 
 
 
