@@ -18,15 +18,19 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-### [Travel.](/photography/Travel.html)
+---
+
+<br><br><br>
+
+### [Travel.](/photography/Travel)
 
 ---
 
-### [Against the Sky.](/photography/Against_The_Sky.html)
+### [Against the Sky.](/photography/Against_The_Sky)
 
 ---
 
-### [Close.](/photography/Close.html)
+### [Close.](/photography/Close)
 
 ---
 

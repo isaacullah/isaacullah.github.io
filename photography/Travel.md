@@ -7,6 +7,10 @@ excerpt: Travel.
 tags: [Photography, Portfolio, Travel]
 ---
 
+<figure>
+	<a href="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/" title="Steaming Tandir."><img src="https://farm2.staticflickr.com/1527/24627290396_8b045fce4b_o.jpg" width="4608" height="3456" alt="Steaming Tandir."></a>
+	<figcaption>Steaming Tandir, Southern Kazakhstan.</figcaption>
+</figure>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/" title="Steaming Tandir."><img src="https://farm2.staticflickr.com/1527/24627290396_8b045fce4b_o.jpg" width="4608" height="3456" alt="Steaming Tandir."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
