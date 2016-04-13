@@ -24,15 +24,15 @@ image:
 
 ### [Travel.](/photography/Travel)
 
----
+<br><br>
 
 ### [Against the Sky.](/photography/Against_The_Sky)
 
----
+<br><br>
 
 ### [Close.](/photography/Close)
 
----
+<br><br>
 
 
 
