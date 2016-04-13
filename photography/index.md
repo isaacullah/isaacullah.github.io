@@ -36,9 +36,12 @@ image:
 
 # M O R E...
 
-[a l l &nbsp; i m a g e s](/photography/All)
 <br>
-<a href="https://www.flickr.com/photos/isaacullah" target="_blank"><i class="fa fa-flickr"></i>&nbsp;Follow me on Flickr</a>
+
+[s e e &nbsp; a l l &nbsp; i m a g e s &nbsp; o n &nbsp; o n e &nbsp; p a g e .](/photography/All)
+<br>
+<br>
+<a href="https://www.flickr.com/photos/isaacullah" target="_blank">f o l l o w  &nbsp; m e  &nbsp; o n  &nbsp; f l i c k r . &nbsp; &nbsp; <i class="fa fa-flickr"></i></a>
 
 
 
