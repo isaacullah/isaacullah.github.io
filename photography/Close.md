@@ -18,7 +18,7 @@ tags: [Photography, Portfolio, Art]
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/" title="Colors."><img src="https://farm2.staticflickr.com/1460/24715054585_072ece1a89_o.jpg" width="826" height="826" alt="Colors." align="middle"></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/" title="Colors."><img src="https://farm2.staticflickr.com/1460/24715054585_072ece1a89_o.jpg" width="826" height="826" alt="Colors."></a>
 	<figcaption>C o l o r s .</figcaption>
 </figure>
 
