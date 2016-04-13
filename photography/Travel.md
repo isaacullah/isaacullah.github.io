@@ -27,4 +27,4 @@ tags: [Photography, Portfolio, Travel]
 	<figcaption>Lion, Ortovero, Italy.</figcaption>
 </figure>
 
-# [B A C K .](/photography)
+# [A g a i n s t  T h e S k y .](/photography/Against_The_Sky) - [C l o s e .](/photography/Close) - [B a c k .](/photography)
