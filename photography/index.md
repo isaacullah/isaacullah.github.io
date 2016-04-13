@@ -82,6 +82,8 @@ image:
 	<figcaption>Colors.</figcaption>
 </figure>
 
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/" title="Stacked Bottle Gourds."><img src="https://farm2.staticflickr.com/1590/23753118124_de43a17267_h.jpg" width="1600" height="1064" alt="Stacked Bottle Gourds."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 <figure>
 	<a href="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/"><img src="https://flic.kr/p/CbYWto" alt="Stacked Bottle Gourds."></a>
 	<figcaption>Stacked Bottle Gourds.</figcaption>
