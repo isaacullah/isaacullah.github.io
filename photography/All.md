@@ -16,7 +16,7 @@ tags: [Photography, Portfolio, Travel, Art]
 	<a href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/" title="Father and Son."><img src="https://farm2.staticflickr.com/1498/24026696953_e9d805aa22_o.jpg" alt="Father and Son."></a>
 	<a href="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/" title="Arches."><img src="https://farm2.staticflickr.com/1573/24071899310_c5223fd3a3_o.jpg" alt="Arches."></a>
 	<a href="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/" title="Lion."><img src="https://farm2.staticflickr.com/1463/24536906761_d6284689c1_o.jpg" alt="Lion."></a>
-	<figcaption> [T r a v e l.](/photography/Travel)
+	<figcaption> <a href="/photography/Travel">T r a v e l.</a>
 	</figcaption>
 </figure>
 <br>
@@ -28,7 +28,7 @@ tags: [Photography, Portfolio, Travel, Art]
 	<a href="https://www.flickr.com/photos/isaacullah/24653509425/in/dateposted-public/" title="In the Forum."><img src="https://farm2.staticflickr.com/1575/24653509425_33d6642378_o.jpg" alt="In the Forum."></a>
 	<a href="https://www.flickr.com/photos/isaacullah/23753108354/in/dateposted-public/" title="Seafood To Go!"><img src="https://farm2.staticflickr.com/1494/23753108354_f6bc3219ab_o.jpg" alt="Seafood To Go!"></a>
 	<a href="https://www.flickr.com/photos/isaacullah/24326425969/in/dateposted-public/" title="Angles."><img src="https://farm2.staticflickr.com/1520/24326425969_abfbc50011_o.jpg" alt="Angles."></a>
-	<figcaption> [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky)
+	<figcaption> <a href="/photography/Against_The_Sky">A g a i n s t &nbsp; T h e &nbsp; S k y .</a>
 	</figcaption>
 </figure>
 <br>
@@ -40,7 +40,7 @@ tags: [Photography, Portfolio, Travel, Art]
 	<a href="https://www.flickr.com/photos/isaacullah/23992318273/in/dateposted-public/" title="Face."><img src="https://farm2.staticflickr.com/1592/23992318273_b4de22ef0d_o.jpg" alt="Face."></a>
 	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/" title="Colors."><img src="https://farm2.staticflickr.com/1460/24715054585_072ece1a89_o.jpg" alt="Colors."></a>
 	<a href="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/" title="Stacked Bottle Gourds."><img src="https://farm2.staticflickr.com/1590/23753118124_cb731b53d8_o.jpg" alt="Stacked Bottle Gourds."></a>
-	<figcaption> [C l o s e .](/photography/Close)
+	<figcaption> <a href="/photography/Close">C l o s e .</a>
 	</figcaption>
 </figure>
 <br>
