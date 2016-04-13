@@ -36,7 +36,7 @@ image:
 <br>
 <br>
 
-## A L L &npsp; I M A G E S...
+## A L L &nbsp; I M A G E S...
 
 <figure class="fourth">
 	<img src="https://farm2.staticflickr.com/1527/24627290396_8b045fce4b_o.jpg">
@@ -59,7 +59,7 @@ image:
 
 # M O R E...
 
-<a href="https://www.flickr.com/photos/isaacullah" target="_blank"><i class="fa fa-flickr"></i>Follow me on Flickr</a>
+<a href="https://www.flickr.com/photos/isaacullah" target="_blank"><i class="fa fa-flickr">&nbsp</i>Follow me on Flickr</a>
 
 
 
