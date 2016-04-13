@@ -52,8 +52,8 @@ svg:not(:root) {
 		img {
 			@include grid(12,3);
 			position: relative;
-  			top: 50%;
-  			transform: translateY(-50%);
+  			top: 25%;
+  			transform: translateY(-25%);
 		}
 		figcaption {
 			@include grid(12,12);
