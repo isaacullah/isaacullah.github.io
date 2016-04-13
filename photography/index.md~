@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isaac Ullah, Photography
+title: _Isaac I. Ullah, Photography._
 date: 2016-04-13
 modified: 
 excerpt: A portfolio of my travel and art photography. 
