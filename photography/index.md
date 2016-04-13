@@ -21,22 +21,22 @@ image:
 ## Travel
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/" alt="Steaming Tandir, Kazakhstan."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/"><img src="https://flic.kr/p/Dweir7" alt="Steaming Tandir, Kazakhstan."></a>
 	<figcaption>Steaming Tandir, Kazakhstan.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/" alt="Father and Son, Kazakhstan."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/"><img src="https://flic.kr/p/CBa6VK" alt="Father and Son, Kazakhstan."></a>
 	<figcaption>Father and Son, Kazakhstan.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/" alt="Arches, Liguria."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/"><img src="https://flic.kr/p/CF9M1J" alt="Arches, Liguria."></a>
 	<figcaption>Arches, Liguria.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/" alt="Lion, Liguria."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/"><img src="https://flic.kr/p/Dof4wz" alt="Lion, Liguria."></a>
 	<figcaption>Lion, Liguria.</figcaption>
 </figure>
 
@@ -45,22 +45,22 @@ image:
 ## Against the Sky
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/23754498743/in/album-72157663554877675/"><img src="https://www.flickr.com/photos/isaacullah/23754498743/in/album-72157663554877675/" alt="Flying Fish."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/23754498743/in/album-72157663554877675/"><img src="https://flic.kr/p/Cc71Ta" alt="Flying Fish."></a>
 	<figcaption>Flying Fish.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24653509425/in/album-72157663554877675/"><img src="https://www.flickr.com/photos/isaacullah/24653509425/in/album-72157663554877675/" alt="In the Forum."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24653509425/in/album-72157663554877675/"><img src="https://flic.kr/p/DyxFrk" alt="In the Forum."></a>
 	<figcaption>In the Forum.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/23753108354/in/album-72157663554877675/"><img src="https://www.flickr.com/photos/isaacullah/23753108354/in/album-72157663554877675/" alt="Seafood To Go."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/23753108354/in/album-72157663554877675/"><img src="https://flic.kr/p/CbYTyW" alt="Seafood To Go."></a>
 	<figcaption>Seafood To Go.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24326425969/in/album-72157663554877675/"><img src="https://www.flickr.com/photos/isaacullah/24326425969/in/album-72157663554877675/" alt="Angles."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24326425969/in/album-72157663554877675/"><img src="https://flic.kr/p/D4DhVp" alt="Angles."></a>
 	<figcaption>Angles.</figcaption>
 </figure>
 ---
@@ -68,22 +68,22 @@ image:
 ## Close
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24914613934/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24914613934/in/dateposted-public/" alt="The Look."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24914613934/in/dateposted-public/"><img src="https://flic.kr/p/DXBUHd" alt="The Look."></a>
 	<figcaption>The Look.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24510771712/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24510771712/in/dateposted-public/" alt="Gourds on Door."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24510771712/in/dateposted-public/"><img src="https://flic.kr/p/DkW7uh" alt="Gourds on Door."></a>
 	<figcaption>Gourds on Door.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/" alt="Colors."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/"><img src="https://flic.kr/p/DDZ7EM" alt="Colors."></a>
 	<figcaption>Colors.</figcaption>
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/"><img src="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/" alt="Stacked Bottle Gourds."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/"><img src="https://flic.kr/p/CbYWto" alt="Stacked Bottle Gourds."></a>
 	<figcaption>Stacked Bottle Gourds.</figcaption>
 </figure>
 ---
