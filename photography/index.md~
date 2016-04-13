@@ -8,7 +8,15 @@ tags: [Photography, Portfolio, Travel, Art]
 image:
   feature: KZ_pano.JPG
 ---
-
+<section id="table-of-contents" class="toc">
+  <header>
+    <h3>Jump.</h3>
+  </header>
+<div id="drawer" markdown="1">
+*  Auto generated table of contents
+{:toc}
+</div>
+</section><!-- /#table-of-contents -->
 ---
 
 <br>
@@ -36,7 +44,7 @@ image:
 <br>
 <br>
 
-## A L L &nbsp; I M A G E S...
+# A L L &nbsp; I M A G E S...
 
 <figure class="fourth">
 	<img src="https://farm2.staticflickr.com/1527/24627290396_8b045fce4b_o.jpg">
@@ -59,7 +67,7 @@ image:
 
 # M O R E...
 
-<a href="https://www.flickr.com/photos/isaacullah" target="_blank"><i class="fa fa-flickr">&nbsp</i>Follow me on Flickr</a>
+<a href="https://www.flickr.com/photos/isaacullah" target="_blank"><i class="fa fa-flickr"></i>&nbsp;Follow me on Flickr</a>
 
 
 
