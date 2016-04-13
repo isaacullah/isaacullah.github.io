@@ -1,9 +1,9 @@
 ---
 layout: page
-title: Close.
+title: C l o s e .
 date: 2016-04-13
 modified: 
-excerpt: Close. 
+excerpt: C l o s e .
 tags: [Photography, Portfolio, Art]
 ---
 
