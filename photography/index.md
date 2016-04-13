@@ -26,7 +26,7 @@ image:
 
 <br>
 
-# [A g a i n s t   T h e   S k y .](/photography/Against_The_Sky)
+# [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky)
 
 <br>
 
