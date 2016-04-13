@@ -18,69 +18,36 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-## Travel
+## Travel.
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/"><img src="https://flic.kr/p/Dweir7" alt="Steaming Tandir, Kazakhstan."></a>
-	<figcaption>Steaming Tandir, Kazakhstan.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24627290396/in/dateposted-public/" title="Steaming Tandir."><img src="https://farm2.staticflickr.com/1527/24627290396_8b045fce4b_o.jpg" width="4608" height="3456" alt="Steaming Tandir."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/"><img src="https://flic.kr/p/CBa6VK" alt="Father and Son, Kazakhstan."></a>
-	<figcaption>Father and Son, Kazakhstan.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/" title="Father and Son."><img src="https://farm2.staticflickr.com/1498/24026696953_e9d805aa22_o.jpg" width="4608" height="3456" alt="Father and Son."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/"><img src="https://flic.kr/p/CF9M1J" alt="Arches, Liguria."></a>
-	<figcaption>Arches, Liguria.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/" title="Arches."><img src="https://farm2.staticflickr.com/1573/24071899310_c5223fd3a3_o.jpg" width="4522" height="3391" alt="Arches."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/"><img src="https://flic.kr/p/Dof4wz" alt="Lion, Liguria."></a>
-	<figcaption>Lion, Liguria.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/" title="Lion."><img src="https://farm2.staticflickr.com/1463/24536906761_d6284689c1_o.jpg" width="1080" height="604" alt="Lion."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ---
 
-## Against the Sky
+## Against the Sky.
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/23754498743/in/album-72157663554877675/"><img src="https://flic.kr/p/Cc71Ta" alt="Flying Fish."></a>
-	<figcaption>Flying Fish.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/23754498743/in/dateposted-public/" title="Flying Fish."><img src="https://farm2.staticflickr.com/1450/23754498743_5cc557e563_o.jpg" width="3264" height="2448" alt="Flying Fish."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24653509425/in/album-72157663554877675/"><img src="https://flic.kr/p/DyxFrk" alt="In the Forum."></a>
-	<figcaption>In the Forum.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24653509425/in/dateposted-public/" title="In the Forum."><img src="https://farm2.staticflickr.com/1575/24653509425_33d6642378_o.jpg" width="4608" height="3456" alt="In the Forum."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/23753108354/in/album-72157663554877675/"><img src="https://flic.kr/p/CbYTyW" alt="Seafood To Go."></a>
-	<figcaption>Seafood To Go.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/23753108354/in/dateposted-public/" title="Seafood To Go!"><img src="https://farm2.staticflickr.com/1494/23753108354_fc52cf77f4_o.jpg" width="2448" height="3264" alt="Seafood To Go!"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24326425969/in/album-72157663554877675/"><img src="https://flic.kr/p/D4DhVp" alt="Angles."></a>
-	<figcaption>Angles.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24326425969/in/dateposted-public/" title="Angles."><img src="https://farm2.staticflickr.com/1520/24326425969_d338ff7a23_o.jpg" width="2993" height="4000" alt="Angles."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 
-## Close
+## Close.
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24914613934/in/dateposted-public/"><img src="https://flic.kr/p/DXBUHd" alt="The Look."></a>
-	<figcaption>The Look.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24914613934/in/dateposted-public/" title="The look."><img src="https://farm2.staticflickr.com/1657/24914613934_7ac42b8b21_o.jpg" width="2048" height="1532" alt="The look."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24510771712/in/dateposted-public/"><img src="https://flic.kr/p/DkW7uh" alt="Gourds on Door."></a>
-	<figcaption>Gourds on Door.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24510771712/in/dateposted-public/" title="Gourds on door."><img src="https://farm2.staticflickr.com/1503/24510771712_8aa2aaf60a_o.jpg" width="540" height="720" alt="Gourds on door."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-<figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/"><img src="https://flic.kr/p/DDZ7EM" alt="Colors."></a>
-	<figcaption>Colors.</figcaption>
-</figure>
+<a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/" title="Colors."><img src="https://farm2.staticflickr.com/1460/24715054585_072ece1a89_o.jpg" width="826" height="826" alt="Colors."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" data-footer="true"  href="https://www.flickr.com/photos/isaacullah/23753118124/in/dateposted-public/" title="Stacked Bottle Gourds."><img src="https://farm2.staticflickr.com/1590/23753118124_cb731b53d8_o.jpg" width="3008" height="2000" alt="Stacked Bottle Gourds."></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
