@@ -96,7 +96,7 @@ Please visit the following links for information about several actively ongoing 
 
 #### Peer-Reviewed Computer Software
 
-[2015 	Barton, C.M., Ullah, I.I.T., Mayer G., Bergin, S., Sarjoughian, H., and Mitasova, H. MedLanD Modeling Laboratory v.1 - A hybrid modeling environment that couples an agent-based model of small-holder agropastoral households and a cellular landscape evolution model that simulates changes in erosion/deposition, soils, and vegetation. Retrievable from: CoMSES Computational Model Library, www.openabm.org/model/4609/version/1](www.openabm.org/model/4609/version/1)
+* [2015 	Barton, C.M., Ullah, I.I.T., Mayer G., Bergin, S., Sarjoughian, H., and Mitasova, H. MedLanD Modeling Laboratory v.1 - A hybrid modeling environment that couples an agent-based model of small-holder agropastoral households and a cellular landscape evolution model that simulates changes in erosion/deposition, soils, and vegetation. Retrievable from: CoMSES Computational Model Library, www.openabm.org/model/4609/version/1](www.openabm.org/model/4609/version/1)
 
 #### Publicly Available Computer Software
 

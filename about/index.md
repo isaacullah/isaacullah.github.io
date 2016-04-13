@@ -24,6 +24,8 @@ In addition to these large human-environment interaction studies, I also study h
 
 It is with great pleasure that I can also now announce that starting in Fall, 2016, I will be joining the faculty in the [Department of Anthropology at San Diego State University](http://anthropology.sdsu.edu/). There, I will also be affiliated with the [Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/), and I look forward to working with my new colleagues and students.
 
+In my spare time, I like taking [photographs](/photography/index.html).
+
 * * *
 
 ### My Research
