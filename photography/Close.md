@@ -27,5 +27,5 @@ tags: [Photography, Portfolio, Art]
 	<figcaption>Stacked Bottle Gourds.</figcaption>
 </figure>
 
-## [T r a v e l .](/photography/Travel) &nbsp; | &nbsp; [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [B a c k .](/photography)
+## [T r a v e l .](/photography/Travel) &nbsp; | &nbsp; [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [Index.](/photography)
 

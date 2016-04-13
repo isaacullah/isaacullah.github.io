@@ -15,7 +15,7 @@ tags: [Photography, Portfolio, Travel]
 <figure>
 	<a href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/" title="Father and Son."><img src="https://farm2.staticflickr.com/1498/24026696953_e9d805aa22_o.jpg" width="4608" height="3456" alt="Father and Son."></a>
 	<figcaption>Father and Son, Southern Kazakhstan.</figcaption>
-<figure>
+</figure>
 
 <figure>
 	<a href="https://www.flickr.com/photos/isaacullah/24071899310/in/dateposted-public/" title="Arches."><img src="https://farm2.staticflickr.com/1573/24071899310_c5223fd3a3_o.jpg" width="4522" height="3391" alt="Arches."></a>

@@ -13,8 +13,8 @@ tags: [Photography, Portfolio, Art]
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24510771712/in/dateposted-public/" title="Gourds on door."><img src="https://farm2.staticflickr.com/1503/24510771712_8aa2aaf60a_o.jpg" width="540" height="720" alt="Gourds on door."></a>
-	<figcaption>Gourds on door.</figcaption>
+	<a href="https://www.flickr.com/photos/isaacullah/23992318273/in/dateposted-public/" title="Face."><img src="https://farm2.staticflickr.com/1592/23992318273_b4de22ef0d_o.jpg" width="847" height="720" alt="Face."></a>
+	<figcaption>Face.</figcaption>
 </figure>
 
 <figure>
