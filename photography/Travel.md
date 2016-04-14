@@ -31,4 +31,4 @@ tags: [Photography, Portfolio, Travel]
 	<br>Ortovero, Italy </figcaption>
 </figure>
 
-## [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [C l o s e .](/photography/Close) &nbsp; | &nbsp; [Index.](/photography)
+## [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [C l o s e .](/photography/Close) &nbsp; | &nbsp; [BACK TO INDEX](/photography)

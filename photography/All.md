@@ -41,4 +41,4 @@ tags: [Photography, Portfolio, Travel, Art]
 </figure>
 <br>
 
-## [INDEX](/photography) 
+## [BACK TO INDEX](/photography) 

@@ -27,5 +27,5 @@ tags: [Photography, Portfolio, Art]
 	<figcaption>S t a c k e d &nbsp; B o t t l e &nbsp; G o u r d s .</figcaption>
 </figure>
 
-## [T r a v e l .](/photography/Travel) &nbsp; | &nbsp; [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [Index.](/photography)
+## [T r a v e l .](/photography/Travel) &nbsp; | &nbsp; [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [BACK TO INDEX](/photography)
 
