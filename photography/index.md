@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Isaac I. Ullah, Photography.
+title:
 date: 2016-04-13
 modified: 
 excerpt: A portfolio of my travel and art photography. 
@@ -17,7 +17,7 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
----
+
 
 <br>
 
