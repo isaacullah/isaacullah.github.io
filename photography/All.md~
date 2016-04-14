@@ -21,8 +21,6 @@ tags: [Photography, Portfolio, Travel, Art]
 </figure>
 <br>
 <br>
-<br>
-<br>
 <figure class="fourth">
 	<a href="https://www.flickr.com/photos/isaacullah/23754498743/in/dateposted-public/" title="Flying Fish."><img src="https://farm2.staticflickr.com/1450/23754498743_5cc557e563_o.jpg" alt="Flying Fish."></a>
 	<a href="https://www.flickr.com/photos/isaacullah/24653509425/in/dateposted-public/" title="In the Forum."><img src="https://farm2.staticflickr.com/1575/24653509425_33d6642378_o.jpg" alt="In the Forum."></a>
@@ -31,8 +29,6 @@ tags: [Photography, Portfolio, Travel, Art]
 	<figcaption> <a href="/photography/Against_The_Sky">A g a i n s t &nbsp; T h e &nbsp; S k y .</a>
 	</figcaption>
 </figure>
-<br>
-<br>
 <br>
 <br>
 <figure class="fourth">

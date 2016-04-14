@@ -39,7 +39,6 @@ image:
 
 # M O R E...
 
-<br>
 
 - [s e e &nbsp; a l l &nbsp; i m a g e s &nbsp; o n &nbsp; o n e &nbsp; p a g e .](/photography/All)
 
