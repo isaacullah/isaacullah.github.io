@@ -139,7 +139,7 @@ The great majority of these software tools are available on all three major OS p
 - [Lyx](https://www.lyx.org/) - A gui for LaTex, which might make it easier for you to use it. Helpful especially if you are a non-LaTex user trying to collaborate with a LaTex afficiando. [Linux, Mac, Windows]
 
 #### Bibliographic Manager
-- [Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice Writer, and MS Word. Seamless integration with Google Scholar in your webbrowser. Online storage possible, nice collaboration features, and many plugins and citation styles. **VERY highly recommended**. [Linux, Mac, Windows]
+- [Zotero](www.zotero.org) - Integrates into Firefox, Chrome/Chromium, LibreOffice Writer, and MS Word. Seamless integration with Google Scholar in your webbrowser. Online storage possible, nice collaboration features, and many plugins and citation styles. **Highly recommended**. [Linux, Mac, Windows]
 - [Docear](http://www.docear.org/) - A great alternative to Zotero, with in-text support for some word processors. Best feature is it's integration of a visual "mind-map" organization of citations and documents. [Linux, Mac, Windows]
 - [BibTex](http://www.bibtex.org/) - If you use LaTex, you are likely using BibTex for your citation managment. Same idea as LaTex: a sort of MarkDown for formatting bibliographies and a format for storing citations. [Linux, Mac, Windows]
 
