@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2016-03-24
+modified: 2016-04-20
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
@@ -74,6 +74,7 @@ The great majority of these software tools are available on all three major OS p
 - [NetLogo](https://ccl.northwestern.edu/netlogo/) - A simple-to-use plaform for creating agent-based models. Scalable, with a nice development interface and good model interactivity. Many online resources and large model repository. I recommend this as a good way to get into Agent Based Modeling. [Linux, Mac, Windows]
 - [Repast Simphony](http://repast.sourceforge.net/repast_simphony.php) - Perhaps a bit more complex than NetLogo, but also perhaps more powerful. There is a graphical programming interface which may make this easier to use for non-programmers. There is a very good user-base, and nice online documentation. [Linux, Mac, Windows]
 - [PyABM](http://azvoleff.com/pyabm.html) - A Python library to help write ABM's in the well-known Python scripting language. [Linux, Mac, Windows]
+- [ArgoUML](http://argouml.tigris.org/) - UML is the "Unified Modeling Language". It's helpful for abstracing code to make it language agnostic, and to visually show how the code is supposed to work. Argo is probably the best FOSS UML tool I've come across, but there are a lot of alternatives available. [Linux, Mac, Windows]
 
 ---
 
@@ -86,6 +87,7 @@ The great majority of these software tools are available on all three major OS p
 - [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
 - [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Another nice data-mining program. Weka libraries can also be brought into KNIME as plugins. [Linux,Mac, Windows]
+- [Orange](http://orange.biolab.si/) - Another powerful data-miner and stats package with a really beatiful and intuitive graphical programming interface. Orange is now my main recommendation for folks who want to step up from spreadsheet land to the next level of scientific computing, but who are intimidated by command-line interfaces and scripting. Orange is easy to use, and has great tutorials. There is a native Python API, so you can grow with it. It includes a lot of great addons and wonderful output graphics. Highly recommended! [Linux, Mac, Windows]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 - [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. Recommended for people who aren't programmers! NOTE: It has come to my attention that the source-code for PAST is not made available. It's also released under a slightly more restrictive lisence than is true open-source software. Thus, it is clearly not true FOSS. At the moment, I'm leaving it on this list as a special dispensation because it's a very useful piece of software that is *almost* FOSS. But I may eventually decide to remove it. [Windows, Mac]
 
@@ -118,10 +120,12 @@ The great majority of these software tools are available on all three major OS p
 
 #### Data Exploration
 - [GGobi](http://www.ggobi.org/) - A very cool program to interact with your 2D and 3D scatter-plotted data. Not necessarily for publication-ready plots, but rather simply to get to know your data better. Very useful! [Linux, Mac, Windows]
+- [Orange](http://orange.biolab.si/) - All of the output plots in Orange a fully interactive. You can zoom, pan, highlight, style, rotate, etc. 
 
 #### Network Analysis
 - [Cytoscape](http://www.cytoscape.org/) - Perhaps a bit complex to learn and use, but seems very powerful. Seems to be a large user-base. [Linux, Mac, Windows]
 - [Gephi](https://gephi.org/) - I'm told it's still a bit buggy, but I do remember it being easier to use than Cytoscape. Not sure if it can do as much, but definitely worth checking out as well! [Linux, Mac, Windows]
+- [Orange](http://orange.biolab.si/) - There is a great set of network analysis tools you can install in Orange as an Addon. I like these a lot, and this is the main way I do network analyses.
 
 ---
 
@@ -200,13 +204,19 @@ The great majority of these software tools are available on all three major OS p
 #### Raster Graphics
 - [GIMP](www.gimp.org) - Very functional and powerful. Great for editing raster graphics of any kind. A FOSS alternative for Adobe Photoshop.  [Linux, Mac, Windows]
 - [ImageMagick](http://www.imagemagick.org/script/index.php) - Command line image manipulation. VERY powerful. Excellent for things like batch resize or animated GIF creation. [Linux, Mac, Windows]
+- [ImageJ](http://imagej.nih.gov/ij/) - ImageJ is also a great all-around pixel editor. [Linux, Mac, Windows]
+- [Krita](https://krita.org/) - A great pixel painting program. Geared toward artists, but also excellent for making conceptual figures and drawings. [Linux, Mac, Windows]
 
 #### Photography
-- [Darktable](http://www.darktable.org/) - Very powerful photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. I've just been alerted to a potential Windows port of Darktable. Stay tuned! [Linux, Mac, Windows sort of]
--[LightZone](http://lightzoneproject.org/) - Quite similar to DarkTable. I haven't tried this software myself, but it does seem to be actively developed with a good user community. I hear good things. Windows users, this is your Lightroom alternative. Note that while you have to register to download, it's free and open-source. [Linux, Mac, Windows]
-- [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-process, including RAW support. Also highly recommended. [Linux, Mac, Windows]
-- [G'MIC](http://gmic.eu/) - This is a great set of plugins for GIMP (or Adobe Photoshop) that add tons of new functionality. Highly recommended! [Linux, Mac, Windows]
+- [Darktable](http://www.darktable.org/) - Very powerful, non-destructive photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. I've just been alerted to a potential Windows port of Darktable. Stay tuned! [Linux, Mac, Windows sort of]
+- [LightZone](http://lightzoneproject.org/) - Quite similar to DarkTable. I haven't tried this software myself, but it does seem to be actively developed with a good user community. I hear good things. Windows users, this is your Lightroom alternative. Note that while you have to register to download, it's free and open-source. [Linux, Mac, Windows]
+- [PhotoFlow](http://aferrero2707.github.io/PhotoFlow/) - Another full-fledged non-destructive RAW developer and photo-editor. This seems to be in early development stage, but is being actively worked on. Should be an interesting alternative to Darktable and LightZone. [Linux, Mac, Windows]
+- [RawTherapee](http://rawtherapee.com/) - A basic RAW developer. This is the simplest way to develop RAW camera files, and then export them to other formats. If you don't want to do complex edits, this is the RAW developer for you. [Linux, Mac, Windows]
+- [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-processing and pixel editing. Highly recommended. [Linux, Mac, Windows]
+- [UFRaw](http://ufraw.sourceforge.net/) - A RAW developer plugin for GIMP. Very simple to use, and helps you get your RAW images into GIMP for further editing. [Linux, Mac, Windows]
+- [G'MIC](http://gmic.eu/) - This is a great set of plugins for GIMP (or Adobe Photoshop) that add tons of new functionality. Can be accessed independantly from the command line too. Highly recommended! [Linux, Mac, Windows]
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
+- [Nomacs](http://nomacs.org/) - Nomacs is also a basic viewer, with the added benefit of being able to view RAW images natively. Can rotate and crop too. Dead simple interface and just does what it says it does, and no more. This is my main image viewer these days. [Linux. Mac, Windows]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. A really great piece of software! [Linux, Mac, Windows]
 - [geotag](http://geotag.sourceforge.net/) - Add geographic information to the EXIF tags of your photos by syncing with a track exported from your GPS. Very useful for remember exactly where you took a photo! [Linux, Windows, Web Service]
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Command-line libraries for manipulating the EXIF image information tags of your photographs. [Linux, Mac, Windows]
