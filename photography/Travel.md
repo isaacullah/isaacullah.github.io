@@ -1,7 +1,7 @@
 ---
 layout: page
 title: T r a v e l .
-date: 2016-04-13
+date: 2016-06-02
 modified: 
 excerpt: T r a v e l .
 tags: [Photography, Portfolio, Travel]
@@ -14,9 +14,9 @@ tags: [Photography, Portfolio, Travel]
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24026696953/in/dateposted-public/" title="Father and Son."><img src="https://farm2.staticflickr.com/1498/24026696953_e9d805aa22_o.jpg" width="4608" height="3456" alt="Father and Son."></a>
-	<figcaption>F a t h e r &nbsp; a n d &nbsp; S o n .
-	<br>Southern Kazakhstan </figcaption>
+	<a href="https://www.flickr.com/photos/isaacullah/26855734241/in/dateposted-public/" title="Waiting for Work."><img src="https://c2.staticflickr.com/8/7758/26855734241_69e8fd065c_k.jpg" width="4608" height="3456" alt="Waiting for Work."></a>
+	<figcaption>W a i t i n g &nbsp; f o r &nbsp; W o r k .
+	<br>Istanbul, Turkey </figcaption>
 </figure>
 
 <figure>
@@ -26,9 +26,11 @@ tags: [Photography, Portfolio, Travel]
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24536906761/in/dateposted-public/" title="Lion."><img src="https://farm2.staticflickr.com/1463/24536906761_d6284689c1_o.jpg" width="1080" height="604" alt="Lion."></a>
-	<figcaption>L i o n .
-	<br>Ortovero, Italy </figcaption>
+	<a href="https://www.flickr.com/photos/isaacullah/26710935464/in/dateposted-public/" title="At the Wigwam Hotel."><img src="https://c1.staticflickr.com/8/7762/26710935464_9d06f11fe5_z.jpg" width="1080" height="604" alt="At the Wigwam Hotel.."></a>
+	<figcaption>A t &nbsp; t h e &nbsp; W i g w a m &nbsp; H o t e l .
+	<br>Route 66, Arizona </figcaption>
 </figure>
 
-## [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [C l o s e .](/photography/Close) &nbsp; | &nbsp; [BACK TO INDEX](/photography)
+[url=https://flic.kr/p/GGmww5][img]https://c1.staticflickr.com/8/7762/26710935464_9d06f11fe5_z.jpg[/img][/url][url=https://flic.kr/p/GGmww5]At the Wigwam Hotel.[/url] by [url=https://www.flickr.com/photos/isaacullah/]Isaac Ullah[/url], on Flickr
+
+## [A g a i n s t &nbsp; T h e &nbsp; S k y .](/photography/Against_The_Sky) &nbsp; | &nbsp; [C l o s e .](/photography/Close) &nbsp; | &nbsp; [A r i z o n a &nbsp; L a n d s c a p e s .](/photography/ArizonaLandscapes) &nbsp; | &nbsp; [BACK TO INDEX](/photography)
