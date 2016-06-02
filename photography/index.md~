@@ -11,21 +11,21 @@ image:
 
 <br>
 <br>
-<p style="letter-spacing: 6px;">
 
-# [Travel.](/photography/Travel) 
 
-<br>
-
-# [Against the Sky.](/photography/Against_The_Sky)
+# <p style="letter-spacing: 6px;">[Travel.](/photography/Travel) </p>
 
 <br>
 
-# [Close.](/photography/Close)
+# <p style="letter-spacing: 6px;">[Against the Sky.](/photography/Against_The_Sky)</p>
 
 <br>
 
-# [Arizona Landscapes.](/photography/ArizonaLandscapes)
+# <p style="letter-spacing: 6px;">[Close.](/photography/Close)</p>
+
+<br>
+
+# <p style="letter-spacing: 6px;">[Arizona Landscapes.](/photography/ArizonaLandscapes)</p>
 
 
 <br>
@@ -34,7 +34,7 @@ image:
 ---
 
 ### More...
-
+<p style="letter-spacing: 6px;">
 - [see more of my images on <i class="fa fa-flickr"></i>](https://www.flickr.com/photos/isaacullah)
 </p>
 

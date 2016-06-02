@@ -32,6 +32,6 @@ tags: [Photography, Portfolio, Landscape, Azrizona]
 </figure>
 
 ---
-<p style="letter-spacing: 6px;">
+
 ## [Against the Sky.](/photography/Against_The_Sky) &nbsp; | &nbsp; [Close.](/photography/Close) &nbsp; | [Travel.](/photography/Travel) &nbsp; | &nbsp; [BACK TO INDEX](/photography)
-</p>
+
