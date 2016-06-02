@@ -107,17 +107,17 @@ So, without further ado, here's the list! Check out the notes following for some
 - Scissors
 - Callus scraper and foot lotion (for inevitable cracked heels)
 - Finger and toenail clippers
-- Sewing kit
+- Sewing kit (for when you split your pants!)
 
 # Miscellaneous Gear
 
 - Mosquito net (not always needed, but you'll be glad to have it if it is)
 - Sunglasses + case
-- Money and credit cards (all of 'em!)
+- Money and credit cards (My new favorite thing is the Charles Schwab investors checking account. No foreign transaction fees, and they refund *all* ATM fees!)
 - Slim-fit back brace (you’ll need it eventually)
 - Swiss army knife (with a CORKSCREW if you ever want to drink wine)
 - Passport (Duh!)
-- Visa and Itinerary printouts
+- Visa and Itinerary printouts (don't rely on your phone here)
 - Neck pillow (for long plane rides, can double as an extra pillow for sleeping)
 - Packable pillow (unless you can make do with a neck pillow for 2 months)
 - Pack towel
