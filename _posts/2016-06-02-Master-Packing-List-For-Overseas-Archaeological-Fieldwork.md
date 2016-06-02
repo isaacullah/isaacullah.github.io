@@ -120,7 +120,7 @@ So, without further ado, here's the list! Check out the notes following for some
 - Visa and Itinerary printouts (don't rely on your phone here)
 - Neck pillow (for long plane rides, can double as an extra pillow for sleeping)
 - Packable pillow (unless you can make do with a neck pillow for 2 months)
-- Pack towel
+- Pack towel (The ones from REI are great.)
 - Harmonicas (there is no TV where you are going)
 - A pack of playing cards (Did I mention that there is no TV)
 - Platypus bottle with tube and valve (especially for survey)
