@@ -1,9 +1,9 @@
 ---
 layout: page
-title: T r a v e l .
+title: Travel.
 date: 2016-06-02
 modified: 
-excerpt: T r a v e l .
+excerpt: Travel.
 tags: [Photography, Portfolio, Travel]
 ---
 

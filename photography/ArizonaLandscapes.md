@@ -1,9 +1,9 @@
 ---
 layout: page
-title: A r i z o n a &nbsp; L a n d s c a p e s .
+title: Arizona Landscapes.
 date: 2016-06-02
 modified: 
-excerpt: A r i z o n a &nbsp; L a n d s c a p e s .
+excerpt: Arizona Landscapes.
 tags: [Photography, Portfolio, Landscape, Azrizona]
 ---
 

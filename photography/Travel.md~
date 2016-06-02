@@ -32,6 +32,6 @@ tags: [Photography, Portfolio, Travel]
 </figure>
 
 ---
-<p style="letter-spacing: 6px;">
+
 ## [Against the Sky.](/photography/Against_The_Sky) &nbsp; | &nbsp; [Close.](/photography/Close) &nbsp; | &nbsp; [Arizona Landscapes.](/photography/ArizonaLandscapes) &nbsp; | &nbsp; [BACK TO INDEX](/photography)
-</p>
+
