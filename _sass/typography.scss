@@ -9,23 +9,23 @@ h1 {
 }
 h2 {
 	@include font-size(28);
-	letter-spacing: 0.4rem;
+	letter-spacing: 0.3rem;
 }
 h3 {
 	@include font-size(24);
-	letter-spacing: 0.4rem;
+	letter-spacing: 0.2rem;
 }
 h4 {
 	@include font-size(18);
-	letter-spacing: 0.4rem;
+	letter-spacing: 0.2rem;
 }
 h5 {
 	@include font-size(16);
-	letter-spacing: 0.4rem;
+	letter-spacing: 0.2rem;
 }
 h6 {
 	@include font-size(14);
-	letter-spacing: 0.4rem;
+	letter-spacing: 0.2rem;
 }
 
 // Links
