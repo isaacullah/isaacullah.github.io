@@ -126,10 +126,16 @@ So, without further ado, here's the list! Check out the notes following for some
 - Platypus bottle with tube and valve (especially for survey)
 - Sleep sheet (for hostels and the dig-house)
 
+## Addenda
+
+These are additions to the above, based on suggestions from friends and fellow archaeologists who know stuff I don't. Especially things like what it's like to be a woman in the field!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jjFZ1nzijrI" frameborder="0" allowfullscreen></iframe>
+
 
 ## Notes
 
-- This is clearly a male-skewed list. Women will likely need a few different items, especially toiletries. Also, in certain countries women may need things like head-scarves, etc. Any specific suggestions from female archaeologists will be very much appreciated!
+- This is clearly a male-skewed list. Women will likely need a few different items, especially toiletries. Also, in certain countries women may need things like head-scarves, etc. Any specific suggestions from female archaeologists will be *very* much appreciated!
 - The list covers combined general excavation and pedestrian survey. You may not need all items if you are only excavating or only surveying. This should be all you need for 1-2 months of fieldwork!
 - This list is summer-oriented, so adapt for fall or spring fieldwork.
 - Plan on doing laundry weekly to biweekly. If you do laundry more frequently, you can bring fewer clothes. Quickdrying clothing (synthetics, merino wool) is especially useful if you are doing that laundry by hand.
