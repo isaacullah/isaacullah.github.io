@@ -5,27 +5,27 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
 	@include font-size(32);
-	letter-spacing: 8px;
+	letter-spacing: 0.5rem;
 }
 h2 {
 	@include font-size(28);
-	letter-spacing: 4px;
+	letter-spacing: 0.5rem;
 }
 h3 {
 	@include font-size(24);
-	letter-spacing: 4px;
+	letter-spacing: 0.5rem;
 }
 h4 {
 	@include font-size(18);
-	letter-spacing: 2px;
+	letter-spacing: 0.5rem;
 }
 h5 {
 	@include font-size(16);
-	letter-spacing: 2px;
+	letter-spacing: 0.5rem;
 }
 h6 {
 	@include font-size(14);
-	letter-spacing: 2px;
+	letter-spacing: 0.5rem;
 }
 
 // Links
