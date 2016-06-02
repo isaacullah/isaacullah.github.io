@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Master Packing List for Overseas Archaeological Project"
+title: "Master Packing List for Overseas Archaeological Projects"
 author: isaacullah
 modified: 2016-06-02
 comments: True
