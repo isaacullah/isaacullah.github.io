@@ -35,7 +35,7 @@ image:
 
 ### More...
 
-- [see more of my images on <i class="fa fa-flickr"></i>](https://www.flickr.com/photos/isaacullah)
+- [See more of my images on Flickr <i class="fa fa-flickr"></i>.](https://www.flickr.com/photos/isaacullah)
 
 
 
