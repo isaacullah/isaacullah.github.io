@@ -13,19 +13,19 @@ image:
 <br>
 
 
-# <p style="letter-spacing: 6px;">[Travel.](/photography/Travel) </p>
+# [Travel.](/photography/Travel)
 
 <br>
 
-# <p style="letter-spacing: 6px;">[Against the Sky.](/photography/Against_The_Sky)</p>
+# [Against the Sky.](/photography/Against_The_Sky)
 
 <br>
 
-# <p style="letter-spacing: 6px;">[Close.](/photography/Close)</p>
+# [Close.](/photography/Close)
 
 <br>
 
-# <p style="letter-spacing: 6px;">[Arizona Landscapes.](/photography/ArizonaLandscapes)</p>
+# [Arizona Landscapes.](/photography/ArizonaLandscapes)
 
 
 <br>
@@ -34,9 +34,8 @@ image:
 ---
 
 ### More...
-<p style="letter-spacing: 6px;">
+
 - [see more of my images on <i class="fa fa-flickr"></i>](https://www.flickr.com/photos/isaacullah)
-</p>
 
 
 
