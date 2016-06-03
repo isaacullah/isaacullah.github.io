@@ -13,7 +13,7 @@ Well, it's that time of year again. Spring semester is over, finals are all grad
 #### Preliminary Notes
 
 - My original list is clearly male-skewed. Women will likely need a few different items, especially toiletries. Also, in certain countries women may need things like head-scarves, etc. My friend Stefani Crabtree has been very kind to send me an additional list of items she's found useful as a woman traveling and livng in the field. These can be found below. Thank you Stefani!
-- Stephani and others have made additional general suggestions as well. These are also found below the original list.
+- Stefani and others have made additional general suggestions as well. These are also found below the original list.
 - The list covers combined general excavation and pedestrian survey. You may not need all items if you are only excavating or only surveying. This should be all you need for 1-2 months of fieldwork!
 - This list is summer-oriented, so adapt for fall or spring fieldwork.
 - This list contains things that you may not need to bring if you are not in a supervisory position on the dig or survey (especially some of the electronics and things like the 30-meter tape).
