@@ -152,6 +152,8 @@ Thanks to Stefani Crabtree for these additional recommendations for women headin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjFZ1nzijrI" frameborder="0" allowfullscreen></iframe>
 
+<br>
+
 # Addenda
 
 These are additions to the above, based on suggestions from friends and fellow archaeologists who know stuff I don't.
