@@ -10,18 +10,13 @@ tags: [archaeology, travel, fieldwork, advice]
 
 Well, it's that time of year again. Spring semester is over, finals are all graded, and all the undergrads have fled campus. It can mean only one thing for the international archaeologist: time to cram all your gear into the maximum allowed luggage, and hop a plane to your fieldwork site! This year, however, I'm not doing that. I'm moving instead. Seeing all the lovely facebook posts of my friends and colleagues out in the field, however, has me feeling quite nostalgic. So I thought I could get in on the fun a bit by sharing my packing list of the things I bring with me when I *do* go off for fieldwork overseas. This list is the culmination of 17 years of international archaeological work in Jordan, Spain, Kazkhstan, and Italy. I've whittled it down to just the essentials, and you should be able to fit this into one carry on and one piece of checked luggage - both below the maximum allowable size/weight limits for international air travel. 
 
-#### Notes
+#### Preliminary Notes
 
-- My original list is clearly male-skewed. Women will likely need a few different items, especially toiletries. Also, in certain countries women may need things like head-scarves, etc. My friend Stephani Crabtree has been very kind to send me an additional list of items she's found useful as a woman traveling and livng in the field. These can be found below my list. Thank you Stephani!
-
+- My original list is clearly male-skewed. Women will likely need a few different items, especially toiletries. Also, in certain countries women may need things like head-scarves, etc. My friend Stephani Crabtree has been very kind to send me an additional list of items she's found useful as a woman traveling and livng in the field. These can be found below. Thank you Stephani!
 - Stephani and others have made additional general suggestions as well. These are also found below the original list.
-
 - The list covers combined general excavation and pedestrian survey. You may not need all items if you are only excavating or only surveying. This should be all you need for 1-2 months of fieldwork!
-
 - This list is summer-oriented, so adapt for fall or spring fieldwork.
-
 - This list contains things that you may not need to bring if you are not in a supervisory position on the dig or survey (especially some of the electronics and things like the 30-meter tape).
-
 - I've also assembled some general travel/field-life advice at the very end, so be sure to check that out!
 
 And now, without further ado, here's the list!
@@ -33,7 +28,7 @@ And now, without further ado, here's the list!
 - T-Shirts - 3 (Merino wool is great. Quick drying is great)
 - Long sleeve shirts - 3 (protection from the sun or for cooler weather)
 - Button up shirts - 1-2 (you may go out somewhere a little nice)
-- Socks - 6 (Smartwool socks are the best)
+- Socks - 3-6 (Smartwool socks are the best)
 - Underwear - 6-12 (I LOVE merino wool. Anything quick drying is a nice plus)
 - Sleepwear - 1 (Please don't sleep naked. Your dig-mates will thank you)
 - Swimsuit (or double-duty nylon shorts) - 1 (yes, sometimes you get to swim)
@@ -145,25 +140,15 @@ Thanks to Stephani Crabtree for these additional recommendations for women headi
 
 
 - Dry shampoo: if you have long hair (like me) and you'll be somewhere for a month with no shower, dry shampoo will save your life. I recommend Living Proof Perfect Hair Day Dry shampoo, since it doesn't give you dusty build up: http://www.sephora.com/perfect-hair-day-dry-shampoo-P399330?skuId=1722180&icid2=D=c6:products%20grid:p399330
-
 - Hair oil: long hair tangles. Really really bad. Bring some Moroccan Argan Oil.
-
 - Leave-in conditioner: If you're blessed, there will be a lake or pond where you're working. You can swim and almost wash your hair. Leave-in conditioner will make your hair last the month without having to use fancy salon wash-out conditioner.
-
 - TONS of hair ties: they will break. And they will be used as rubber bands for other things. Bring a whole pack of them.
-
 - Skirt/dress: pick one, but if you're working in a country with more traditional women's roles get a nice dress or skirt. I recommend the ones at Athleta; they pack well, dry quickly, and look nice/conservative.
-
 - Good sports bras/regular bras: You are likely to be in the middle of nowhere for a month. When I lived in Samoa my only bra broke, and I had to safety-pin it together until I got to Australia where they made bras my size. Don't let that happen to you...
-
 - Bathing swimsuit: again, if you're lucky enough to have a river/lake, you can bathe locally, but leave the string bikini at home if you're in a more traditional country. 
-
 - Toilet Paper: I don't bring from home, but buy in the capital. Many restaurants/stops don't have TP, so you need to bring it in your pack. Make sure you have some.
-
 - Condoms: I bring these because there will inevitably be shovel-love between volunteers in the field. I'm 8-years happily partnered, but I'd like to prevent pregnancy of my students. I put them in a box in a conspicuous place so they can get them and announce on day one that they're there. Also, don't rely on local condoms--they are notoriously bad. Bring Trojans from home.
-
 - Tampons: I have been in countries where they don't exist, or are hard to find, or a male shop-keeper will shame you for buying them. Bring enough.
-
 - And finally, some additional advice for dealing with periods during fieldwork:
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjFZ1nzijrI" frameborder="0" allowfullscreen></iframe>
@@ -200,7 +185,7 @@ These are additions to the above, based on suggestions from friends and fellow a
 
 - Checked luggage: You might want to consider a wheeled duffel that has some hideaway packpack straps so that you can hoist it on your back if you need to. If you work in some of the remoter places, this will be an essential feature for getting your stuff up and down stairs, over dirt or cobblestone streets, or onto the back of a donkey. 
 
-- Plan on doing laundry weekly to biweekly. If you do laundry more frequently, you can bring fewer clothes. Quickdrying clothing (synthetics, merino wool) is especially useful if you are doing that laundry by hand. Merino wool has natural anitbacterial, sweat wicking, and temperature regulating properties. For this reason many travelers find it to be the superior material for their travel clothing. You can go several days between washes without it smelling rank. It is more expensive, however. I find that the Woolly Clothing Company make very good Merino wool products for reasonable prices, and recommend them. If Merino is out of your budget, consider synthetics made for athletic activties. Synthetics can stink more, so cloth that is treated with an antimicrobial treatment (silver-based usually) can be better options. Cotton certainly works, but it doesn't dry very fast, and also can harbor the stink of your unwashed boddy. Cotton-poly blends will be the best budget choice.
+- Plan on doing laundry weekly to biweekly. If you do laundry more frequently, you can bring fewer clothes. Quickdrying clothing (synthetics, merino wool) is especially useful if you are doing that laundry by hand. Merino wool has natural anitbacterial, sweat wicking, and temperature regulating properties. For this reason many travelers find it to be the superior material for their travel clothing. You can go several days between washes without it smelling rank. It is more expensive, however. I find that the Woolly Clothing Company make very good Merino wool products for reasonable prices, and recommend them. If Merino is out of your budget, consider synthetics made for athletic activties. Synthetics can stink more, so cloth that is treated with an antimicrobial treatment (silver-based usually) can be better options. Cotton certainly works, but it doesn't dry very fast, and also can harbor the stink of your unwashed boddy. Cotton-poly blends will be the best budget choice. With all that said, here's my typical laundry cycle: *Socks:* I use smartwool (merino) socks, and get two days use out of each pair, in the field or while traveling. I usually bring 4-5 pairs, and reserve one for non-field usage. *Underwear:* one day's use only, please. I usually bring about 8 pairs. *Field shirts:* I wear them two days in a row, even when I sweat through them. This gets me through a week on three shirts. You may have a lower tolerance. *Field pants:* Washing and drying field pants sucks, so I don't do it. I bring two pairs, wear one the first half of the season, and the other the second half. *Regular clothes:* You won't wear these much during the week. They don't need washing that often. I usually plan to do one major washing of regular clothes halfway through a season. Other folks are more persnickity about that.
 
 - Field clothing. In my experience there are three schools of thought on this. 1) Buy stuff at the thrift store and dress like a hobo. Throw out anything too soiled or shredded at the end of the dig. 2) Buy stuff at REI and dress in uber-technical outdoor gear. Mortgage your house to afford thes gear. 3) By work gear (Carhartt, Dickies, etc.), and dress like a construction worker. Sweat like a hog in the desert heat. Personally, I borrow from all three approaches. I like some work gear: Dickies painter pants are great digging pants, RedWing boots are great digging boots. I like some outdoor gear: Prana make darn great pants for survey. But I also buy some things at the Goodwill: namely field shirts. In my experience, field shirts can last maybe two seasons. Field pants you might get 3-4 seasons. A good pair of boots can last 5-6 seasons. A good belt and a good hat can last a lifetime. Spend less on things that are going to wear out fast and aren't critical to your comfort, spend more on things that you need to be comfortable and/or that will last a long time. Buying used can be a more environmentally friendly option, but so can buying a high-quality item that will last longer.
 
