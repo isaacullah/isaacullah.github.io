@@ -175,7 +175,8 @@ These are additions to the above, based on suggestions from friends and fellow a
 
 - Nose guards that attach to your sunglasses and prevent sunbunt noses! Morag has one that is a Canadian flag, and highly recommends these for work in the burning Near Eastern deserts!!
 
-##### Are there any must-have items that are not mentioned above? Let me know and I'll add it here!!
+##### Are there any must-have items that are not mentioned above? 
+##### Let me know! I'll add them here, and credit you as the source!
 
 
 # Additional Travel Advice
