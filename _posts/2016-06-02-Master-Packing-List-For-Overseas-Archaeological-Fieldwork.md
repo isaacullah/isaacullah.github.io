@@ -134,7 +134,7 @@ And now, without further ado, here's the list!
 - Platypus bottle with tube and valve (especially for survey)
 - Sleep sheet (for hostels and the dig-house)
 
-## Stefani's Additional Items for Women
+# Stefani's Additional Items for Women
 
 Thanks to Stefani Crabtree for these additional recommendations for women heading for the field!!
 
@@ -152,11 +152,11 @@ Thanks to Stefani Crabtree for these additional recommendations for women headin
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jjFZ1nzijrI" frameborder="0" allowfullscreen></iframe>
 
-## Addenda
+# Addenda
 
 These are additions to the above, based on suggestions from friends and fellow archaeologists who know stuff I don't.
 
-#### Additional items suggested by Stefani Crabtree:
+### Additional items suggested by Stefani Crabtree:
 
 - Hot sauce & spices: maybe you're blessed to work in a region with really good food, but I am not. A little sriracha makes boiled mutton (or, worse, boiled sheep innards) go a long way.
 - Hand sanitizer: you never know when your day of fieldwork might become 8 or 9 hours, and you are in a small village in Northern India, joining in helping administer vaccines. Make sure you have hand sanitizer to clean yourself up.
@@ -169,14 +169,14 @@ These are additions to the above, based on suggestions from friends and fellow a
 - Headlamp & good flash light: I just bought a new headlamp, and I have a lamp for my tent. There are no lights where I work... this is necessary.
 - Other things I bring: my own packable telescoping chopsticks, enough books to last me the month, if I bring a tablet I download a couple movies for when you really need to 'get away'
 
-#### Additional items suggested by Morag Kersel
+### Additional items suggested by Morag Kersel
 
 - Nose guards that attach to your sunglasses and prevent sunbunt noses! Morag has one that is a Canadian flag, and highly recommends these for work in the burning Near Eastern deserts!!
 
 ##### Something you bring that's not mentioned above? Let me know and I'll add it here!!
 
 
-## Additional Travel Advice
+# Additional Travel Advice
 
 - Most toiletry items can be bought on arrival, but it is good to bring enough to get you through a couple days. Have these, and a couple sets of clothes with you in your carry on. Assume that the airline **will** loose your luggage. Because they will. Sooner or later, they will.
 
