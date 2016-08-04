@@ -18,11 +18,13 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-I am currently a post-doctoral researcher at Arizona State University, studying the long term effects of human landuse decisions, especially those associated with Neolithic farming and pastoralism. I use a combination of traditional archaeological and geoarchaeological approaches with GIS, computational modeling, and computer simulation to investigate the dynamics of agropastoral socio-natural systems. My work is largely based in a complex adaptive systems theory perspective.
+I am an Assistant Professor of Anthropology at [San Diego State University](http://anthropology.sdsu.edu/). I study the long-term effects of human landuse decisions and the bidorectional feedbacks between humans and environments. I am particularly interest in early farming and pastoralism and how these first food producing socio-natural systems evolved over time. I use a combination of traditional archaeological and geoarchaeological approaches in connection with GIS, computational modeling, and computer simulation to investigate the dynamics of these systems. My work is largely based in a complex adaptive systems theory perspective.
 
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient housefloors as a way to get at long-term patterns in domesticity.
 
-It is with great pleasure that I can also now announce that starting in Fall, 2016, I will be joining the faculty in the [Department of Anthropology at San Diego State University](http://anthropology.sdsu.edu/). There, I will also be affiliated with the [Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/), and I look forward to working with my new colleagues and students.
+I currently teach ANTH 349 "Roots of Civilization", ANTH 302 "Princicples of Archaeology", and ANTH 583 "GIS and Image Analysis" (coming in Spring, 2017).
+
+I am also affiliated with the [Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/) at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/) at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page), [COMSeS/Open-ABM](https://www.openabm.org/comses), [CHANS-net](http://chans-net.org/), and the [SAA](www.saa.org).
 
 In my spare time, I like taking [photographs](/photography/index.html).
 
