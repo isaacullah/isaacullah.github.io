@@ -68,7 +68,8 @@ Please visit the following links for information about several actively ongoing 
 
 #### Articles in Peer-Reviewed Journals
 
-* [2016 	Barton, C.M., Ullah, I.I.T., Bergin, S.M., Sarjoughian, H.S., Mayer, G.R., Bernabeu Auban, J.E., Heimsath, A.M., Acevedo, M.F., Riel-Salvatore, J.G., and Arrowsmith, J.R. Experimental Socioecology: Integrative Science for Anthropocene Landscape Dynamics. Anthropocene. Pre-press online: 10.1016/j.ancene.2015.12.004.](http://www.sciencedirect.com/science/article/pii/S2213305415300278)
+* [2016 Barton, C.M., Ullah, I.I.T., Bergin, S.M., Sarjoughian, H.S., Mayer, G.R., Bernabeu Auban, J.E., Heimsath, A.M., Acevedo, M.F., Riel-Salvatore, J.G., and Arrowsmith, J.R. Experimental Socioecology: Integrative Science for Anthropocene Landscape Dynamics. Anthropocene. 13, 34–45. doi:10.1016/j.ancene.2015.12.004](http://www.sciencedirect.com/science/article/pii/S2213305415300278)
+
 
 * 2015	Ullah, I.I.T. Integrating older survey data into modern research paradigms: Identifying and correcting spatial error in “legacy” datasets. Advances in Archaeological Practice. 3(4): 331-350.
 
@@ -76,15 +77,15 @@ Please visit the following links for information about several actively ongoing 
 
 * [2015	Ullah, I.I., Duffy, P.R., and Banning, E.B. Modernizing spatial micro-refuse analysis: New methods for collecting, analyzing, and interpreting the spatial patterning of micro-refuse from house-floor contexts. Journal of Archaeological Method and Theory. 22(4), 1238-1262. doi: 10.1007/s10816-014-9223-x](http://link.springer.com/article/10.1007/s10816-014-9223-x)
 
-* [2015		Barton, C.M., Ullah, I.I., and Heimsath, A. How to make a Barranco: Modeling socioecological dynamics of landscape change in the Mediterranean. Land, 4(3), 578-606. Special issue entitled, “Agent-Based Modelling and Landscape Change”, guest edited by J. Millington and J. Wainwright.](http://www.mdpi.com/2073-445X/4/3/578/htm)
+* [2015	Barton, C.M., Ullah, I.I., and Heimsath, A. How to make a Barranco: Modeling socioecological dynamics of landscape change in the Mediterranean. Land, 4(3), 578-606. Special issue entitled, “Agent-Based Modelling and Landscape Change”, guest edited by J. Millington and J. Wainwright.](http://www.mdpi.com/2073-445X/4/3/578/htm)
 
-* [2012 	Barton, C.M., Ullah, I.I., Bergin, S.M., Mitasova, H., and Sarjoughian, H. Looking for the future in the past: Long-term change in socioecological systems. Ecological Modeling, Special Issue: Modeling Across Millennia. 241(0):42-53.](http://www.sciencedirect.com/science/article/pii/S0304380012000786)
+* [2012 Barton, C.M., Ullah, I.I., Bergin, S.M., Mitasova, H., and Sarjoughian, H. Looking for the future in the past: Long-term change in socioecological systems. Ecological Modeling, Special Issue: Modeling Across Millennia. 241(0):42-53.](http://www.sciencedirect.com/science/article/pii/S0304380012000786)
 
-* [2011 	Ullah, I.I. A GIS method for assessing the zone of human-environmental impact around archaeological sites: a test case from the Late Neolithic of Wadi Ziqlâb, Jordan. Journal of Archaeological Science. 38(3):623-632.](http://www.sciencedirect.com/science/article/pii/S0305440310003705)
+* [2011 Ullah, I.I. A GIS method for assessing the zone of human-environmental impact around archaeological sites: a test case from the Late Neolithic of Wadi Ziqlâb, Jordan. Journal of Archaeological Science. 38(3):623-632.](http://www.sciencedirect.com/science/article/pii/S0305440310003705)
 
 * [2010 	Barton, C.M., Ullah, I.I., and Bergin, S. Land use, water and Mediterranean landscapes: Modelling long-term dynamics of complex socio-ecological systems. Philosophical Transactions of the Royal Society A: Mathematical, Physical and Engineering Sciences.  368(1931):5275 -5297.](http://rsta.royalsocietypublishing.org/content/368/1931/5275.short)
 
-* [2010 	Barton, C.M., Ullah, I.I., and Mitasova, H. Computational modeling and Neolithic socioecological dynamics: A case study from Southwest Asia. American Antiquity.  75(2):364-386.](http://www.jstor.org/stable/25766199?seq=1#page_scan_tab_contents)
+* [2010 Barton, C.M., Ullah, I.I., and Mitasova, H. Computational modeling and Neolithic socioecological dynamics: A case study from Southwest Asia. American Antiquity.  75(2):364-386.](http://www.jstor.org/stable/25766199?seq=1#page_scan_tab_contents)
 
 #### Book Chapters
 
