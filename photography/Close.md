@@ -19,7 +19,7 @@ tags: [Photography, Portfolio, Art]
 
 <figure>
 	<a href="https://www.flickr.com/photos/isaacullah/28304044861/in/dateposted-public/" title="Flora Miniatura."><img src="https://c6.staticflickr.com/9/8314/28304044861_f748dba39a_k.jpg" width="826" height="826" alt="Flora Miniatura."></a>
-	<figcaption><p style="letter-spacing: 5px;">Colors.</p></figcaption>
+	<figcaption><p style="letter-spacing: 5px;">Flora Miniatura.</p></figcaption>
 </figure>
 
 <figure>
