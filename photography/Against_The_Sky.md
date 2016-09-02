@@ -23,8 +23,8 @@ tags: [Photography, Portfolio, Art]
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24326425969/in/dateposted-public/" title="Angles."><img src="https://farm2.staticflickr.com/1520/24326425969_abfbc50011_o.jpg" width="2993" height="2998" alt="Angles."></a>
-	<figcaption><p style="letter-spacing: 5px;">Angles.</p></figcaption>
+	<a href="https://www.flickr.com/photos/isaacullah/28572022922/in/dateposted-public/" title="Evening Light Over Enchanted Isle."><img src="https://c3.staticflickr.com/9/8567/28572022922_a60de8ce3d_k.jpg" width="2993" height="2998" alt="Evening Light Over Enchanted Isle."></a>
+	<figcaption><p style="letter-spacing: 5px;">Evening Light Over Enchanted Isle.</p></figcaption>
 </figure>
 
 ---
