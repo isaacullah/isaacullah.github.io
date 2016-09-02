@@ -18,7 +18,7 @@ tags: [Photography, Portfolio, Art]
 </figure>
 
 <figure>
-	<a href="https://www.flickr.com/photos/isaacullah/24715054585/in/dateposted-public/" title="Colors."><img src="https://farm2.staticflickr.com/1460/24715054585_072ece1a89_o.jpg" width="826" height="826" alt="Colors."></a>
+	<a href="https://www.flickr.com/photos/isaacullah/28304044861/in/dateposted-public/" title="Flora Miniatura."><img src="https://c6.staticflickr.com/9/8314/28304044861_f748dba39a_k.jpg" width="826" height="826" alt="Flora Miniatura."></a>
 	<figcaption><p style="letter-spacing: 5px;">Colors.</p></figcaption>
 </figure>
 
