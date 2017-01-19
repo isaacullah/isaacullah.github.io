@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2016-05-18
+modified: 2017-01-19
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
@@ -48,7 +48,7 @@ The great majority of these software tools are available on all three major OS p
 
 #### Image Analysis/Remote Sensing
 - [Multispec](https://engineering.purdue.edu/~biehl/MultiSpec/) - Great tool for analysis and manipulation of multispectral satellite imagery. Can do clustering. **Highly recommended.** [Mac, Windows, Online in browser]
-- [ImageJ](http://imagej.nih.gov/ij/) - Great tool for general image manipulation and analysis. A LOT of plugins. Mostly used for medical imaging, but great for analysis of artifacts via imagery. [Linux, Mac, Windows]
+- [ImageJ](http://imagej.nih.gov/ij/) - Great tool for general image manipulation and analysis. A LOT of plugins. Mostly used for medical imaging, but great for analysis of artifacts via imagery. **Highly recommended.** [Linux, Mac, Windows]
 - [HyperCube](http://www.erdc.usace.army.mil/Media/FactSheets/FactSheetArticleView/tabid/9254/Article/610433/hypercube.aspx) - Another multispectral image analysis tool. Very powerful. [Windows, Mac]
 - [Orfeo Toolbox](https://www.orfeo-toolbox.org) - A nice-looking piece of software for analyzing satellite imagery. Looks to be especially well-suited for very high resolution imagery. [Linux, Mac, Windows]
 - [GRASS](grass.osgeo.org) - GRASS does most satellite imagery analysis things too. [Linux, Mac, Windows]
@@ -155,8 +155,8 @@ The great majority of these software tools are available on all three major OS p
 - [SQLite](https://www.sqlite.org/) - SQLite is a very widely used Open database format. It's used as a database engine by a lot of other FOSS projects, such as GRASS, so it's useful to be familiar with it. [Linux, Mac, Windows]
 
 #### Text editing
-- [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic lightweight text editor with syntax highlighting that just does what you want it to. My personal favorite. Does require GTK libraries, however. **Highly recommended.** [Linux, Mac, Windows]
-- [Medit](http://mooedit.sourceforge.net/) - Also good and lightweight, and doesn't require GTK. [Linux]
+- [Gedit](https://wiki.gnome.org/Apps/Gedit) - A basic lightweight text editor with syntax highlighting that just does what you want it to. This was my personal favorite until recently. Does require GTK libraries, however. [Linux, Mac, Windows]
+- [Medit](http://mooedit.sourceforge.net/) - Same functionality as Gedit, but lighter and sleeker because it doesn't require GTK. I've switched to this as my main text editor. **Highly recommended.** [Linux]
 - [Notepad++](https://notepad-plus-plus.org/) - Probably the best option for Windows users. **Highly recommended.** [Windows, Mac, Linux]
 - [Geany](http://www.geany.org/) - Another good cross-platform text editor. Some basic IDE tools included. [Linux, Mac, Windows]
 
@@ -210,10 +210,11 @@ The great majority of these software tools are available on all three major OS p
 
 #### Photography
 - [Darktable](http://www.darktable.org/) - Very powerful, non-destructive photography post-processing suite, including RAW development, collection management, and all sorts of other goodies. A FOSS alternative for Adobe Lightroom. I very highly recommend this, and use it as my main photographic editor. I've just been alerted to a potential Windows port of Darktable. Stay tuned! **Highly recommended.** [Linux, Mac, Windows sort of]
-- [LightZone](http://lightzoneproject.org/) - Quite similar to DarkTable. I haven't tried this software myself, but it does seem to be actively developed with a good user community. I hear good things. Windows users, this is your Lightroom alternative. Note that while you have to register to download, it's free and open-source. [Linux, Mac, Windows]
-- [PhotoFlow](http://aferrero2707.github.io/PhotoFlow/) - Another full-fledged non-destructive RAW developer and photo-editor. This seems to be in early development stage, but is being actively worked on. Should be an interesting alternative to Darktable and LightZone. [Linux, Mac, Windows]
-- [RawTherapee](http://rawtherapee.com/) - A basic RAW developer. This is the simplest way to develop RAW camera files, and then export them to other formats. If you don't want to do complex edits, this is the RAW developer for you. [Linux, Mac, Windows]
+- [LightZone](http://lightzoneproject.org/) - I have recently started using LightZone for some photo editing, and in some ways I like it better than Darktable. It's less capable, perhaps, but I think easier to learn and use. Windows users, this is your Lightroom alternative. Note that while you have to register to download, it's free and open-source. **Highly recommended.** [Linux, Mac, Windows]
+- [RawTherapee](http://rawtherapee.com/) - A very powerful RAW developer. This is probably the most popular FOSS RAW developer and editor, with a large user base. You can do a lot with it, but I am not fond of the UI, and I think it's fairly complex to learn and use as a beginner. I use it from time to time for its very comprehensive RAW dematrixing algorithm selections, but I prefer Darktable or LightZone over RawTherapee. [Linux, Mac, Windows]
 - [GIMP](www.gimp.org) - A FOSS alternative for Adobe Photoshop. Very functional and powerful. Can do interactive photo edits like rubber stamp as well as layer-integrated edits. Many macros/plugins for photgraphic post-processing and pixel editing. **Highly recommended.** [Linux, Mac, Windows]
+- [Filmulator](https://github.com/CarVac/filmulator-gui) - Filmulator is a really cool, actively developed RAW developer that uses a very different image development pipeline than other editors. It's refreshingly simple, and is designed to "automagically" develope your RAW files so that they get 90% of the way to a finished product with minimal effort. I like this tool quite a bit. [Linux source code only for now]
+- [PhotoFlow](http://aferrero2707.github.io/PhotoFlow/) - Another full-fledged non-destructive RAW developer and photo-editor. This seems to be in early development stage, but is being actively worked on. Should be an interesting alternative to Darktable and LightZone. [Linux, Mac, Windows]
 - [UFRaw](http://ufraw.sourceforge.net/) - A RAW developer plugin for GIMP. Very simple to use, and helps you get your RAW images into GIMP for further editing. [Linux, Mac, Windows]
 - [G'MIC](http://gmic.eu/) - This is a great set of plugins for GIMP (or Adobe Photoshop) that add tons of new functionality. Can be accessed independantly from the command line too. **Highly recommended.** [Linux, Mac, Windows]
 - [GThumb](https://wiki.gnome.org/Apps/gthumb) - A basic, but very functional picture viewer/organizer for Linux. Can do minor edits like rotate or auto-enhance. Really just for viewing images, but does it well. [Linux]
@@ -240,6 +241,7 @@ The great majority of these software tools are available on all three major OS p
 - [SoundConverter](http://soundconverter.org/) - To/from pretty much any audio file format. GUI. [Linux]
 - [Handbrake](https://handbrake.fr/) - GUI video converter. Powerful. Convert to/from pretty much any format. [Linux, Mac, Windows]
 - [avconv/ffmpeg](https://libav.org/avconv.html) - Command line tools for video conversion. Very powerful. Useful for making movies from a series of still images or reducing movie file size. [Linux, Windows]
+
 
 
 
