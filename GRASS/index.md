@@ -2,8 +2,8 @@
 layout: page
 title: GRASS GIS and custom modules for archaeological and socio-ecological research
 date: 2014-10-15
-modified: 
-excerpt: Information about the free and open-source GRASS GIS software suite and some custom GRASS modules that I developed. 
+modified:
+excerpt: Information about the free and open-source GRASS GIS software suite and some custom GRASS modules that I developed.
 tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
 image:
   feature: gbanner.gif
@@ -23,13 +23,13 @@ image:
 GRASS is a very powerful and completely free GIS software suite for Linux, Macintosh, and Windows. It is developed _for_ scientists _by_ scientists, and is **fully open-source**. This means you know *exactly* what the software does, and *how* it does what it does. You even have citations to the scholarly publications that provided the algorithms used. Also, if you find an error, don't like something, or want a missing feature, you can [get involved](http://grass.osgeo.org/get-involved/) and request or enact those changes yourself! Open software promotes the scientific method, and pushes the goals of open knowledge generation, information and skill sharing, and open-access data curating forward.
 
 
-Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo.org)) for [more information about GRASS](http://grass.osgeo.org/documentation/general-overview/), [GRASS modules](http://grass.osgeo.org/documentation/manuals/), [tutorials](http://grass.osgeo.org/documentation/tutorials/) and [other resources for open-source GIS](http://grass.osgeo.org/documentation/books/). I also manage the [GRASS GIS Facebook page](https://www.facebook.com/groups/96121775724/), which you may wish to join if you'd like to keep in touch about GRASS-related topics in a more social media-ish way. Finally, you should also check out the [OS-Geo homepage](http://www.osgeo.org/) for information and downloads of many other great pieces of open-source geospatial software. 
+Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo.org)) for [more information about GRASS](http://grass.osgeo.org/documentation/general-overview/), [GRASS modules](http://grass.osgeo.org/documentation/manuals/), [tutorials](http://grass.osgeo.org/documentation/tutorials/) and [other resources for open-source GIS](http://grass.osgeo.org/documentation/books/). I also manage the [GRASS GIS Facebook page](https://www.facebook.com/groups/96121775724/), which you may wish to join if you'd like to keep in touch about GRASS-related topics in a more social media-ish way. Finally, you should also check out the [OS-Geo homepage](http://www.osgeo.org/) for information and downloads of many other great pieces of open-source geospatial software.
 
 ---
 
 ## GRASS "Addon" modules for computational archaeology
 
-I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have, or am in the process of, updated most of these for use in GRASS 7 (they are noted thusly). These tools are specifically formulated to accomplish computational analyses of archaeological problems or data. Please feel free to [contact me](mailto:iullah@asu.edu) with any questions or comments about these modules.
+I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have, or am in the process of, updated most of these for use in GRASS 7 (they are noted thusly). These tools are specifically formulated to accomplish computational analyses of archaeological problems or data. See the note below for instructions on how to instal stable versions of these addons. Development versions are hosted in my [GRASS_Addons](https://github.com/isaacullah/GRASS_Addons) GitHub repository. [Please feel free to [contact me](mailto:iullah@asu.edu) with any questions or comments about these modules.
 
 #### Maintained Modules (will be updated with reasonable regularity)
 
@@ -62,7 +62,7 @@ I have coded and contributed several custom modules that you can add to GRASS vi
 
 ## How to install GRASS Addon Modules
 
-The simplest way to install these (and other) addon modules in GRASS is to use the "g.extension" module. See the [help pages for g.extension](http://grass.osgeo.org/grass70/manuals/g.extension.html) for instructions on how to use it. This method will work in *both* GRASS 7 and GRASS 6, and is the preferred method. It may be useful (especially in GRASS 6) to set a custom folder for your addons to live in, which can be done by setting the "GRASS_ADDON_PATH" environmental variable ([instructions here](http://grass.osgeo.org/grass70/manuals/grass7.html#addon-base-for-extra-local-grass-addon-modules)). 
+The simplest way to install these (and other) addon modules in GRASS is to use the "g.extension" module. See the [help pages for g.extension](http://grass.osgeo.org/grass70/manuals/g.extension.html) for instructions on how to use it. This method will work in *both* GRASS 7 and GRASS 6, and is the preferred method. It may be useful (especially in GRASS 6) to set a custom folder for your addons to live in, which can be done by setting the "GRASS_ADDON_PATH" environmental variable ([instructions here](http://grass.osgeo.org/grass70/manuals/grass7.html#addon-base-for-extra-local-grass-addon-modules)).
 
 If you can't get g.extension to work, then any addon module can be downloaded directly from the GRASS addon SVN repository ( [GRASS 7 versions](https://svn.osgeo.org/grass/grass-addons/grass7/), [GRASS 6 versions](https://svn.osgeo.org/grass/grass-addons/grass6/)), and the script file can be saved in your grass addons folder (set with `GRASS_ADDON_PATH` in GRASS 6 (or 7), or in the default `~/.grass7/addons/` directory in GRASS 7), or the "scripts" directory of the main GRASS install tree (e.g., `/usr/local/grass6.4.4/scripts/` on a linux installation of GRASS 6). Note that to install scripts in the system directory, you will likely need administrator (or root) privileges on your system. Also make sure you set the downloaded file to be "executable".
 
