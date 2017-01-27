@@ -47,7 +47,7 @@ I have coded and contributed several custom modules that you can add to GRASS vi
 
 * [r.agropast.semiadaptive](https://github.com/isaacullah/GRASS_Addons/blob/master/r.agropast.semiadaptive7.0.5.py) -- This is a fully functional script that is not yet in the official GRASS repository because I have not had time to write the docuementation for it yet. Follow the instructions in the ReadMe file on my GitHub if you want to install it. An earlier version of this module was used in Barton, Ullah, and Heimsath, 2016, and this new version is used in a series of experiments that will be published soon.
 
-#### Depricated GRASS 6.x modules (unmaintained, with no plans for upgrades or backports from GRASS 7.x versions. Still useful and useable in GRASS 6.x, however)
+#### Depricated GRASS 6.x modules (unmaintained, with no plans for upgrades or backports from GRASS 7.x versions.)
 
 * [r.landscape.evol](https://svn.osgeo.org/grass/grass-addons/grass6/raster/r.landscape.evol/)
 
