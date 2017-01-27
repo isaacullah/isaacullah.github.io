@@ -11,16 +11,19 @@ tags: [archaeology, travel, fieldwork, advice]
 I've put together a small script to automate the process of creating a "super resolution" image from a series of handheld photos, and I thought I'd share it here. This basically emulates the "pixel shift" feature on certain Pentax and Olympus cameras by taking advantage of your shaky hands! The script, as well as much of the information below and some sample images you can use to test it out, have been merged into the [pixels.us scripts github repo](https://github.com/pixlsus/Scripts), under the directory ["superres"](https://github.com/pixlsus/Scripts/tree/master/superres). The main set of sample images can be found [here](https://github.com/pixlsus/Scripts/tree/master/superres/sample_images)
 
 Why might you want to do this, you ask? Well, for a couple of reasons:
+
 1. You only have a low resolution camera on hand (your cell phone, for example), but you come across a scene that you want to record in high detail.
 2. You have a good camera, but you want **MOAR MEGAPIXELS!!!**
 3. Did I mention **MOAR MEGAPIXELS!!!???**
 
 Some of the subsidiary benefits of this routine are: 
+
 1. Reduction of image noise. 
 2. Enhancement of details and apparent sharpness.
 3. Ability to recover relfectance details lost when shooting jpeg instead of RAW.
 
 Applications in archaeology include: 
+
 1. Creating enhanced resolution images of artifacts for archival purposes.
 2. Creating enhanced resolution images of stratigraphy, soils, or landscapes for later analysis. 
 3. Geeking out in the computational archaeology lab on Friday afternoon.
@@ -52,6 +55,7 @@ I've included a small series of sample images so that you can test the script on
 
 
 ## HINTS:
+
 1.  Ensure the script is executable with `chmod 755`.
 2.  If you want the script to automatically remove the temporary resized or aligned versions of the images after the script is finished, you can uncomment the last line of the script: `#rmdir -fr resized # remove interm images`. otherwise you can manually delete the directory yourself.
 3. I chose default values for `align_image_stack` that seemed to work well with my test images. You may find that you need to alter some of the variables for best results with your own images. I suggest reading about `align_image_stack` [here](http://wiki.panotools.org/Align_image_stack) and [here](http://photo.stackexchange.com/questions/83178/cannot-align-images-with-align-image-stack). In particular, you may need to adjust the number of control points (the number after the `-c` in the `align_image_stack` command)
