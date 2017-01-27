@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Script to automate creation of "super resolution" images from a series of handheld shots"
+title: "Script to automate creation of super resolution images from a series of handheld shots"
 author: isaacullah
 modified: 2017-01-27
 comments: True
