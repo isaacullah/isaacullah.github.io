@@ -8,8 +8,8 @@ excerpt: "SDSU students learn to make and use stone tools for science!"
 tags: [experimental archaeology, workshop, teaching]
 ---
 This semester I had the distinct pleasure of working with some of our SDSU Anthropology undergraduates to plan and execute a workshop in which students could get a first-hand experience of making and using stone tools to conduct use-wear experiments. Best of all, the students obtained a grant to fund this from our campus initiative called the ["Student Success Fee"](http://bfa.sdsu.edu/financial/budget/ssfee/). This workshop was made possible through their successfull application to this program, which, in turn, derives from their own student fees. While I worked with them to develope the plan and proposal, it really was the dedication of our [undergraduate majors](http://aas.sdsu.edu/) that led to a successful outcome.
-
-  During the workshop, the students achieved the following learning outcomes:
+<br>
+  _During the workshop, the students achieved the following learning outcomes:_
 
 #### 1) Learned how to design scientific experiments and carry them out.
 i. Derived a procedure to study wear marks on a variety of stone tool types, doing a variety of activities
