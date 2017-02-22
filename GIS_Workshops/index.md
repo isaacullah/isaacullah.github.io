@@ -2,7 +2,7 @@
 layout: page
 title: Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists
 date: 2014-10-15
-modified: 
+modified: 2017-02-22
 excerpt: Short courses in open-source GIS applications for Archaeologists, Anthropologists, and other Social Scientists. 
 tags: [GIS, Landscape Reconstruction, GRASS, Workshop]
 image:
@@ -25,6 +25,13 @@ Spatial data analysis is an increasingly important skill in social science. The 
 I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.org/). I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](http://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
 
 ---
+
+
+## GRASS 7.2 and QGIS 2.15 screencasts. 
+
+I am currently (Spring 2017) recording a series of screencasts for QGIS 2.15 and GRASS 7.2. These are for my ongoing class, ANTH 583, "GIS and Imagery Analysis," and as such may not cover all aspects of GRASS, and may use specific data or case studies. Nevertheless, the might be helpful, and I will add them to the playlist embedded below. Click the "three bars" in the upper right corner to see a list of videos in the playlist. Keep checking back for additional videos!
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h" frameborder="0" allowfullscreen></iframe>
 
 ## Short Courses in GIS for Archaeologists and Geoarchaeologists
 

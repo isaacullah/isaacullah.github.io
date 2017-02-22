@@ -1,7 +1,7 @@
 ---
 layout: page
 title: GRASS GIS and custom modules for archaeological and socio-ecological research
-date: 2017-01-19
+date: 2017-02-22
 modified:
 excerpt: Information about the free and open-source GRASS GIS software suite and some custom GRASS modules that I developed.
 tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
@@ -29,15 +29,16 @@ Please visit the the GRASS homepage ([http://grass.osgeo.org](http://grass.osgeo
 
 ## GRASS "Addon" modules for computational archaeology
 
-I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have, or am in the process of, updated most of these for use in GRASS 7 (they are noted thusly). These tools are specifically formulated to accomplish computational analyses of archaeological problems or data. See the note below for instructions on how to instal stable versions of these addons. Development versions are hosted in my [GRASS_Addons](https://github.com/isaacullah/GRASS_Addons) GitHub repository. [Please feel free to [contact me](mailto:iullah@asu.edu) with any questions or comments about these modules.
+I have coded and contributed several custom modules that you can add to GRASS via the "g.extention" addon manager (see below). I list the modules here, with brief descriptions and citations to the publications in which they are employed. I have updated most of these for use in GRASS 7, and will be maintaing these versions only (i.e., I no longer support the GRASS 6 versions of these modules). These tools are specifically formulated to accomplish computational analyses of archaeological, socio-ecological, and geoarchaeological problems or data. 
+See the note below for instructions on how to install stable versions of these addons. Development versions are hosted in my [GRASS_Addons](https://github.com/isaacullah/GRASS_Addons) GitHub repository. [Please feel free to contact me](mailto:iullah@asu.edu) with any questions or comments about these modules.
 
 #### Maintained Modules (regularly updated for GRASS 7.x versions)
 
 * [r.landscape.evol](https://svn.osgeo.org/grass/grass-addons/grass7/raster/r.landscape.evol/) -- Simulates the cumulative effect of erosion and deposition on a landscape over time. This module uses appropriate flow on different landforms by default; however, singular flow regimes can be chosen by manipulating the cutoff points. This module has been used in several of my publications, including [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia), [Barton Ullah, & Bergin 2010](https://www.academia.edu/350609/Land_use_water_and_Mediterranean_landscapes_modelling_long-term_dynamics_of_complex_socio-ecological_systems), [Ullah & Bergin, 2012](https://www.academia.edu/398249/Modeling_the_Consequences_of_Village_Site_Location_Least_Cost_Path_Modeling_in_a_Coupled_GIS_and_Agent-Based_Model_of_Village_Agropastoralism_in_Eastern_Spain), and [Barton, Ullah, et al., 2012](https://www.academia.edu/841547/Looking_for_the_Future_in_the_Past_Long-Term_Change_in_Socioecological_Systems). In particular, the details of the equations and methods can be found in [Mitasova, Harmon, et al., 2013](https://www.academia.edu/421211/Geospatial_Information_Science-based_Erosion_Modeling).  (GRASS 6 and 7)
 
-*  [r.catchment](https://svn.osgeo.org/grass/grass-addons/grass7/raster/r.catchment/) -- Creates a raster buffer of specified area around vector points using cost distances. This module was used in several of my publications, but was the main focus of [Ullah 2011](https://www.academia.edu/253405/A_GIS_Method_for_Assessing_the_Zone_of_Human-Environmental_Impact_Around_Archaeological_Sites_a_Test_Case_From_the_Late_Neolithic_of_Wadi_Ziqlab_Jordan)., and was used extensively in [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia).  (GRASS 6 and 7)
+*  [r.catchment](https://svn.osgeo.org/grass/grass-addons/grass7/raster/r.catchment/) -- Creates a raster buffer of specified area around vector points using cost distances. This module was used in several of my publications, but was the main focus of [Ullah 2011](https://www.academia.edu/253405/A_GIS_Method_for_Assessing_the_Zone_of_Human-Environmental_Impact_Around_Archaeological_Sites_a_Test_Case_From_the_Late_Neolithic_of_Wadi_Ziqlab_Jordan)., and was used extensively in [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia), among others.  (GRASS 6 and 7)
 
-* [r.viewshed.cva](https://svn.osgeo.org/grass/grass-addons/grass7/raster/r.viewshed.cva/) -- Undertakes a "cumulative viewshed analysis" using a vector points map as input "viewing" locations, and the faster r.viewshed instead of r.los (r.viewshed is the default in GRASS 7). NOTE: In GRASS 6, this routine requires the grass addon module r.viewshed, developed by Laura Toma, Yi Zhuang, William Richard, and Markus Metz. Both modules can be installed with g.extension (see below). I have submitted a manuscript that, in part, describes this module to Advances in Archaeological Practice. Stay tuned! (GRASS 6 and 7)
+* [r.viewshed.cva](https://svn.osgeo.org/grass/grass-addons/grass7/raster/r.viewshed.cva/) -- Undertakes a "cumulative viewshed analysis" using a vector points map as input "viewing" locations. This module uses the fast viewshed module "r.viewshed," developed by Laura Toma, Yi Zhuang, William Richard, and Markus Metz. "r.viewshed.cva" was used in [Ullah, 2015](https://www.researchgate.net/publication/284705699_Integrating_Older_Survey_Data_into_Modern_Research_Paradigms_Identifying_and_Correcting_Spatial_Error_in_Legacy_Datasets), and is in use for work I plan to publish shortly. (GRASS 6 and 7)
 
 * [r.floorsim](https://svn.osgeo.org/grass/grass-addons/grass6/raster/r.floorsim/) -- Simulation of artifacts deposition on a housefloor, with site formation disturbance, sampling, and re-randomization. This module is used in [Ullah, Duffy, and Banning 2014](https://www.academia.edu/9219783/Modernizing_Spatial_Micro-Refuse_Analysis_New_Methods_for_Collecting_Analyzing_and_Interpreting_the_Spatial_Patterning_of_Micro-Refuse_from_House-Floor_Contexts). (GRASS 6, GRASS 7 version under development)
 
@@ -46,6 +47,8 @@ I have coded and contributed several custom modules that you can add to GRASS vi
 * [r.land.assess](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/devs_landcover_scripts/r.land.assess.py/) -- A grass module that connects to an external Agent-Based (or other) model of human landuse decision-making to enact changes to a GIS landscape. The module requires the external ABM to pass it a list of the number of farming, grazing, and woodgathering plots needed by a series of households in a village. The module then assesses which land cells agents will use, and creates output impacts maps, and adjusts landcover and soil fertility according to agent impacts. These impacts can then be fed into r.landscape.evol to simulate their effect on erosion and deposition. This module is used in many of my publications, including [Barton Ullah, & Bergin 2010](https://www.academia.edu/350609/Land_use_water_and_Mediterranean_landscapes_modelling_long-term_dynamics_of_complex_socio-ecological_systems), [Ullah & Bergin, 2012](https://www.academia.edu/398249/Modeling_the_Consequences_of_Village_Site_Location_Least_Cost_Path_Modeling_in_a_Coupled_GIS_and_Agent-Based_Model_of_Village_Agropastoralism_in_Eastern_Spain), and [Barton, Ullah, et al., 2012](https://www.academia.edu/841547/Looking_for_the_Future_in_the_Past_Long-Term_Change_in_Socioecological_Systems). (GRASS 6, GRASS 7 version under development, major code rework)
 
 * [r.agropast.semiadaptive](https://github.com/isaacullah/GRASS_Addons/blob/master/r.agropast.semiadaptive7.0.5.py) -- This is a fully functional script that is not yet in the official GRASS repository because I have not had time to write the docuementation for it yet. Follow the instructions in the ReadMe file on my GitHub if you want to install it. An earlier version of this module was used in Barton, Ullah, and Heimsath, 2016, and this new version is used in a series of experiments that will be published soon.
+
+* [test_pit_sim](https://github.com/isaacullah/test_pit_sim) -- This is a fully functional simulation model that uses GRASS and must be run from within a GRASS7.x session, but which is _not_ a regular GRASS addon module and which will _not_ be hosted in the GRASS addon's repository. This is being used in research into [percolation theory and the way in which archaeologists survey for, and excavate sites](https://www.researchgate.net/project/Percolation-Theory-and-Archaeological-Survey). This work will be presented at the 2017 Society for American Archaeology meeting in Vancouver. Stay tuned!
 
 #### Depricated GRASS 6.x modules (unmaintained, with no plans for upgrades or backports from GRASS 7.x versions.)
 
@@ -73,24 +76,5 @@ The simplest way to install these (and other) addon modules in GRASS is to use t
 If you can't get g.extension to work, then any addon module can be downloaded directly from the GRASS addon SVN repository ( [GRASS 7 versions](https://svn.osgeo.org/grass/grass-addons/grass7/), [GRASS 6 versions](https://svn.osgeo.org/grass/grass-addons/grass6/)), and the script file can be saved in your grass addons folder (set with `GRASS_ADDON_PATH` in GRASS 6 (or 7), or in the default `~/.grass7/addons/` directory in GRASS 7), or the "scripts" directory of the main GRASS install tree (e.g., `/usr/local/grass6.4.4/scripts/` on a linux installation of GRASS 6). Note that to install scripts in the system directory, you will likely need administrator (or root) privileges on your system. Also make sure you set the downloaded file to be "executable".
 
 Once the module is installed following one of the above methods, it can be run by typing its name at the GRASS command prompt, e.g. `>r.landscape.evol &`. Note that the `&` will ensure that the module runs modally, and doesn't lock the terminal to that process.
-
----
-
-## GRASS 7 Video Tutorials by Markus Metz
-
-Here's a series of video tutorials for GRASS 7 recorded in 2014 by Markus Metz of the GRASS development team. These are a good way to learn about GRASS, what it can do, and how to use it. Highly recommended viewing for students wanting to learn GRASS!!
-
-<br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/g6XaeNNHwO4" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/28CyMcde-Ew" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5VyZVEtsvNk" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ZK0A8AYJFn0" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4AsRg1qlP8I" frameborder="0" allowfullscreen></iframe>
-<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aQyvmBpf-W0" frameborder="0" allowfullscreen></iframe>
 
 --
