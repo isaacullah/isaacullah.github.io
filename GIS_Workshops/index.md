@@ -33,6 +33,8 @@ I am currently (Spring 2017) recording a series of screencasts for QGIS 2.15 and
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h" frameborder="0" allowfullscreen></iframe>
 
+---
+
 ## Short Courses in GIS for Archaeologists and Geoarchaeologists
 
 The following workshops and "short-courses" were developed primarily for Archaeologists and Geoarchaeologists, but also teach skills that would be interesting to a more general social scientist as well. I am releasing them here under the [GPL license](https://www.gnu.org/copyleft/gpl.html). What this means is that you should feel free to download, use, modify, and distribute these materials, but I do ask that you credit me as their source.

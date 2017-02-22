@@ -67,7 +67,7 @@ See the note below for instructions on how to install stable versions of these a
 * [r.shift.cult](https://svn.osgeo.org/grass/grass-addons/grass6/raster/LandDyn/r.shift.cult/) -- Creates a series of iterative agricultural landuse maps from a catchment created by r.catchment. This model takes natural vegetation succession into account. Optionally outputs c factor as well.  This module was used in [Barton, Ullah, & Mitasova 2010](https://www.academia.edu/350652/Computational_modeling_and_Neolithic_socioecological_dynamics_a_case_study_from_Southwest_Asia). (GRASS 6 only)
 
 
---
+---
 
 ## How to install GRASS Addon Modules
 
@@ -77,4 +77,3 @@ If you can't get g.extension to work, then any addon module can be downloaded di
 
 Once the module is installed following one of the above methods, it can be run by typing its name at the GRASS command prompt, e.g. `>r.landscape.evol &`. Note that the `&` will ensure that the module runs modally, and doesn't lock the terminal to that process.
 
---
