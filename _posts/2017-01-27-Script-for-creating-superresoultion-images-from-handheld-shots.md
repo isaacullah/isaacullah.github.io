@@ -31,9 +31,6 @@ Applications in archaeology include:
 
 Here's the "readme" for the script, with basic usage instructions and some examples of what it can do. As always, feel free to <a href="mailto:isaaciullah@gmail.com">contact me</a> with questions or suggestions!
 
-***
-
-#### This is a Linux shell script to create a 'super resolution' image from a stack of lower resolution images.
 
 ***
 
