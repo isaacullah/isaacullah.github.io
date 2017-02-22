@@ -29,7 +29,7 @@ I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.
 
 ## GRASS 7.2 and QGIS 2.15 screencasts. 
 
-I am currently (Spring 2017) recording a series of screencasts for QGIS 2.15 and GRASS 7.2. These are for my ongoing class, ANTH 583, "GIS and Imagery Analysis," and as such may not cover all aspects of GRASS, and may use specific data or case studies. Nevertheless, the might be helpful, and I will add them to the playlist embedded below. Click the "three bars" in the upper right corner to see a list of videos in the playlist. Keep checking back for additional videos!
+I am currently (Spring 2017) recording a series of screencasts for QGIS 2.15 and GRASS 7.2. These are for my ongoing class, ANTH 583, "GIS and Imagery Analysis," and as such may not cover all aspects of each software, and may use specific data, case studies, or procedures. Nevertheless, they might be helpful to you, and I will add each new video to the playlist embedded below as I finish them. Click the "three bars" in the upper right corner to see a list of videos if you want, or press play to play them all in order. Keep checking back for additional videos!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h" frameborder="0" allowfullscreen></iframe>
 
