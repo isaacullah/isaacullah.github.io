@@ -12,6 +12,7 @@ This semester I had the distinct pleasure of working with some of our SDSU Anthr
   _During the workshop, the students achieved the following learning outcomes:_
 
 #### 1) Learned how to design scientific experiments and carry them out.
+
 i. Derived a procedure to study wear marks on a variety of stone tool types, doing a variety of activities
 ii. Used repetition and controls to ensure scientific validity.
 iii. Recorded all practices and methods in enough detail to ensure replicability.
@@ -22,6 +23,7 @@ iii. Recorded all practices and methods in enough detail to ensure replicability
 </figure>
 
 #### 2) Learned the basics of lithic (stone tool) analysis.
+
 i. Learned the basic mechanics of stone tool production ("flintknapping")
 ii. Became familiar with the stone tool morphology and typology (flakes vs. blades, flake attributes, etc.)
 iii. Learned how to measure key attributes of stone tools (use of calipers, essential measurements, etc.)
@@ -33,6 +35,7 @@ iv. Learned the basics of photographic documentation and the initial stages of p
 </figure>
 
 #### 3) Learned basic archaeological laboratory practices.
+
 i. Washing and labeling artifacts.
 ii. Sorting artifacts by attribute.
 ii Basic record keeping.
@@ -43,6 +46,7 @@ ii Basic record keeping.
 </figure>
 
 #### 4) Engaged in participant observation, and reflexive scientific practice.
+
 i. Students designed their own experiments, noting also their reasoning and experiences as well as the results.
 ii. Conducted interviews with student participants after engaging in the use of stone tools as ancient people did.
 iii. Ensured reflexive practice and anthropological insights were integral to the activities.
