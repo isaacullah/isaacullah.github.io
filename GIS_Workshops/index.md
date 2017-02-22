@@ -20,8 +20,8 @@ image:
 </section><!-- /#table-of-contents -->
 
 
-Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I therefore believe that it is imperative that GIS skills are taught to all social scientists. That is the main purpose of this page. Here, I make available several workshops and "short-courses" that I have taught to graduate students and fellow faculty at a variety of institutions. 
-
+Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I therefore believe that it is imperative that GIS skills are taught to all social scientists. That is the main purpose of this page. Here, I make available several screencasted video tutorials and "short-courses" from classess and workshops that I have taught at a variety of institutions. 
+<br><br>
 I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.org/). I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](http://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
 
 ---
@@ -29,7 +29,7 @@ I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.
 
 ## GRASS 7.2 and QGIS 2.15 screencasts. 
 
-I am currently (Spring 2017) recording a series of screencasts for QGIS 2.15 and GRASS 7.2. These are for my ongoing class, ANTH 583, "GIS and Imagery Analysis," and as such may not cover all aspects of each software, and may use specific data, case studies, or procedures. Nevertheless, they might be helpful to you, and I will add each new video to the playlist embedded below as I finish them. Click the "three bars" in the upper right corner to see a list of videos if you want, or press play to play them all in order. Keep checking back for additional videos!
+I am currently (Spring 2017) recording a series of screencasts for QGIS 2.15 and GRASS 7.2. These are for my ongoing class, ANTH 583, "GIS and Imagery Analysis," and as such may not cover all aspects of each software, and may use specific data, case studies, or procedures. Nevertheless, they might be helpful to you, and I will add each new video to the playlist embedded below as I finish them. Click the "three bars" in the upper left corner of the embedded video player below to see the list of videos, or press play to play them all in order. Keep checking back for additional videos!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLSCH2IXZ2pHqkSs9H19xhbW2MyxWC2F2h" frameborder="0" allowfullscreen></iframe>
 
