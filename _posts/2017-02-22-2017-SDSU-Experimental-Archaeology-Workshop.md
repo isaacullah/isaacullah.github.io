@@ -13,9 +13,9 @@ This semester I had the distinct pleasure of working with some of our SDSU Anthr
 
 #### 1) Learned how to design scientific experiments and carry them out.
 
-i. Derived a procedure to study wear marks on a variety of stone tool types, doing a variety of activities
-ii. Used repetition and controls to ensure scientific validity.
-iii. Recorded all practices and methods in enough detail to ensure replicability.
+* Derived a procedure to study wear marks on a variety of stone tool types, doing a variety of activities
+* Used repetition and controls to ensure scientific validity.
+* Recorded all practices and methods in enough detail to ensure replicability.
 
 <figure>
 	<a href="/images/ExArchPhotos/OI000009.jpg"><img src="/images/ExArchPhotos/OI000009.jpg" alt="SDSU Anthro students design and follow an experimental procedure designed to study use-wear on different materials."></a>
@@ -24,10 +24,10 @@ iii. Recorded all practices and methods in enough detail to ensure replicability
 
 #### 2) Learned the basics of lithic (stone tool) analysis.
 
-i. Learned the basic mechanics of stone tool production ("flintknapping")
-ii. Became familiar with the stone tool morphology and typology (flakes vs. blades, flake attributes, etc.)
-iii. Learned how to measure key attributes of stone tools (use of calipers, essential measurements, etc.)
-iv. Learned the basics of photographic documentation and the initial stages of photometric measurements.
+* Learned the basic mechanics of stone tool production ("flintknapping")
+* Became familiar with the stone tool morphology and typology (flakes vs. blades, flake attributes, etc.)
+* Learned how to measure key attributes of stone tools (use of calipers, essential measurements, etc.)
+* Learned the basics of photographic documentation and the initial stages of photometric measurements.
 
 <figure>
 	<a href="/images/ExArchPhotos/OI000001.jpg"><img src="/images/ExArchPhotos/OI000001.jpg" alt="SDSU Anthro students learning to make stone tools."></a>
@@ -36,9 +36,9 @@ iv. Learned the basics of photographic documentation and the initial stages of p
 
 #### 3) Learned basic archaeological laboratory practices.
 
-i. Washing and labeling artifacts.
-ii. Sorting artifacts by attribute.
-ii Basic record keeping.
+* Washing and labeling artifacts.
+* Sorting artifacts by attribute.
+* Basic record keeping.
 
 <figure>
 	<a href="/images/ExArchPhotos/OI000003.jpg"><img src="/images/ExArchPhotos/OI000003.jpg" alt="An initial sorting of potential stone tools."></a>
@@ -47,14 +47,16 @@ ii Basic record keeping.
 
 #### 4) Engaged in participant observation, and reflexive scientific practice.
 
-i. Students designed their own experiments, noting also their reasoning and experiences as well as the results.
-ii. Conducted interviews with student participants after engaging in the use of stone tools as ancient people did.
-iii. Ensured reflexive practice and anthropological insights were integral to the activities.
+* Students designed their own experiments, noting also their reasoning and experiences as well as the results.
+* Conducted interviews with student participants after engaging in the use of stone tools as ancient people did.
+* Ensured reflexive practice and anthropological insights were integral to the activities.
 
 <figure>
 	<a href="/images/ExArchPhotos/OI000016.jpg""><img src="/images/ExArchPhotos/OI000016.jpg" alt="SDSU Anthro students experience using stone tools to butcher a goat."></a>
 	<figcaption>SDSU Anthro students experience using stone tools to butcher a goat.</figcaption>
 </figure>
+
+***
 
 I've edited a short YouTube video of the workshop, which you can watch here:
 
