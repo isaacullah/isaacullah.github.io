@@ -52,7 +52,7 @@ This semester I had the distinct pleasure of working with some of our SDSU Anthr
 * Ensured reflexive practice and anthropological insights were integral to the activities.
 
 <figure>
-	<a href="/images/ExArchPhotos/OI000016.jpg""><img src="/images/ExArchPhotos/OI000016.jpg" alt="SDSU Anthro students experience using stone tools to butcher a goat."></a>
+	<a href="/images/ExArchPhotos/OI000016.jpg"><img src="/images/ExArchPhotos/OI000016.jpg" alt="SDSU Anthro students experience using stone tools to butcher a goat."></a>
 	<figcaption>SDSU Anthro students experience using stone tools to butcher a goat.</figcaption>
 </figure>
 
