@@ -9,7 +9,7 @@ tags: [archaeology, travel, fieldwork, advice]
 ---
 
 I've put together a small script to automate the process of creating a "super resolution" image from a series of handheld photos, and I thought I'd share it here. This basically emulates the "pixel shift" feature on certain Pentax and Olympus cameras by taking advantage of your shaky hands! The script, as well as much of the information below and some sample images you can use to test it out, have been merged into the [pixels.us scripts github repo](https://github.com/pixlsus/Scripts), under the directory ["superres"](https://github.com/pixlsus/Scripts/tree/master/superres). The main set of sample images can be found [here](https://github.com/pixlsus/Scripts/tree/master/superres/sample_images)
-<br>
+<br><br>
 _Why might you want to do this, you ask? Well, for a couple of reasons:_
 
 1. You only have a low resolution camera on hand (your cell phone, for example), but you come across a scene that you want to record in high detail.
