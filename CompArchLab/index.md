@@ -64,8 +64,10 @@ The lab is currently in "beta" stage, operating with an initial set of equipment
 * Anthropogenic Landscapes
 * Early domestication of plants and animals
 * The dynamics of early agro-pastoral subsistence systems
+
 <br>
 The Compuational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
+
 <br>
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
 * The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
@@ -78,6 +80,7 @@ The Compuational Archaeology Lab conducts research in collaboration with the fol
 
 The Computational Archaeology Lab can provide resources for undergraduate and graduate student research. Starting in Fall, 2017, there will be opportunities for undergraduate student research volunteers. There may be a limited number of paid positions as well.
 
+<br>
 I am also currently seeking prospective graduate students interested in the research topics and methods detailed above. Please [email me](iullah@sdsu.edu) if you are interested in applying to the Anthropology MA program here at SDSU.
 
 ### Funding and support
