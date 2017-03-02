@@ -6,14 +6,16 @@
 - title: Posts
   url: /posts/
 
-- title: GIS Short-Courses
+- title: Computational Archaeology Lab
+        url: /CompArchLab/
+- title: GIS Tutorials
   url: /GIS_Workshops/
 
-- title: GRASS GIS applications page
+- title: GRASS GIS Applications
   url: /GRASS/
 
-- title: The MedLanD Project
+- title: MedLanD Project
   url: http://medland.asu.edu
 
-- title: The Wadi Ziqlab Project
+- title: Wadi Ziqlab Project
   url: http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/
