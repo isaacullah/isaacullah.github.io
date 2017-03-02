@@ -24,7 +24,7 @@ I am currently in the process of establishing a new Computational Archaeology La
 
 ![A photograph of the Computational Archaeology Laboratory in its "beta" configuration](/images/CompArchLab_beta.jpg)
 <center><i>
-A photograph of the Computational Archaeology Laboratory in its "beta" confguration.
+A photograph of the Computational Archaeology Laboratory in its "beta" configuration.
 </i></center>
 
 ### Lab Information
@@ -51,10 +51,10 @@ The lab is currently in "beta" stage, operating with an initial set of equipment
 * A full photogrammetry workstation. Including full-frame DSLR and various accessories for photogrametric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
 * Multispectral Aerial Drone. The drone will carry an RGB camera plus a Near Infra Red camera.
 * Sediment Granulometry workstation. This includes a full set of nesting geologic sieves, a mechanical sieve shaker, and a high precision balance.
-* USB microscopes. Low-power microscopes for conducting microrefuse analysis or other such tasks.
-* Mobile tablet computers for field data collection. 
+* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
+* Mobile tablet computers for field data collection using Open Data Kit.
 * Bad-Elf GNSS surveyor high precision bluetooth GPS units.
-* Wacom tablets for data entry and digitization
+* Wacom tablets for data entry and digitization.
 
 ### Major Research Topics
 
