@@ -23,9 +23,9 @@ I am currently in the process of establishing a new Computational Archaeology La
 <br>
 
 ![A photograph of the Computational Archaeology Laboratory in "Beta" phase](/images/CompArchLab_beta.jpg)
-<center>
-_A photograph of the Computational Archaeology Laboratory in "Beta" phase._
-</center>
+<center><i>
+A photograph of the Computational Archaeology Laboratory in "Beta" phase.
+</i></center>
 
 ### Lab Information
 
