@@ -29,11 +29,15 @@ A photograph of the Computational Archaeology Laboratory in "Beta" phase.
 
 ### Lab Information
 
-#### Location: Hardy Tower 62/66.
+#### Location: 
+
+**Hardy Tower 62/66.**
 
 The lab is on the ground floor of the Hardy Tower building. The easiest way to find it is to enter via the parking lot/loading dock at the rear of the building. You will find the door in the stairwell immediately to your left upon entering. This is the door currently marked as room number 62 (and with a placard that says "Computational Archaeology Lab"). Note that eventually you will also be able to enter through the door currently marked as room 66 from the interior hallway, but not until after the remodeling is completed this summer.
 
-#### Lab Hours: Thursdays, 1-4pm (Spring 2017).
+#### Lab Hours: 
+
+**Thursdays, 1-4pm (Spring 2017).**
 
 These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
 
