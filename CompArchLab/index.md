@@ -49,6 +49,13 @@ The lab is currently in "beta" stage, operating with an initial set of equipment
 * Bad-Elf GNSS surveyor high precision bluetooth GPS units.
 * Wacom tablets for data entry and digitization
 
+### Major Research Topics
+
+* The Mediteranean Landscape Dynamics Project 
+* The Wadi Ziqlab/Wadi Quseiba Project
+* The Kazakh-American Archaeological Expedition
+* The Bova Marina Historic Households Survey
+
 ### Recent Events
 
 Recently, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](2017-SDSU-Experimental-Archaeology-Workshop).
