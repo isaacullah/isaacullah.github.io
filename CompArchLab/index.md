@@ -19,10 +19,11 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-I am currently in the process of establishing a new Computational Archaeology Laboratory here at SDSU. This page provides information about the lab, including the resources we have available and (eventually) research that we are carrying out. The lab is in an early phase, and will be remodeled and furnished (hopefully) by Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and beyond. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond.
-
+I am currently in the process of establishing a new Computational Archaeology Laboratory here at SDSU. This page provides information about the lab, including the resources we have available and (eventually) research that we are carrying out. The lab is in an early phase, and will be remodeled and furnished (hopefully) by Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and beyond. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. <br><br>
+<center>
 ![A photograph of the Computational Archaeology Laboratory in "Beta" phase](/images/CompArchLab_beta.jpg)
 _A photograph of the Computational Archaeology Laboratory in "Beta" phase._
+</center>
 
 ### Lab Information
 
