@@ -38,7 +38,7 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 
 ### Current Resources
 
-The lab is currently in "beta" stage, operating with an initial set of equipment and resources. Currently, there are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, and more. These workstations are available to students in my courses to complete assignments. These workstations will remain a core component of the lab as it is upgraded and completed.
+The lab is currently in "beta" stage, operating with an initial set of equipment and resources. Currently, there are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments. These workstations will remain a core component of the lab as it is upgraded and completed.
 
 #### Future laboratory resources will include:
 
