@@ -19,7 +19,8 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-I am currently in the process of establishing a new Computational Archaeology Laboratory here at SDSU. This page provides information about the lab, including the resources we have available and (eventually) research that we are carrying out. The lab is in an early phase, and will be remodeled and furnished (hopefully) by Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and beyond. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. <br><br>
+I am currently in the process of establishing a new Computational Archaeology Laboratory here at SDSU. This page provides information about the lab, including the resources we have available and (eventually) research that we are carrying out. The lab is in an early phase, and will be remodeled and furnished (hopefully) by Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and beyond. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
+<br><br>
 <center>
 ![A photograph of the Computational Archaeology Laboratory in "Beta" phase](/images/CompArchLab_beta.jpg)
 _A photograph of the Computational Archaeology Laboratory in "Beta" phase._
@@ -52,10 +53,13 @@ The lab is currently in "beta" stage, operating with an initial set of equipment
 
 ### Major Research Topics
 
-* The Mediteranean Landscape Dynamics Project 
-* The Wadi Ziqlab/Wadi Quseiba Project
-* The Kazakh-American Archaeological Expedition
-* The Bova Marina Historic Households Survey
+The Compuational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
+<br><br>
+* The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
+* The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
+* Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
+* Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/](http://talgar.sbc.edu/))
+* Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
 
 ### Recent Events
 
