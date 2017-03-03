@@ -23,8 +23,8 @@ This page provides information about the new Computational Archaeology Laborator
 <br><br>
 
 <figure>
-	<a href="/images/CompArch_Students.jpg"><img src="/images/CompArch_Students.jpg" alt="Students in ANTH 583, GIS and Imagery Analysis doing research in the Computational Archaeology Lab."></a>
-	<figcaption>Students in ANTH 583, "GIS and Imagery Analysis" doing research in the Computational Archaeology Lab.</figcaption>
+	<a href="/images/CompArch_Students.jpg"><img src="/images/CompArch_Students.jpg" alt="Students in ANTH 583 GIS and Imagery Analysis doing research in the Computational Archaeology Lab."></a>
+	<figcaption>Students in ANTH 583 "GIS and Imagery Analysis" doing research in the Computational Archaeology Lab.</figcaption>
 </figure>
 
 
