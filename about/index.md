@@ -40,7 +40,7 @@ As a fun way for you to quickly get a grasp of the types of things I research, I
 
 * * *
 
-### My Publications
+### My AltMetrics
 
 Please see my [Google Scholar Citation Index page](http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ) for a complete list of my publications, their citation indices, and lists of works that cite them.
 Downloadable PDF's of some of my publications can be found on my [Academia.edu page](https://asu.academia.edu/IsaacUllah) or on my [ResearchGate.net page](https://www.researchgate.net/profile/Isaac_Ullah).
@@ -65,6 +65,10 @@ Please visit the following links for information about several actively ongoing 
 * * *
 
 ### Publications
+
+#### Books and Monographs
+
+* 2017 Ullah, I.I.T. The consequences of Human Land-Use Strategies During the PPNB-LN Transition: A Simulation Modeling Approach. Arizona State University Anthropological Research Papers, v.60. Arizona Board of Regents, Tempe. 177p.
 
 #### Articles in Peer-Reviewed Journals
 
