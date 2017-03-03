@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Welcome to the CompArch Lab
+title: Welcome
 date: 2017-03-01
 modified: 2017-03-01
 excerpt: Details about the new Computational Archaeology Laborartory here at San Diego State University.
@@ -19,7 +19,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-This page provides information about the new Computational Archaeology Laboratory at San Diego State University. The lab is in what I like to call it's "beta" stage of development, as we are awaiting a full remodel to take place over Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
+Welcome to the website for the new Computational Archaeology Laboratory at San Diego State University. The lab is in what I like to call it's "beta" stage of development, as we are awaiting a full remodel to take place over Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
 <br><br>
 
 <figure>
