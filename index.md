@@ -22,10 +22,4 @@ Information about software I've written can be found [**here**](/GRASS).
 <br>
 You can download my CV [**here**](/pdf/Isaac_Ullah_CV.pdf).
 
-<figure>
-	<img src="/images/total_wordcloud.png" alt="A wordcloud of terms from Isaac's recent publications">
-	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words.</figcaption>
-</figure>
-
-
 ---
