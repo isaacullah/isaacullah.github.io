@@ -19,7 +19,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-I am currently in the process of establishing a new Computational Archaeology Laboratory here at SDSU. This page provides information about the lab, including the resources we have available and (eventually) research that we are carrying out. The lab is in an early phase, and will be remodeled and furnished (hopefully) by Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
+This page provides information about the new Computational Archaeology Laboratory at San Diego State University. The lab is in what I like to call it's "beta" stage of development, as we are awaiting a full remodel to take place over Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
 <br><br>
 
 <figure>
@@ -48,18 +48,19 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 
 ### Current Resources
 
-The lab is currently in "beta" stage, operating with an initial set of equipment and resources. Currently, there are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments. These workstations will remain a core component of the lab as it is upgraded and completed.
+During the current "beta" development stage, the lab is operating with a minimal set of equipment and resources for Computational Archaeology. There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research. These workstations will remain a core component of the lab as it is upgraded and completed.
 
 #### Future laboratory resources will include:
 
 * A Puget Systems "Peak" HPC workstation. This workstation will contain 44 multithreaded cores for parallel and high-performance computing.
 * A full photogrammetry workstation. Including full-frame DSLR and various accessories for photogrametric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
 * Multispectral Aerial Drone. The drone will carry an RGB camera plus a Near Infra Red camera.
-* Sediment Granulometry workstation. This includes a full set of nesting geologic sieves, a mechanical sieve shaker, and a high precision balance.
+* Sediment Granulometry workstation. This includes a full set of nesting geologic sieves, a mechanical sieve shaker, and a precision balance.
 * Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
 * Mobile tablet computers for field data collection using Open Data Kit.
 * Bad-Elf GNSS surveyor high precision bluetooth GPS units.
 * Wacom tablets for data entry and digitization.
+* Supplies for a variety of artifact analyses and measurements
 
 ### Research
 
@@ -86,10 +87,10 @@ The Compuational Archaeology Lab conducts research in collaboration with the fol
 
 #### Students
 
-The Computational Archaeology Lab provides resources for undergraduate and graduate student research. Starting in Fall, 2017, there will be opportunities for undergraduate student research volunteers. There may be a limited number of paid positions as well. lease [email me](iullah@sdsu.edu) if you are interested.
+The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the field of Computational Archaeology. Starting in Fall, 2017, there will be opportunities for undergraduate student research volunteers. There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
 
 <br>
-I am also currently seeking prospective Master's students interested in the research topics and methods detailed above. Please [email me](iullah@sdsu.edu) if you are interested in applying to the Anthropology MA program here at SDSU.
+I am currently seeking prospective Master's students interested in the field of Computational Archaeology. I am particularly interested in students with some background in GIS or other computational approaches. I will have ongoing research opportunities for students interested in working in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
 
 #### Funding and support
 
