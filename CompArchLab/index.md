@@ -30,14 +30,12 @@ Welcome to the website for the new Computational Archaeology Laboratory at San D
 
 ### Lab Information
 
-* Location: ** 
+**Location: ** 
 
-<br>
 *Hardy Tower 62/66.* The lab is located on the ground floor of the Hardy Tower building.
 
 ** Lab Hours: ** 
 
-<br>
 *Thursdays, 1-4pm (Spring 2017).* These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
 
 ### Lab Resources
@@ -45,7 +43,7 @@ Welcome to the website for the new Computational Archaeology Laboratory at San D
 During the current "beta" development stage, the lab is operating with a minimal set of equipment and resources for Computational Archaeology. There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research. These workstations will remain a core component of the lab as it is upgraded and completed.
 
 <br>
-**Future laboratory resources:**
+**Future laboratory resources.**
 
 * A Puget Systems "Peak" HPC workstation. This workstation will contain 44 multithreaded cores for parallel and high-performance computing.
 * A full photogrammetry workstation. Including full-frame DSLR and various accessories for photogrametric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
@@ -59,7 +57,8 @@ During the current "beta" development stage, the lab is operating with a minimal
 
 ### Research
 
-**Research topics:**
+**Research topics.**
+The CompArch lab conducts research into the following topics:
 
 * Coupled human-natural systems research
 * Agent-Based Modeling
@@ -68,12 +67,9 @@ During the current "beta" development stage, the lab is operating with a minimal
 * Early domestication of plants and animals
 * The dynamics of early agro-pastoral subsistence systems
 
-**Colaborations:**
-
-<br>
+**Colaborations.**
 The Compuational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
 
-<br>
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
 * The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
 * Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
@@ -81,9 +77,7 @@ The Compuational Archaeology Lab conducts research in collaboration with the fol
 * Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
 * Center for Climate and Sustainability Studies -- ([http://c2s2.sdsu.edu/](http://c2s2.sdsu.edu/))
 
- **Funding and support:**
-
-<br>
+ **Funding and support.**
 Funding and support for the research being conducted in the Computational Archaeology Lab comes from various sources including:
 
 * The National Science Foundation
