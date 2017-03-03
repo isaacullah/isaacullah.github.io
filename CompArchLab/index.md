@@ -30,11 +30,11 @@ Welcome to the website for the new Computational Archaeology Laboratory at San D
 
 ### Lab Information
 
-**Location: ** 
+**Location:** 
 
 *Hardy Tower 62/66.* The lab is located on the ground floor of the Hardy Tower building.
 
-** Lab Hours: ** 
+**Lab Hours:** 
 
 *Thursdays, 1-4pm (Spring 2017).* These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
 
