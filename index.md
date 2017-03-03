@@ -15,7 +15,12 @@ This is the academic website of Isaac I. Ullah, PhD, and contains information ab
 
 ---
 
- You can read a little bit more about me and my research [**here**](/about).
- You can learn about my approach to Free Open Source GIS software in archaeological research [**here**](/GIS_Workshops)
+Information about me and my research can be found [**here**](/about).
+ <br>
+ Information about the SDSU Computational Archaeology Lab can be found [**here**](/ComArchLab).
+ <br>
+Information about my approach to Free and Open Source (FOSS) GIS software in archaeological research can be found [**here**](/GIS_Workshops)
+<br>
+Information about software I've written can be found [**here**](/GRASS)
 
 ---
