@@ -31,11 +31,11 @@ Welcome to the website for the new Computational Archaeology Laboratory at San D
 ### Lab Information
 
 **Location:** *Hardy Tower 62/66.* 
-
+<br>
 The lab is located on the ground floor of the Hardy Tower building.
-
+<br>
 **Lab Hours:** *Thursdays, 1-4pm (Spring 2017).* 
-
+<br>
 These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
 
 ### Lab Resources
@@ -58,7 +58,7 @@ During the current "beta" development stage, the lab is operating with a minimal
 ### Research
 
 **Research topics.**
-
+<br>
 The CompArch lab conducts research into the following topics:
 
 * Coupled human-natural systems research
@@ -69,7 +69,7 @@ The CompArch lab conducts research into the following topics:
 * The dynamics of early agro-pastoral subsistence systems
 
 **Colaborations.**
-
+<br>
 The Compuational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
 
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
@@ -80,7 +80,7 @@ The Compuational Archaeology Lab conducts research in collaboration with the fol
 * Center for Climate and Sustainability Studies -- ([http://c2s2.sdsu.edu/](http://c2s2.sdsu.edu/))
 
  **Funding and support.**
- 
+ <br>
 Funding and support for the research being conducted in the Computational Archaeology Lab comes from various sources including:
 
 * The National Science Foundation
