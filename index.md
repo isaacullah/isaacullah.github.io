@@ -7,14 +7,18 @@ image:
 ---
 This is the academic website of Isaac I. Ullah, PhD, and contains information about my research and ideas about the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
 
-<br><br>
+<br>
 Information about me and my research can be found [**here**](/about).
+
  <br>
  Information about the SDSU Computational Archaeology Lab can be found [**here**](/ComArchLab).
+ 
  <br>
-Information about my approach to Free and Open Source (FOSS) GIS software in archaeological research can be found [**here**](/GIS_Workshops)
+Information about my approach to Free and Open Source (FOSS) GIS software in archaeological research can be found [**here**](/GIS_Workshops).
+
 <br>
-Information about software I've written can be found [**here**](/GRASS)
+Information about software I've written can be found [**here**](/GRASS).
+
 <br>
 You can download my CV [**here**](/pdf/Isaac_Ullah_CV.pdf).
 
