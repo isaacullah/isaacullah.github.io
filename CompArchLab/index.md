@@ -6,7 +6,7 @@ modified: 2017-03-01
 excerpt: Details about the new Computational Archaeology Laborartory here at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
 image:
-  feature:
+  feature: CompArchLab_beta.jpg
 ---
 
 <section id="table-of-contents" class="toc">
@@ -22,6 +22,11 @@ image:
 I am currently in the process of establishing a new Computational Archaeology Laboratory here at SDSU. This page provides information about the lab, including the resources we have available and (eventually) research that we are carrying out. The lab is in an early phase, and will be remodeled and furnished (hopefully) by Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
 <br><br>
 
+<figure>
+	<a href="/images/CompArch_students.jpg"><img src="/images/CompArch_students.jpg" alt="Students in ANTH 583, GIS and Imagery Analysis doing research in the Computational Archaeology Lab."></a>
+	<figcaption>Students in ANTH 583, "GIS and Imagery Analysis" doing research in the Computational Archaeology Lab.</figcaption>
+</figure>
+
 ![A photograph of the Computational Archaeology Laboratory in its "beta" configuration](/images/CompArchLab_beta.jpg)
 <center><i>
 A photograph of the Computational Archaeology Laboratory in its "beta" configuration.
@@ -33,7 +38,7 @@ A photograph of the Computational Archaeology Laboratory in its "beta" configura
 
 **Hardy Tower 62/66.**
 <br>
-The lab is on the ground floor of the Hardy Tower building. The easiest way to find it is to enter via the parking lot/loading dock at the rear of the building. You will find the door in the stairwell immediately to your left upon entering. This is the door currently marked as room number 62 (and with a placard that says "Computational Archaeology Lab"). Note that eventually you will also be able to enter through the door currently marked as room 66 from the interior hallway, but not until after the remodeling is completed this summer.
+The lab is located on the ground floor of the Hardy Tower building.
 
 #### Lab Hours: 
 
@@ -99,5 +104,10 @@ Funding and support for the research being conducted in the Computational Archae
 ### Recent Events
 
 Recently, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](2017-SDSU-Experimental-Archaeology-Workshop).
+
+<figure>
+	<a href="/images/CompArch_ExArch.jpg"><img src="/images/CompArch_ExArch.jpg" alt="The Computational Archaeology Lab set up for the Experimental Archaeology Workshop."></a>
+	<figcaption>The Computational Archaeology Lab set up for the Experimental Archaeology Workshop.</figcaption>
+</figure>
 
 
