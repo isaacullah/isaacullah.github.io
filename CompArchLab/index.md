@@ -30,24 +30,21 @@ Welcome to the website for the new Computational Archaeology Laboratory at San D
 
 ### Lab Information
 
-** Location: ** 
-
-*Hardy Tower 62/66.*
+* Location: ** 
 
 <br>
-The lab is located on the ground floor of the Hardy Tower building.
+*Hardy Tower 62/66.* The lab is located on the ground floor of the Hardy Tower building.
 
 ** Lab Hours: ** 
 
-*Thursdays, 1-4pm (Spring 2017).*
 <br>
-
-These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
+*Thursdays, 1-4pm (Spring 2017).* These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
 
 ### Lab Resources
 
 During the current "beta" development stage, the lab is operating with a minimal set of equipment and resources for Computational Archaeology. There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research. These workstations will remain a core component of the lab as it is upgraded and completed.
 
+<br>
 **Future laboratory resources:**
 
 * A Puget Systems "Peak" HPC workstation. This workstation will contain 44 multithreaded cores for parallel and high-performance computing.
@@ -62,9 +59,8 @@ During the current "beta" development stage, the lab is operating with a minimal
 
 ### Research
 
-** Research topics:**
+**Research topics:**
 
-<br>
 * Coupled human-natural systems research
 * Agent-Based Modeling
 * GIS and Imagery Analysis
@@ -72,7 +68,7 @@ During the current "beta" development stage, the lab is operating with a minimal
 * Early domestication of plants and animals
 * The dynamics of early agro-pastoral subsistence systems
 
-** Colaborations:**
+**Colaborations:**
 
 <br>
 The Compuational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
