@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SDSU "CompArch" Lab
+title: Welcome to the CompArch Lab
 date: 2017-03-01
 modified: 2017-03-01
 excerpt: Details about the new Computational Archaeology Laborartory here at San Diego State University.
