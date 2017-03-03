@@ -46,7 +46,7 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 
 During the current "beta" development stage, the lab is operating with a minimal set of equipment and resources for Computational Archaeology. There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research. These workstations will remain a core component of the lab as it is upgraded and completed.
 
-#### Future laboratory resources will include:
+#### Future laboratory resources:
 
 * A Puget Systems "Peak" HPC workstation. This workstation will contain 44 multithreaded cores for parallel and high-performance computing.
 * A full photogrammetry workstation. Including full-frame DSLR and various accessories for photogrametric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
