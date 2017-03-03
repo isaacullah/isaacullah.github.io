@@ -28,14 +28,14 @@
   {% endif %}
   </div><!-- /.image-wrap -->
 {% endif %}
-<div id="main" role="main"> 
+<div id="main" role="main">
   <div class="article-author-side">
     {% include _author-bio.html %}
   </div>
   <div id="index">
 	{{ content }}
-    <h2><a href="{{ site.url}}/posts/">A running list of ideas about Complex Systems, Archaeology, Social-Ecolocical Systems, and Early Domestication Economies:</a></h2>
-    {% for post in site.posts limit:5 %}    
+    <h2><a href="{{ site.url}}/posts/">The "CompArch" Blog:</a></h2>
+    {% for post in site.posts limit:5 %}
     <article>
       {% if post.link %}
         <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
@@ -55,6 +55,6 @@
 </div><!-- /.footer-wrap -->
 
 {% include _scripts.html %}
-  
+
 </body>
 </html>
