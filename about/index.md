@@ -35,7 +35,7 @@ In my spare time, I like taking [photographs](/photography/index.html).
 
 * * *
 
-### AltMetrics
+### Alt-Metrics
 
 Please see my [Google Scholar Citation Index page](http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ) for a complete list of my publications, their citation indices, and lists of works that cite them.
 Downloadable PDF's of some of my publications can be found on my [Academia.edu page](https://asu.academia.edu/IsaacUllah) or on my [ResearchGate.net page](https://www.researchgate.net/profile/Isaac_Ullah).
