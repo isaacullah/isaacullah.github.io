@@ -22,4 +22,6 @@ This is the academic website of Isaac I. Ullah, PhD. It contains information abo
 <br>
 [**CV**](/pdf/Isaac_Ullah_CV.pdf).
 
+<br>
+
 ---
