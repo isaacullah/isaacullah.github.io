@@ -21,18 +21,12 @@ image:
 I am an Assistant Professor of Anthropology at [San Diego State University](http://anthropology.sdsu.edu/). I study the long-term effects of human landuse decisions and the bidorectional feedbacks between humans and environments. I am particularly interest in early farming and pastoralism and how these first food producing socio-natural systems evolved over time. I use a combination of traditional archaeological and geoarchaeological approaches in connection with GIS, computational modeling, and computer simulation to investigate the dynamics of these systems. My work is largely based in a complex adaptive systems theory perspective.
 <br>
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient housefloors as a way to get at long-term patterns in domesticity.
-<br>
-I currently teach ANTH 349 "Roots of Civilization", ANTH 302 "Princicples of Archaeology", and ANTH 583 "GIS and Image Analysis" (coming in Spring, 2017).
+
 <br>
 I am also affiliated with the [Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/) at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/) at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page), [COMSeS/Open-ABM](https://www.openabm.org/comses), [CHANS-net](http://chans-net.org/), and the [SAA](www.saa.org).
 <br>
 In my spare time, I like taking [photographs](/photography/index.html).
 
-* * *
-
-### My Research
-
-As a fun way for you to quickly get a grasp of the types of things I research, I created this wordcloud from the text of my recent publications:
 <figure>
 	<img src="/images/total_wordcloud.png" alt="A wordcloud of terms from Isaac's recent publications">
 	<figcaption> A wordcloud made by data-mining my recent publications for frequently-used words.</figcaption>
@@ -40,20 +34,20 @@ As a fun way for you to quickly get a grasp of the types of things I research, I
 
 * * *
 
-### My AltMetrics
+### AltMetrics
 
 Please see my [Google Scholar Citation Index page](http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ) for a complete list of my publications, their citation indices, and lists of works that cite them.
 Downloadable PDF's of some of my publications can be found on my [Academia.edu page](https://asu.academia.edu/IsaacUllah) or on my [ResearchGate.net page](https://www.researchgate.net/profile/Isaac_Ullah).
 
 * * *
 
-### My CV
+### CV
 
 [Isaac Ullah, CV (PDF)](/pdf/Isaac_Ullah_CV.pdf)
 
 * * *
 
-### Projects
+### Research
 Please visit the following links for information about several actively ongoing field and research projects that I am involved with.
 
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
@@ -63,6 +57,12 @@ Please visit the following links for information about several actively ongoing 
 * Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
 
 * * *
+
+### Teaching
+
+I currently teach ANTH 349 "Roots of Civilization", ANTH 302 "Princicples of Archaeology", and ANTH 583 "GIS and Image Analysis."
+
+***
 
 ### Publications
 
