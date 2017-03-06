@@ -99,7 +99,7 @@ I am currently seeking prospective Master's students interested in the field of 
 
 ### Recent Events
 
-Recently, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](http://isaacullah.github.io/2017-SDSU-Experimental-Archaeology-Workshop/).
+Recently, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](http://isaacullah.github.io/2017-SDSU-Experimental-Archaeology-Workshop/). The SDSU Daily Aztec published a [nice article about the workshop as well.](http://www.thedailyaztec.com/81681/news/anthropology-students-use-primitive-tools-funded-by-student-success-fee/)
 
 <figure>
 	<a href="/images/CompArch_ExArch.jpg"><img src="/images/CompArch_ExArch.jpg" alt="The Computational Archaeology Lab set up for the Experimental Archaeology Workshop."></a>

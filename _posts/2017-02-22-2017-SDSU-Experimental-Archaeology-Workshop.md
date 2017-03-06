@@ -2,7 +2,7 @@
 layout: post
 title: "2017 SDSU Experimental Archaeology Workshop"
 author: isaacullah
-modified: 2017-02-22
+modified: 2017-03-06
 comments: True
 excerpt: "SDSU students learn to make and use stone tools for science!"
 tags: [experimental archaeology, workshop, teaching]
@@ -64,6 +64,9 @@ I've edited a short YouTube video of the workshop, which you can watch here:
 
 We will continue the workshop in a follow-up session in which we will analyze the cut marks on the bones and the microwear on the tools. Stay tuned!
 
+***
+
+*Update:* Read the nice [writeup about the workshop in the SDSU Daily Aztec](http://www.thedailyaztec.com/81681/news/anthropology-students-use-primitive-tools-funded-by-student-success-fee/)!
 
 
 
