@@ -11,7 +11,10 @@ This is the academic website of Isaac I. Ullah, PhD. It contains information abo
  [**About Isaac**](/about).
 
  <br>
- [**The SDSU Computational Archaeology Lab**](/ComArchLab).
+ [**The SDSU Computational Archaeology Lab**](/CompArchLab).
+ 
+ <br>
+ [**The Community for Modeling Agro-Pastoral Lifeways in Eurasia**](www.cmaple.org)
  
  <br>
 [**GIS Workshops and Tutorials**](/GIS_Workshops).
