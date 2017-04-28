@@ -8,7 +8,7 @@ excerpt: "A Mobile Data-Collection Workflow for Archaeologists..."
 tags: [archaeology, fieldwork, Mobile]
 ---
 
-It's a busy time here at SDSU and in the Computational Archaeology Laboratory. The semester is almost over, and my GIS students are busy with their final projects. Also, I'm getting all my fieldwork plans finalized and starting to get prepared. This summer, I'll be doing two back-to-back field seasons. First, it's the final fieldwork season for the Historic Buildings Survey on the Bova Marina Archaeological Project. Second, it's a short exploratory field project in southeast Kazakhstan, where we will be checking out some new alluvial fans to the east of Talgar. 
+It's a busy time here at SDSU and in the Computational Archaeology Laboratory. The semester is almost over, and my GIS students are busy with their final projects. Also, I'm getting all my summer plans finalized and starting to get prepared to head off for the field! This summer, I'll be doing two back-to-back field seasons. First, it's the final fieldwork season for the Historic Buildings Survey on the Bova Marina Archaeological Project. Second, it's a short exploratory field project in southeast Kazakhstan, where we will be checking out some new alluvial fans to the east of Talgar. 
 
 <center>
 <figure>
