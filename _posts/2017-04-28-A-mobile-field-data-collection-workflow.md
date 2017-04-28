@@ -49,11 +49,11 @@ Yup. This is the secret. Buy cheap tablets, and spend the money where it's most 
 
 Here's my list of good Bluetooth GPS investments:
 
-1. [Bad Elf GNSS Surveyor](https://bad-elf.com/pages/be-gps-3300-detail) - These are the units that I use and I highly recommend them. Very accurate, and work flawlessly. They cost about $599, and they will do an educational discount if you ask nicely. You might be fine with their slightly lower-tier product, the [GPS Pro+](https://bad-elf.com/pages/be-gps-2300-detail), which costs only $299. They have several other less-technical units that may work for your as well. Bonus: Bad Elf believes in Open Source hardware and software!!
+1. [Bad Elf GNSS Surveyor](https://bad-elf.com/pages/be-gps-3300-detail) - These are the units that I use and I highly recommend them. Very accurate, and work flawlessly. They cost about $599, but they will do a small educational discount if you ask nicely. You might be fine with their second-tier product, the [GPS Pro+](https://bad-elf.com/pages/be-gps-2300-detail), which costs only $299, but might not be quite as accurate under all conditions. They have several other less-technical units that may work for your needs as well. Bonus: Bad Elf believes in Open Source hardware and software!!
 
-2. [Trimle R1 GNSS Receiver](https://www.trimble.com/mappinggis/r1-gnss-receiver.aspx) - Got money burning a hole in your pocket? I guess you could spend it on this. But it's not really any better than the Bad Elf unit listed above.
+2. [Trimle R1 GNSS Receiver](https://www.trimble.com/mappinggis/r1-gnss-receiver.aspx) - Got money burning a hole in your pocket? I guess you could spend it on this. But it's not really any better than the Bad Elf unit listed above. Buy this if your boss tells you that you have to only buy Trimble products. Personally, I think it's a waste of $3000 bucks.
 
-3. [Garmin GLO](https://buy.garmin.com/en-US/US/p/109827) - Not as good as either of the above, but only $99 and from a name you know already. Personally, I would buy one of the lower-tier Bad Elf products over this one, but maybe you like Garmins.
+3. [Garmin GLO](https://buy.garmin.com/en-US/US/p/109827) - Not nearly as good as either of the above, but only $99 and from a name you know already. Personally, I would probably buy one of the lower-tier Bad Elf products over this one, but maybe you like Garmin.
 
 ---
 
