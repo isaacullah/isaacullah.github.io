@@ -10,10 +10,12 @@ tags: [archaeology, fieldwork, Mobile]
 
 It's a busy time here at SDSU and in the Computational Archaeology Laboratory. The semester is almost over, and my GIS students are busy with their final projects. Also, I'm getting all my fieldwork plans finalized and starting to get prepared. This summer, I'll be doing two back-to-back field seasons. First, it's the final fieldwork season for the Historic Buildings Survey on the Bova Marina Archaeological Project. Second, it's a short exploratory field project in southeast Kazakhstan, where we will be checking out some new alluvial fans to the east of Talgar. 
 
+<center>
 <figure>
 	<a href="/images/isaac_in_a_stream.jpg"><img src="/images/isaac_in_a_stream.jpg" alt="Me in May, 2013, standing in the middle of a stream in Kazakhstan, diddling my phone. I'm doing it for science, I swear!"></a>
 	<figcaption>Me, in May, 2013, standing in the middle of a stream in Kazakhstan, diddling my phone. I'm doing it for science, I swear!</figcaption>
 </figure>
+</center>
 
 As you might know, I'm a huge fan of digital methods in archaeology (yeah, who knew!?). Part of that has been the use of mobile devices for field data collection. Starting with the Wadi Quseiba survey, where [we deployed iPad devices](http://onlinedigeditions.com/article/Digital+Archaeological+Survey%3A+Using+iPads+In+Archaeological+Survey+In+Wadi+Quseiba,+Northern+Jordan/2270671/0/article.html) to each surveyor for data collection, I've been convinced that this is the future of archaeology. That was back in 2012 when first tried that out, and we were among the first large-scale projects to go for an all-digital data recording pipeline. It wasn't without its hiccups, of course, but it worked remarkably well. My main issues with our approach (iOS devices and FileMaker GO forms) were 1) I hate Apple software products (personal preference), 2) most iOS devices (and most mobile devices in general) have terrible GPS chips, and 3) FileMaker GO wasn't as Geo-enabled as a GIS nerd like myself wanted it to be. So, over the last several years I've been perfecting an alternative pipeline, and that's what this post is going to be about. 
 
