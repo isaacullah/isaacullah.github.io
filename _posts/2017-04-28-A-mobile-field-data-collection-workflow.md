@@ -9,7 +9,7 @@ tags: [archaeology, fieldwork, Mobile]
 ---
 
 It's a busy time here at SDSU and in the Computational Archaeology Laboratory. The semester is almost over, and my GIS students are busy with their final projects. Also, I'm getting all my summer plans finalized and starting to get prepared to head off for the field! This summer, I'll be doing two back-to-back field seasons. First, it's the final fieldwork season for the Historic Buildings Survey of the [Bova Marina Archaeological Project](http://www.arch.cam.ac.uk/research/projects/bova-marina). Second, it's a short exploratory field project in southeast Kazakhstan with the [Kazakh-American Archaeological Expedition](http://isaw.nyu.edu/news/field-report-digging-at-the-edge-of-the-tian-shan-mountains-in-kazakhstan), where we will be checking out some new alluvial fans to the east of Talgar. 
-
+<br>
 As you might know, I'm a huge fan of digital methods in archaeology (yeah, who knew!?). Part of that has been the use of mobile devices for field data collection. Starting with the Wadi Quseiba survey, where [we deployed iPad devices](http://onlinedigeditions.com/article/Digital+Archaeological+Survey%3A+Using+iPads+In+Archaeological+Survey+In+Wadi+Quseiba,+Northern+Jordan/2270671/0/article.html) to each surveyor for data collection, I've been convinced that this is the future of archaeology. 
 
 <center>
