@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "An Android Mobile Data-Collection Workflow for Archaeologists"
+title: "A Mobile Data-Collection Workflow for Archaeologists"
 author: isaacullah
 modified: 2017-04-28
 comments: True
-excerpt: "An Android Mobile Data-Collection Workflow for Archaeologists..."
+excerpt: "A Mobile Data-Collection Workflow for Archaeologists..."
 tags: [archaeology, fieldwork, Mobile]
 ---
 
