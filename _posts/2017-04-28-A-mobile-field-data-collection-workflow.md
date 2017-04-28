@@ -15,9 +15,9 @@ It's a busy time here at SDSU and in the Computational Archaeology Laboratory. T
 	<figcaption>Me, in May, 2013, standing in the middle of a stream in Kazakhstan, diddling my phone. I'm doing it for science, I swear!</figcaption>
 </figure>
 
-![]()
-
 As you might know, I'm a huge fan of digital methods in archaeology (yeah, who knew!?). Part of that has been the use of mobile devices for field data collection. Starting with the Wadi Quseiba survey, where [we deployed iPad devices](http://onlinedigeditions.com/article/Digital+Archaeological+Survey%3A+Using+iPads+In+Archaeological+Survey+In+Wadi+Quseiba,+Northern+Jordan/2270671/0/article.html) to each surveyor for data collection, I've been convinced that this is the future of archaeology. That was back in 2012 when first tried that out, and we were among the first large-scale projects to go for an all-digital data recording pipeline. It wasn't without its hiccups, of course, but it worked remarkably well. My main issues with our approach (iOS devices and FileMaker GO forms) were 1) I hate Apple software products (personal preference), 2) most iOS devices (and most mobile devices in general) have terrible GPS chips, and 3) FileMaker GO wasn't as Geo-enabled as a GIS nerd like myself wanted it to be. So, over the last several years I've been perfecting an alternative pipeline, and that's what this post is going to be about. 
+
+---
 
 ## Hardware
 
@@ -44,13 +44,15 @@ Here's my list of good Bluetooth GPS investments:
 2. [Trimle R1 GNSS Receiver](https://www.trimble.com/mappinggis/r1-gnss-receiver.aspx) - Got money burning a hole in your pocket? I guess you could spend it on this. But it's not really any better than the Bad Elf unit listed above.
 3. [Garmin GLO](https://buy.garmin.com/en-US/US/p/109827) - Not as good as either of the above, but only $99 and from a name you know already. Personally, I would buy one of the lower-tier Bad Elf products over this one, but maybe you like Garmins.
 
+---
+
 ## Software
 
 Ok, this is where the rest of the action is at. As always, my workflows prefer Free and Open Software whenever possible. Let's start with Android, since that's what I am working with myself.
 
-### Android (aka. Isaac's primo choice)
+### Android (aka. what Isaac does)
 
-**1) Set up your Bluetooth GPS**
+#### 1) Set up your Bluetooth for GPS
 
 Let us start with connecting your awesome new Bluetooth GPS unit to your device. To do this, you first need to download and install the free [Bluetooth GPS app](https://play.google.com/store/apps/details?id=googoo.android.btgps&hl=en).
 
@@ -60,7 +62,7 @@ Now, you have to allow "Mock GPS Location" so that the Bluetooth GPS signal can 
 
 Now, pair your Bluetooth GPS unit with your phone (follow the directions for your unit), and then start the Bluetooth GPS app. If all goes well, you can now tap "Connect", and you will see the new location information in the fields of the app. To broadcast this to your other location aware apps, make sure to check the "Enable Mock GPS Provider" box in the app. Now you should have a notification in the notification bar telling you that Bluetooth GPS is working and that Mock Location is enabled. 
 
-**2) Get form-ey and collect some data**
+#### 2) Get some forms and collect some data!
 
 Ok, you got your awesome extra precise GPS data streaming in. Now what? Well, now you gotta do something with it. Let's use the awesome apps to deploy some forms! 
 
@@ -69,7 +71,7 @@ You can choose to use the cloud-based deployment (like with Ona or Formhub), but
 
 2. [EpiCollect](http://www.epicollect.net/) -  Epicollect is a lot like ODK. But it's forms are a little less flexible. However, you might like it's simplicity. If you are on iOS, however, this is your best bet if you don't want to use FileMakerGO (see below).
 
-**3) I thought you said GIS!!**
+#### 3) Hey, I thought you said we were going to do GIS!!
 
 As cool as GeoODK is, it's not really a full fledged mobile GIS solution. It's great for forms and it's very location-aware. But we are GIS people, darn it! We want a REAL GIS application. Well you are in luck. There are three good ones to use.
 
@@ -78,6 +80,8 @@ As cool as GeoODK is, it's not really a full fledged mobile GIS solution. It's g
 2. [Avenza PDF Maps](http://www.avenza.com/avenza-maps) - Qfield too much for you to deal with right now? Use Avenza PDF maps. It's not open source, but it's easy to use and it works well. Similar functionality to QGIS, but not as well-rounded, nor as integrated into a QGIS or GRASS workflow.
 
 3. [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi/) - Last, we have Geopaparazzi. I really want to love Geopap. It's a really great idea, and it really does have the potential to be a fully standalone form gatherer AND mobile GIS solution. If it weren't so dang hard to set up projects and put offline layers in to it. It requires you to make Mapbox layers, which never work for me. The form builder is a lot more clunky than ODK's too. Maybe you will think differently than I, so do give it a chance.
+
+
 
 ### But I have a really fancy iPhone, and I want to play too!!
 
