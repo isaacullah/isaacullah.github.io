@@ -24,14 +24,14 @@ People often ask me about hardware for mobile data collection. My great preferen
 
 ### The Data Machine (aka. "Mobile Device")
 
-Believe it or not, this is the least critical component. Pretty much any modern mobile device will work. Seriously. So just get the one you want. Seriously. Ok, ok, I *do* have some advice for you in terms of specs: 
+Believe it or not, this is the least critical component of the whole set-up. Pretty much any modern mobile device will work. Seriously. So you can really just get the one you want. Seriously. Ok, ok, I *do* have some advice for you in terms of specs: 
 
-1. Get an "8-inch" size tablet. Phones are too small, 10-inch tablets are too big. 8-inch (or 7-inch) is juuuust right.
-2. Focus on RAM above all else. Try to get at least 2GB of RAM. The more the better. Trust me, you will feel it.
+1. Get an "8-inch" size tablet. Phones are too small, 10-inch tablets are too big. I find that 8-inch (or 7-inch) tablets are juuuust right for the field.
+2. Focus on RAM above all else. Try to get at least 2GB of RAM. The more the better. Trust me, you will feel it if you get a low-memory device.
 3. Try to get a good rear camera. 8 megapixels minimum. If they tell you anything else, cameras with Sony chips in them tend to be better.
 4. Try to get something with a recent OS, and as close to "stock" as possible (this is more for Android users than anything else).
 
-And that's it. Really. Most tablets will have plenty long battery life and plenty of CPU power to do what we need them to do. Glare-reducing screens are great, and there are a few bells and whistles you can look for, but as long as it meets those 4 things, you will be fine. I just placed an order for 6 [Lenovo Yoga tab 3, 8-inch tablets](http://www3.lenovo.com/us/en/tablets/android-tablets/yoga-tab-3-series/Lenovo-YT3-850F/p/ZZITZTBYT0F). These will cost me about $150 each, and they will be easy to hold onto in the field. They are going to be great! Not only that, but it's not the end of the world if one breaks in the field, nor will it be the end of the world when they are out of date in two years. This is also why I never invest in fancy Otterbox cases for these things. 
+And that's it. Really. Most tablets will have plenty long battery life and plenty of CPU power to do what we need them to do. Glare-reducing screens are great, and expandable storage with a micro-SD card slot is nice to have, but not essential. There are a few more of these bells and whistles you can look for if you want to, but as long as it meets those 4 requirements above, you will be fine. I just placed an order for 6 [Lenovo Yoga tab 3, 8-inch tablets](http://www3.lenovo.com/us/en/tablets/android-tablets/yoga-tab-3-series/Lenovo-YT3-850F/p/ZZITZTBYT0F). These will cost me only about $150 each, and they will be easy to hold onto in the field. They are going to be great! Not only that, but it's not the end of the world if one breaks in the field, nor will it be the end of the world when they are out of date in two years. This is also why I never invest in fancy Otterbox cases for these things. 
 
 ### Your secret weapon: Bluetooth GPS
 
