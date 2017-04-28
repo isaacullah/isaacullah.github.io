@@ -45,7 +45,7 @@ And that's it. Really. Most tablets will have plenty long battery life and plent
 
 ### Your secret weapon: Bluetooth GPS
 
-Yup. This is the secret. Buy cheap tablets, and spend the money where it's most useful: your GPS. The newest revolution in GPS technology is basically old tech: Bluetooth. All the software action is on your mobile device, but a hardware GPS is [miles better than the GPS in your mobile device](http://androgeoid.com/2010/09/why-use-an-external-bluetooth-gps-receiver-with-an-android-phone/). Did you know that your mobile device also uses the wifi and cellular network signals to get its position fix? When you are way out in the field and far from any signals, your phone will likely give you terrible location information. That's because it probably has a cheap-o GPS chip in it (not all phones do, but most do). Also, your battery will wear down faster as it searches for these signals that it needs. Do yourself a favor: stick your device in airplane mode, then flick on the Bluetooth, and connect to a high-quality external GPS. 
+Yup. This is the secret. Buy cheap tablets, and spend the money where it's most useful: your GPS. The newest revolution in GPS technology is basically old tech: bluetooth. All the software action is on your mobile device, but a hardware GPS is [miles better than the GPS in your mobile device](http://androgeoid.com/2010/09/why-use-an-external-bluetooth-gps-receiver-with-an-android-phone/). Did you know that your mobile device also uses the wifi and cellular network signals to get its position fix? When you are way out in the field and far from any signals, your phone will likely give you terrible location information. That's because it probably has a cheap-o GPS chip in it (not all phones do, but most do). Also, your battery will wear down faster as it searches for these signals that it needs. Do yourself a favor: stick your device in airplane mode, then flick on the bluetooth, and connect to a high-quality external GPS. 
 
 Here's my list of good Bluetooth GPS investments:
 
@@ -63,17 +63,19 @@ Ok, this is where the rest of the action is at. As always, my workflows prefer F
 
 ### Android (aka. what Isaac uses)
 
-#### 1) Set up your Bluetooth for GPS
+#### 1) Set up your bluetooth for your external GPS
 
-Let us start with connecting your awesome new Bluetooth GPS unit to your device. 
+Let us start with connecting your awesome new bluetooth GPS unit to your device. 
 
 1.To do this, you first need to download and install the free [Bluetooth GPS app](https://play.google.com/store/apps/details?id=googoo.android.btgps&hl=en).
 
 2. Once you've done that, you need to turn on "Developer Mode." Swipe down from the top, and click the little cogwheel icon to enter your phone's settings menu. Scroll to the bottom, and tap the "About Phone" menu item. Scroll again to the bottom and find the "Build Number" field. Tap on it about 10 times in quick succession. You have now enabled developer mode. 
 
-3. Now, you have to allow "Mock GPS Location" so that the Bluetooth GPS signal can override the internal GPS. Go back to the main settings menu, and find the new "Developer Options" menu item. Click it, and find the item called "Select mock location app." Tap it, and select the "Bluetooth GPS" app from the list.
+3. Now, you have to allow "Mock GPS Location" so that the bluetooth GPS signal can override the internal GPS. Go back to the main settings menu, and find the new "Developer Options" menu item. Click it, and find the item called "Select mock location app." Tap it, and select the "Bluetooth GPS" app from the list.
 
-4. Now, pair your Bluetooth GPS unit with your phone (follow the directions for your unit), and then start the Bluetooth GPS app. If all goes well, you can now tap "Connect", and you will see the new location information in the fields of the app. To broadcast this to your other location aware apps, make sure to check the "Enable Mock GPS Provider" box in the app. Now you should have a notification in the notification bar telling you that Bluetooth GPS is working and that Mock Location is enabled. 
+4. Now, pair your bluetooth GPS unit with your phone (follow the directions for your unit), and then start the "Bluetooth GPS" app. If all goes well, you can now tap "Connect", and you will see the new location information in the fields of the app. 
+
+5. To broadcast this to your other location aware apps, make sure to check the "Enable Mock GPS Provider" box in the app. Now you should have a notification in the notification bar telling you that "Bluetooth GPS" is working and that Mock Location is enabled. You are golden!
 
 #### 2) Get some forms and collect some data!
 
