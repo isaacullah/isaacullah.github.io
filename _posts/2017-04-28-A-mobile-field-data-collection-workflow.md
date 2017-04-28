@@ -53,7 +53,7 @@ Here's my list of good Bluetooth GPS investments:
 
 2. [Trimle R1 GNSS Receiver](https://www.trimble.com/mappinggis/r1-gnss-receiver.aspx) - Got money burning a hole in your pocket? I guess you could spend it on this. But it's not really any better than the Bad Elf unit listed above. Buy this if your boss tells you that you have to only buy Trimble products. Personally, I think it's a waste of $3000 bucks.
 
-3. [Garmin GLO](https://buy.garmin.com/en-US/US/p/109827) - Not nearly as good as either of the above, but only $99 and from a name you know already. Personally, I would probably buy one of the lower-tier Bad Elf products over this one, but maybe you like Garmin.
+3. [Garmin GLO](https://buy.garmin.com/en-US/US/p/109827) - Not nearly as good as either of the above, but only $99 and from a name you know already. Personally, I would probably buy one of the lower-tier Bad Elf products over this one, but maybe you like Garmin already and don't want to branch out.
 
 ---
 
@@ -61,7 +61,7 @@ Here's my list of good Bluetooth GPS investments:
 
 Ok, this is where the rest of the action is at. As always, my workflows prefer Free and Open Software whenever possible. Let's start with Android, since that's what I am working with myself.
 
-### Android (aka. what Isaac does)
+### Android (aka. what Isaac uses)
 
 #### 1) Set up your Bluetooth for GPS
 
@@ -96,7 +96,7 @@ As cool as GeoODK is, it's not really a full fledged mobile GIS solution. It's g
 
 
 
-### But I have a really fancy iPhone, and I want to play too!!
+### But I have a really fancy iPhone and an iPad and a Macbook Air, and I want to play too!!
 
 Rest easy, my friend! You can join the party too, with your bespoke coffee thermos, lumberjack boots, and rolled up jean shorts. Actually, you have a little advantage with your iOS device: your bluetooth GPS will connect right away without any messing about in the settings. Bad Elf has a [cool little iOS app](https://bad-elf.com/pages/gps-app) to help you that with their GPS units. Give that whirl, and make sure it's all working, and then let's look at some iOS apps you can use to do much of the above.
 
