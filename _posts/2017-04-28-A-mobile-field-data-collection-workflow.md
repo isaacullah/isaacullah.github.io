@@ -94,7 +94,7 @@ As cool as GeoODK is, it's not really a full fledged mobile GIS solution. It's g
 
 2. [Avenza PDF Maps](http://www.avenza.com/avenza-maps) - Qfield too much for you to deal with right now? Use Avenza PDF maps. It's not open source, but it's easy to use and it works well. Similar functionality to QGIS, but not as well-rounded, nor as integrated into a QGIS or GRASS workflow.
 
-3. [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi/) - Last, we have Geopaparazzi. I really want to love Geopap. It's a really great idea, and it really does have the potential to be a fully standalone form gatherer AND mobile GIS solution. If it weren't so dang hard to set up projects and put offline layers in to it. It requires you to make Mapbox layers, which never work for me. The form builder is a lot more clunky than ODK's too. Maybe you will think differently than I, so do give it a chance.
+3. [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi/) - Last, we have Geopaparazzi. I really want to love Geopap. It's a really great idea, and it really does have the potential to be a fully standalone form gatherer AND mobile GIS solution. If it weren't so dang hard to set up projects and put offline layers in to it. It requires you to make Mapbox layers, which never work for me. The form builder is a lot more clunky than ODK's too. Maybe you will think differently than I, so do give it a chance. Geopaparazzi is Open Source, so they gets my love anyway.
 
 
 
