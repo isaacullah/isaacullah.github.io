@@ -11,7 +11,7 @@ tags: [archaeology, fieldwork, Mobile]
 It's a busy time here at SDSU and in the Computational Archaeology Laboratory. The semester is almost over, and my GIS students are busy with their final projects. Also, I'm getting all my fieldwork plans finalized and starting to get prepared. This summer, I'll be doing two back-to-back field seasons. First, it's the final fieldwork season for the Historic Buildings Survey on the Bova Marina Archaeological Project. Second, it's a short exploratory field project in southeast Kazakhstan, where we will be checking out some new alluvial fans to the east of Talgar. 
 
 <figure>
-	<a href="/images/isaac_in_a_stream.jpg"><img src="/images/isaac_in_a_stream.jpg" alt="Me in May, 2013, standing in the middle of a stream in Kazakhstan, diddling my phone. I'm doing it for science, I swear!"></a>
+	<a href="/images/isaac_in_a_stream.jpg"><img src="/images/isaac_in_a_stream.jpg" alt="Me in May, 2013, standing in the middle of a stream in Kazakhstan, diddling my phone. I'm doing it for science, I swear!" width=300></a>
 	<figcaption>Me, in May, 2013, standing in the middle of a stream in Kazakhstan, diddling my phone. I'm doing it for science, I swear!</figcaption>
 </figure>
 
