@@ -21,7 +21,7 @@ As you might know, I'm a huge fan of digital methods in archaeology (yeah, who k
 
 ## Hardware
 
-People often ask me about hardware for mobile data collection. My great preference is for Android devices, because there are more data collection Apps available, and I find Android more usable. If you are a die hard iOS fan, don't worry. This post will have some tips for you as well.
+People often ask me about hardware for mobile data collection. My great preference is for Android devices. That's partly because I like Android and prefer it on my own personal devices. But, it is also because there are way more open source apps available for Android, including some awesome open-source data collection apps. If you don't know why open source is important, have a read [here](http://www.tandfonline.com/doi/abs/10.1080/00438243.2012.743259?journalCode=rwar20). If you are a die hard iOS fan, don't worry. This post will have some tips for you as well.
 
 ### The Data Machine (aka. "Mobile Device")
 
