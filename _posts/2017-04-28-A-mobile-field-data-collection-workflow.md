@@ -56,13 +56,15 @@ Ok, this is where the rest of the action is at. As always, my workflows prefer F
 
 #### 1) Set up your Bluetooth for GPS
 
-Let us start with connecting your awesome new Bluetooth GPS unit to your device. To do this, you first need to download and install the free [Bluetooth GPS app](https://play.google.com/store/apps/details?id=googoo.android.btgps&hl=en).
+Let us start with connecting your awesome new Bluetooth GPS unit to your device. 
 
-Once you've done that, you need to turn on "Developer Mode." Swipe down from the top, and click the little cogwheel icon to enter your phone's settings menu. Scroll to the bottom, and tap the "About Phone" menu item. Scroll again to the bottom and find the "Build Number" field. Tap on it about 10 times in quick succession. You have now enabled developer mode. 
+1.To do this, you first need to download and install the free [Bluetooth GPS app](https://play.google.com/store/apps/details?id=googoo.android.btgps&hl=en).
 
-Now, you have to allow "Mock GPS Location" so that the Bluetooth GPS signal can override the internal GPS. Go back to the main settings menu, and find the new "Developer Options" menu item. Click it, and find the item called "Select mock location app." Tap it, and select the "Bluetooth GPS" app from the list.
+2. Once you've done that, you need to turn on "Developer Mode." Swipe down from the top, and click the little cogwheel icon to enter your phone's settings menu. Scroll to the bottom, and tap the "About Phone" menu item. Scroll again to the bottom and find the "Build Number" field. Tap on it about 10 times in quick succession. You have now enabled developer mode. 
 
-Now, pair your Bluetooth GPS unit with your phone (follow the directions for your unit), and then start the Bluetooth GPS app. If all goes well, you can now tap "Connect", and you will see the new location information in the fields of the app. To broadcast this to your other location aware apps, make sure to check the "Enable Mock GPS Provider" box in the app. Now you should have a notification in the notification bar telling you that Bluetooth GPS is working and that Mock Location is enabled. 
+3. Now, you have to allow "Mock GPS Location" so that the Bluetooth GPS signal can override the internal GPS. Go back to the main settings menu, and find the new "Developer Options" menu item. Click it, and find the item called "Select mock location app." Tap it, and select the "Bluetooth GPS" app from the list.
+
+4. Now, pair your Bluetooth GPS unit with your phone (follow the directions for your unit), and then start the Bluetooth GPS app. If all goes well, you can now tap "Connect", and you will see the new location information in the fields of the app. To broadcast this to your other location aware apps, make sure to check the "Enable Mock GPS Provider" box in the app. Now you should have a notification in the notification bar telling you that Bluetooth GPS is working and that Mock Location is enabled. 
 
 #### 2) Get some forms and collect some data!
 
