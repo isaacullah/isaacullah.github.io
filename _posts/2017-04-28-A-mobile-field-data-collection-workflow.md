@@ -2,7 +2,7 @@
 layout: post
 title: "A Mobile Data-Collection Workflow for Archaeologists"
 author: isaacullah
-modified: 2017-04-28
+modified: 2017-05-01
 comments: True
 excerpt: "A Mobile Data-Collection Workflow for Archaeologists..."
 tags: [archaeology, fieldwork, Mobile]
@@ -65,9 +65,9 @@ Ok, this is where the rest of the action is at. As always, my workflows prefer F
 
 #### 1) Set up your bluetooth for your external GPS
 
-Let us start with connecting your awesome new bluetooth GPS unit to your device. 
+Let us start with connecting your awesome new bluetooth GPS unit to your mobile device. 
 
-1.To do this, you first need to download and install the free [Bluetooth GPS app](https://play.google.com/store/apps/details?id=googoo.android.btgps&hl=en).
+1. To do this, you first need to download and install the free [Bluetooth GPS app](https://play.google.com/store/apps/details?id=googoo.android.btgps&hl=en).
 
 2. Once you've done that, you need to turn on "Developer Mode." Swipe down from the top, and click the little cogwheel icon to enter your phone's settings menu. Scroll to the bottom, and tap the "About Phone" menu item. Scroll again to the bottom and find the "Build Number" field. Tap on it about 10 times in quick succession. You have now enabled developer mode. 
 
@@ -108,6 +108,12 @@ Rest easy, my friend! You can join the party too, with your bespoke coffee therm
 
 3. [Avenza PDF Maps](http://www.avenza.com/avenza-maps) - This is your best bet for free offline mapping with an iOS device. Again, not open source, but it works.
 
+### Um. All this tech stuff is way over my head, can you do it for me?
+
+Sorry! This post is about as much as I can do for you. However, I have found out that there are some enterprise solutions in development by a startup called [Codifi](https://www.codifi.com/). It seems that the Codifi team is working hard on making some custom solutions for paperless archaeological recording. I suggest you get in touch with them if you want to do this, but the "tech" part of it seems way out of your league. They seem like nice folks!
+
 ## Questions? Suggestions? Let's hear 'em!
 
 Okay, that's what I've got for your. This is all stuff I either figured out on my own, read about online somewhere, or someone told me about. If you've got questions or suggestions for things I've overlooked or didn't know about, I would love to hear them! Use the comments section below, or [e-mail me](iullah@sdsu.edu)!
+
+*Some typos and grammar have been corrected since this was first posted*
