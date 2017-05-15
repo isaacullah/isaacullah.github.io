@@ -3,7 +3,7 @@ layout: page
 title: Welcome
 date: 2017-03-01
 modified: 2017-03-01
-excerpt: Details about the new Computational Archaeology Laborartory here at San Diego State University.
+excerpt: Details about the new Computational Archaeology Laboratory here at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
 image:
   feature: CompArchLab_beta.jpg
@@ -37,7 +37,7 @@ The lab is located on the ground floor of the Hardy Tower building.
 <br>
 **Lab Hours:** *Thursdays, 1-4pm (Spring 2017).* 
 <br>
-These are the "open lab" hours during which I will regularly be in the lab and availble to answer questions. The lab may be open at other times.
+These are the "open lab" hours during which I will regularly be in the lab and available to answer questions. The lab may be open at other times.
 
 ### Lab Resources
 
@@ -47,20 +47,20 @@ During the current "beta" development stage, the lab is operating with a minimal
 **Future laboratory resources:**
 
 * A Puget Systems "Peak" HPC workstation. This workstation will contain 44 multithreaded cores for parallel and high-performance computing.
-* A full photogrammetry workstation. Including full-frame DSLR and various accessories for photogrametric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
-* Multispectral Aerial Drone. The drone will carry an RGB camera plus a Near Infra Red camera.
+* A flexible photogrammetry workstation to accommodate photogrammetric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
+* Multispectral Aerial Drone. The drone will carry an RGB camera plus a near infra-red NDVI-capable camera.
 * Sediment Granulometry workstation. This includes a full set of nesting geologic sieves, a mechanical sieve shaker, and a precision balance.
 * Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
 * Mobile tablet computers for field data collection using Open Data Kit.
 * Bad-Elf GNSS surveyor high precision bluetooth GPS units.
 * Wacom tablets for data entry and digitization.
-* Supplies for a variety of artifact analyses and measurements
+* Supplies for a variety of artifact and sediment analyses and measurements
 
 ### Research
 
 **Research topics.**
 <br>
-The CompArch lab conducts research into the following topics:
+The Computational Archaeology Lab lab conducts research into the following topics:
 
 * Coupled human-natural systems research
 * Agent-Based Modeling
@@ -69,9 +69,9 @@ The CompArch lab conducts research into the following topics:
 * Early domestication of plants and animals
 * The dynamics of early agro-pastoral subsistence systems
 
-**Colaborations.**
+**Collaborations.**
 <br>
-The Compuational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
+The Computational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
 
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
 * The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
