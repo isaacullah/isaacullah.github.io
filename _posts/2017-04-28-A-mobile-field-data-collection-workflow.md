@@ -2,7 +2,7 @@
 layout: post
 title: "A Mobile Data-Collection Workflow for Archaeologists"
 author: isaacullah
-modified: 2017-05-01
+modified: 2017-05-22
 comments: True
 excerpt: "A Mobile Data-Collection Workflow for Archaeologists..."
 tags: [archaeology, fieldwork, Mobile]
@@ -82,9 +82,11 @@ Let us start with connecting your awesome new bluetooth GPS unit to your mobile 
 Ok, you got your awesome extra precise GPS data streaming in. Now what? Well, now you gotta do something with it. Let's use the awesome apps to deploy some forms! 
 
 1. [GeoODK](http://geoodk.com/index.html) - GeoODK, and the original [Open Data Kit](https://opendatakit.org/) project are what I recommend for Android users. These are really great apps for field data collection into a centralized database. GeoODK is a little more geo-capable than is the original ODK, so that's why I recommend it. Basically, with either of these, you can use a spreadsheet and some codes to make nifty XML forms that look great on your mobile device in the app. Follow [this guide](http://geoodk.com/xlsform_format.html) to figure out how to make your own forms. 
-You can choose to use the cloud-based deployment (like with Ona or Formhub), but I always just copy everything to and from my devices. Just attach your device to your computer via USB, and transfer the form you want to use. Luckily, this is all made very simple with the awesome [ODK Briefcase](https://opendatakit.org/use/briefcase/) software. It's a Java program, so it runs on your computer. You will also use it to get your data off the device and back onto your computer. You can then export a sweet [CSV file of all your lovely data](https://opendatakit.org/use/aggregate/data-transfer/) that you can open in any spreadsheet program. :)
+You can choose to use the cloud-based deployment (like with Ona or Formhub), but I always just copy everything to and from my devices. Just attach your device to your computer via USB, and transfer the form you want to use. Then, you go out and collect your data using your form. Once you have some data, it's very simple to download it to a centralized database on your laptop with the awesome [ODK Briefcase](https://opendatakit.org/use/briefcase/) software. It's a Java program, so it runs on your computer. [Here is a great tutorial](http://sudan.validmeasures.org/using-odk-briefcase-to-pull-submissions-from-mobile-devices/) on how to use the ODK Briefcase to aggreagate data from your mobile device or devices. If you follow that workflow, managing your data over the course of field season will be a breeze. Once you ready, you can use the ODK briefcase then export a sweet [CSV file of all your lovely data](http://sudan.validmeasures.org/using-odk-briefcase-to-export-data/) that you can open in any spreadsheet program.
 
 2. [EpiCollect](http://www.epicollect.net/) -  Epicollect is a lot like ODK. But it's forms are a little less flexible. However, you might like it's simplicity. If you are on iOS, however, this is your best bet if you don't want to use FileMakerGO (see below).
+
+3. [FAIMS](https://www.fedarch.org/) -  FAIMS is very similar to GeoODK in concept, but different in implementation. Some advantages of FAIMS include potentially better GIS capabilites (including digitizing lines and polygons directly in app, and a true SpatiaLite geodatabase implementation), and the ability to include graphics in your forms. The downside is that it requires a Linux server implementation for data aggregation, which can be very difficult to pull off yourself if you don't know how to do that (and most of us probably don't). They do offer an "out of the box" hardware/software solution, but you do have to pay for that.
 
 #### 3) Hey, I thought you said we were going to do GIS!!
 
@@ -111,6 +113,8 @@ Rest easy, my friend! You can join the party too, with your bespoke coffee therm
 ### Um. All this tech stuff is way over my head, can you do it for me?
 
 Sorry! This post is about as much as I can do for you. However, I have found out that there are some enterprise solutions in development by a startup called [Codifi](https://www.codifi.com/). It seems that the Codifi team is working hard on making some custom solutions for paperless archaeological recording. I suggest you get in touch with them if you want to do this, but the "tech" part of it seems way out of your league. They seem like nice folks!
+
+The [FAIMS](https://www.fedarch.org/) people also offer "FAIMS-in-a-box" and other customized workflows for your project. They aren't cheap, but they list [very clear pricing for their services and hardware](https://www.fedarch.org/grant/)
 
 ## Questions? Suggestions? Let's hear 'em!
 
