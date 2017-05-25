@@ -88,6 +88,8 @@ You can choose to use the cloud-based deployment (like with Ona or Formhub), but
 
 3. [FAIMS](https://www.fedarch.org/) -  FAIMS is very similar to GeoODK in concept, but different in implementation. Some advantages of FAIMS include potentially better GIS capabilites (including digitizing lines and polygons directly in app, and a true SpatiaLite geodatabase implementation), and the ability to include graphics in your forms. The downside is that it requires a Linux server implementation for data aggregation, which can be very difficult to pull off yourself if you don't know how to do that (and most of us probably don't). They do offer an "out of the box" hardware/software solution, but you do have to pay for that.
 
+4. [Geopaparazzi](http://geopaparazzi.github.io/geopaparazzi/) - See my comments below about Geopaparazzi. It *is* capable of deploying custom forms that are integrated in a true SpatiaLite geodatabase, but I have never been able to make it work properly, and I find the XML-based form building process clunky and annoying. You might like it, however, so definitely check it out.
+
 #### 3) Hey, I thought you said we were going to do GIS!!
 
 As cool as GeoODK is, it's not really a full fledged mobile GIS solution. It's great for forms and it's very location-aware. But we are GIS people, darn it! We want a REAL GIS application. Well you are in luck. There are three good ones to use.
@@ -114,7 +116,8 @@ Rest easy, my friend! You can join the party too, with your bespoke coffee therm
 
 Sorry! This post is about as much as I can do for you. However, I have found out that there are some enterprise solutions in development by a startup called [Codifi](https://www.codifi.com/). It seems that the Codifi team is working hard on making some custom solutions for paperless archaeological recording. I suggest you get in touch with them if you want to do this, but the "tech" part of it seems way out of your league. They seem like nice folks!
 
-The [FAIMS](https://www.fedarch.org/) people also offer "FAIMS-in-a-box" and other customized workflows for your project. They aren't cheap, but they list [very clear pricing for their services and hardware](https://www.fedarch.org/grant/)
+
+The [FAIMS](https://www.fedarch.org/) people also offer "FAIMS-in-a-box" and other customized workflows for your project. They aren't cheap, but they list [very clear pricing for their services and hardware](https://www.fedarch.org/grant/).
 
 ## Questions? Suggestions? Let's hear 'em!
 
