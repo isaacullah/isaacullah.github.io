@@ -2,7 +2,7 @@
 layout: post
 title: "Isaac's List of FOSS tools for academics..."
 author: isaacullah
-modified: 2017-01-19
+modified: 2017-10-09
 comments: True
 excerpt: "...and what to use them for!"
 tags: [FOSS, software, list, tools]
@@ -34,11 +34,11 @@ The great majority of these software tools are available on all three major OS p
 - [Whitebox GAT](http://www.uoguelph.ca/~hydrogeo/Whitebox/) - This is a really interesting project being developed at the University of Geulph. It operates under the "Open Access Software" principle, which purports to be one step beyong even Open Source, in the sense that the project must *actively encourage* examination of the source code. Beyond that, it looks to be a very powerful cross-platform GIS suite under active development. I've downloaded it, and wil be testing it out. Note that it does require the latest Java JRE. [Linux, Mac, Windows]
 
 #### Structure from Motion Analysis
-- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to Bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, lanscape, or artifact. **Highly recommended.** [Linux, Windows]
+- [OpenDroneMap](http://opendronemap.github.io/odm/) - ODM has rapidly become the ultimate all-in-one tool to make 3D-point clouds, rectified aerial photomosaics, and DEM's from aerial imagery. It is a full SfM pipeline, and then some. It can be installed as a scriptable commandline tool in Linux or on Windows/Mac via Docker, but the recent [WebODM](https://www.webodm.org/) fork is my current recommendation for most people. It runs on any platform from your web browser with a really great GUI interface that also lets you view and manipulate the resulting 3D meshes and mosaics. This is the only tool I am currently using for all my SfM needs. **Highly Recommended!** [Linux, Mac, Windows]
+- ["PPT" Python Photogrammetry Toolbox](http://184.106.205.13/arcteam/ppt.php) - A bit buggy, but it does work. Graphical interface to Bundler and PMVS. Probably right now the easiest way to get a 3D point cloud out of your un-ordered photographs of a building, landscape, or artifact. I have recently had trouble installing this package, and it seems to be unmaintained for the last year or more, so I'm not sure if I can fully recommend it any more. [Linux, Windows]
 - [Bundler and MVS/PMVS](http://www.cs.cornell.edu/~snavely/bundler/) - These are the core command-line programs that the PPT is built around, but it is still useful to know how to do it from scratch. [Linux, Mac, Windows]
 - [MVE with Open-MVG and MVS-texturing](http://www.gcc.tu-darmstadt.de/home/proj/mve/) - Another set of command-line tools, giving a slightly different approach than the Bundler/PMVS pipeline. I've developed scripts to run these as batches, which I'll eventually host here for download. [Linux, Mac, Windows]
 - [Regard3D](http://www.regard3d.org/) - This is a new GUI wrapper for Open-MVG, for Windows and Mac only. I therefore can't put it through its paces, but it promises to be a great new tool for an easy SfM workflow. [Windows, Mac]
-- [OpenDroneMap](http://opendronemap.github.io/odm/) - Still in development, and not fully functional yet, but promises to be the ultimate all-in-one tool to make rectified aerial photomosaics and DEM's from SfM data clouds extracted from those images. Has a really great GUI interface. [Linux, perhaps Mac and Windows with some work]
 - [MicMac](http://logiciels.ign.fr/?Micmac) - This is a very cool Open-Source project that provides a complete cross-platform SfM pipeline that does NOT rely on Bundler. It seems possible to produce georefrenced point clouds as well. The site is in the French language, but much of the documentation is in English. This project seems to be actively developed. There is both a CLI and GUI interface. [Linux, Mac, Windows]
 
 #### Point Cloud Editing and Viewing
@@ -87,7 +87,7 @@ The great majority of these software tools are available on all three major OS p
 - [GNU Octave](https://www.gnu.org/software/octave/) - I believe Octave is often used a FOSS alternative for MatLab, but I don't use either, so I'm not sure. I've been told that it is quite powerful and functional, however. [Linux, Mac, Windows]
 - [KNIME](https://www.knime.org/knime) - Graphical programming is easier to get into than scripting languages like R or Python. Large code-base, many modules for data-mining. Growing user-base. Note that this is still technically FOSS, even though the KNIME organization has some enterprise tools as well. [Linux, Mac, Windows]
 - [Weka](http://www.cs.waikato.ac.nz/ml/weka/) - Another nice data-mining program. Weka libraries can also be brought into KNIME as plugins. [Linux,Mac, Windows]
-- [Orange](http://orange.biolab.si/) - Another powerful data-miner and stats package with a really beatiful and intuitive graphical programming interface. Orange is now my main recommendation for folks who want to step up from spreadsheet land to the next level of scientific computing, but who are intimidated by command-line interfaces and scripting. Orange is easy to use, and has great tutorials. There is a native Python API, so you can grow with it. It includes a lot of great addons and wonderful output graphics. *Highly recommended*! [Linux, Mac, Windows]
+- [Orange](http://orange.biolab.si/) - Another powerful data-miner and stats package with a really beautiful and intuitive graphical programming interface. Orange is now my main recommendation for folks who want to step up from spreadsheet land to the next level of scientific computing, but who are intimidated by command-line interfaces and scripting. Orange is easy to use, and has great tutorials. There is a native Python API, so you can grow with it. It includes a lot of great addons and wonderful output graphics. **Highly recommended!** [Linux, Mac, Windows]
 - [PSPP](https://www.gnu.org/software/pspp/) - Quite literally a FOSS replacement for SPSS. Not as fully functional as other solutions above, but works for basic analyses and data manipulation. Getting better all the time. [Linux, Mac, Windows]
 - [PAST](http://folk.uio.no/ohammer/past/) - Perhaps more comfortable for people used to a "spreadsheet" interface to statistics. Many, many, more, and more robust analyses are possible in PAST than in any normal spreadsheet, however. NOTE: It has come to my attention that the source-code for PAST is not made available. It's also released under a slightly more restrictive lisence than is true open-source software. Thus, it is clearly not true FOSS. At the moment, I'm leaving it on this list as a special dispensation because it's a very useful piece of software that is *almost* FOSS. But I may eventually decide to remove it. [Windows, Mac]
 
@@ -178,6 +178,7 @@ The great majority of these software tools are available on all three major OS p
 - [Scribus](http://www.scribus.net/) - An all around great tool for making posters, brochures, newsletters, anything that requires mixing graphics and text. Very precise control. A FOSS alternative for Adobe Pagemaker. **Highly recommended.** [Linux, Mac, Windows]
 - [LibreOffice Impress](www.libreoffice.org) - More for presentations, but you can make posters, etc. in it too. [Linux, Mac, Windows]
 - [LaTex](https://www.latex-project.org/) - Yup, you guessed it! LaTex can be a very powerful tool for Desktop Publishing too! [Linux, Mac, Windows]
+- [Laidout Book Creator](www.laidout.org) - For linux only, but a pretty flexible way to make graphics heavy pubs in full spread form. Still has some kinks to work out, but you might like it better than Scribus or LaTex for some applications. [Linux]
 
 #### Presentations
 - [LibreOffice Impress](www.libreoffice.org) - A FOSS alternative for MS Powerpoint. Great if you want a standard presentation experience with transitions, animations, etc. [Linux, Mac, Windows]
@@ -221,6 +222,7 @@ The great majority of these software tools are available on all three major OS p
 - [Nomacs](http://nomacs.org/) - Nomacs is also a basic viewer, with the added benefit of being able to view RAW images natively. Can rotate and crop too. Dead simple interface and just does what it says it does, and no more. This is my main image viewer these days. [Linux. Mac, Windows]
 - [HUGIN](http://hugin.sourceforge.net/) - Best panorama stitcher out there. Can also do mosaicking and image unwarping. A really great piece of software! **Highly recommended.** [Linux, Mac, Windows]
 - [geotag](http://geotag.sourceforge.net/) - Add geographic information to the EXIF tags of your photos by syncing with a track exported from your GPS. Very useful for remember exactly where you took a photo! [Linux, Windows, Web Service]
+- [Gotten Geography](http://robru.ca/gottengeography/) - A truly beautiful piece of software, and an elegant, simple way to add geotags to your photographs. One of the nicest software tools to use that I have come across in a long time. Does exactly what it says it does, and no more or less. Linux only, however. [Linux]
 - [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/) - Command-line libraries for manipulating the EXIF image information tags of your photographs. [Linux, Mac, Windows]
 - [PyExifToolGUI](https://hvdwolf.github.io/pyExifToolGUI/) - A nice Python GUI for ExifTools. Perhaps easier for you if you are not a command-line user. [Linux, Mac, Windows]
 
