@@ -1,0 +1,18 @@
+# Base configs
+baseurl: "http://isaacullah.github.io/photography/"
+image_fulls_loc: "/images/fulls"
+image_thumbs_loc: "/images/thumbs"
+google_analytics: "UA-55626306-1"
+
+# UI configs
+title: "Isaac Ullah, Photography"
+subtitle: "Landscapes, people, and details."
+author: "Isaac Ullah"
+bio: "I am an archaeologist, world traveler, and lover of the outdoors. I take photos of my travels, of nature, and of details in the built environment."
+publicise: "All images Copyright Isaac Ullah, 2017"
+web_design: "AJ"
+social_urls:
+  facebook: "https://www.facebook.com/isaacullah"
+  twitter: "https://www.twitter.com/isaacullah"
+  github: "https://www.github.com/isaacullah"
+  flickr: "https://www.flickr.com/isaacullah"
