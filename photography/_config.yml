@@ -1,7 +1,7 @@
 # Base configs
-baseurl: "http://isaacullah.github.io/"
-image_fulls_loc: "/images/fulls"
-image_thumbs_loc: "/images/thumbs"
+baseurl: "http://isaacullah.github.io"
+image_fulls_loc: "/photography/images/fulls"
+image_thumbs_loc: "/photography/images/thumbs"
 google_analytics: "UA-55626306-1"
 
 # UI configs
