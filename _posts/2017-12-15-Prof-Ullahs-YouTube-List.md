@@ -12,7 +12,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 
 ---
 
-##Introduction to Archaeology
+## Introduction to Archaeology
 
 - [Want to be an Archaeologist? Short film with help and advice.](https://www.youtube.com/watch?v=ao4vVcfvyuE)
 
