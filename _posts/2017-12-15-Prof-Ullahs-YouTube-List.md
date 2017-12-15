@@ -12,7 +12,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 
 ---
 
-## Introduction to Archaeology
+### Introduction to Archaeology
 
 - [Want to be an Archaeologist? Short film with help and advice.](https://www.youtube.com/watch?v=ao4vVcfvyuE)
 
@@ -23,7 +23,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 - [Digging Archaeology at Harvard Yard: Stuff You Missed in History Class](https://youtu.be/WpBHdq5BZdQ)
 
 
-## Hunting, Gathering, and the Paleolithic
+### Hunting, Gathering, and the Paleolithic
 
 - [Hadza Hunting.](http://www.youtube.com/watch?v=9fUgZVTfqdc)
 
@@ -36,7 +36,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 - [Cave of the Forgotten Dreams](https://www.youtube.com/watch?v=iNWvQbbPqf8)
 
 
-## Plant and Animal Domestication and the Neolithic
+### Plant and Animal Domestication and the Neolithic
 
 - [The Origin of Dogs.](https://youtu.be/4doKA0VpKgc)
 
@@ -52,7 +52,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 
 - [In Focus: The Talheim Massacre](https://youtu.be/iNyDCh5E21s)
 
-## Roots of Civilizations - Classic Case Studies.
+### Roots of Civilizations - Classic Case Studies.
 
 - [Epic of Gilgamesh.](https://youtu.be/2pGhEu9elnA)
 
@@ -75,7 +75,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 - [Bettany Hughes The Ancient Worlds 3 of 7: The Minoans.](https://youtu.be/HXjbvB4w_no)
 
 
-## Civilizations, Sustainability, and “Collapse”
+### Civilizations, Sustainability, and “Collapse”
 
 - [Farming in the forest in Belize.](https://youtu.be/teVmVMH-Ano)
 
@@ -92,7 +92,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 - [Dr. Jerry Howard speaks on Hohokam Irrigation.](https://youtu.be/__iTRVsIzEQ)
 
 
-## Where do We Go From Here? Looking at the Past and Thinking About the Future.
+### Where do We Go From Here? Looking at the Past and Thinking About the Future.
 
 - [The Anthropocene and the Near Future: Crash Course Big History \#9.](https://youtu.be/3WpaLt_Blr4)
 
