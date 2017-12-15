@@ -18,8 +18,8 @@ image:
 {:toc}
 </div>
 </section><!-- /#table-of-contents -->
-
-Welcome to the website for the new Computational Archaeology Laboratory at San Diego State University. The lab is in what I like to call it's "beta" stage of development, as we are awaiting a full remodel to take place over Summer, 2017. When complete, the lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
+ Su
+Welcome to the website for the new Computational Archaeology Laboratory at San Diego State University. The lab is in what I like to call it's "beta" stage of development, as we are awaiting a full remodel to be completed by the start of Spring term, 2018. The lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
 <br><br>
 
 <figure>
@@ -32,10 +32,10 @@ Welcome to the website for the new Computational Archaeology Laboratory at San D
 
 **Location:** *Hardy Tower 62/66.* 
 <br>
-The lab is located on the ground floor of the Hardy Tower building.
+The lab is located on the ground floor of the Hardy Tower building. Enter through HT 62 door in the stairwell (look for "Computational Archaeology Laboratory" signs).
 <br>
 <br>
-**Lab Hours:** *Thursdays, 1-4pm (Spring 2017).* 
+**Supervised Lab Hours:** *Thursdays, 1-3pm (Spring 2018).* 
 <br>
 These are the "open lab" hours during which I will regularly be in the lab and available to answer questions. The lab may be open at other times.
 
@@ -44,17 +44,20 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 During the current "beta" development stage, the lab is operating with a minimal set of equipment and resources for Computational Archaeology. There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research. These workstations will remain a core component of the lab as it is upgraded and completed.
 
 <br>
-**Future laboratory resources:**
+**Additional laboratory resources:**
 
-* A Puget Systems "Peak" HPC workstation. This workstation will contain 44 multithreaded cores for parallel and high-performance computing.
+* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
 * A flexible photogrammetry workstation to accommodate photogrammetric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
-* Multispectral Aerial Drone. The drone will carry an RGB camera plus a near infra-red NDVI-capable camera.
+* DJI Mavic Aerial Drone. The drone includes an integrated RGB camera, and can be fitted with an additional near MapIR NDVI camera or a FLIR Thermal camera.
 * Sediment Granulometry workstation. This includes a full set of nesting geologic sieves, a mechanical sieve shaker, and a precision balance.
+* Sediment Chemical analysis workstation (PH, N, P, K)
 * Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
 * Mobile tablet computers for field data collection using Open Data Kit.
 * Bad-Elf GNSS surveyor high precision bluetooth GPS units.
 * Wacom tablets for data entry and digitization.
 * Supplies for a variety of artifact and sediment analyses and measurements
+
+More equipment will be added over time.
 
 ### Research
 
@@ -92,10 +95,10 @@ Funding and support for the research being conducted in the Computational Archae
 
 ### Students
 
-The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the field of Computational Archaeology. Starting in Fall, 2017, there will be opportunities for undergraduate student research volunteers. There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
+The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the field of Computational Archaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit). There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
 
 <br>
-I am currently seeking prospective Master's students interested in the field of Computational Archaeology. I am particularly interested in students with some background in GIS or other computational approaches. I will have ongoing research opportunities for students interested in working in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
+I am currently seeking prospective Master's students interested in the fields of _Computational Archaeology_ and _Geoarchaeology_. I am particularly interested in students with some background in GIS or other computational approaches. I will have ongoing research opportunities for students interested in working in the Mediterranean region or in Central Eurasia, with potential fieldwork in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
 
 ### Recent Events
 
