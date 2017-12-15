@@ -8,8 +8,6 @@ excerpt: "This is a list of YouTube videos to help you teach and learn about arc
 tags: [archaeology, videos, lists]
 ---
 
-# Professor Ullah's List of Great Archaeology YouTube Videos
-
 This is a list of YouTube videos to help you teach and learn about archaeology and ancient civilizations. This list derives from my course, "Roots of Civilizations," and generally follows the syllabus for that course. I generally show an excerpt from these videos at the start of each class as we progress through the semester. I've arranged them topically in the same order as I go through my class, so there is a definite narrative arc to the subject matter each video addresses. This is a "living" list, and will be updated over time. One final disclaimer: I am not the content creator or copyright holder of any of these videos, nor do I take any responsibility for the content therein. These are simply videos that I've found on YouTube that fit topically with my subject matter.
 
 
@@ -103,6 +101,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 
 - [200 years that changed the world (with Hans Rosling)](https://youtu.be/BPt8ElTQMIg)
 
+---
 
 ## Great YouTube Channels for Original Archaeology and Science Content
 
