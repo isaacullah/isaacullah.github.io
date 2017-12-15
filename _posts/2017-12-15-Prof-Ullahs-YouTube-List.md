@@ -19,7 +19,7 @@ This is a list of YouTube videos to help you teach and learn about archaeology a
 
 - [A Day in the Life of the Archaeological Dig at James Fort](https://youtu.be/MhIa7OJ8sN4)
 
-- [Digging Archaeology at Harvard Yard | Stuff You Missed in History Class](https://youtu.be/WpBHdq5BZdQ)
+- [Digging Archaeology at Harvard Yard: Stuff You Missed in History Class](https://youtu.be/WpBHdq5BZdQ)
 
 
 ## Hunting, Gathering, and the Paleolithic
