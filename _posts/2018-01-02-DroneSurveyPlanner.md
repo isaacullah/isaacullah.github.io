@@ -10,7 +10,7 @@ tags: [archaeology, fieldwork, drones]
 
 This is a quick blog post to announce the initial beta release of LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission. The release can be found at the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1134686.svg)](https://doi.org/10.5281/zenodo.1134686)
 
-The development branch continues at the following GitHUB repository: [https://github.com/isaacullah/DroneSurveyPlanner](https://github.com/isaacullah/DroneSurveyPlanner) Feel free to clone or fork the repository. If you make changes or additions, please create a branch and then issue a pull request.
+The development branch continues at the following GitHUB repository: [https://github.com/isaacullah/DroneSurveyPlanner](https://github.com/isaacullah/DroneSurveyPlanner). Feel free to clone or fork the repository. If you make changes or additions, please create a branch and then issue a pull request.
 
 ## How to use:
 
