@@ -5,7 +5,7 @@ author: isaacullah
 modified: 2018-01-02
 comments: True
 excerpt: "A LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission."
-tags: [archaeology, fieldwork, Mobile]
+tags: [archaeology, fieldwork, drones]
 ---
 
 This is a quick blog post to announce the initial beta release of LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission.
