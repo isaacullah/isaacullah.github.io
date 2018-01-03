@@ -8,6 +8,6 @@ excerpt: "An open-source mobile data collection workflow."
 tags: [archaeology, fieldwork, mobile]
 ---
 
-Presentation given at the 2018 SHA meetings in New Orleans. Click the image to go to the full presentation.
+Presentation given at the 2018 SHA meetings in New Orleans. 
 
-[![Going Paperless in Calabria: an open source mobile data collection workflow.](/images/paperless.jpg)](https://docs.google.com/presentation/d/18UJafoY_cW9_qm29m9Bn4o2v9d6_ucy04P_QfMzkphY/edit?usp=sharing)
+<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQiCqGnGq3DRr0IR3Fx1VKof5ijtf3ECeJusMpqCMDPBvf61niXYBtY4_DTCIu6z8D3fPAaffCabkBF/embed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="749" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
