@@ -19,7 +19,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
  Su
-Welcome to the website for the new Computational Archaeology Laboratory at San Diego State University. The lab is in what I like to call it's "beta" stage of development, as we are awaiting a full remodel to be completed by the start of Spring term, 2018. The lab will be a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab will be the origins of coupled human and natural systems in the Mediterranean and beyond. 
+Welcome to the website for the new Computational Archaeology Laboratory at San Diego State University. The lab is a state of the art facility for FOSS GIS, Agent Based Modeling, Imagery Analysis, and other computational approaches in archaeology and coupled human-natural systems science. A main focus of research in the lab is the origins of coupled human and natural systems in the Mediterranean and beyond. 
 <br><br>
 
 <figure>
@@ -41,7 +41,7 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 
 ### Lab Resources
 
-During the current "beta" development stage, the lab is operating with a minimal set of equipment and resources for Computational Archaeology. There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research. These workstations will remain a core component of the lab as it is upgraded and completed.
+There are 6 Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools, as well as some basic resources for artifact analysis. These include GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to students in my courses to complete assignments and conduct research.
 
 <br>
 **Additional laboratory resources:**
@@ -58,6 +58,11 @@ During the current "beta" development stage, the lab is operating with a minimal
 * Supplies for a variety of artifact and sediment analyses and measurements
 
 More equipment will be added over time.
+
+<figure>
+	<a href="/images/CompArch_equipment.jpg"><img src="/images/CompArch_equipment.jpg" alt="Computational Archaeology Lab Microscopy."></a>
+	<figcaption>The Compuational Archaeology lab set up for low power digital microscopy work.</figcaption>
+</figure>
 
 ### Research
 
@@ -102,7 +107,13 @@ I am currently seeking prospective Master's students interested in the fields of
 
 ### Recent Events
 
-Recently, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](http://isaacullah.github.io/2017-SDSU-Experimental-Archaeology-Workshop/). The SDSU Daily Aztec published a [nice article about the workshop as well.](http://www.thedailyaztec.com/81681/news/anthropology-students-use-primitive-tools-funded-by-student-success-fee/)
+Students in ANTH 583 "Anthropogenic Landscapes" are undertaking sediment analysis of samples from the Nate Harrison cabin site. Their analyses, including sediment granulometery, soil chemistry, and micro-refuse analysis, will be used in the final report for the site.
+
+<figure>
+	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
+	<figcaption>Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
+
+In 2017, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](http://isaacullah.github.io/2017-SDSU-Experimental-Archaeology-Workshop/). The SDSU Daily Aztec published a [nice article about the workshop as well.](http://www.thedailyaztec.com/81681/news/anthropology-students-use-primitive-tools-funded-by-student-success-fee/)
 
 <figure>
 	<a href="/images/CompArch_ExArch.jpg"><img src="/images/CompArch_ExArch.jpg" alt="The Computational Archaeology Lab set up for the Experimental Archaeology Workshop."></a>
