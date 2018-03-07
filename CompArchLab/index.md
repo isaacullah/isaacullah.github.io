@@ -112,6 +112,7 @@ Students in ANTH 583 "Anthropogenic Landscapes" are undertaking sediment analysi
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
 	<figcaption>Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
+</figure>
 
 In 2017, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](http://isaacullah.github.io/2017-SDSU-Experimental-Archaeology-Workshop/). The SDSU Daily Aztec published a [nice article about the workshop as well.](http://www.thedailyaztec.com/81681/news/anthropology-students-use-primitive-tools-funded-by-student-success-fee/)
 
