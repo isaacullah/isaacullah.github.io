@@ -10,4 +10,4 @@ tags: [archaeology, fieldwork, mobile]
 
 Poster presented at the 2018 Society for American Archaeology meetings in Washington DC. Click image to download full-resolution PDF.
 
-![images/saaposter2018.jpg](pdf/SAA_2018_Peristeria_terrace_changes.pdf)
+<a href="pdf/SAA_2018_Peristeria_terrace_changes.pdf"><img src="images/saaposter2018.jpg"></a>
