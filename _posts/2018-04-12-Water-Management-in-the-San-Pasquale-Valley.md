@@ -2,7 +2,7 @@
 layout: post
 title: "Historic Water Management Infrastrucure in the San Pasquale Valley"
 author: isaacullah
-modified: 2018-03-10
+modified: 2018-04-12
 comments: True
 excerpt: "Failing resilience of a locally-derived erosion control system"
 tags: [archaeology, fieldwork, mobile]
