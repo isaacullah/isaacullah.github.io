@@ -8,7 +8,7 @@ image:
 Isaac I. Ullah, PhD is a computational geo-archaeologist who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
 
 <br>
- [**Bio, CV, and research**](/about).
+ [**Bio, CV, and Research**](/about).
 
  <br>
  [**The SDSU Computational Archaeology Lab**](/CompArchLab).
@@ -20,7 +20,7 @@ Isaac I. Ullah, PhD is a computational geo-archaeologist who studies the interse
 [**Classes and Teaching**](/GIS_Workshops).
 
 <br>
-[**Addons for GRASS GIS and other Software Downloads**](/GRASS).
+[**Software Development and Addons for GRASS GIS**](/GRASS).
 
 <br>
 
