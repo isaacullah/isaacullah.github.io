@@ -5,10 +5,10 @@ tags: [Computational Modeling, Neolithic, GIS, Land-use, Complexity, Social-Envi
 image:
   feature: main_banner.svg
 ---
-This is the academic website of Isaac I. Ullah, PhD. It contains information about my research and ideas about the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
+Isaac I. Ullah, PhD is a computational geo-archaeologist who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
 
 <br>
- [**About Isaac**](/about).
+ [**Bio, CV, and research**](/about).
 
  <br>
  [**The SDSU Computational Archaeology Lab**](/CompArchLab).
@@ -21,9 +21,6 @@ This is the academic website of Isaac I. Ullah, PhD. It contains information abo
 
 <br>
 [**Addons for GRASS GIS and other Software Downloads**](/GRASS).
-
-<br>
-[**CV**](/pdf/Isaac_Ullah_CV.pdf).
 
 <br>
 
