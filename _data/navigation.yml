@@ -1,12 +1,12 @@
 # Site navigation links
 
-- title: About Isaac
+- title: Bio and CV
   url: /about/
 
 - title: The CompArch Lab
   url: /CompArchLab/
 
-- title: GIS Workshops
+- title: GIS Teaching Materials
   url: /GIS_Workshops/
 
 - title: GRASS GIS Applications

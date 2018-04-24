@@ -17,7 +17,7 @@ Isaac I. Ullah, PhD is a computational geo-archaeologist who studies the interse
  [**The Community for Modeling Agro-Pastoral Lifeways in Eurasia**](http://www.cmaple.org)
  
  <br>
-[**GIS Workshops and Tutorials**](/GIS_Workshops).
+[**Classes and Teaching**](/GIS_Workshops).
 
 <br>
 [**Addons for GRASS GIS and other Software Downloads**](/GRASS).
