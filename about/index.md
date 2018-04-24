@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bio.
+title: 
 tags: [Isaac Ullah]
 modified: 2016-02-16
 comments: true
