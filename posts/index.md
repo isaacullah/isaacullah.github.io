@@ -10,7 +10,7 @@ excerpt: "A blog about computational archaeology..."
 
 ---
 
-{% for post in site.posts limit:25 %}
+{% for post in site.posts limit:100 %}
 <article>
 {% if post.link %}
 <h2 class="link-post"><a href="{{ site.url }}{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a> <a href="{{ post.link }}" target="_blank" title="{{ post.title }}"><i class="fa fa-link"></i></h2>
