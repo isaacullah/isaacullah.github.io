@@ -2,6 +2,9 @@
 
 - title: Bio and CV
   url: /about/
+  
+- title: The CompArch Blog
+  url: /posts/index.html
 
 - title: The CompArch Lab
   url: /CompArchLab/
@@ -11,7 +14,5 @@
 
 - title: GRASS GIS Addons
   url: /GRASS/
-  
-- title: The CompArch Blog
-  url: /posts/index.html
+
 
