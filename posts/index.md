@@ -1,6 +1,6 @@
 ---
 layout: post-index
-title: CompArch Blog Posts:
+title: "CompArch Blog Posts:"
 excerpt: "A blog about computational archaeology..."
 ---
 
@@ -8,7 +8,7 @@ excerpt: "A blog about computational archaeology..."
 
 *Posts about Computational Archaeology, Complexity Theory, GIS, Agent Based Modeling, and more...*
 
-<br>
+---
 
 {% for post in site.posts limit:25 %}
 <article>
