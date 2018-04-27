@@ -26,6 +26,7 @@ In addition to these large human-environment interaction studies, I also study h
 <br>
 I am also affiliated with the [Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/) at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/) at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page), [COMSeS/Open-ABM](https://www.openabm.org/comses), [CHANS-net](http://chans-net.org/), and the [SAA](www.saa.org).
 <br>
+
 In my spare time, I like taking [photographs](/photography/index.html).
 
 <figure>
@@ -61,7 +62,7 @@ Please visit the following links for information about several actively ongoing 
 
 ### Teaching
 
-I currently teach ANTH 349 "Roots of Civilization", ANTH 302 "Princicples of Archaeology", and ANTH 583 "GIS and Image Analysis."
+I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Princicples of Archaeology," ANTH 583 "GIS and Image Analysis," and ANTH 583 "Anthropogenic Landscapes."
 
 ***
 
