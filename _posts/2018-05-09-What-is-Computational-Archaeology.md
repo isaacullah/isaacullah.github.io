@@ -6,8 +6,7 @@ modified: 2018-05-09
 comments: True
 excerpt: "Read on to find out!"
 tags: [computational, archaeology, theory]
-image:
-  feature: ca.png
+
 ---
 
 Ever since I created this website, I have gotten questions about what the term "Computational Archaeology" actually means. Most people seem to generally understand that it has something to do with using computers and also something to do with archaeology. But, beyond that, ideas seem to diverge fairly rapidly. In fact, when I created this site, I indeed had a very specific understanding of what "Computational Archaeology" meant to me. Back then, I thought that I had, in fact, coined the term. In the time since then, however, I have not only come to discover that I did *not* invent the term, but that it has been used extensively by others, and in some contexts that differed from my originally intended use on this site (albeit certainly with overlap). I will get to my own thoughts a little later in this post, but let's first start, as everything does these days, with a [Google search](https://www.google.com/search?q=computational+archaeology&oq=computational+archaeology&aqs=chrome..69i57j0j69i61l3j0.3527j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8).
@@ -33,10 +32,19 @@ Various definitions will emphasize some of those subjects more than others, howe
 6. 3D modeling, virtual reality, and augmented reality.
 7. Video gaming and digital animation.
 
+<figure>
+	<a href="/images/ca.png"><img src="/images/ca.png" alt="Computational archaeology?"></a>
+	<figcaption>A computer hard at work. Is this all there is to "Computational Archaeology?"</figcaption>
+</figure>
 
 In the various definitions you will find, there is a lot of talk about the use of "new" and "innovative" approaches and about how the field is not yet fully developed. For example, the [Wikipedia article](https://en.wikipedia.org/wiki/Computational_archaeology) that comes up first in Google describes it as "an emerging discipline" that is "often inadequately represented in archaeological training and education." While I agree with this to some extent, I also would point out that none of the trends or even tools list above is particularly "new" any more. 
 
 More truthfully, the technology and many of the basic concepts and techniques have been around for quite a long time (my whole life, for example). It may still be true, however, that the impact of these things on mainstream archaeology has not yet reached a saturation point. That is, it is unclear which, if any, of these things are as yet considered part of the "normal" toolkit of the practicing archaeologist.
+
+<figure>
+	<a href="https://commons.wikimedia.org/wiki/File:FortranCardPROJ039.agr.jpg"><img src="https://commons.wikimedia.org/wiki/File:FortranCardPROJ039.agr.jpg" alt="Early computational archaeology."></a>
+	<figcaption>A Fortran punch card shows how just how "new and innovative" computation is! Image courtesy of Wikimedia commons (CCbyA)</figcaption>
+</figure>
 
 ## Professional organizations that are related to Computational Archaeology:
 
