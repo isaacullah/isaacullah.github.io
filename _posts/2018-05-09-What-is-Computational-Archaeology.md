@@ -36,7 +36,7 @@ In the various definitions you will find, there is a lot of talk about the use o
 
 More truthfully, the technology and many of the basic concepts and techniques have been around for quite a long time (my whole life, for example). It may still be true, however, that the impact of these things on mainstream archaeology has not yet reached a saturation point. That is, it is unclear which, if any, of these things are as yet considered part of the "normal" toolkit of the practicing archaeologist.
 
-##Professional organizations that are related to Computational Archaeology:
+## Professional organizations that are related to Computational Archaeology:
 
 The oldest, and perhaps most influential organization that I would associate with Computational Archaeology is the venerable [Computer Applications & Quantitative Analysis in Archaeology](https://caa-international.org/) group, or "CAA" for short. The CAA revolves around an annual conference that rotates through various countries from year to year. While, somewhat shamefully, I have never personally attended a CAA conference, I hear through the grapevine that they are a true hub of information exchange about the method, theory, and practice of pretty much everything I've listed above in terms of trends and tools used in Computational Archaeology. They publish very useful and interesting conference proceedings volumes, as well as a regular journal. In many ways, the CAA is the organization that seems to align most closely to what Computational Archaeology seems to be about.
 
@@ -44,7 +44,7 @@ In recent years, some interest groups have been created with in the Society for 
 
 [CoMSES](https://www.comses.net/), the Community for Modeling Social-Ecological Systems, is another organization that falls within our growing understanding of a "Computational Archaeology." While explicitly interdisciplinary, CoMSES has traditionally held a focus on simulating past societies via ABM techniques (and other modeling formalisms). Several of the CoMSES board members, and many community members are archaeologists. Simulation is a major focus of CoMSES.
 
-##Other terms that are in use:
+## Other terms that are in use:
 
 There are two other related terms that are out there circulating: "Digital Archaeology" and "Cyber Archaeology." Cyber Archaeology is a term that was coined by Tom Levy at UCSD for his [UC Cyber Archaeology Lab](http://ccas.ucsd.edu/). The focus is on digital data collection and analysis in archaeology. 
 
@@ -52,7 +52,7 @@ More widely used, and certainly currently more popular a term than either "Cyber
 
 In this search also comes up the journal [Digital Humanities: Digital Archaeology](https://www.frontiersin.org/journals/digital-humanities/sections/digital-archaeology). I was/am/have been/will be listed as a review editor for this journal (although my name seems to have gone missing from their website at the moment), but its in a bit of flux at the moment, and its scope is, quite frankly, unclear even to me at this point. However, looking through these search results, "Digital Archaeology" seems to be understood similarly to Tom Levy's "Cyber Archaeology," in that the focus is mainly on recording archaeological data digitally (3D scans, mobile forms, photogrammetry, etc.). Here, there is a clear and large overlap with the growing trend of "Digital Humanities."
 
-##Ok, so how do I define "Computational Archaeology," then?!
+## Ok, so how do I define "Computational Archaeology," then?!
 
 As I intimated at the top of this post, when I decided to use the term "Computational Archaeology" in the name of this site, I had a very well defined notion of it in my head. Let's first take a look at what the Merriam Webster dictionary tells about the word ["Computation"](https://www.merriam-webster.com/dictionary/computation).
 
@@ -88,7 +88,7 @@ So here's how I break it all down:
 ---
 
 
-##Computers and Archaeology:
+## Computers and Archaeology:
 
 At the end of this now rather lengthy blog post, I want to emphasize that I am *not* trying to be a "splitter" here. I do not want to seem to be encouraging a separation between "Computational" and "Digital" archaeology. Instead, I want to show how these two very-much-related subcomponents of computer-based archaeology articulate. On the one hand, digital archaeologists are gathering and encoding incredible amounts of data in digital formats. They are innovating methods of handling, visualizing, and qualitatively understanding these data. They are deeply embedded in the realm of technology and draw their intellectual inspirations from the digital humanities. 
 
@@ -98,4 +98,4 @@ To sum up, way back when I chose the name for this site, I had simulation modeli
 
 The use of drones, photogrammetry, mobile tablets, and other digital technology has long been a part of my tool kit, however, even if they weren't the aspects of my work that I have emphasized over the years. Although I still like to call myself a "Computational Archaeologist," since that's still where the bulk of my interests lay, it's pretty clear that I could just as easily be called a "Digital Archaeologist" as well. Moreover, I would be very surprised if there was anyone who did *only* "Computational" archaeology and no "Digital" archaeology, and vice versa. You really can't have one without the other.
 
-Hmmm.... Maybe I should start calling myself simply a "*Computer-Using Archaeologist*?"
+Hmmm.... Maybe I should just start calling myself a "*Computer-Using Archaeologist*?"
