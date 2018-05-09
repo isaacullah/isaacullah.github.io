@@ -82,8 +82,9 @@ So here's how I break it all down:
 |:--------------:|:---------------:|
 |  |  | 
 | Digital data collection | Quantitative data analysis |
-| Data visualization | Simulation modeling |
-| Data storage and manipulation | Scientific computing |
+| Data storage | Pattern recognition |
+| Data manipulation | Simulation modeling |
+| Data visualization | |
 
 ---
 
