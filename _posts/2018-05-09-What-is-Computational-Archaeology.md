@@ -12,7 +12,7 @@ tags: [computational, archaeology, theory]
 Ever since I created this website, I have gotten questions about what the term "Computational Archaeology" actually means. Most people seem to generally understand that it has something to do with using computers and also something to do with archaeology. But, beyond that, ideas seem to diverge fairly rapidly.
 <figure>
 	<a href="/images/ca.png"><img src="/images/ca.png" alt="Computational archaeology?"></a>
-	<figcaption>A computer hard at work. Is this all there is to "Computational Archaeology?"</figcaption>
+	<figcaption>A computer hard at work on something archaeological. Is this all there is to "Computational Archaeology?"</figcaption>
 </figure>
 
 The fact is that when I created this site, I indeed had a very specific understanding of what "Computational Archaeology" meant to me. Back then, I thought that I had, in fact, coined the term. In the time since then, however, I have not only come to discover that I did *not* invent the term, but that it has been used extensively by others, and in some contexts that differed from my originally intended use on this site (albeit certainly with overlap). I will get to my own thoughts a little later in this post, but let's first start, as everything does these days, with a [Google search](https://www.google.com/search?q=computational+archaeology&oq=computational+archaeology&aqs=chrome..69i57j0j69i61l3j0.3527j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8).
