@@ -32,7 +32,9 @@ Various definitions will emphasize some of those subjects more than others, howe
 7. Video gaming and digital animation.
 
 
-In the definitions, there is also a lot of talk about the use of "new" and "innovative" approaches, and how the field is not yet fully developed. For example, from the Wikipedia article linked above describes it as "an emerging discipline" that is "often inadequately represented in archaeological training and education." While I agree with this to some extent, I also would point out that none of the trends or even tools list above is particularly "new" any more. More truthfully, the technology and many of the basic concepts and techniques have been around for quite a long time (my whole life, for example). However, it may still be true that their impact on the field of archaeology has not yet reached a saturation point to where they are regarded as part of the "normal" toolkit of the practicing archaeologist. That being said, it is useful to quickly review the extent to which computation has penetrated the discipline.
+In the various definitions you will find, there is a lot of talk about the use of "new" and "innovative" approaches and about how the field is not yet fully developed. For example, the [Wikipedia article](https://en.wikipedia.org/wiki/Computational_archaeology) that comes up first in Google describes it as "an emerging discipline" that is "often inadequately represented in archaeological training and education." While I agree with this to some extent, I also would point out that none of the trends or even tools list above is particularly "new" any more. 
+
+More truthfully, the technology and many of the basic concepts and techniques have been around for quite a long time (my whole life, for example). It may still be true, however, that the impact of these things on mainstream archaeology has not yet reached a saturation point. That is, it is unclear which, if any, of these things are as yet considered part of the "normal" toolkit of the practicing archaeologist.
 
 ## Professional organizations that are related to Computational Archaeology:
 
