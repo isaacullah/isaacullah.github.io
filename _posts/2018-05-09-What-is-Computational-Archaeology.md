@@ -75,7 +75,6 @@ So here's how I break it all down:
 
 <center><b>Things that you need computers for in archaeology</b></center>
 
-
 | Digital Archaeology | Computational Archaeology |
 |:---------------------:|:---------------------------:|
 | Digital data collection | Quantitative data analysis |
