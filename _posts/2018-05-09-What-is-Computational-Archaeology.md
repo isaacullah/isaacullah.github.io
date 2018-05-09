@@ -73,8 +73,10 @@ Any thing that is not "computation" according to definition 1a, above, is, in my
 
 So here's how I break it all down:
 
-<center><b><u>    Things that you need computers for in archaeology:    </u></b></center>
-<br>
+---
+
+<p><center><b><u>Things that you need computers for in archaeology:</u></b></center></p>
+
 
 | Digital Archaeology | Computational Archaeology |
 |:--------------:|:---------------:|
@@ -83,7 +85,7 @@ So here's how I break it all down:
 | Data visualization | Simulation modeling |
 | Data storage and manipulation | Scientific computing |
 
-
+---
 
 
 ## Computers and Archaeology:
