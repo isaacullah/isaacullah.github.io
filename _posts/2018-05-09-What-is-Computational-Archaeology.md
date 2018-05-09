@@ -15,30 +15,20 @@ Ever since I started this website, I have gotten questions about the term "Compu
 As of the time of this blog post, this website sits at the number 5 position in the [Google search ranking for "Computational Archaeology."](https://www.google.com/search?q=computational+archaeology&oq=computational+archaeology&aqs=chrome..69i57j0j69i61l3j0.3527j0j7&client=ubuntu&sourceid=chrome&ie=UTF-8) First in the list is the [wikipedia post on Computational Archaeology](https://en.wikipedia.org/wiki/Computational_archaeology), then Kristina Georgieva's [Wordpress blog on becoming a Computational Archaeologist](https://computationalarchaeology.wordpress.com/), a ["How Stuff Works" article](https://science.howstuffworks.com/environmental/earth/archaeology/computational-archaeology.htm), and a link to the wonderful [MSc Program in Computational Archaeology at UCL](http://www.ucl.ac.uk/archaeology/study/graduate-taught/degrees/msc_comp_arch). Looking across these top five Google hits, other places around the web, conversations and paper titles at professional meetings, and in the literature, I have noticed a few trends in the way "Computational Archaeology" is defined:
 
 1. The use of *digital data* in archaeological research.
-
 2. The *general use of computers* in archaeological research.
-
 3. The use of *computational algorithms to fill gaps in archaeological data* in ways that can't be done with traditional techniques.
-
 4. The use of *simulation models and artificial intelligence* to understand the processes and dynamics of past societies.
-
 5. The use of computer visualizations to create immersive virtual experiences of archaeological sites and materials
 
 
 Various definitions will emphasize some of those subjects more than others, however, and may even ignore the rest of the list. All definitions emphasize the use of computers, but do so in different ways. I have noticed the following emphases on computer-based tools in various definitions of "Computational Archaeology":
 
 1. GIS and geospatial data analysis
-
 2. Digital imagery and photogrammetry
-
 3. Statistical computing and quantitative analysis
-
 4. Data visualization
-
 5. Agent Based Modeling and simulation
-
 6. 3D modeling, virtual reality, and augmented reality
-
 7. Video gaming and digital animation
 
 
@@ -64,7 +54,10 @@ In this search also comes up the journal [Digital Humanities: Digital Archaeolog
 
 As I intimated at the top of this post, when I decided to use the term "Computational Archaeology" in the name of this site, I had a very well defined notion of it in my head. Let's first take a look at what the Merriam Webster dictionary tells about the word ["Computation"](https://www.merriam-webster.com/dictionary/computation).
 
-![/images/computation.png]
+<figure>
+	<a href="/images/computation.png"><img src="/images/computation.png" alt="Merriam Webster dictionary definition for computation"></a>
+	<figcaption>Accessed 05/09/2018.</figcaption>
+</figure>
 
 In my view, I reserve "Computational Archaeology" for *analyses* that involve any actual __calculation__. That is, I prefer definition 1a, above. In this sense, "Computational" is taken to mean "computing" or "calculating" something. This, to me, must be more than simply "using a computer," as in definition 1b, but very often *does* involve, or even requires, the use of computers. 
 
@@ -78,8 +71,8 @@ Any thing that is not "computation" according to definition 1a, above, is, in my
 
 So here's how I break it all down:
 
-| Things that you need computers for in archaeology |
-|-------------------------------------------------|
+<center>__Things that you need computers for in archaeology__</center>
+
 
 | Digital Archaeology | Computational Archaeology |
 |---------------------|---------------------------|
