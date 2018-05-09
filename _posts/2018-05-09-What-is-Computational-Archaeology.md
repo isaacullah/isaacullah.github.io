@@ -79,8 +79,7 @@ So here's how I break it all down:
 
 
 | Digital Archaeology | Computational Archaeology |
-|:--------------:|:---------------:|
-|  |  | 
+|:--------------:|:---------------:| 
 | Digital data collection | Quantitative data analysis |
 | Data storage | Pattern recognition |
 | Data manipulation | Simulation modeling |
