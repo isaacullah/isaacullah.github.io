@@ -44,7 +44,7 @@ In the various definitions you will find, there is a lot of talk about the use o
 
 <figure>
 	<a href="https://upload.wikimedia.org/wikipedia/commons/5/58/FortranCardPROJ039.agr.jpg"><img src="https://upload.wikimedia.org/wikipedia/commons/5/58/FortranCardPROJ039.agr.jpg" alt="Early computational archaeology."></a>
-	<figcaption>A Fortran punch card shows how just how "new and innovative" computation is. (By Arnold Reinhold [CC BY-SA 2.5 (https://creativecommons.org/licenses/by-sa/2.5)], via Wikimedia Commons)</figcaption>
+	<figcaption>A Fortran punch card shows how just how "new and innovative" computation is. (By Arnold Reinhold <a href="https://creativecommons.org/licenses/by-sa/2.5">CC BY-SA 2.5</a>, via Wikimedia Commons)</figcaption>
 </figure>
 
 More truthfully, the technology and many of the basic mathematical and computer concepts techniques have been around for quite a long time (my whole life, for example). It may still be true, however, that the impact of these things on mainstream archaeology has not yet reached a saturation point. That is, it is unclear which, if any, of the things listed above are as yet considered part of the "normal" toolkit of the practicing archaeologist.
