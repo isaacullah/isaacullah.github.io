@@ -27,7 +27,7 @@ As of the time of this blog post, my website sits at the number 5 position in th
 3. The use of *computational algorithms to fill gaps in archaeological data* in ways that can't be done with traditional techniques.
 4. *Data mining* and *multidimensional analyses* of archaeological data.
 5. The use of *simulation models and artificial intelligence* to understand the processes and dynamics of past societies.
-6. The use of computer visualizations to create immersive virtual experiences of archaeological sites and materials
+6. The use of *computer visualizations* to create immersive *virtual* experiences of archaeological sites and materials
 
 
 Various definitions will emphasize some of those subjects more than others, however, and may even ignore the rest of the list. All definitions emphasize the use of computers, but do so in different ways. I have noticed the following emphases on computer-based tools in various definitions of "Computational Archaeology":
