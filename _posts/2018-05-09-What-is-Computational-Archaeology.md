@@ -73,7 +73,7 @@ As I intimated at the top of this post, when I decided to use the term "Computat
 	<figcaption>Accessed 05/09/2018.</figcaption>
 </figure>
 
-In my view, I reserve "Computational Archaeology" for *analyses* that involve any actual __calculation__. That is, I prefer definition 1a, above. In this sense, "Computational" is taken to mean "computing" or "calculating" something. This, to me, must be more than simply "using a computer," as in definition 1b, but very often *does* involve, or even requires, the use of computers. 
+In my view, I reserve "Computational Archaeology" for *analyses* that involve actual _calculation_. That is, I prefer definition 1a, above. In this sense, "computational" is taken to mean "computing some sort of *result*". This, to me, must be more than simply "using a computer," as in definition 1b, but very often *does* involve -- or perhaps even requires -- the use of computers. 
 
 I break this down further into two general types of computation: 
 
