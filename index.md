@@ -5,7 +5,7 @@ tags: [Computational Modeling, Neolithic, GIS, Land-use, Complexity, Social-Envi
 image:
   feature: main_banner.svg
 ---
-Isaac I. Ullah, PhD is a computational geo-archaeologist who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
+Isaac I. Ullah, PhD is a [computational geo-archaeologist](http://isaacullah.github.io/What-is-Computational-Archaeology/) who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
 
 <br>
  [**Bio, CV, and Research**](/about).

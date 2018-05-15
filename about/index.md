@@ -18,7 +18,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-I am an Assistant Professor of Anthropology at [San Diego State University](http://anthropology.sdsu.edu/). I study the long-term effects of human land-use decisions and the bidirectional feedbacks between humans and environments. I am particularly interest in early farming and pastoralism and how these first food producing socio-natural systems evolved over time. I use a combination of traditional archaeological and geoarchaeological approaches in connection with GIS, computational modeling, and computer simulation to investigate the dynamics of these systems. My work is largely based in a complex adaptive systems theory perspective.
+I am an Assistant Professor of Anthropology at [San Diego State University](http://anthropology.sdsu.edu/). I study the long-term effects of human land-use decisions and the bidirectional feedbacks between humans and environments. I am particularly interest in early farming and pastoralism and how these first food producing socio-natural systems evolved over time. I am a [computational archaeologist](http://isaacullah.github.io/What-is-Computational-Archaeology/), and use a combination of traditional archaeological and geoarchaeological approaches in connection with GIS, computational modeling, and computer simulation to investigate the dynamics of these systems. My work is largely based in a complex adaptive systems theory perspective.
 
 <br>
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient house floors as a way to get at long-term patterns in domesticity.
