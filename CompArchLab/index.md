@@ -32,10 +32,10 @@ The Computational Archaeology Laboratory at San Diego State University is a stat
 
 **Location:** *Hardy Tower 62/66.* 
 <br>
-The lab is located on the ground floor of the Hardy Tower building. Enter through HT 62 door in the stairwell (look for "Computational Archaeology Laboratory" signs).
+The lab is located on the ground floor of the Hardy Tower building. Students should enter through HT 62 door in the stairwell (look for "Computational Archaeology Laboratory" signs).
 <br>
 <br>
-**Supervised Lab Hours:** *Thursdays, 1-3pm (Spring 2018).* 
+**Supervised Lab Hours:** *Tuesdays and Thursdays, 2-3pm (Fall 2018).* 
 <br>
 These are the "open lab" hours during which I will regularly be in the lab and available to answer questions. The lab may be open at other times.
 
@@ -99,7 +99,7 @@ Funding and support for the research being conducted in the Computational Archae
 The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the fields of Computational Archaeology and Geoarchaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit). There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
 
 <br>
-I am currently seeking prospective Master's students interested in the fields of _Computational Archaeology_ and _Geoarchaeology_. I am particularly interested in students with some background in GIS or other computational approaches and/or geosciences. I will have ongoing research opportunities for students interested in working in the Mediterranean region or in Central Eurasia, with potential fieldwork in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
+I am currently seeking prospective Master's students interested in the fields of _Computational Archaeology_ and _Geoarchaeology_. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I will have ongoing research opportunities for students interested in working in the Mediterranean region or in Central Eurasia, with potential fieldwork in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
 
 ### Recent Events
 
