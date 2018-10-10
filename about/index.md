@@ -54,7 +54,6 @@ Please visit the following links for information about several actively ongoing 
 
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
 * The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
-* Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
 * Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/](http://talgar.sbc.edu/))
 * Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
 
@@ -62,7 +61,7 @@ Please visit the following links for information about several actively ongoing 
 
 ### Teaching
 
-I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Princicples of Archaeology," ANTH 583 "GIS and Image Analysis," and ANTH 583 "Anthropogenic Landscapes."
+I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Princicples of Archaeology," ANTH 583 "GIS and Image Analysis" (soon to be renamed ANTh 562 "Computational Archaeology") and ANTH 583 "Anthropogenic Landscapes."
 
 ***
 
@@ -73,6 +72,10 @@ I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Princicples of Arc
 * 2017 Ullah, I.I.T. The consequences of Human Land-Use Strategies During the PPNB-LN Transition: A Simulation Modeling Approach. Arizona State University Anthropological Research Papers, v.60. Arizona Board of Regents, Tempe. 177p.
 
 #### Articles in Peer-Reviewed Journals
+
+* [2018. Robinson, D.T.; Di Vittorio, A.; Alexander, P.; Arneth, A.; Barton, C.M.; Brown, D.G.; Kettner, A.; Lemmen, C.; O'Neill, B.C.; Janssen, M.; Pugh, T.A.M.; Rabin, S.S.; Rounsevell, M.; Syvitski, J.P.; Ullah, I.I.T., and Verburg, P.H. Modeling feedbacks between human and natural processes in the land system. Special Issue: “Social dynamics and planetary boundaries in Earth system modelling.” Earth System Dynamics. 9, 895–914.}() https://doi.org/10.5194/esd-9-895-2018)
+
+* 2018. Banning, E.B., Hitchings, P., Abu Jayyab, K., Ullah, I.I.T., Rhodes, S., Yasui, E., Gibbon, E., Handziuk, N., Glasser, A. Jawafat Shaban and the Late Neolithic in Wâdî Al-Bîr, Northern Jordan. Paléorient, 44(1). 57-74.
 
 * [2016 Barton, C.M., Ullah, I.I.T., Bergin, S.M., Sarjoughian, H.S., Mayer, G.R., Bernabeu Auban, J.E., Heimsath, A.M., Acevedo, M.F., Riel-Salvatore, J.G., and Arrowsmith, J.R. Experimental Socioecology: Integrative Science for Anthropocene Landscape Dynamics. Anthropocene. 13, 34–45. doi:10.1016/j.ancene.2015.12.004](http://www.sciencedirect.com/science/article/pii/S2213305415300278)
 
@@ -145,10 +148,16 @@ I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Princicples of Arc
 
 #### Works in Progress
 
-* Ullah, I.I.T., Chang C., and Tourtellette, P. Co-evolution of landscapes, Kurgans, and settlements in southeast Kazakhstan during the first millennium BC. Intended for Journal of Archaeological Science.
+* Sondoss Elsawah, Tatiana Filitova, Albert Kettner, Anthony Jakeman, Ioannis Athanasiadis, Marco Janssen, Isaac Ullah, Jonathan Gilligan, Julie Rozenberg, Moira Zellner, Derek Robinson, Dan Brown, Robert Axtell. Use of socio-environmental systems modelling in actionable science: State-of-the-art, Open Challenges and Opportunities. Status: Submitted to Social-Ecological Systems Modeling, 9/14/2018.
+
+* Ullah, I.I.T., Chang C., and Tourtellette, P. Water, dust, and loess: co-evolution of landscapes, farming, and human society in southeastern Kazakhstan during the mid- to late Holocene. Intended for The Journal of Anthropological Archaeology. 
+
+* Chesson, M.S., Ullah, I.I.T., Aimes, N., Forbes, N., Lazrus, P.K., Garcia, Y. Lane, l., Gauthier, N., Wolff, N.P.S., Robb, J.E., and Ruben, I. Laborscapes and Archaeologies of Sustainability: An Early Technoscape of Commercial Farming in the San Pasquale Valley, Calabria, Italy from 1800 – 2018. Intended for the Journal of Mediterranean Archaeology. 
+
+* Ullah, I.I.T., Chesson, M.S., Lazrus, P.K., Garcia, Y., Aimes, N. “Historic erosion protection infrastructure change in the San Pasquale Valley, Calabria.” Intended for Anthropocene.
+
+* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Geoarchaeology.
+
+* Hunter, C.; Lauer, M., Ullah, I.I.T. Understanding the values of human-marine relationships in Moorea, French Polynesia. Intended for Global Environmental Change.
 
 * Barton L. and Ullah, I.I.T. A dynamic behavioral ecology model of early domestication processes. Intended for Journal of Anthropological Archaeology.
-
-* Ullah, I.I.T. and Arikan, B. Computer-based simulation of surface-processes, and digital reconstruction of paleoenvironment during the Early Bronze Age-I at Arslantepe–Malatya, Eastern Turkey. Intended for Quaternary International.
-
-* Banning, E.B., Ullah, I.I.T., Hitchings, P., Abu Jayyab, K., Rhodes, S., Gibbon, E., and Glasser, A. A Late Neolithic Site in Wâdî al-Bîr, northern Jordan. Intended for Antiquity. 
