@@ -73,9 +73,9 @@ I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Princicples of Arc
 
 #### Articles in Peer-Reviewed Journals
 
-* [2018. Robinson, D.T.; Di Vittorio, A.; Alexander, P.; Arneth, A.; Barton, C.M.; Brown, D.G.; Kettner, A.; Lemmen, C.; O'Neill, B.C.; Janssen, M.; Pugh, T.A.M.; Rabin, S.S.; Rounsevell, M.; Syvitski, J.P.; Ullah, I.I.T., and Verburg, P.H. Modeling feedbacks between human and natural processes in the land system. Special Issue: “Social dynamics and planetary boundaries in Earth system modelling.” Earth System Dynamics. 9, 895–914.}() https://doi.org/10.5194/esd-9-895-2018)
+* [2018 Robinson, D.T.; Di Vittorio, A.; Alexander, P.; Arneth, A.; Barton, C.M.; Brown, D.G.; Kettner, A.; Lemmen, C.; O'Neill, B.C.; Janssen, M.; Pugh, T.A.M.; Rabin, S.S.; Rounsevell, M.; Syvitski, J.P.; Ullah, I.I.T., and Verburg, P.H. Modeling feedbacks between human and natural processes in the land system. Special Issue: “Social dynamics and planetary boundaries in Earth system modelling.” Earth System Dynamics. 9, 895–914.](https://doi.org/10.5194/esd-9-895-2018)
 
-* 2018. Banning, E.B., Hitchings, P., Abu Jayyab, K., Ullah, I.I.T., Rhodes, S., Yasui, E., Gibbon, E., Handziuk, N., Glasser, A. Jawafat Shaban and the Late Neolithic in Wâdî Al-Bîr, Northern Jordan. Paléorient, 44(1). 57-74.
+* 2018 Banning, E.B., Hitchings, P., Abu Jayyab, K., Ullah, I.I.T., Rhodes, S., Yasui, E., Gibbon, E., Handziuk, N., Glasser, A. Jawafat Shaban and the Late Neolithic in Wâdî Al-Bîr, Northern Jordan. Paléorient, 44(1). 57-74.
 
 * [2016 Barton, C.M., Ullah, I.I.T., Bergin, S.M., Sarjoughian, H.S., Mayer, G.R., Bernabeu Auban, J.E., Heimsath, A.M., Acevedo, M.F., Riel-Salvatore, J.G., and Arrowsmith, J.R. Experimental Socioecology: Integrative Science for Anthropocene Landscape Dynamics. Anthropocene. 13, 34–45. doi:10.1016/j.ancene.2015.12.004](http://www.sciencedirect.com/science/article/pii/S2213305415300278)
 
