@@ -8,7 +8,6 @@ excerpt: "New article on our work in Kazakhstan, out now!"
 tags: [archaeology, publications, Central Eurasia]
 ---
 
-## Water, Dust, and Agropastoralism
 
 I'm very happy to announce the publication of a new article about the fieldwork we have been conducting in Kazakhstan. 
 
