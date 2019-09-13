@@ -8,7 +8,7 @@ excerpt: "How can archaeologists collaborate with community members and stakehol
 tags: [archaeology, publications, Calabria]
 ---
 
-A new publication is out now in the journal **Archaeologies** about our approach to community-engagd archaeology in Calabria!
+A new publication is out now in the journal *Archaeologies* about our approach to community-engagd archaeology in Calabria!
 
 
 <figure>

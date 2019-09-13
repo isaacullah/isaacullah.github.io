@@ -9,7 +9,7 @@ tags: [archaeology, publications, Calabria]
 ---
 
 
-I'm very happy to announce the publication of a new article about the fieldwork we have been conducting in Calabria, southern Italy, where we have been working to identify long-term trend of increasing vulnerabilities for Bergamot farming in the region.
+I'm very happy to announce the publication in the *Journal of Mediterranean Archaeology* of a new article about the fieldwork we have been conducting in Calabria, southern Italy, where we have been working to identify long-term trend of increasing vulnerabilities for Bergamot farming in the region.
 
 <figure>
 	<a href="/images/BMAP-PR2.jpg"><img src="/images/BMAP-PR2.jpg" alt="Bergamot plantations in the San Pasquale Valley, Calabria."></a>
