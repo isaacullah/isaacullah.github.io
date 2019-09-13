@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Laborscapes and Archaeologies of Sustainability"
+title: "Archaeology as Intellectual Service"
 author: isaacullah
 modified: 2019-09-13
 comments: True
-excerpt: "New article on our work in Calabria, out now!"
+excerpt: "How can archaeologists collaborate with community members and stakeholders to enhance the utility of archaeology for all?"
 tags: [archaeology, publications, Calabria]
 ---
 
