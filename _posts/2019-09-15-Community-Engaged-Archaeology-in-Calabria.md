@@ -27,7 +27,7 @@ Chesson, M.S., Ullah, I.I.T., Iiriti, G., Forbes, H., Lazrus, P.K., Ames, N., Ga
 
 ### Download
 
-Coming soon! Please check back later...
+You can download the paper [here](https://www.academia.edu/40340022/Archaeology_as_Intellectual_Service_Engaged_Archaeology_in_San_Pasquale_Valley_Calabria_Italy).
 
 ### Funding
 
