@@ -24,11 +24,14 @@ A team of archaeologists from SDSU, the University of Notre Dame, St. John's Uni
 
 In recent years, the younger generations have left rural farms, preferring to live and work in the city. The few remaining Bergamot farmers have come to rely on expensive imported technological solutions, such as water pumps and plastic piping, to keep their Bergamot operations solvent. However, the terraces on which their trees stand are being eroded by intense summer rainstorms, and farmers now lack both the labor and capital to repair them. This problem will only get worse as the global climate continues to change. The team is working with stakeholders to use local knowledge and history to find potential solutions to these issues moving forward.
 
-A copy of the paper can be downloaded [here](https://www.academia.edu/39838401/Laborscapes_and_Archaeologies_of_Sustainability_Early_Globalization_and_Commercial_Farming_in_the_San_Pasquale_Valley_Calabria_Italy_from_ad_1800-2018).
-	
+
 ### Citation
 	
-Meredith S. Chesson, Isaac I.T. Ullah, Nicholas Ames, Sarah Benchekroun, Hamish Forbes, Yesenia Garcia, Giovanni Iiriti, Paula K. Lazrus, John Robb, Maria Olimpia Squillaci, Nicholas P.S. Wolff, 2019. "Laborscapes and Archaeologies of Sustainability: Early Globalization and Commercial Farming in the San Pasquale Valley, Calabria, Italy from AD 1800–2018." Journal of Mediterranean Archaeology. 32:1, pp.32-62. http://dx.doi.org/10.1558/jma.39327.
+Meredith S. Chesson, Isaac I.T. Ullah, Nicholas Ames, Sarah Benchekroun, Hamish Forbes, Yesenia Garcia, Giovanni Iiriti, Paula K. Lazrus, John Robb, Maria Olimpia Squillaci, Nicholas P.S. Wolff, 2019. "Laborscapes and Archaeologies of Sustainability: Early Globalization and Commercial Farming in the San Pasquale Valley, Calabria, Italy from AD 1800–2018." Journal of Mediterranean Archaeology. 32:1, pp.32-62. [http://dx.doi.org/10.1558/jma.39327](http://dx.doi.org/10.1558/jma.39327).
+
+
+A copy of the paper can be downloaded [here](https://www.academia.edu/39838401/Laborscapes_and_Archaeologies_of_Sustainability_Early_Globalization_and_Commercial_Farming_in_the_San_Pasquale_Valley_Calabria_Italy_from_ad_1800-2018).
+	
 
 ### Funding
 
