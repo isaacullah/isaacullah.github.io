@@ -8,7 +8,7 @@ excerpt: "How can archaeologists collaborate with community members and stakehol
 tags: [archaeology, publications, Calabria]
 ---
 
-A new publication is out now in the journal *Archaeologies* about our approach to community-engagd archaeology in Calabria! The piece showcases the experience of a community-engaged approach to the [archaeology of sustainabilty in the San Pasquale Valley](/posts/2019-09-13-Laborscapes-and-Archaeologies-of-Sustainability) in southern Calabria.
+A new publication is out now in the journal *Archaeologies* about our approach to community-engagd archaeology in Calabria! The piece showcases the experience of a community-engaged approach to the [archaeology of sustainabilty in the San Pasquale Valley](/Laborscapes-and-Archaeologies-of-Sustainability) in southern Calabria.
 
 
 <figure>
