@@ -36,8 +36,20 @@ In my spare time, I like taking [photographs](/photography/index.html).
 
 Please see my [Google Scholar Citation Index page](http://scholar.google.com/citations?hl=en&user=Rrg5NlUAAAAJ) for a complete list of my publications, their citation indices, and lists of works that cite them, and links to downloadable PDF's where available.
 
-[Academia.edu page](https://asu.academia.edu/IsaacUllah)
-[ResearchGate.net page](https://www.researchgate.net/profile/Isaac_Ullah).
+Also see my:
+
+* [Scopus profile](https://www.scopus.com/authid/detail.uri?authorId=36092034700)
+
+* [Academia.edu page](https://asu.academia.edu/IsaacUllah)
+
+* [ResearchGate.net page](https://www.researchgate.net/profile/Isaac_Ullah)
+
+* [academic Twitter profile](https://twitter.com/isaacullah)
+
+* [GitHub profile](https://github.com/isaacullah)
+
+* 
+
 
 * * *
 
