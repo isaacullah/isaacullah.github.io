@@ -48,14 +48,12 @@ Also see my:
 
 * [GitHub profile](https://github.com/isaacullah)
 
-* 
-
 
 * * *
 
 ### CV
 
-[Isaac Ullah, CV (PDF)](/pdf/Isaac_Ullah_CV.pdf) (OUT OF DATE - see publication list below)
+[Isaac Ullah, CV (PDF)](/pdf/Isaac_Ullah_CV.pdf)
 
 * * *
 
@@ -79,7 +77,7 @@ I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Principles of Arch
 
 #### Books and Monographs
 
-* 2017 Ullah, I.I.T. The consequences of Human Land-Use Strategies During the PPNB-LN Transition: A Simulation Modeling Approach. Arizona State University Anthropological Research Papers, v.60. Arizona Board of Regents, Tempe. 177p.
+* [2017 Ullah, I.I.T. The consequences of Human Land-Use Strategies During the PPNB-LN Transition: A Simulation Modeling Approach. Arizona State University Anthropological Research Papers, v.60. Arizona Board of Regents, Tempe. 177p.](/pdf/Ullah_2016_ARP60.pdf)
 
 #### Articles in Peer-Reviewed Journals
 
