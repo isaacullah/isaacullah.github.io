@@ -41,17 +41,45 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 
 ### Lab Resources
 
-* 6 high-power Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools including GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
-* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
-* A flexible photogrammetry workstation to accommodate photogrammetric analysis of artifacts and landscapes, including 3D point-cloud generation via MVS.
-* DJI Mavic Pro aerial drone. The drone includes an integrated RGB camera, and can be fitted with an additional near MapIR NDVI camera or a FLIR Thermal camera.
-* Sediment Granulometry workstation. This includes a full set of nesting geologic sieves, a mechanical sieve shaker, and a precision balance.
-* Sediment Chemical analysis workstation (PH, N, P, K)
-* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
-* Mobile tablet computers for field data collection using Open Data Kit.
-* Bad-Elf GNSS surveyor high precision bluetooth GPS units.
-* Wacom tablets for data entry and digitization.
-* Supplies for a variety of artifact and sediment analyses and measurements
+* Computation:
+	* 6 high-power Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools including GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
+	* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
+	* Wacom tablets for data entry and digitization.
+	
+* Photogrammetry:
+	* Olympus EM1 ii mirrorless camera and assortment of lenses (including macro)
+	* Tripods and lighting
+	* DJI Mavic Pro aerial drone. 
+	* MapIR NDVI camera.
+	* MapIR luminosity calibration target
+	* Xrite Color checker chart and grey cards
+	* Pantone Huey screen profiling calibration tool
+	* Stereo imaging (TBA)
+	* High resolution flatbed and film scanner
+	
+* Sediment Granulometry:
+	* ISO standard nesting geologic sieves
+	* Mechanical sieve shaker
+	* Precision balance.
+	* Buyoucous hydrometers, hydrometer flasks, and reagents
+	* Soil Chemistry analysis (PH, N, P, K)
+	* Mixers, dehydrators, glassware, etc.
+	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
+
+* Digital Field Data Collection:
+	* Mobile tablet computers for field data collection using Open Data Kit.
+	* Bad-Elf GNSS surveyor high precision bluetooth GPS units.
+	* Our mobile data collection workflow can be found [here](http://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
+	
+* Artifact Analysis:
+	* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
+	* Calipers, profilers, and other measurement tools
+
+* Fieldwork Supplies:
+	* Sediment auger (regular, sand, and wide buckets)
+	* OSL sampling tools
+	* Tools and guides for in-situe sediment analysis
+	* Tapes, levels, tools, etc., for survey and excavation
 
 More equipment will be added over time.
 
@@ -101,20 +129,17 @@ The Computational Archaeology Lab provides computing and other resources for und
 <br>
 I am currently seeking prospective Master's students interested in the fields of _Computational Archaeology_ and _Geoarchaeology_. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I will have ongoing research opportunities for students interested in working in the Mediterranean region or in Central Eurasia, with potential fieldwork in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
 
-### Recent Events
+### The CompArch Lab in Action!
 
-Students in ANTH 583 "Anthropogenic Landscapes" are undertaking sediment analysis of samples from the Nate Harrison cabin site. Their analyses, including sediment granulometery, soil chemistry, and micro-refuse analysis, will be used in the final report for the site.
+<figure>
+	<a href="/images/SDSU_COMPARCH_Low_Power_Microscopy.jpg"><img src="/images/SDSU_COMPARCH_Low_Power_Microscopy.jpg" alt="Students using low-power microscopy to analyze sediment particle shapes in the Computational Archaeology Laboratory."></a>
+	<figcaption>Students using low-power microscopy to analyze sediment particle shapes in the Computational Archaeology Laboratory.</figcaption>
+</figure>
 
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
 	<figcaption>Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
 </figure>
 
-In 2017, the Computational Archaeology Lab hosted the first SDSU Experimental Archaeology Workshop. More information about the workshop can be found in [this post](http://isaacullah.github.io/2017-SDSU-Experimental-Archaeology-Workshop/). The SDSU Daily Aztec published a [nice article about the workshop as well.](http://www.thedailyaztec.com/81681/news/anthropology-students-use-primitive-tools-funded-by-student-success-fee/)
-
-<figure>
-	<a href="/images/CompArch_ExArch.jpg"><img src="/images/CompArch_ExArch.jpg" alt="The Computational Archaeology Lab set up for the Experimental Archaeology Workshop."></a>
-	<figcaption>The Computational Archaeology Lab set up for the Experimental Archaeology Workshop.</figcaption>
-</figure>
 
 
