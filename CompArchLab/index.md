@@ -87,6 +87,7 @@ Funding and support for the research being conducted in the Computational Archae
 
 The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the fields of Computational Archaeology and Geoarchaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit). There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
 
+**Prospective Master's Students**
 <br>
 I am currently seeking prospective Master's students interested in the fields of _Computational Archaeology_ and _Geoarchaeology_. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I will have ongoing research opportunities for students interested in working in the Mediterranean region or in Central Eurasia, with potential fieldwork in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
 
@@ -98,15 +99,17 @@ I am currently seeking prospective Master's students interested in the fields of
 ### Lab Resources
 
 * Computation:
-	* 6 high-power Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools including GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
+	* 5 high-power Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools including GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
+	* 2 Ubuntu Linux laptops for field work
 	* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
 	* Wacom tablets for data entry and digitization.
+	* High-capacity external hardrives for long-term data storage
 	
 * Photogrammetry:
 	* Olympus EM1 ii mirrorless camera and assortment of lenses (including macro)
 	* Tripods and lighting
 	* DJI Mavic Pro aerial drone. 
-	* MapIR NDVI camera.
+	* MapIR Survey2 Red-NIR NDVI camera.
 	* MapIR luminosity calibration target
 	* Xrite Color checker chart and grey cards
 	* Pantone Huey screen profiling calibration tool
@@ -118,7 +121,6 @@ I am currently seeking prospective Master's students interested in the fields of
 	* Mechanical sieve shaker
 	* Precision balance.
 	* Buyoucous hydrometers, hydrometer flasks, and reagents
-	* Soil Chemistry analysis (PH, N, P, K)
 	* Mixers, dehydrators, glassware, etc.
 	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
 
@@ -131,10 +133,11 @@ I am currently seeking prospective Master's students interested in the fields of
 	* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
 	* Calipers, profilers, and other measurement tools
 
-* Fieldwork Supplies:
+* Archaeological and Geoarchaeological Fieldwork:
 	* Sediment auger (regular, sand, and wide buckets)
 	* OSL sampling tools
-	* Tools and guides for in-situe sediment analysis
+	* Soil Chemistry analysis (PH, N, P, K)
+	* Tools and guides for in-situ sediment descriptions
 	* Tapes, levels, tools, etc., for survey and excavation
 
 More equipment will be added over time.
