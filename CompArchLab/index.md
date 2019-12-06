@@ -51,11 +51,17 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 The Computational Archaeology Lab lab conducts research into the following topics:
 
 * Coupled human-natural systems research
+* Anthropogenic landscapes, sediments, and soils
+* The dynamics of agro-pastoral landuse and subsistence
+* Long-term human socio-ecology
+
+The Lab specializes in the following techniques
+
+* GIS and spatial analysis
 * Agent-Based Modeling
-* GIS and Imagery Analysis
-* Anthropogenic Landscapes
-* Early domestication of plants and animals
-* The dynamics of early agro-pastoral subsistence systems
+* 3D and multispectral imaging
+* Sediment analysis and geomorphology
+* Scientific computing and machine learning
 
 **Collaborations.**
 <br>
@@ -120,7 +126,7 @@ I am currently seeking prospective Master's students interested in the fields of
 	* ISO standard nesting geologic sieves
 	* Mechanical sieve shaker
 	* Precision balance.
-	* Buyoucous hydrometers, hydrometer flasks, and reagents
+	* Bouyoucos hydrometers, hydrometer flasks, and reagents
 	* Mixers, dehydrators, glassware, etc.
 	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
 
