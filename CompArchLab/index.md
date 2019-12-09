@@ -68,10 +68,8 @@ The Lab specializes in the following techniques
 The Computational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
 
 * The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
-* The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
-* Socio-ecological Agent-based Modeling of the Early Bronze Age I of Arslantepe -- (website coming soon!)
-* Kazak-American Talgar Archaeology Project -- ([talgar.sbc.edu/](http://talgar.sbc.edu/))
 * Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
+* The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
 * Center for Climate and Sustainability Studies -- ([http://c2s2.sdsu.edu/](http://c2s2.sdsu.edu/))
 
  **Funding and support.**
@@ -92,10 +90,10 @@ Funding and support for the research being conducted in the Computational Archae
 ### Students
 
 The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the fields of Computational Archaeology and Geoarchaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit). There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
-
+<br>
 **Prospective Master's Students**
 <br>
-I am currently seeking prospective Master's students interested in the fields of _Computational Archaeology_ and _Geoarchaeology_. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I will have ongoing research opportunities for students interested in working in the Mediterranean region or in Central Eurasia, with potential fieldwork in Italy or Kazakhstan. Interested prospective Master's students should [email me](iullah@sdsu.edu) to discuss this further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
+I am currently seeking prospective MA students interested in the fields of [_Computational or Digital Archaeology_](http://isaacullah.github.io/What-is-Computational-Archaeology/), [_Geoarchaeology_](https://en.wikipedia.org/wiki/Geoarchaeology), and [Landscape Archaeology](https://en.wikipedia.org/wiki/Landscape_archaeology). I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
 
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
