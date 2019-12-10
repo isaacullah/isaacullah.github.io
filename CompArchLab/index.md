@@ -52,7 +52,7 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 | Anthropogenic landscapes, sediments, and soils   | Agent-based modeling   |
 | The dynamics of agro-pastoral landuse and subsistence | 3D and multispectral imaging |
 | Long-term human socio-ecology | Sediment analysis and geomorphology |
-| Human eco-dynamics in Mediterranean climate regimes |  Scientific computing and machine learning | 
+| Human eco-dynamics |  Scientific computing and machine learning | 
 
 <br>
 
