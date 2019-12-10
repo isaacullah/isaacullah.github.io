@@ -47,7 +47,7 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 ### Research
 
 |**Research topics**   | **Methods**   |
-|:-:|:-:|
+|:--|:--|
 | Coupled human-natural systems research   | GIS and spatial analysis   |
 | Anthropogenic landscapes, sediments, and soils   | Agent-based modeling   |
 | Agro-pastoral landuse and subsistence | 3D and multispectral imaging |
@@ -59,7 +59,7 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 <br>
 
 |**Collaborations**| **Funding and support**|
-|:-:|:-:|
+|:--|:--|
 |[The Mediterranean Landscape Dynamics Project](http://medland.asu.edu)| The National Science Foundation |
 | [The Bova Marina Archaeological Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/) | The National Endowment for the Humanities |
 | [The Wadi Ziqlab/Wadi Quseiba Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/) | The Social Science Research Council, Canada |
