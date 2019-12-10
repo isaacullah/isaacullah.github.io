@@ -46,41 +46,24 @@ These are the "open lab" hours during which I will regularly be in the lab and a
 
 ### Research
 
-**Research topics.**
+|**Research topics**   | **Methods**   |
+|:-:|:-:|
+| Coupled human-natural systems research   | GIS and spatial analysis   |
+| Anthropogenic landscapes, sediments, and soils   | Agent-based modeling   |
+| The dynamics of agro-pastoral landuse and subsistence | 3D and multispectral imaging |
+| Long-term human socio-ecology | Sediment analysis and geomorphology |
+| Human eco-dynamics in Mediterranean climate regimes |  Scientific computing and machine learning | 
+
 <br>
-The Computational Archaeology Lab lab conducts research into the following topics:
 
-* Coupled human-natural systems research
-* Anthropogenic landscapes, sediments, and soils
-* The dynamics of agro-pastoral landuse and subsistence
-* Long-term human socio-ecology
+|**Collaborations**| **Funding and support**|
+|:-:|:-:|
+|[The Mediterranean Landscape Dynamics Project](http://medland.asu.edu)| The National Science Foundation |
+| [The Bova Marina Archaeological Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/) | The National Endowment for the Humanities |
+| [The Wadi Ziqlab/Wadi Quseiba Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/) | The Social Science Research Council, Canada |
+| [The Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/) | The SDSU University Grants Program |
 
-The Lab specializes in the following techniques
-
-* GIS and spatial analysis
-* Agent-Based Modeling
-* 3D and multispectral imaging
-* Sediment analysis and geomorphology
-* Scientific computing and machine learning
-
-**Collaborations.**
 <br>
-The Computational Archaeology Lab conducts research in collaboration with the following projects. Please visit these links for more information on each specific project. 
-
-* The Mediterranean Landscape Dynamics Project -- ([medland.asu.edu](http://medland.asu.edu))
-* Bova Marina Archaeological Project -- ([www.arch.cam.ac.uk/research/projects/bova-marina/](http://www.arch.cam.ac.uk/research/projects/bova-marina/))
-* The Wadi Ziqlab/Wadi Quseiba Project -- ([homes.chass.utoronto.ca/~banning/Ziqlab/](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/))
-* Center for Climate and Sustainability Studies -- ([http://c2s2.sdsu.edu/](http://c2s2.sdsu.edu/))
-
- **Funding and support.**
- <br>
-Funding and support for the research being conducted in the Computational Archaeology Lab comes from various sources including:
-
-* The National Science Foundation
-* The National Endowment for the Humanities
-* The Social Science Research Council, Canada
-* The SDSU University Grants Program
-* The SDSU Center for Climate and Sustainability Studies.
 
 <figure>
 	<a href="/images/SDSU_COMPARCH_Low_Power_Microscopy.jpg"><img src="/images/SDSU_COMPARCH_Low_Power_Microscopy.jpg" alt="Students using low-power microscopy to analyze sediment particle shapes in the Computational Archaeology Laboratory."></a>
