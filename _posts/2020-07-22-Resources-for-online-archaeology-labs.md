@@ -43,3 +43,4 @@ While there has been some great recent news about [virtual reality excavation/an
 Have you got a link to a resource that you think should be added here? Feel free to use the disqus comments below, or [e-mail me directly](iullah@sdsu.edu) so that I can add it.
 ---
 [^1]: I don't want people to think that I've forgotten about, or am ignoring, open data portals like [tDAR](www.tdar.org) or [OpenContext](www.opencontext.org). Open data are incredibly important, and obviously can and should be used to provide datasets for certain lab activities. This post is focused more on *interactive* tools for experiential learning. The kinds of things that we could use to replace in-person labs with real artifacts, etc.
+---
