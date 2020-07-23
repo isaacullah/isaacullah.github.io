@@ -40,7 +40,11 @@ While there has been some great recent news about [virtual reality excavation/an
 * COMSES has several NetLogo (and other) [simulation models of past human societies and human behavior](https://www.comses.net/codebases/?query=Archaeology). Here's an example of the [diet-breadth model written by Michael Barton](http://isaacullah.github.io/diet_breadth.html) that I have hosted on this site.
 
 ---
+
 Have you got a link to a resource that you think should be added here? Feel free to use the disqus comments below, or [e-mail me directly](iullah@sdsu.edu) so that I can add it.
+
 ---
+
 [^1]: I don't want people to think that I've forgotten about, or am ignoring, open data portals like [tDAR](www.tdar.org) or [OpenContext](www.opencontext.org). Open data are incredibly important, and obviously can and should be used to provide datasets for certain lab activities. This post is focused more on *interactive* tools for experiential learning. The kinds of things that we could use to replace in-person labs with real artifacts, etc.
+
 ---
