@@ -26,7 +26,7 @@ While there has been some great recent news about [virtual reality excavation/an
 
 ## Virtual Reality:
 
-* A good recent overview paper of how to use VR in archaeological training is [](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/virtual-and-augmented-reality-in-public-archaeology-teaching/47E67BAF60F453B55AACB854B84A2DE5/core-reader)
+* A good recent overview paper of how to use VR in archaeological training is [Virtual and Augmented Reality in Public Archaeology Teaching, by Kate Ellenberger (2017)](https://www.cambridge.org/core/journals/advances-in-archaeological-practice/article/virtual-and-augmented-reality-in-public-archaeology-teaching/47E67BAF60F453B55AACB854B84A2DE5/core-reader)
 * [Virtual Angkor](https://www.virtualangkor.com/) is a 3D virtual reality simulation of Angkor Wat in its heyday.
 * [Virtual Rosewood](https://www.virtualrosewood.com/) is one of the first and most well-known archaeological VR sims. Rosewood, FL, was a largely African American town destroyed by a race riot in 1929.
 * [CyArk](https://www.cyark.org/explore/) has the best collection of 3D-scanned archaeological sites with Virtual Reality overlays:
