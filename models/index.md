@@ -20,7 +20,7 @@ image:
 
 ## List of Web-Based Models
 
-These are models that I host here for my classes. Some are made or modified by me, others I am re-hosting for convenience. To run each model, just click the link and it will load in a ne tab. The credits and instructions are in the "Info" tab for each model (bottom of the page).
+These are models that I host here for my classes. Some are made or modified by me, others I am re-hosting for convenience. To run each model, just click the link and it will load in a new tab. The credits and instructions are in the "Info" tab for each model (bottom of the page).
 
 - [Erosion with Vegetation Model](https://isaacullah.github.io/Erosion_veg.html){:target="_blank"}
 - [Diet Breadth Model](https://isaacullah.github.io/diet_breadth.html){:target="_blank"}
@@ -32,9 +32,7 @@ These are models that I host here for my classes. Some are made or modified by m
 
 ## NetLogo Models for Class that are not web-based
 
-The NetoLogo software will run on Mac, Windows, and Linux systems (sorry, no Chromebooks or iPads!). First [download NetLogo 6.1.1](http://ccl.northwestern.edu/netlogo/download.shtml). These models will likely not run in earlier versions of NetLogo.
-
-Download these .zip archives, and unzip them on your computer (for help with .zip files on Mac and Windows (read this article)[https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/]). **It's important to keep all the files in the archive together in the same folder when you unzip them.** You can run the models by using the File > Open function in NetLogo, and then navigating to the ".nlogo" file from the model you want to run.
+The NetoLogo software will run on Mac, Windows, and Linux systems (sorry, no Chromebooks or iPads!). First [download NetLogo 6.1.1](http://ccl.northwestern.edu/netlogo/download.shtml). These models will likely not run in earlier versions of NetLogo. Then, download the .zip archives below, and unzip them on your computer (for help with .zip files on Mac and Windows [read this article](https://www.sweetwater.com/sweetcare/articles/how-to-zip-and-unzip-files/)). **It's important to keep all the files in the archive together in the same folder when you unzip them.** You can run the models by using the File -> Open function in NetLogo, and then navigating to the ".nlogo" file of the model you want to run.
 
 - [The BACO Model](BACO.zip)
 - [City Sandbox](City_Sandbox.zip)
