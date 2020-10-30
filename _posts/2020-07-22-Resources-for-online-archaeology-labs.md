@@ -23,6 +23,7 @@ While there has been some great recent news about [virtual reality excavation/an
 * The Smithsonian has some [artifacts scanned in 3D](https://humanorigins.si.edu/evidence/3d-collection/artifacts) and some 3D scans from [Jamestown, Engare Sero (human footprints), and the Inka Road](https://3d.si.edu/)
 * [MorphoSource](https://www.morphosource.org/) from Duke University has over 75,000 3D scans of animal bones, many from famous archaeological sites.
 * [Open Aerial Map](https://openaerialmap.org/) has many photomosaics/3D drone landscapes available, some of which are from archaeological landscapes.
+* The UCSD Center for Cyber Archaeology and Sustainability has a [data repository](http://ccas.ucsd.edu/repository.php) with a couple of sites that have been documented in 3D.
 
 ## Virtual Reality:
 
