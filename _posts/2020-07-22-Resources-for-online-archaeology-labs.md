@@ -37,8 +37,11 @@ While there has been some great recent news about [virtual reality excavation/an
 ## Simulation Models:
 
 * For online instruction with simulation models, Netlogo will be our savior. You can export HTML versions of any NetLogo model [that can be hosted on your Dropbox or your website](https://stackoverflow.com/questions/37817135/how-to-share-a-netlogo-model-online) or [run remotely in a browser for your students](https://netlogoweb.org/).
-* COMSES has several NetLogo (and other) [simulation models of past human societies and human behavior](https://www.comses.net/codebases/?query=Archaeology). 
-* I have begun to assemble a variety of simple(ish) NetLogo models that are useful for teaching a variety of archaeological concepts. Check out my new [modeling page](http://isaacullah.github.io/models) for a running list of models that I have hosted on this site, as well as some tutorial information.
+* Most of the sample models that ship with NetLogo can be run remotely in a browser from [NetLogo-Web](https://netlogoweb.org/).
+* The [NetLogo Modeling Commons](http://modelingcommons.org/account/login) hosts over 1,000 NetLogo models, which can be downloaded and run in NetLogo, or run through their website in NetLogo-Web (look for the tab along the bottom of each model's page).
+* For a deeper database of models, [ComSES](www.openabm.org) has several NetLogo (and other) [simulation models of past human societies and human behavior](https://www.comses.net/codebases/?query=Archaeology).
+* Check out the [Simulating Complexity Blog](https://simulatingcomplexity.wordpress.com/) by Iza Romanowska, has many great archaeologically-oriented NetLogo tutorials and lots of other great information.
+* Finally, I have begun to assemble a variety of simple(ish) NetLogo models that are useful for teaching a variety of archaeological concepts. Check out my new [modeling page](http://isaacullah.github.io/models) for a running list of models that I have hosted on this site, as well as some tutorial information.
 
 ---
 
