@@ -38,6 +38,8 @@ The NetoLogo software will run on Mac, Windows, and Linux systems (sorry, no Chr
 - [City Sandbox](City_Sandbox.zip)
 - The Urban Sprawl model is included in NetLogo as a sample model. Go to File > Model Library, and search for "Urban Sprawl"
 
+Another good model to explore is the ["MayaSim" model](MayaSim.zip), but you will need to download an older verion of [NetLogo 5.0.4](https://ccl.northwestern.edu/netlogo/5.0.4/).
+
 ## Building a Simple NetLogo Model
 
 Come back for an updated tutorial for building a simple model of human movement/dispersal courtesy of [Dr. Iza Romanowska](https://pure.au.dk/portal/da/iromanowska@aias.au.dk) and [Dr. Colin Wren](https://anthropology.uccs.edu/colin-wren). It will be an updated version of their [dispersal tutorial](https://simulatingcomplexity.wordpress.com/2014/07/14/netlogo-tutorial-dispersal/) found on [Simulating Complexity](https://simulatingcomplexity.wordpress.com/).
