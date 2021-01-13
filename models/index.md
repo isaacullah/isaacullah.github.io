@@ -22,12 +22,13 @@ image:
 
 These are models that I host here for my classes. Some are made or modified by me, others I am re-hosting for convenience. To run each model, just click the link and it will load in a new tab. The credits and instructions are in the "Info" tab for each model (bottom of the page).
 
-- [Erosion with Vegetation Model](https://isaacullah.github.io/Erosion_veg.html){:target="_blank"}
-- [Diet Breadth Model](https://isaacullah.github.io/diet_breadth.html){:target="_blank"}
-- [Buffalo Hunting Extinction Model](https://isaacullah.github.io/diet_breadth_buffalo_with_grass.html){:target="_blank"}
-- [Grazing model](https://isaacullah.github.io/Grazing.html){:target="_blank"}
-- [TRUE GRASP Model](https://isaacullah.github.io/TRUE_GRASP.html){:target="_blank"}
-- [Swidden Farming V2](https://isaacullah.github.io/swidden_farming_v2.html){:target="_blank"}  also download the [Model Documentation](swidden_farming_v2_ODD.pdf) (PDF)
+- [Sampling Experiment](Sampling_Experiment.html){:target="_blank"}
+- [Erosion with Vegetation Model](Erosion_veg.html){:target="_blank"}
+- [Diet Breadth Model](diet_breadth.html){:target="_blank"}
+- [Buffalo Hunting Extinction Model](diet_breadth_buffalo_with_grass.html){:target="_blank"}
+- [Grazing model](Grazing.html){:target="_blank"}
+- [TRUE GRASP Model](TRUE_GRASP.html){:target="_blank"}
+- [Swidden Farming V2](swidden_farming_v2.html){:target="_blank"}  also download the [Model Documentation](swidden_farming_v2_ODD.pdf) (PDF)
 - [The Urban Sprawl Model](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/Urban%20Suite/Urban%20Suite%20-%20Sprawl%20Effect.nlogo){:target="_blank"}  (hosted on external site)
 
 ## NetLogo Models for Class that are not web-based
