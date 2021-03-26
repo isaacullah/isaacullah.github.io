@@ -8,9 +8,12 @@ excerpt: "A case study from a small alluvial fan in southeast Kazakhstan (prepar
 tags: [archaeology, anthropocene, geoarchaeology]
 ---
 
-__THIS POSTER PAPER WAS CREATED FOR THE 2021 SOCIETY FOR ARCHAEOLOGY MEETING. DO NOT REUSE OR ALTER AND DO NOT REFERENCE WITHOUT CITING THE AUTHORS.__
+#### Citation:
 
-__Citation:__ Ullah, I.I.; Piel, D.; Sakai, S.; Chang, C.; and Tourtellotte, P. 2021 _"A sediment granulometry approach to anthropogenic landscape impacts."_ Poster presented a the 2021 Society for American Archaeology Meetings. April 15-19, 2021 (online)
+Ullah, I.I.; Piel, D.; Sakai, S.; Chang, C.; and Tourtellotte, P. 2021 _"A sediment granulometry approach to anthropogenic landscape impacts."_ Poster presented a the 2021 Society for American Archaeology Meetings. April 15-19, 2021 (online)
+
+
+__THIS POSTER PAPER WAS CREATED FOR THE 2021 SOCIETY FOR ARCHAEOLOGY MEETING. DO NOT REUSE OR ALTER AND DO NOT REFERENCE WITHOUT CITING THE AUTHORS.__
 
 
 ## Introduction
