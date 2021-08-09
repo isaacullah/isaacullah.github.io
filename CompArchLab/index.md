@@ -19,7 +19,7 @@ image:
 </div>
 </section><!-- /#table-of-contents -->
 
-The Computational Archaeology Laboratory at San Diego State University is a state of the art facility for computational approaches in archaeology and geoarchaeology. Specialites include FOSS GIS, agent-based modeling, imagery analysis, as well sediment granulometry, geomorphology, landscape analysis, and geochronology. A main focus of research is on the origins and long-term dynamics of coupled human and natural systems, including anthropogenic landscapes, in the Mediterranean and beyond. 
+The Computational Archaeology Laboratory at San Diego State University is a state of the art facility for computational approaches in archaeology and geoarchaeology. Specialties include GIS, agent-based modeling, imagery analysis, advanced statistical modeling, 3D analysis, as well sedimentology, granulometry, geomorphology, landscape analysis, and geochronology. A main focus of research is on the origins and long-term dynamics of coupled human and natural systems, including anthropogenic landscapes, in the Mediterranean and beyond.
 <br><br>
 
 <figure>
@@ -88,29 +88,30 @@ I am currently seeking prospective MA students interested in the fields of [**Co
 
 * Computation:
 	* 5 high-power Ubuntu Linux computer workstations with a full complement of FOSS computational analysis tools including GRASS GIS, QGIS, Image-J, R, Scientific Python, Python Photogrammetry Toolbox, Open Drone Map, Meshlab, Cloud Compare, NetLogo, RePast, PyABM, and more. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
-	* 2 Ubuntu Linux laptops for field work
 	* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
-	* Wacom tablets for data entry and digitization.
+	* 1 Windows 95 computer for legacy software
+	* Wacom tablets for data entry and digitization
 	* High-capacity external hardrives for long-term data storage
-	
-* Photogrammetry:
+
+* 3D Scanning and Photogrammetry:
+	* Livox Avia LiDAR scanner with mobile battery and laptop connection kit
 	* Olympus EM1 ii mirrorless camera and assortment of lenses (including macro)
-	* Tripods and lighting
-	* DJI Mavic Pro aerial drone. 
-	* MapIR Survey2 Red-NIR NDVI camera.
+	* DJI Mavic Pro aerial drone
+	* Insta360 360 degree camera
+	* MapIR Survey2 Red-NIR NDVI camera
 	* MapIR luminosity calibration target
 	* Xrite Color checker chart and grey cards
 	* Pantone Huey screen profiling calibration tool
-	* Insta360 360 degree camera
-	* Livox terrestrial LiDAR scanner
-	* High resolution flatbed and film scanner
+	* Tripods and lighting
+	* High resolution Canon flatbed and film scanner
 	* Our drone photogrammetery workflow can be found [here](http://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
 	
-* Sediment Granulometry:
+* Sedimentology and Granulometry:
 	* Beckman Coulter Multisizer 3 Particle Size Analyzer (~0.1 to 1000 microns)
 	* ISO standard nesting geologic sieves
 	* Mechanical sieve shaker
-	* Precision balance.
+	* Precision balance
+	* pH, Salinity, and TDS meter
 	* Bouyoucos hydrometers, hydrometer flasks, and reagents
 	* Mixers, dehydrators, glassware, etc.
 	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
@@ -118,17 +119,19 @@ I am currently seeking prospective MA students interested in the fields of [**Co
 * Digital Field Data Collection:
 	* Mobile tablet computers for field data collection using Open Data Kit.
 	* Bad-Elf GNSS surveyor high precision bluetooth GPS units.
+	* 2 small (but old) Ubuntu Linux laptops for dirty field locations
 	* Our mobile data collection workflow can be found [here](http://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
 	
 * Artifact Analysis:
 	* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
 	* Calipers, profilers, and other measurement tools
 	* Assorted glassware and other laboratory tools
+	* Experimental archaeology collectiong
+	* Flintknapping materials and supplies
 
 * Archaeological and Geoarchaeological Fieldwork:
 	* Sediment auger (regular, sand, and wide buckets)
 	* OSL sampling tools
-	* Soil Chemistry analysis (pH, Salinity, TDS, N, P, K)
 	* Tools and guides for in-situ sediment descriptions
 	* Tapes, levels, tools, etc., for survey and excavation
 
