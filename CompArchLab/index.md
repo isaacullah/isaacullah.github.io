@@ -47,22 +47,22 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 |**Research topics**                            | | **Methods**                               |
 | :--                                           | | :--                                       |
-| * Coupled human-natural systems<br>research        | | * GIS and spatial analysis                  |
-| * Anthropogenic landscapes, sediments,<br>and soils| | * Agent-based modeling                      |
-| * Agro-pastoral landuse and subsistence         | | * 3D and multispectral<br>imaging              |
-| * Long-term human socio-ecology                 | | * Sediment analysis and<br>geomorphology       |
-| * Human eco-dynamics                            | | * Scientific computing and<br>machine learning | 
-| * Landscape evolution                           | | * Archaeological survey                     | 
-| * Human-climate interaction                     | | * Paleoenvironmental<br>reconstruction         |
+| &bull; Coupled human-natural systems<br>research        | | &bull; GIS and spatial analysis                  |
+| &bull; Anthropogenic landscapes, sediments,<br>and soils| | &bull; Agent-based modeling                      |
+| &bull; Agro-pastoral landuse and subsistence         | | &bull; 3D and multispectral<br>imaging              |
+| &bull; Long-term human socio-ecology                 | | &bull; Sediment analysis and<br>geomorphology       |
+| &bull; Human eco-dynamics                            | | &bull; Scientific computing and<br>machine learning | 
+| &bull; Landscape evolution                           | | &bull; Archaeological survey                     | 
+| &bull; Human-climate interaction                     | | * Paleoenvironmental<br>reconstruction         |
 
 <br>
 
 | **Collaborations**                                                                                                     | **Funding and support**                   |
 | :--:                                                                                                                   | :--:                                      |
-| * [The Mediterranean Landscape<br>Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | * The National Science Foundation           |
-| * [The Bova Marina Archaeological<br>Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | * The National Endowment for<br>the Humanities |
-| * [The Wadi Ziqlab/Wadi Quseiba<br>Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | * The Social Science Research<br>Council, Canada |
-| * [The Center for Climate and<br>Sustainability Studies](http://c2s2.sdsu.edu/){:target="_blank"}                           | * The SDSU University Grants Program        |
+| &bull; [The Mediterranean Landscape<br>Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | &bull; The National Science Foundation           |
+| &bull; [The Bova Marina Archaeological<br>Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | &bull; The National Endowment for<br>the Humanities |
+| &bull; [The Wadi Ziqlab/Wadi Quseiba<br>Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | &bull; The Social Science Research<br>Council, Canada |
+| &bull; [The Center for Climate and<br>Sustainability Studies](http://c2s2.sdsu.edu/){:target="_blank"}                           | &bull; The SDSU University Grants Program        |
 
 <br>
 
