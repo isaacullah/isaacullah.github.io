@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Welcome
+title: The Computational Archaeology Laboratory
 date: 2017-03-01
 modified: 2020-11-11
 excerpt: About the Computational Archaeology Laboratory at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
 image:
-  feature: CompArchLab_beta.jpg
+  feature: header.jpg
 ---
 
 <section id="table-of-contents" class="toc">
