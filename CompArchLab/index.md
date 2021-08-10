@@ -59,10 +59,10 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 |**Collaborations**| **Funding and support**|
 |:--|:--|
-|[The Mediterranean Landscape Dynamics Project](http://medland.asu.edu)| The National Science Foundation |
-| [The Bova Marina Archaeological Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/) | The National Endowment for the Humanities |
-| [The Wadi Ziqlab/Wadi Quseiba Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/) | The Social Science Research Council, Canada |
-| [The Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/) | The SDSU University Grants Program |
+|[__The Mediterranean Landscape Dynamics Project__](https://repository.asu.edu/collections/5){:target="_blank"}| The National Science Foundation |
+| [__The Bova Marina Archaeological Project__](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"} | The National Endowment for the Humanities |
+| [__The Wadi Ziqlab/Wadi Quseiba Project__](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"} | The Social Science Research Council, Canada |
+| [__The Center for Climate and Sustainability Studies__](http://c2s2.sdsu.edu/){:target="_blank"} | The SDSU University Grants Program |
 
 <br>
 
@@ -77,7 +77,7 @@ The Computational Archaeology Lab provides computing and other resources for und
 <br>
 **Prospective Master's Students**
 <br>
-I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](http://isaacullah.github.io/What-is-Computational-Archaeology/), [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology), and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology). I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html) for more information about our graduate studies program.
+I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](http://isaacullah.github.io/What-is-Computational-Archaeology/){:target="_blank"}, [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology){:target="_blank"}, and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology){:target="_blank"}. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html){:target="_blank"} for more information about our graduate studies program.
 
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
