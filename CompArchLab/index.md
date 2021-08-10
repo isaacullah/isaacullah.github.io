@@ -58,7 +58,7 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 <br>
 
 | **Collaborations**                                                                                                     | **Funding and support**                   |
-| :--:                                                                                                                   | :--:                                      |
+| :--                                                                                                                   | :--                                      |
 | &bull; [The Mediterranean Landscape<br>Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | &bull; The National Science Foundation           |
 | &bull; [The Bova Marina Archaeological<br>Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | &bull; The National Endowment for<br>the Humanities |
 | &bull; [The Wadi Ziqlab/Wadi Quseiba<br>Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | &bull; The Social Science Research<br>Council, Canada |
