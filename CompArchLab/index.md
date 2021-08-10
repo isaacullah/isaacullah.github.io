@@ -88,8 +88,8 @@ I am currently seeking prospective MA students interested in the fields of [**Co
 
 The following courses are partially taught in the lab, have open lab hours in the lab, or use lab resources.
 
-* ANTH 562 Computational Archaeology (_Activities: GIS, Imagery Analysis, LiDAR, 3D modeling_)
-* ANTH 563 Anthropogenic Landscapes (_Activities: Geoarchaeology, Erosion Modeling, Sediment Granulometry, Agent Based Modeling_)
+* ANTH 562 Computational Archaeology <br>(_Activities: GIS, Imagery Analysis, LiDAR, 3D modeling_)
+* ANTH 563 Anthropogenic Landscapes <br>(_Activities: Geoarchaeology, Erosion Modeling, Sediment Granulometry, Agent Based Modeling_)
 
 ### Lab Resources
 
