@@ -45,15 +45,15 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 ### Research
 
-|**Research topics**                             | **Methods**                               |
-| :--:                                           | :--:                                      |
-| Coupled human-natural systems research         | GIS and spatial analysis                  |
-| Anthropogenic landscapes, sediments, and soils | Agent-based modeling                      |
-| Agro-pastoral landuse and subsistence          | 3D and multispectral imaging              |
-| Long-term human socio-ecology                  | Sediment analysis and geomorphology       |
-| Human eco-dynamics                             | Scientific computing and machine learning | 
-| Landscape evolution                            | Archaeological survey                     | 
-| Human-climate interaction                      | Paleoenvironmental reconstruction         |
+|**Research topics**                            | | **Methods**                               |
+| :--                                           | | :--                                       |
+| Coupled human-natural systems research        | | GIS and spatial analysis                  |
+| Anthropogenic landscapes, sediments, and soils| | Agent-based modeling                      |
+| Agro-pastoral landuse and subsistence         | | 3D and multispectral imaging              |
+| Long-term human socio-ecology                 | | Sediment analysis and geomorphology       |
+| Human eco-dynamics                            | | Scientific computing and machine learning | 
+| Landscape evolution                           | | Archaeological survey                     | 
+| Human-climate interaction                     | | Paleoenvironmental reconstruction         |
 
 <br>
 
