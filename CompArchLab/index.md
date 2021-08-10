@@ -45,24 +45,24 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 ### Research
 
-|**Research topics**   | **Methods**   |
-|:--|:--|
-| Coupled human-natural systems research   | GIS and spatial analysis   |
-| Anthropogenic landscapes, sediments, and soils   | Agent-based modeling   |
-| Agro-pastoral landuse and subsistence | 3D and multispectral imaging |
-| Long-term human socio-ecology | Sediment analysis and geomorphology |
-| Human eco-dynamics |  Scientific computing and machine learning | 
-| Landscape evolution | Archaeological survey | 
-| Human-climate interaction | Paleoenvironmental reconstruction |
+|**Research topics**                             | **Methods**                               |
+| :--:                                           | :--:                                      |
+| Coupled human-natural systems research         | GIS and spatial analysis                  |
+| Anthropogenic landscapes, sediments, and soils | Agent-based modeling                      |
+| Agro-pastoral landuse and subsistence          | 3D and multispectral imaging              |
+| Long-term human socio-ecology                  | Sediment analysis and geomorphology       |
+| Human eco-dynamics                             | Scientific computing and machine learning | 
+| Landscape evolution                            | Archaeological survey                     | 
+| Human-climate interaction                      | Paleoenvironmental reconstruction         |
 
 <br>
 
-|**Collaborations**| **Funding and support**|
-|:--|:--|
-| [_The Mediterranean Landscape Dynamics Project_](https://repository.asu.edu/collections/5){:target="_blank"}| The National Science Foundation |
-| [_The Bova Marina Archaeological Project_](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"} | The National Endowment for the Humanities |
-| [_The Wadi Ziqlab/Wadi Quseiba Project_](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"} | The Social Science Research Council, Canada |
-| [_The Center for Climate and Sustainability Studies_](http://c2s2.sdsu.edu/){:target="_blank"} | The SDSU University Grants Program |
+| **Collaborations**                                                                                                     | **Funding and support**                   |
+| :--:                                                                                                                   | :--:                                      |
+| [The Mediterranean Landscape Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | The National Science Foundation           |
+| [The Bova Marina Archaeological Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | The National Endowment for the Humanities |
+| [The Wadi Ziqlab/Wadi Quseiba Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | The Social Science Research Council, Canada |
+| [The Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/){:target="_blank"}                           | The SDSU University Grants Program        |
 
 <br>
 
