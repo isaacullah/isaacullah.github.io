@@ -24,7 +24,7 @@ The Computational Archaeology Laboratory at San Diego State University is a stat
 
 <figure>
 	<a href="/images/CompArch_Students.jpg"><img src="/images/CompArch_Students.jpg" alt="Students in ANTH 583 GIS and Imagery Analysis doing research in the Computational Archaeology Lab."></a>
-	<figcaption>Students in ANTH 583 "GIS and Imagery Analysis" doing research in the Computational Archaeology Lab.</figcaption>
+	<figcaption>Students in ANTH 562 "Computational Archaeology" in the Computational Archaeology Lab.</figcaption>
 </figure>
 
 
@@ -40,7 +40,7 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 <figure>
 	<a href="/images/CompArch_equipment.jpg"><img src="/images/CompArch_equipment.jpg" alt="Computational Archaeology Lab Microscopy."></a>
-	<figcaption>The Compuational Archaeology lab set up for low power digital microscopy work.</figcaption>
+	<figcaption>The Computational Archaeology lab set up for low power digital microscopy work.</figcaption>
 </figure>
 
 ### Research
@@ -81,7 +81,7 @@ I am currently seeking prospective MA students interested in the fields of [**Co
 
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
-	<figcaption>Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
+	<figcaption>Students in ANTH 563 "Anthropogenic Landscapes" undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
 </figure>
 
 ### Courses
