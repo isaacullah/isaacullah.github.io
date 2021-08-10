@@ -47,22 +47,22 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 |**Research topics**                            | | **Methods**                               |
 | :--                                           | | :--                                       |
-| Coupled human-natural systems research        | | GIS and spatial analysis                  |
-| Anthropogenic landscapes, sediments, and soils| | Agent-based modeling                      |
-| Agro-pastoral landuse and subsistence         | | 3D and multispectral imaging              |
-| Long-term human socio-ecology                 | | Sediment analysis and geomorphology       |
-| Human eco-dynamics                            | | Scientific computing and machine learning | 
-| Landscape evolution                           | | Archaeological survey                     | 
-| Human-climate interaction                     | | Paleoenvironmental reconstruction         |
+| * Coupled human-natural systems<br>research        | | * GIS and spatial analysis                  |
+| * Anthropogenic landscapes, sediments,<br>and soils| | * Agent-based modeling                      |
+| * Agro-pastoral landuse and subsistence         | | * 3D and multispectral<br>imaging              |
+| * Long-term human socio-ecology                 | | * Sediment analysis and<br>geomorphology       |
+| * Human eco-dynamics                            | | * Scientific computing and<br>machine learning | 
+| * Landscape evolution                           | | * Archaeological survey                     | 
+| * Human-climate interaction                     | | * Paleoenvironmental<br>reconstruction         |
 
 <br>
 
 | **Collaborations**                                                                                                     | **Funding and support**                   |
 | :--:                                                                                                                   | :--:                                      |
-| [The Mediterranean Landscape Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | The National Science Foundation           |
-| [The Bova Marina Archaeological Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | The National Endowment for the Humanities |
-| [The Wadi Ziqlab/Wadi Quseiba Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | The Social Science Research Council, Canada |
-| [The Center for Climate and Sustainability Studies](http://c2s2.sdsu.edu/){:target="_blank"}                           | The SDSU University Grants Program        |
+| * [The Mediterranean Landscape<br>Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | * The National Science Foundation           |
+| * [The Bova Marina Archaeological<br>Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | * The National Endowment for<br>the Humanities |
+| * [The Wadi Ziqlab/Wadi Quseiba<br>Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | * The Social Science Research<br>Council, Canada |
+| * [The Center for Climate and<br>Sustainability Studies](http://c2s2.sdsu.edu/){:target="_blank"}                           | * The SDSU University Grants Program        |
 
 <br>
 
@@ -83,6 +83,13 @@ I am currently seeking prospective MA students interested in the fields of [**Co
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
 	<figcaption>Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
 </figure>
+
+### Courses
+
+The following courses are partially taught in the lab, have open lab hours in the lab, or use lab resources.
+
+* ANTH 562 Computational Archaeology (_Activities: GIS, Imagery Analysis, LiDAR, 3D modeling_)
+* ANTH 563 Anthropogenic Landscapes (_Activities: Geoarchaeology, Erosion Modeling, Sediment Granulometry, Agent Based Modeling_)
 
 ### Lab Resources
 
