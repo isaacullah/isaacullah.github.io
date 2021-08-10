@@ -6,7 +6,7 @@ modified: 2020-11-11
 excerpt: About the Computational Archaeology Laboratory at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
 image:
-  feature: header.jpg
+  feature:
 ---
 
 <section id="table-of-contents" class="toc">
