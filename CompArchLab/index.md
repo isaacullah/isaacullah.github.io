@@ -59,10 +59,10 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 |**Collaborations**| **Funding and support**|
 |:--|:--|
-|[__The Mediterranean Landscape Dynamics Project__](https://repository.asu.edu/collections/5){:target="_blank"}| The National Science Foundation |
-| [__The Bova Marina Archaeological Project__](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"} | The National Endowment for the Humanities |
-| [__The Wadi Ziqlab/Wadi Quseiba Project__](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"} | The Social Science Research Council, Canada |
-| [__The Center for Climate and Sustainability Studies__](http://c2s2.sdsu.edu/){:target="_blank"} | The SDSU University Grants Program |
+| [_The Mediterranean Landscape Dynamics Project_](https://repository.asu.edu/collections/5){:target="_blank"}| The National Science Foundation |
+| [_The Bova Marina Archaeological Project_](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"} | The National Endowment for the Humanities |
+| [_The Wadi Ziqlab/Wadi Quseiba Project_](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"} | The Social Science Research Council, Canada |
+| [_The Center for Climate and Sustainability Studies_](http://c2s2.sdsu.edu/){:target="_blank"} | The SDSU University Grants Program |
 
 <br>
 
