@@ -93,42 +93,16 @@ The following courses are partially taught in the lab, have open lab hours in th
 
 ### Lab Resources
 
+#### Hardware
+
+The lab has the following hardware resources available for teaching and research in the areas of computational archaeology and geoarchaeology:
+
 * __Computation:__
 	* 5 high-power Ubuntu Linux computer workstations. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
 	* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
 	* 1 Windows 95 computer for legacy software
 	* Wacom tablets for data entry and digitization
 	* High-capacity external hardrives for long-term data storage
-
-* __Software:__
-    * The lab specializes in Free and Open Source Software (FOSS) computational analysis tools, with strengths in the following: 
-    * GIS:
-        * GRASS GIS
-        * QGIS
-        * Q-Field
-    * Agent Based Modeling:
-        * NetLogo
-        * PyABM
-        * "Pure" Python 
-    * Image Analysis
-        * Image-J
-        * GIMP
-        * Darktable
-        * Open CV
-    * Photogrammetery and 3D Scanning
-        * Open Drone Map (and WebODM)
-        * Open CV
-        * MVE
-        * Livox Viewer
-        * Meshlab
-        * CloudCompare
-    * Data Science
-        * Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, etc.)
-        * R
-        * Orange
-    * Scripting and Programming
-        * Python
-        * BASH
     
 
 * __3D Scanning and Photogrammetry:__
@@ -173,5 +147,41 @@ The following courses are partially taught in the lab, have open lab hours in th
 	* Tools and guides for in-situ sediment descriptions
 	* Tapes, levels, tools, etc., for survey and excavation
 
+#### Software
+
+The lab specializes in Free and Open Source Software (FOSS) approaches to computational archaeology, with teaching and research strengths in the following software areas: 
+    
+* __GIS:__
+    * GRASS GIS
+    * QGIS
+    * Q-Field
+    
+* __Agent Based Modeling:__
+    * NetLogo
+    * PyABM
+    * "Pure" Python 
+    
+* __Image Analysis__
+    * Image-J
+    * GIMP
+    * Darktable
+    * Open CV
+    
+* __Photogrammetery and 3D Scanning__
+    * Open Drone Map (and WebODM)
+    * Open CV
+    * MVE
+    * Livox Viewer
+    * Meshlab
+    * CloudCompare
+    
+* __Data Science__
+    * Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, etc.)
+    * R
+    * Orange
+    
+* __Scripting and Programming__
+    * Python
+    * BASH
 
 
