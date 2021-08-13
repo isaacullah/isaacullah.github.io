@@ -22,7 +22,7 @@ image:
 
 Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I therefore believe that it is imperative that GIS skills are taught to all social scientists. That is the main purpose of this page. Here, I make available several screencasted video tutorials and "short-courses" from classess and workshops that I have taught at a variety of institutions. 
 <br><br>
-I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.org/). I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](http://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
+I am equally dedicated to [FOSS (Free and Open-Source Software)](https://www.fsf.org/). I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](https://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
 
 ---
 
@@ -31,7 +31,7 @@ I am equally dedicated to [FOSS (Free and Open-Source Software)](http://www.fsf.
 
 These are materials for my current SDSU course, ANTH 562 "Computational Archaeology" (initially being taught as a variable topics course ANTH 583 "GIS and Imagery Analysis".)
 
-All materials and tutorials are now curated at [this GitHub Repo](https://github.com/isaacullah/GIS-Projects), where they are more easily maintained, obtained, documented, and licenced ([CC by SA](http://creativecommons.org/licenses/by-nc-sa/4.0/)).
+All materials and tutorials are now curated at [this GitHub Repo](https://github.com/isaacullah/GIS-Projects), where they are more easily maintained, obtained, documented, and licenced ([CC by SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
 
 ---
 
@@ -74,4 +74,4 @@ series. It is a basic introduction to GRASS GIS and what anthropologists can do 
 
 ---
 
-[^1]: For a particularly eloquent argument in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, ["Natives of a connected world: free and open source software in archaeology"](http://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak)
+[^1]: For a particularly eloquent argument in favor of FOSS in archaeology, please see the article by my friend Benjamin Ducke, ["Natives of a connected world: free and open source software in archaeology"](https://www.tandfonline.com/doi/full/10.1080/00438243.2012.743259#.VD7dxHW9-Ak)

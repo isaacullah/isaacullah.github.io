@@ -60,9 +60,9 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 | **Collaborations**                                                                                                     | **Funding and support**                   |
 | :--                                                                                                                   | :--                                      |
 | &bull; [The Mediterranean Landscape<br>&nbsp;&nbsp;&nbsp;Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | &bull; The National Science Foundation           |
-| &bull; [The Bova Marina Archaeological<br>&nbsp;&nbsp;&nbsp;Project](http://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | &bull; The National Endowment for<br>&nbsp;&nbsp;&nbsp;the Humanities |
-| &bull; [The Wadi Ziqlab/Wadi Quseiba<br>&nbsp;&nbsp;&nbsp;Project](http://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | &bull; The Social Science Research<br>&nbsp;&nbsp;&nbsp;Council, Canada |
-| &bull; [The Center for Climate and<br>&nbsp;&nbsp;&nbsp;Sustainability Studies](http://c2s2.sdsu.edu/){:target="_blank"}                           | &bull; The SDSU University Grants Program        |
+| &bull; [The Bova Marina Archaeological<br>&nbsp;&nbsp;&nbsp;Project](https://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | &bull; The National Endowment for<br>&nbsp;&nbsp;&nbsp;the Humanities |
+| &bull; [The Wadi Ziqlab/Wadi Quseiba<br>&nbsp;&nbsp;&nbsp;Project](https://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | &bull; The Social Science Research<br>&nbsp;&nbsp;&nbsp;Council, Canada |
+| &bull; [The Center for Climate and<br>&nbsp;&nbsp;&nbsp;Sustainability Studies](https://c2s2.sdsu.edu/){:target="_blank"}                           | &bull; The SDSU University Grants Program        |
 
 <br>
 
@@ -77,7 +77,7 @@ The Computational Archaeology Lab provides computing and other resources for und
 
 #### Prospective Master's Students
 
-I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](http://isaacullah.github.io/What-is-Computational-Archaeology/){:target="_blank"}, [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology){:target="_blank"}, and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology){:target="_blank"}. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](http://anthropology.sdsu.edu/graduate/index.html){:target="_blank"} for more information about our graduate studies program.
+I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](https://isaacullah.github.io/What-is-Computational-Archaeology/){:target="_blank"}, [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology){:target="_blank"}, and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology){:target="_blank"}. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](https://anthropology.sdsu.edu/graduate/index.html){:target="_blank"} for more information about our graduate studies program.
 
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
@@ -116,7 +116,7 @@ The lab has the following hardware resources available for teaching and research
 	* Pantone Huey screen profiling calibration tool
 	* Tripods and lighting
 	* High resolution Canon flatbed and film scanner
-	* Our drone photogrammetery workflow can be found [here](http://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
+	* Our drone photogrammetery workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
 	
 * __Sedimentology and Granulometry:__
 	* Beckman Coulter Multisizer 3 Particle Size Analyzer (~0.1 to 1000 microns)
@@ -132,7 +132,7 @@ The lab has the following hardware resources available for teaching and research
 	* Mobile tablet computers for field data collection using Open Data Kit.
 	* Bad-Elf GNSS surveyor high precision bluetooth GPS units.
 	* 2 small (but old) Ubuntu Linux laptops for dirty field locations
-	* Our mobile data collection workflow can be found [here](http://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
+	* Our mobile data collection workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
 	
 * __Artifact Analysis:__
 	* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
