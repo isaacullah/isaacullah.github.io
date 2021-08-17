@@ -90,11 +90,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: 
-    academia: IsaacUllah
-    github: isaacullah
-    stackoverflow: 3083347
-    zotero: isaacullah
-    researchgate: Isaac_Ullah
 
 # Analytics
 analytics:
@@ -111,7 +106,7 @@ author:
   bio              : "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology"
   location         : "San Diego State University"
   email            :
-  links:
+  links: 
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:iullah@sdsu.edu"
@@ -120,7 +115,7 @@ author:
       url: "https://twitter.com/isaacullah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/isaacullah"
+      url: "https://github.com/isaacullah"
 
 
 # Site Footer
@@ -131,7 +126,7 @@ footer:
       url: "https://twitter.com/isaacullah"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/isaacullah"
+      url: "https://github.com/isaacullah"
 
 
 # Reading Files
