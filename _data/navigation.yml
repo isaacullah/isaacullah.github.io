@@ -1,18 +1,18 @@
-# Site navigation links
+    # Site navigation links
+main:
+    - title: Bio and CV
+      url: /about/
+      
+    - title: The CompArch Blog
+      url: /posts/index.html
 
-- title: Bio and CV
-  url: /about/
-  
-- title: The CompArch Blog
-  url: /posts/index.html
+    - title: The CompArch Lab
+      url: /CompArchLab/
 
-- title: The CompArch Lab
-  url: /CompArchLab/
+    - title: GIS Teaching Materials
+      url: /GIS_Workshops/
 
-- title: GIS Teaching Materials
-  url: /GIS_Workshops/
-
-- title: GRASS GIS Addons
-  url: /GRASS/
+    - title: GRASS GIS Addons
+      url: /GRASS/
 
 

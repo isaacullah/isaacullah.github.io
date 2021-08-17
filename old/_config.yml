@@ -1,0 +1,59 @@
+# Site wide configuration
+
+title:            Computational Archaeology and the Geoarchaeology of Anthropocene Landscapes
+locale:           en_US
+url:              https://isaacullah.github.io
+
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: rouge
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+
+# Site owner
+owner:
+  name: Isaac I. Ullah, PhD
+  avatar: bio-photo.jpg
+  bio: "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology"
+  email: isaaciullah@gmail.com
+  disqus-shortname: isaacullah
+  twitter: isaacullah
+  facebook: isaac.ullah
+  google:
+    plus: IsaacUllah4
+    analytics: UA-55626306-1
+    verify: 
+    ad-client: 
+    ad-slot: 
+  bing-verify: 
+  academia: IsaacUllah
+  github: isaacullah
+  stackoverflow: 3083347
+  zotero: isaacullah
+  researchgate: Isaac_Ullah
+  linkedin: #username
+  instagram: #username
+  lastfm: #username
+  tumblr: #username
+  pinterest: #username
+  foursquare: #username
+  steam: #username
+  dribbble: #username
+  flickr: isaacullah
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md"]

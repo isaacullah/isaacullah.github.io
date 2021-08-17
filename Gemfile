@@ -1,8 +1,2 @@
-source 'https://rubygems.org'
-
-
-gem 'github-pages'
-
-gem 'execjs'
-
-gem 'therubyracer'
+source "https://rubygems.org"
+gemspec
