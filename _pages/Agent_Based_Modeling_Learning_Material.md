@@ -1,12 +1,8 @@
 ---
-layout: single
 title: NetLogo-Web models for teaching
-date: 2020-10-21
-modified:
 excerpt: A list of hosted NetLogo models for use in teaching
 tags: [NetLogo, Models, Modeling, Teaching]
-author_profile: true
-toc: true
+permalink: /Agent_Based_Modeling_Learning_Materials/
 ---
 <section id="table-of-contents" class="toc">
   <header>
