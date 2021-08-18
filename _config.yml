@@ -102,7 +102,7 @@ analytics:
 # Site Author
 author:
   name             : "Isaac I. Ullah, PhD"
-  avatar           : "bio-photo.jpg"
+  avatar           : "/images/bio-photo.jpg"
   bio              : "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology"
   location         : "San Diego State University"
   email            :
