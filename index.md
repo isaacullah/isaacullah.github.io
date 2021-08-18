@@ -3,8 +3,8 @@ layout: splash
 excerpt: "Isaac I. Ullah, PhD"
 tags: [Computational Modeling, Neolithic, GIS, Land-use, Complexity, Social-Environmental Systems]
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+#  overlay_color: "#000"
+#  overlay_filter: "0.5"
   image: /images/tianshan_bw_pano.jpg
   image_description: "Black and white panorama of the Tianshan mountains in southern Kazakhstan"
 ---
