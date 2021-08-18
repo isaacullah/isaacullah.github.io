@@ -4,7 +4,7 @@ main:
       url: /about/
       
     - title: The CompArch Blog
-      url: /posts/index.html
+      url: /blog/
 
     - title: The CompArch Lab
       url: /CompArchLab/

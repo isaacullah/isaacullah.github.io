@@ -1,12 +1,12 @@
 ---
-layout: page
+layout: single
 title: GRASS GIS and custom modules for archaeological and socio-ecological research
 date: 2017-02-22
 modified:
 excerpt: Information about the free and open-source GRASS GIS software suite and some custom GRASS modules that I developed.
 tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
-image:
-  feature: gbanner.gif
+header:
+  image: /images/gbanner.gif
 ---
 <section id="table-of-contents" class="toc">
   <header>

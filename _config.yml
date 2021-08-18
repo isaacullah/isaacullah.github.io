@@ -22,11 +22,11 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Isaac I. Ullah, PhD"
 description              : "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology."
 url                      : https://isaacullah.github.io
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog"
 repository               : "isaacullah/isaacullah.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/bio-photo.jpg"
-masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
+masthead_title           : "Isaac Ullah"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:

@@ -1,11 +1,11 @@
 ---
-layout: page
+layout: single
 title: 
 tags: [Isaac Ullah]
 modified: 2016-02-16
 comments: true
-image:
-  feature: isaac_on_a_cliff.png
+header:
+  image: /images/isaac_on_a_cliff.png
 ---
 
 <section id="table-of-contents" class="toc">
