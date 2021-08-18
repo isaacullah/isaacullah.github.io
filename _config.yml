@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "Isaac I. Ullah, PhD"
 description              : "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology."
 url                      : https://isaacullah.github.io
-baseurl                  : "/blog"
+baseurl                  : 
 repository               : "isaacullah/isaacullah.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/bio-photo.jpg"
