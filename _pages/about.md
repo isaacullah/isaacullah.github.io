@@ -5,6 +5,8 @@ header:
   overlay-image: /images/isaac_on_a_cliff.png
 author_profile: true
 toc: true
+toc-sticky: true
+permalink: /about/
 ---
 
 <section id="table-of-contents" class="toc">
