@@ -7,6 +7,7 @@ excerpt: Information about the free and open-source GRASS GIS software suite and
 tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
 header:
   image: /images/gbanner.gif
+author_profile: true
 ---
 <section id="table-of-contents" class="toc">
   <header>

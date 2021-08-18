@@ -6,6 +6,7 @@ modified: 2016-02-16
 comments: true
 header:
   image: /images/isaac_on_a_cliff.png
+author_profile: true
 ---
 
 <section id="table-of-contents" class="toc">
