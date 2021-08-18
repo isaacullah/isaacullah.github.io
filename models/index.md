@@ -6,6 +6,7 @@ modified:
 excerpt: A list of hosted NetLogo models for use in teaching
 tags: [NetLogo, Models, Modeling, Teaching]
 author_profile: true
+toc: true
 ---
 <section id="table-of-contents" class="toc">
   <header>

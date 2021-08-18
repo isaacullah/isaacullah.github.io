@@ -8,6 +8,7 @@ tags: [GIS, Landscape Reconstruction, GRASS, Workshop]
 header:
   image: /images/GIS_workshop_feat-img.png
 author_profile: true
+toc: true
 ---
 
 <section id="table-of-contents" class="toc">

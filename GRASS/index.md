@@ -8,6 +8,7 @@ tags: [GIS, GRASS, Archaeology, Socio-ecological, addons, modules]
 header:
   image: /images/gbanner.gif
 author_profile: true
+toc: true
 ---
 <section id="table-of-contents" class="toc">
   <header>
