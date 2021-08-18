@@ -26,7 +26,7 @@ baseurl                  : "/blog"
 repository               : "isaacullah/isaacullah.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/images/bio-photo.jpg"
-masthead_title           : "Isaac Ullah"
+masthead_title           : 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
 comments:
