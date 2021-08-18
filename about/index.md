@@ -1,11 +1,8 @@
 ---
 layout: single
-title: 
-tags: [Isaac Ullah]
-modified: 2016-02-16
-comments: true
+title: About
 header:
-  image: /images/isaac_on_a_cliff.png
+  overlay-image: /images/isaac_on_a_cliff.png
 author_profile: true
 toc: true
 ---
