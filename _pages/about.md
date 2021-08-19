@@ -2,7 +2,6 @@
 title: About
 header:
   overlay-image: /images/isaac_on_a_cliff.png
-author_profile: true
 permalink: /about/
 ---
 

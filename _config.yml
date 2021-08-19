@@ -273,7 +273,7 @@ defaults:
       share: true
       related: true
       toc: true
-      toc-sticky: true
+      toc_sticky: true
      
 defaults:
   # _pages
@@ -283,4 +283,5 @@ defaults:
     values:
       layout: single
       toc: true
-      toc-sticky: true
+      toc_sticky: true
+      author_profile: true
