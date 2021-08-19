@@ -274,6 +274,7 @@ defaults:
       related: true
       toc: true
       toc_sticky: true
+      overview: false
      
 defaults:
   # _pages
@@ -285,3 +286,4 @@ defaults:
       toc: true
       toc_sticky: true
       author_profile: true
+      overview: false
