@@ -3,6 +3,9 @@ title: NetLogo-Web models for teaching
 excerpt: A list of hosted NetLogo models for use in teaching
 tags: [NetLogo, Models, Modeling, Teaching]
 permalink: /Agent_Based_Modeling_Learning_Materials/
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.25
 ---
 <section id="table-of-contents" class="toc">
   <header>
