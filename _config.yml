@@ -272,6 +272,7 @@ defaults:
       comments:  true
       share: true
       related: true
+      toc: true
       toc_sticky: true
      
 defaults:
@@ -281,5 +282,6 @@ defaults:
       type: pages
     values:
       layout: single
+      toc: true
       toc_sticky: true
       author_profile: true
