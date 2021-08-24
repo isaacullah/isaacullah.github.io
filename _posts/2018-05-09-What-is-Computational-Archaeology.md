@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "What is 'Computational Archaeology?'"
 author: isaacullah
 modified: 2018-05-10
