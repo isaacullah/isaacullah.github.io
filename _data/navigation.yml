@@ -10,10 +10,10 @@ main:
       url: /CompArchLab/
 
     - title: GIS Tutorials
-      url: /GIS_Learning_Materials/
+      url: /GIS_Learning_Material/
       
     - title: Agent Based Modeling Tutorials
-      url: /Agent_Based_Modeling_Learning_Materials/
+      url: /Agent_Based_Modeling_Learning_Material/
 
     - title: GRASS GIS Addons
       url: /GRASS_GIS_Scripts/

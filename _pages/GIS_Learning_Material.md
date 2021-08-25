@@ -4,7 +4,7 @@ excerpt: Short courses in open-source GIS applications for Archaeologists, Anthr
 tags: [GIS, Landscape Reconstruction, GRASS, Workshop]
 header:
   overlay-image: /images/GIS_workshop_feat-img.png
-permalink: /GIS_Learning_Materials/
+permalink: /GIS_Learning_Material/
 ---
 
 
