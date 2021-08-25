@@ -5,7 +5,7 @@ tags: [NetLogo, Models, Modeling, Teaching]
 header:
   overlay_color: "#000"
   overlay_filter: "0.25
-permalink: /ABM_Learning_Material/
+permalink: /models/
 ---
 
 ## List of Web-Based Models
