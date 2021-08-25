@@ -5,7 +5,14 @@ modified: 2018-05-10
 comments: True
 excerpt: "Read on to find out!"
 tags: [computational, archaeology, theory]
-
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Ever since I created this website, I have gotten questions about what the term "Computational Archaeology" actually means. Most people seem to generally understand that it has something to do with using computers and also something to do with archaeology. But, beyond that, ideas seem to diverge fairly rapidly.
