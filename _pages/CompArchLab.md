@@ -2,12 +2,12 @@
 title: The Computational Archaeology Laboratory
 excerpt: About the Computational Archaeology Laboratory at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
-permalink: /CompArchLab/
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /images/CompArch_Students.jpg
   image_description: "Students in ANTH 562 "Computational Archaeology" in the Computational Archaeology Lab."
+permalink: /CompArchLab/
 ---
 
 The Computational Archaeology Laboratory at San Diego State University is a state of the art facility for computational approaches in archaeology and geoarchaeology. Specialties include GIS, agent-based modeling, imagery analysis, advanced statistical modeling, 3D analysis, as well sedimentology, granulometry, geomorphology, landscape analysis, and geochronology. A main focus of research is on the origins and long-term dynamics of coupled human and natural systems, including anthropogenic landscapes, in the Mediterranean and beyond.
