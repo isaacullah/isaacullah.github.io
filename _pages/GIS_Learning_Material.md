@@ -7,16 +7,6 @@ header:
 permalink: /GIS_Learning_Materials/
 ---
 
-<section id="table-of-contents" class="toc">
-  <header>
-    <h3>Overview</h3>
-  </header>
-<div id="drawer" markdown="1">
-*  Auto generated table of contents
-{:toc}
-</div>
-</section><!-- /#table-of-contents -->
-
 
 Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I therefore believe that it is imperative that GIS skills are taught to all social scientists. That is the main purpose of this page. Here, I make available several screencasted video tutorials and "short-courses" from classess and workshops that I have taught at a variety of institutions. 
 <br><br>
