@@ -37,7 +37,7 @@ Please visit the following links for information about several actively ongoing 
 
 ### Teaching
 
-I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Principles of Archaeology," ANTH 562 "Computational Archaeology," and ANTH 583 "Anthropogenic Landscapes."
+I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Principles of Archaeology," ANTH 562 "Computational Archaeology," ANTH 583 "Anthropogenic Landscapes," and ANTH 602 "Graduate Seminar in Archaeology." I also have lead undergraduate internships (ANTH 495) in historic preservation in coalition with the La Mesa Historical Society and the City of La Mesa, and have mentored several special topics courses for undergraduates (ANTH 499), and graduate students (ANTH 798).
 
 * * *
 

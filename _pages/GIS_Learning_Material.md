@@ -10,22 +10,22 @@ permalink: /GIS_Learning_Materials/
 
 Spatial data analysis is an increasingly important skill in social science. The ability to characterize, analyze, and intuit spatial social and socio-natural phenomena drives many intriguing research questions of current social relevance, including issues of sustainability, policy, resource management, institutional racism, inequality, and more. I therefore believe that it is imperative that GIS skills are taught to all social scientists. That is the main purpose of this page. Here, I make available several screencasted video tutorials and "short-courses" from classess and workshops that I have taught at a variety of institutions. 
 <br><br>
-I am equally dedicated to [FOSS (Free and Open-Source Software)](https://www.fsf.org/). I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](https://grass.osgeo.org), and all of my course materials are formulated to teach you how to use this software in your research.
+I am equally dedicated to [FOSS (Free and Open-Source Software)](https://www.fsf.org/){:target="_blank"}. I find open source software to be much more amenable to the goals of academic inquiry than commercial software[^1]. Because of this, I use, and advocate the use of the powerful FOSS GIS suite, [GRASS GIS](https://grass.osgeo.org){:target="_blank"}, and all of my course materials are formulated to teach you how to use this software in your research.
 
 ---
 
 
-## ANTH 562 Computational Archaeology (or ANTH 583, "GIS and Imagery Anlalysis")
+## ANTH 562 Computational Archaeology 
 
-These are materials for my current SDSU course, ANTH 562 "Computational Archaeology" (initially being taught as a variable topics course ANTH 583 "GIS and Imagery Analysis".)
+I regularly teach ANTH 562 "Computational Archaeology," which covers GIS for the first 2/3rds of the course. I regularly update video tutorials for the class, which I make freely available [on my YouTube channel](https://www.youtube.com/channel/UCnXYZpB1oDiK44tV2w9ypvA){:target="_blank"}.
 
-All materials and tutorials are now curated at [this GitHub Repo](https://github.com/isaacullah/GIS-Projects), where they are more easily maintained, obtained, documented, and licenced ([CC by SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)).
+All materials for the GIS projects in the course are now curated at [this GitHub Repo](https://github.com/isaacullah/GIS-Projects){:target="_blank"}, where they are more easily maintained, obtained, documented, and licenced ([CC by SA](https://creativecommons.org/licenses/by-nc-sa/4.0/){:target="_blank"}).
 
 ---
 
 ## Short Courses in GIS for Archaeologists and Geoarchaeologists
 
-The following workshops and "short-courses" were developed primarily for Archaeologists and Geoarchaeologists, but also teach skills that would be interesting to a more general social scientist as well. I am releasing them here under the [GPL license](https://www.gnu.org/copyleft/gpl.html). What this means is that you should feel free to download, use, modify, and distribute these materials, but I do ask that you credit me as their source.
+The following workshops and "short-courses" were developed primarily for Archaeologists and Geoarchaeologists, but also teach skills that would be interesting to a more general social scientist as well. I am releasing them here under the [GPL license](https://www.gnu.org/copyleft/gpl.html){:target="_blank"}. What this means is that you should feel free to download, use, modify, and distribute these materials, but I do ask that you credit me as their source.
 
 ### Course 1: Paleolandscape Reconstruction and Ancient Human Landuse
 
@@ -35,21 +35,21 @@ terrain models (DTM’s) of ancient landscapes. These paleolandscape DTM’s can
 
 #### Course Material (PDF):
 
-* [01-What is GIS?](/GIS_Workshops/01-What_is_GIS.pdf)
+* [01-What is GIS?](/GIS_Workshops/01-What_is_GIS.pdf){:target="_blank"}
 
-* [02-A quick note on projections.](/GIS_Workshops/02-A_Quick_Note_on_Projections.pdf)
+* [02-A quick note on projections.](/GIS_Workshops/02-A_Quick_Note_on_Projections.pdf){:target="_blank"}
 
-* [03-GRASS GIS basics.](/GIS_Workshops/03-GRASS_basics.pdf)
+* [03-GRASS GIS basics.](/GIS_Workshops/03-GRASS_basics.pdf){:target="_blank"}
 
-* [04-DEM's, surfaces, and images.](/GIS_Workshops/04-DEMs_surfaces_and_images.pdf)
+* [04-DEM's, surfaces, and images.](/GIS_Workshops/04-DEMs_surfaces_and_images.pdf){:target="_blank"}
 
-* [05-The Mediterranean Landscapes Dynamics Project.](/GIS_Workshops/05-Mediterranean_Landscapes_project.pdf)
+* [05-The Mediterranean Landscapes Dynamics Project.](/GIS_Workshops/05-Mediterranean_Landscapes_project.pdf){:target="_blank"}
 
-* [06-Erosion modeling in GIS.](/GIS_Workshops/06-Erosion%20Modeling%20Exercise.pdf)
+* [06-Erosion modeling in GIS.](/GIS_Workshops/06-Erosion%20Modeling%20Exercise.pdf){:target="_blank"}
 
-* [Paleolandscape Reconstruction Excercise](/GIS_Workshop/Paleolandscape%20Reconstruction%20Handout.pdf)
+* [Paleolandscape Reconstruction Excercise](/GIS_Workshop/Paleolandscape%20Reconstruction%20Handout.pdf){:target="_blank"}
 
-* [A brief GIS bibliography.](/GIS_Workshop/GIS_workshop_bib.pdf)
+* [A brief GIS bibliography.](/GIS_Workshop/GIS_workshop_bib.pdf){:target="_blank"}
 
 ### Course 2: GRASS GIS for Anthropoligists
 
@@ -58,7 +58,7 @@ series. It is a basic introduction to GRASS GIS and what anthropologists can do 
 
 #### Course Material (PDF):
 
-* [GRASS GIS for Anthropologists](/GIS_Workshops/GRASS_GIS_for_Anthropologists.pdf)
+* [GRASS GIS for Anthropologists](/GIS_Workshops/GRASS_GIS_for_Anthropologists.pdf){:target="_blank"}
 
 ---
 
