@@ -7,6 +7,20 @@ header:
   overlay_filter: "0.25"
   overlay_image: /images/tianshan_bw_pano.jpg
   image_description: "Black and white panorama of the Tianshan mountains in southern Kazakhstan"
+feature_row:
+  - image_path: /images/.jpg
+    alt: "placeholder image 1"
+    title: "[**The CompArch Blog**](/posts/)."
+    excerpt: ""
+  - image_path: /images/.jpg
+    alt: "placeholder image 2"
+    title: "[**The SDSU Computational Archaeology Lab**](/CompArchLab)."
+    excerpt: ""
+    url: "/CompArchLab"
+  - image_path: /images/unsplash-gallery-image-3-th.jpg
+    title: "[**The Community for Modeling Agro-Pastoral Lifeways in Eurasia**](https://www.cmaple.org)"
+    url: "https://www.cmaple.org"
+    excerpt: ""
 ---
 Dr. Isaac I. Ullah is a [computational geo-archaeologist](https://isaacullah.github.io/What-is-Computational-Archaeology/) who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
 
@@ -18,13 +32,5 @@ Dr. Isaac I. Ullah is a [computational geo-archaeologist](https://isaacullah.git
  
  <br>
  [**The Community for Modeling Agro-Pastoral Lifeways in Eurasia**](https://www.cmaple.org)
- 
- <br>
-[**GIS Teaching Materials**](/GIS_Workshops).
-
-<br>
-[**Software Development and Addons for GRASS GIS**](/GRASS).
-
-<br>
 
 ---
