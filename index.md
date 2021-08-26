@@ -8,7 +8,7 @@ header:
   overlay_image: /images/tianshan_bw_pano.jpg
   image_description: "Black and white panorama of the Tianshan mountains in southern Kazakhstan"
 feature_row:
-  - image_path: /images/Bova_overview.jpeg
+  - image_path: /images/Bova_overview_crop.jpeg
     alt: "Computational Archaeology Blog"
     title: "The CompArch Blog"
     excerpt: "*Posts about Computational Archaeology, Complexity Theory, GIS, Agent Based Modeling, and more...*"
