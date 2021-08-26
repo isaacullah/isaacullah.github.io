@@ -21,7 +21,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Isaac I. Ullah, PhD"
 description              : "Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology."
-url                      : https://isaacullah.github.io
+url                      : "https://isaacullah.github.io"
 baseurl                  : 
 repository               : "isaacullah/isaacullah.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
