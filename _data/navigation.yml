@@ -7,7 +7,7 @@ main:
       url: /blog/
 
     - title: The CompArch Lab
-      url: /CompArchLab/
+      url: /CompArchLab
 
     - title: GIS Tutorials
       url: /GIS_Learning_Material/

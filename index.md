@@ -8,19 +8,20 @@ header:
   overlay_image: /images/tianshan_bw_pano.jpg
   image_description: "Black and white panorama of the Tianshan mountains in southern Kazakhstan"
 feature_row:
-  - image_path: /images/bio-photo.jpg
-    alt: "placeholder image 1"
-    title: "[**The CompArch Blog**](/posts/)."
-    excerpt: ""
-  - image_path: /images/granulometry.jpg
-    alt: "placeholder image 2"
-    title: "[**The SDSU Computational Archaeology Lab**](/CompArchLab)."
-    excerpt: ""
+  - image_path: /images/Bova_overview.jpg
+    alt: "Computational Archaeology Blog"
+    title: "The CompArch Blog"
+    excerpt: "*Posts about Computational Archaeology, Complexity Theory, GIS, Agent Based Modeling, and more...*"
+    url: "posts"
+  - image_path: /images/Tablet.jpg
+    alt: "The CompArch Lab"
+    title: "The CompArch Lab."
+    excerpt: "Homepage for the Computational Archaeology Laboratory at San Diego State University."
     url: "/CompArchLab"
   - image_path: /images/Bedouin_pastoralist_Wadi_Faynan_1999.png
-    title: "[**The Community for Modeling Agro-Pastoral Lifeways in Eurasia**](https://www.cmaple.org)"
+    title: "The Community for Modeling Agro-Pastoral Lifeways in Eurasia"
     url: "https://www.cmaple.org"
-    excerpt: ""
+    excerpt: "A community curated digital clearinghouse for sharing data and models about Agro-Pastoralism in Eurasia."
 ---
 Dr. Isaac I. Ullah is a [computational geo-archaeologist](https://isaacullah.github.io/What-is-Computational-Archaeology/) who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production. 
 
@@ -30,13 +31,21 @@ I am currently migrating this website to an updated version of the Minimal Mista
 
 {% include feature_row %}
 
-<br>
- [**Bio, CV, and Research**](/about).
 
- <br>
- [**The SDSU Computational Archaeology Lab**](/CompArchLab).
- 
- <br>
- [**The Community for Modeling Agro-Pastoral Lifeways in Eurasia**](https://www.cmaple.org)
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
 ---
