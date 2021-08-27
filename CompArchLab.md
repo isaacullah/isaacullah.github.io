@@ -5,9 +5,8 @@ excerpt: About the Computational Archaeology Laboratory at San Diego State Unive
 tags: [Computational Archaeology, Laboratory, Resources]
 header:
   image: /images/CompArch_Students.jpg
-  image_description: "Students in ANTH 562 "Computational Archaeology" in the Computational Archaeology Lab."
 toc: true
-toc_stiky: true
+toc_sticky: true
 permalink: /CompArchLab/
 ---
 
