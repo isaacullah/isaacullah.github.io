@@ -1,6 +1,6 @@
 ---
-title: Open-source GIS Skills for Archaeologists, Anthropologists, and other Social Scientists
-excerpt: Tutorial materials for open-source GIS applications for Archaeologists, Anthropologists, and other Social Scientists. 
+title: Open-source GIS Learning Materials
+excerpt: Tutorials in  open-source GIS applications for archaeologists, anthropologists, and other social scientists. 
 tags: [GIS, Landscape Reconstruction, GRASS, Workshop]
 header:
   overlay_image: /images/GIS_workshop_feat-img.png
