@@ -1,7 +1,8 @@
 ---
 title: About
 header:
-  image: /images/isaac_on_a_cliff.png
+  overlay_image: /images/isaac_on_a_cliff.png
+  overlay_filter: 0.5
 permalink: /about/
 ---
 

@@ -2,6 +2,8 @@
 title: NetLogo-Web models for teaching
 excerpt: A list of hosted NetLogo models for use in teaching
 tags: [NetLogo, Models, Modeling, Teaching]
+header:
+  overlay_color: "#333"
 permalink: /ABM_Learning_Material/
 ---
 
