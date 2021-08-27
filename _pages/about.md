@@ -1,5 +1,6 @@
 ---
-title: About
+title: Isaac I. Ullah, PhD
+excerpt: Computational Archaeology, Complex Adaptive Systems, Social-Ecological Systems, Geoarchaeology.
 header:
   overlay_image: /images/isaac_on_a_cliff.png
   overlay_filter: 0.5
