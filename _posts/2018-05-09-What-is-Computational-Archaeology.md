@@ -1,6 +1,5 @@
 ---
 title: "What is 'Computational Archaeology?'"
-author: isaacullah
 modified: 2018-05-10
 comments: True
 excerpt: "Read on to find out!"

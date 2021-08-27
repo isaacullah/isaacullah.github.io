@@ -1,9 +1,16 @@
 ---
 title: "A sediment granulometry approach to anthropogenic landscape impacts"
 modified: 2021-03-26
-comments: true
 excerpt: "A case study from a small alluvial fan in southeast Kazakhstan (prepared for the 2021 SAA meeting)"
 tags: [archaeology, anthropocene, geoarchaeology]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 #### Citation:
