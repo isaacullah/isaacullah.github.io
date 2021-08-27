@@ -4,7 +4,8 @@ title: The Computational Archaeology Laboratory
 excerpt: About the Computational Archaeology Laboratory at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
 header:
-  overlay-image: /images/CompArch_Students.jpg
+  overlay_image: /images/CompArch_Students.jpg
+  overlay_filter: 0.5
 toc: true
 toc_sticky: true
 permalink: /CompArchLab/
