@@ -4,9 +4,7 @@ title: The Computational Archaeology Laboratory
 excerpt: About the Computational Archaeology Laboratory at San Diego State University.
 tags: [Computational Archaeology, Laboratory, Resources]
 header:
-  overlay_color: "#000"
-  overlay_filter: "0.25"
-  overlay_image: /images/CompArch_Students.jpg
+  image: /images/CompArch_Students.jpg
   image_description: "Students in ANTH 562 "Computational Archaeology" in the Computational Archaeology Lab."
 toc: true
 toc_stiky: true
