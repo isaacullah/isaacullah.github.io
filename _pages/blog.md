@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: posts
 title: "CompArch Blog Posts:"
 excerpt: "A blog about computational archaeology..."
 author_profile: true
