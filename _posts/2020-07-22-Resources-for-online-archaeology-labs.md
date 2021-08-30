@@ -1,9 +1,6 @@
 ---
-layout: post
 title: "Resources for online archaeology labs"
-author: isaacullah
 modified: 2020-07-22
-comments: True
 excerpt: "How will we convert our archaeology lab classes into *meaningful* online courses?"
 tags: [archaeology, labs, online, teaching]
 ---
