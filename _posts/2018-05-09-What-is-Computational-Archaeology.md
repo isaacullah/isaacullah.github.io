@@ -1,9 +1,11 @@
 ---
 title: "What is 'Computational Archaeology?'"
 modified: 2018-05-10
-comments: True
 excerpt: "Read on to find out!"
-tags: [computational, archaeology, theory]
+tags: 
+    - computational archaeology
+    - theory
+    - digital archaeology
 layout: single
 author_profile: true
 read_time: true

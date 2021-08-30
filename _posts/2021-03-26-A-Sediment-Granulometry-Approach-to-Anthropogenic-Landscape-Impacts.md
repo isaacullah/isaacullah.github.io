@@ -13,16 +13,8 @@ toc: true
 toc_sticky: true
 ---
 
-#### Citation:
 
-Ullah, I.I.; Piel, D.; Sakai, S.; Chang, C.; and Tourtellotte, P. 2021 _"A sediment granulometry approach to anthropogenic landscape impacts."_ Poster presented a the 2021 Society for American Archaeology Meetings. April 15-19, 2021 (online)
-
-&nbsp;
-
-__THIS POSTER PAPER WAS CREATED FOR THE 2021 SOCIETY FOR ARCHAEOLOGY MEETING. PLEASE USE THE ABOVE CITATION FOR ANY REFERENCE TO THIS WORK.__
-
-
-## Introduction
+# Introduction
 
 Sediment granulometry is the study of the size distribution of clasts in sediments. There is a well-understood relationship between fluxes in the energy of wind and water flow and the detachment, entrainment, and subsequent deposition of particles of different sizes. Granulometry is commonly used in sedimentological approaches to understanding past depositional environments, but has rarely been used in geoarchaeological approaches to understanding human impacts on depositional processes. Here, we detail a granulometry approach combined with Optically Stimulated Luminescence (OSL) dating to understanding past human land-use impacts during the Iron Age through Medieval periods on sediment deposition on a small alluvial fan in southeast Kazakhstan.
 
@@ -80,12 +72,17 @@ These findings may be the signature of initial Iron-Age agropastoral landscape m
 
 Here, we have shown the preliminary efficacy of sediment granulometry combined with OSL dating to elicit fine-scale changes in sedimentation rates and depositional energy that may be indicative of human land-use within otherwise stable climatic conditions. We have documented a previously unknown erosional episode at ~400 BCE in this region, followed by a ~500 year period of deposition of fine-grained sediment that may be related to changes in human land-use patterns. We await the final OSL dates from the 2017 samples, and the opportunity to quantify the particle size distribution in the silt and clay size fractions. We anticipate that these will strengthen the preliminary conclusions presented here.
 
-### Acknowledgements
+## Acknowledgements
 
 We thank numerous field and laboratory personnel and our Kazakh colleagues who helped make this work possible. Work was funded by the National Science Foundation and an internal grant from San Diego State University.
 
+## Citation:
+
+Ullah, I.I.; Piel, D.; Sakai, S.; Chang, C.; and Tourtellotte, P. 2021 _"A sediment granulometry approach to anthropogenic landscape impacts."_ Poster presented a the 2021 Society for American Archaeology Meetings. April 15-19, 2021 (online)
+
+
 ## Works Cited
 
-Chang C (2018) Rethinking Prehistoric Central Asia: Shepherds, Farmers, and Nomads. Routledge, New York
-Macklin MG, Panyushkina IP, Toonen WHJ, Chang C, Tourtellotte PA, Duller GAT, Wang H, Prins MA (2015) The influence of Late Pleistocene geomorphological inheritance and Holocene hydromorphic regimes on floodwater farming in the Talgar catchment, southeast Kazakhstan, Central Asia. Quaternary Science Reviews 129:85&ndash;95
-Ullah IIT, Chang C, Tourtellotte P (2019) Water, dust, and agro-pastoralism: Modeling socio-ecological co-evolution of landscapes, farming, and human society in southeast Kazakhstan during the mid to late Holocene. Journal of Anthropological Archaeology 55
+- Chang C (2018) Rethinking Prehistoric Central Asia: Shepherds, Farmers, and Nomads. Routledge, New York
+- Macklin MG, Panyushkina IP, Toonen WHJ, Chang C, Tourtellotte PA, Duller GAT, Wang H, Prins MA (2015) The influence of Late Pleistocene geomorphological inheritance and Holocene hydromorphic regimes on floodwater farming in the Talgar catchment, southeast Kazakhstan, Central Asia. Quaternary Science Reviews 129:85&ndash;95
+- Ullah IIT, Chang C, Tourtellotte P (2019) Water, dust, and agro-pastoralism: Modeling socio-ecological co-evolution of landscapes, farming, and human society in southeast Kazakhstan during the mid to late Holocene. Journal of Anthropological Archaeology 55
