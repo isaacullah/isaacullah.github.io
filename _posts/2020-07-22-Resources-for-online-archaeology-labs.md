@@ -3,6 +3,14 @@ title: "Resources for online archaeology labs"
 modified: 2020-07-22
 excerpt: "How will we convert our archaeology lab classes into *meaningful* online courses?"
 tags: [archaeology, labs, online, teaching]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 2020 has been a year of challenges and change, to say the least. As we prepare for an online Fall semester, it's clear that COVID-19 has radically changed the way we are teaching and learning across all disciplines. Archaeology, being such a hands-on discipline, is, I think, facing some especially difficult existential crises as we move forward with "what to do" in an online format. Foremost among these crises is the issue of how we will convert our archaeology lab classes into *meaningful* online courses.
