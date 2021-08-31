@@ -12,14 +12,14 @@ feature_row:
     alt: "Computational Archaeology Blog"
     title: "The CompArch Blog"
     excerpt: "*Posts about Computational Archaeology, Complexity Theory, GIS, Agent Based Modeling, and more...*"
-    url: "posts"
+    url: "/blog/"
     btn_label: "Go to blog."
     btn_class: "btn--primary"
   - image_path: /images/Tablet.jpg
     alt: "The CompArch Lab"
     title: "The CompArch Lab."
     excerpt: "Homepage for the Computational Archaeology Laboratory at San Diego State University."
-    url: "/CompArchLab"
+    url: "/CompArchLab/"
     btn_label: "Learn More."
     btn_class: "btn--primary"
   - image_path: /images/Bedouin_pastoralist_Wadi_Faynan_1999.png
