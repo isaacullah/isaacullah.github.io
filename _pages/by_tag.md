@@ -6,7 +6,7 @@ header:
   overlay_color: "#333"
 entries_layout: grid
 author_profile: true
-permalink: /blog/
+permalink: /blog/by_tag/
 ---
 
 *Posts about Computational Archaeology, Complexity Theory, GIS, Agent Based Modeling, and more...*
