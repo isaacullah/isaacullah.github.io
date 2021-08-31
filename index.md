@@ -32,7 +32,7 @@ feature_row:
 Dr. Isaac I. Ullah is a [computational geo-archaeologist](https://isaacullah.github.io/What-is-Computational-Archaeology/) who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production.
 
 {: .text-center}
-{% include feature_row type="center"%}
+{% include feature_row}
 
 
 ---
