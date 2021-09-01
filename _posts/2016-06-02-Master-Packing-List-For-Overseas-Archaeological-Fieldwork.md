@@ -15,7 +15,7 @@ toc_sticky: true
 
 Well, it's that time of year again. Spring semester is over, finals are all graded, and all the undergrads have fled campus. It can mean only one thing for the international archaeologist: time to cram all your gear into the maximum allowed luggage, and hop a plane to your fieldwork site! This year, however, I'm not doing that. I'm moving instead. Seeing all the lovely facebook posts of my friends and colleagues out in the field, however, has me feeling quite nostalgic. So I thought I could get in on the fun a bit by sharing my packing list of the things I bring with me when I *do* go off for fieldwork overseas. This list is the culmination of 17 years of international archaeological work in Jordan, Spain, Kazkhstan, and Italy. I've whittled it down to just the essentials, and you should be able to fit this into one carry on and one piece of checked luggage - both below the maximum allowable size/weight limits for international air travel. 
 
-#### Preliminary Notes
+## Preliminary Notes
 
 - My original list is clearly male-skewed. Women will likely need a few different items, especially toiletries. Also, in certain countries women may need things like head-scarves, etc. My friend Stefani Crabtree has been very kind to send me an additional list of items she's found useful as a woman traveling and livng in the field. These can be found below. Thank you Stefani!
 - Stefani and others have made additional general suggestions as well. These are also found below the original list.
@@ -26,7 +26,7 @@ Well, it's that time of year again. Spring semester is over, finals are all grad
 
 And now, without further ado, here's the list!
 
-# Clothing
+## Clothing
 
 - Casual pants - 2-3
 - Casual shorts - 2
@@ -48,7 +48,7 @@ And now, without further ado, here's the list!
 - Rain jacket and pants (depends on season/climate)
 - Sweatshirts or light jackets (depends on season/climate)
 
-# Dig kit checklist
+## Dig kit checklist
 
 - Profiling pegs (4)
 - String - 1 bolt
@@ -70,7 +70,7 @@ And now, without further ado, here's the list!
 - 30-meter metric measuring tape - 1
 - Gloves (unless you are a masochist)
 
-# Electronics
+## Electronics
 
 - External HD and cord
 - Phone and charger
@@ -92,7 +92,7 @@ And now, without further ado, here's the list!
 - Camera, lenses, charger, batteries, and camera bag (your phone might have a good enough camera though)
 - 64 GB SD cards - 2 (only if you are bringing a high-res camera)
 
-# Toiletry Kit and Medicines
+## Toiletry Kit and Medicines
 
 - Sunblock (SPF 30, minimum. Full-spectrum coverage. Zinc-oxide is the best material)
 - Razor
@@ -122,7 +122,7 @@ And now, without further ado, here's the list!
 - Finger and toenail clippers
 - Sewing kit (for when you split your pants!)
 
-# Miscellaneous Gear
+## Miscellaneous Gear
 
 - Mosquito net (not always needed, but you'll be glad to have it if it is)
 - Sunglasses + case
@@ -139,7 +139,7 @@ And now, without further ado, here's the list!
 - Platypus bottle with tube and valve (especially for survey)
 - Sleep sheet (for hostels and the dig-house)
 
-# Stefani's Additional Items for Women
+## Stefani's Additional Items for Women
 
 Thanks to Stefani Crabtree for these additional recommendations for women heading for the field!!
 
@@ -159,7 +159,7 @@ Thanks to Stefani Crabtree for these additional recommendations for women headin
 
 <br>
 
-# Addenda
+## Addenda
 
 These are additions to the above, based on suggestions from friends and fellow archaeologists who know stuff I don't.
 
@@ -180,8 +180,8 @@ These are additions to the above, based on suggestions from friends and fellow a
 
 - Nose guards that attach to your sunglasses and prevent sunbunt noses! Morag has one that is a Canadian flag, and highly recommends these for work in the burning Near Eastern deserts!!
 
-##### Are there any must-have items that are not mentioned above? 
-##### Let me know! I'll add them here, and credit you as the source!
+* Are there any must-have items that are not mentioned above?*
+* Let me know! I'll add them here, and credit you as the source!*
 
 
 # Additional Travel Advice
