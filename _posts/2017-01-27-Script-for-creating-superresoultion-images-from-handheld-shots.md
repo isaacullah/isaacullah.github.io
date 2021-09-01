@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Script to automate creation of super resolution images from a series of handheld shots"
-author: isaacullah
 modified: 2017-01-27
-comments: True
 excerpt: "Automate that super-resolution!"
-tags: [archaeology, travel, fieldwork, advice]
+tags: [digital archaeology, FOSS, methods]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 I've put together a small script to automate the process of creating a "super resolution" image from a series of handheld photos, and I thought I'd share it here. This basically emulates the "pixel shift" feature on certain Pentax and Olympus cameras by taking advantage of your shaky hands! The script, as well as much of the information below and some sample images you can use to test it out, have been merged into the [pixels.us scripts github repo](https://github.com/pixlsus/Scripts), under the directory ["superres"](https://github.com/pixlsus/Scripts/tree/master/superres). The main set of sample images can be found [here](https://github.com/pixlsus/Scripts/tree/master/superres/sample_images)

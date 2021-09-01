@@ -1,13 +1,18 @@
 ---
-layout: post
 title: "2015 SAA Presentation"
-author: isaacullah
 modified: 2015-04-14
-comments: True
 excerpt: "Complexity in space and time: spatio-temporal variability and scale in simulations of social-ecological systems"
-tags: [Complexity Science, Time, Space, Simulation]
-image:
-  feature: 2015_presentation_banner.png
+tags: [complexity, theory]
+header:
+  image: 2015_presentation_banner.png
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 View my 2015 SAA presentation, entitled, [*Complexity in Space and Time: Spatio-temporal variability and scale in simulations of socio-natural systems*](/presentations/saa2015.html).

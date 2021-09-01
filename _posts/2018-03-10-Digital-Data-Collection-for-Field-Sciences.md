@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Open source digital data collection for field sciences."
-author: isaacullah
 modified: 2018-03-10
-comments: True
 excerpt: "My approach to an open-source data collection workflow."
-tags: [archaeology, fieldwork, mobile]
+tags: [digital archaeology, fieldwork, Calabria, FOSS, methods]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Presentation given at [SCaLE16x](https://www.socallinuxexpo.org/scale/16x) in Pasadena, California.

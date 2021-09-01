@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Inter- and Intra-scalar synchronicity in social-ecological systems"
-author: isaacullah
 modified: 2015-04-10
-comments: True
 excerpt: "Some graphics about issues of scale and time in coupled human-natural systems"
-tags: [Complexity Science, Time, Space, Simulation]
+tags: [complexity, theory]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Here are some animated gifs I've put together to help illustrate some ideas about hierarchical linking of subsystems at different temporal and physical scales.

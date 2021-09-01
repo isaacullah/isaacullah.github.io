@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Isaac's List of FOSS tools for academics..."
-author: isaacullah
 modified: 2017-10-09
-comments: True
 excerpt: "...and what to use them for!"
-tags: [FOSS, software, list, tools]
+tags: [FOSS, lists, digital archaeology, computational archaeology]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 ## ...and what to use them for!

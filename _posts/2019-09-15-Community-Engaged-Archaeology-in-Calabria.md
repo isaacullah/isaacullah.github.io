@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Archaeology as Intellectual Service"
-author: isaacullah
 modified: 2019-09-13
-comments: True
 excerpt: "How can archaeologists collaborate with community members and stakeholders to enhance the utility of archaeology for all?"
-tags: [archaeology, publications, Calabria]
+tags: [community engaged archaeology, publications, Calabria]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 A new publication is out now in the journal *Archaeologies* about our approach to community-engagd archaeology in Calabria! The piece showcases the experience of a community-engaged approach to the [archaeology of sustainabilty in the San Pasquale Valley](/Laborscapes-and-Archaeologies-of-Sustainability) in southern Calabria.

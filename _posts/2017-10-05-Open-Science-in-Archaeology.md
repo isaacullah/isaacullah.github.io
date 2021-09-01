@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Open Science in Archaeology"
-author: isaacullah
 modified: 2017-10-05
-comments: True
 excerpt: "Open Science in Archaeology article now out!"
-tags: [archaeology, fieldwork, Mobile]
+tags: [fieldwork, theory, FOSS]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 ## Open Science in Archaeology article now out!

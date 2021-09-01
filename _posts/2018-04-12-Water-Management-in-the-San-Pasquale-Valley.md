@@ -1,11 +1,17 @@
 ---
-layout: post
+
 title: "Historic Water Management Infrastrucure in the San Pasquale Valley"
-author: isaacullah
 modified: 2018-04-12
-comments: True
 excerpt: "Failing resilience of a locally-derived erosion control system"
-tags: [archaeology, fieldwork, mobile]
+tags: [digital archaeology, fieldwork, Calabria]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Poster presented at the 2018 Society for American Archaeology meetings in Washington DC. Click image to download full-resolution PDF.

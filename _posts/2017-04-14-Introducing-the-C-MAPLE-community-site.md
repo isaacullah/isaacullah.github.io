@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Introducing the C-MAPLE Community Site"
-author: isaacullah
 modified: 2017-04-14
-comments: True
 excerpt: "Introducing C-MAPLE, the Community for Modeling Agro-Pastoral Lifeways in Eurasia."
-tags: [archaeology, modeling, community]
+tags: [computational archaeology, community, digital archaeology]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 I'm freshly back from the 2017 SAA annual meeting in Vancouver, BC. It was a very good meeting for several reasons, but most exciting to me is the outcome of the 'Lightning Round' forum that I organized with my dear colleague Claudia Chang on the topic of "Modeling Agropastoralism in Eurasia."

@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Towards a theory of punctuated subsistence change"
-author: isaacullah
 modified: 2015-08-04
-comments: True
 excerpt: "A complexity theory approach to the origins of agriculture"
-tags: [complexity, subsistence, archaeology, agriculture, systems]
+tags: [complexity, subsistence, agriculture, theory, publications]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Well, I'm back after a pretty productive summer. I managed to do some different and interesting field-work in Calabria, southern Italy (which I'll describe more fully in a subsequent post), as well as to finally bring a couple of articles to publication. Foremost among these is a paper that I've been working on for some time now, and that [has just come out in the Proceedings of the National Academy of Sciences](http://www.pnas.org/content/112/31/9579.abstract), with coauthors [Ian Kuijt](http://anthropology.nd.edu/faculty-and-staff/faculty-by-alpha/ian-kuijt/) and [Jacob Freeman](http://anthropology.usu.edu/htm/people/jacob-freeman/).  

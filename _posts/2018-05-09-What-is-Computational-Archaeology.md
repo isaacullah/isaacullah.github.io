@@ -6,6 +6,7 @@ tags:
     - computational archaeology
     - theory
     - digital archaeology
+    - teaching
 layout: single
 author_profile: true
 read_time: true

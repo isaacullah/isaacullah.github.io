@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "The Anthropocene as the Physical Record of Social-Ecological Systems"
-author: isaacullah
 modified: 2018-04-14
-comments: True
 excerpt: "How can we use the archaeological record to learn about the future?"
-tags: [archaeology, theory, applications]
+tags: [theory, Anthropocene]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Discussion paper presented in the symposium "Archaeological Perspectives on the Anthropocene," at the 2018 Society for American Archaeology meetings in Washington DC.

@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "DroneSurveyPlanner v0.1 beta"
-author: isaacullah
 modified: 2018-01-02
-comments: True
 excerpt: "A LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission."
-tags: [archaeology, fieldwork, drones]
+tags: [digital archaeology, fieldwork, drones, FOSS, methods]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 This is a quick blog post to announce the initial beta release of LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission. The release can be found at the following DOI: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1134686.svg)](https://doi.org/10.5281/zenodo.1134686)

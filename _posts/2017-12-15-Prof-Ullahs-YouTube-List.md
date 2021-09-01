@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Professor Ullah's List of Great Archaeology YouTube Videos"
-author: isaacullah
 modified: 2017-12-15
-comments: True
 excerpt: "This is a list of YouTube videos to help you teach and learn about archaeology and ancient civilizations."
-tags: [archaeology, videos, lists]
+tags: [teaching, lists]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 This is a list of YouTube videos to help you teach and learn about archaeology and ancient civilizations. This list derives from my course, "Roots of Civilizations," and generally follows the syllabus for that course. I generally show an excerpt from one or more of these videos at the start of each class as we progress through the semester. I've arranged this list topically in the same order as the general subjects covered in my class. There is a definite narrative arc to the order of the videos, and I recommend that you watch them in the order arranged. This is a "living" list, however, and will be updated over time as I update my course. 

@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Laborscapes and Archaeologies of Sustainability"
-author: isaacullah
 modified: 2019-09-13
-comments: True
 excerpt: "New article on our work in Calabria, out now!"
-tags: [archaeology, publications, Calabria]
+tags: [Anthropocene, publications, Calabria]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 

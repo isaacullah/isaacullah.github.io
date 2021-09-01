@@ -2,7 +2,7 @@
 title: "Resources for online archaeology labs"
 modified: 2020-07-22
 excerpt: "How will we convert our archaeology lab classes into *meaningful* online courses?"
-tags: [archaeology, labs, online, teaching]
+tags: [digital archaeology, computational archaeology, teaching, FOSS, methods]
 layout: single
 author_profile: true
 read_time: true

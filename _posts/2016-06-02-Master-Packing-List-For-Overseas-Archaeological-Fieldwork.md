@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Master Packing List for Overseas Archaeological Projects"
-author: isaacullah
 modified: 2016-06-02
-comments: True
 excerpt: "What should you bring for overseas fieldwork?"
-tags: [archaeology, travel, fieldwork, advice]
+tags: [fieldwork, lists]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Well, it's that time of year again. Spring semester is over, finals are all graded, and all the undergrads have fled campus. It can mean only one thing for the international archaeologist: time to cram all your gear into the maximum allowed luggage, and hop a plane to your fieldwork site! This year, however, I'm not doing that. I'm moving instead. Seeing all the lovely facebook posts of my friends and colleagues out in the field, however, has me feeling quite nostalgic. So I thought I could get in on the fun a bit by sharing my packing list of the things I bring with me when I *do* go off for fieldwork overseas. This list is the culmination of 17 years of international archaeological work in Jordan, Spain, Kazkhstan, and Italy. I've whittled it down to just the essentials, and you should be able to fit this into one carry on and one piece of checked luggage - both below the maximum allowable size/weight limits for international air travel. 

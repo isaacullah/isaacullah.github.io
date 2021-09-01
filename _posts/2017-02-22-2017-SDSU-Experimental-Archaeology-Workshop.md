@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "2017 SDSU Experimental Archaeology Workshop"
-author: isaacullah
 modified: 2017-03-06
-comments: True
 excerpt: "SDSU students learn to make and use stone tools for science!"
-tags: [experimental archaeology, workshop, teaching]
+tags: [experimental archaeology, teaching]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 This semester I had the distinct pleasure of working with some of our SDSU Anthropology undergraduates to plan and execute a workshop in which students could get a first-hand experience of making and using stone tools to conduct use-wear experiments. Best of all, the students obtained a grant to fund this from our campus initiative called the ["Student Success Fee"](http://bfa.sdsu.edu/financial/budget/ssfee/). This workshop was made possible through their successfull application to this program, which, in turn, derives from their own student fees. While I worked with them to develope the plan and proposal, it really was the dedication of our [undergraduate majors](http://aas.sdsu.edu/) that led to a successful outcome.
 <br><br>

@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Kazakhstan fieldwork"
-author: isaacullah
 modified: 2015-10-15
-comments: True
 excerpt: "Photographs and thoughts about landscape archaeology in southern Kazakstan"
-tags: [landscapes, Kazakhstan, survey, geoarchaeology]
+tags: [fieldwork, Central Eurasia, geoarchaeology]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 I'm in Almaty Kazakhstan at the moment, where I've just finished a stint of fieldwork doing some geoarchaeological survey in the foothills and alluvial fans of the Tian Shan mountains. This is *quite* a landscape! 

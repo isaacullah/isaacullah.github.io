@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Water, Dust, and Agropastoralism"
-author: isaacullah
 modified: 2019-07-22
-comments: True
 excerpt: "New article on our work in Kazakhstan, out now!"
-tags: [archaeology, publications, Central Eurasia]
+tags: [Anthropocene, geoarchaeology, publications, Central Eurasia]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 

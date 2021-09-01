@@ -1,11 +1,16 @@
 ---
-layout: post
 title: "Going Paperless in Calabria"
-author: isaacullah
 modified: 2018-01-02
-comments: True
 excerpt: "An open-source mobile data collection workflow."
-tags: [archaeology, fieldwork, mobile]
+tags: [digtial archeology, fieldwork, Calabria, FOSS, methods]
+layout: single
+author_profile: true
+read_time: true
+comments:  true
+share: true
+related: true
+toc: true
+toc_sticky: true
 ---
 
 Presentation given at the 2018 SHA meetings in New Orleans. 

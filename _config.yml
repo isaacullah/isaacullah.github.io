@@ -138,7 +138,7 @@ footer:
 include:
   - .htaccess
   - _pages
-  - [_pages]
+  - _blog
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
@@ -201,7 +201,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 10 # amount of posts to show
+paginate: 6 # amount of posts to show
 paginate_path: /blog/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
