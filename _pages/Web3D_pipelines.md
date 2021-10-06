@@ -9,7 +9,7 @@ permalink: /Web3D_pipelines/
 
 ## This is a test
 
-### 3D model data hosted on Github and served via <model-viewer> script.
+### 3D model data hosted on Github and served via the model-viewer script.
 <!-- Import the component -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
 
