@@ -11,11 +11,9 @@ permalink: /Web3D_pipelines/
 
 ### 3D model data hosted on Github and served via the model-viewer script.
 
-Please wiat for the model to load (may take a minute or more)
+Please wait for the model to load (may take a minute or more)
 <!-- Import the model viewer script -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-
-<model-viewer src="/mckinney_livox_avia/scene.gltf" alt="A 3D model of Braki Cloth Store" ar ar-modes="webxr scene-viewer quick-look" environment-image="neutral" auto-rotate camera-controls></model-viewer>
 
 <style>
   model-viewer#interaction {
@@ -23,7 +21,7 @@ Please wiat for the model to load (may take a minute or more)
   }
 </style>
 <!-- use unique asset to ensure preloading -->
-<model-viewer id="interaction" camera-controls loading="eager" reveal="interaction" poster="/mckinney_livox_avia/McKinney_lidar.png" src="/mckinney_livox_avia/scene.gltf" alt="A 3D model of the McKinney House in La Mesa"></model-viewer>
+<model-viewer id="reveal" camera-controls loading="eager" reveal="interaction" poster="/mckinney_livox_avia/McKinney_lidar.png" src="/mckinney_livox_avia/scene.gltf" alt="A 3D model of the McKinney House in La Mesa"></model-viewer>
 
 ### 3D model data hosted and served via Sketchfab.
 
