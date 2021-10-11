@@ -1,0 +1,11 @@
+Model Information:
+* title:	McKinney House - Livox Avia pointcloud
+* source:	https://sketchfab.com/3d-models/mckinney-house-livox-avia-pointcloud-b8740a7e91804fc2a81804a9d12dda7b
+* author:	isaaciullah (https://sketchfab.com/isaaciullah)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McKinney House - Livox Avia pointcloud" (https://sketchfab.com/3d-models/mckinney-house-livox-avia-pointcloud-b8740a7e91804fc2a81804a9d12dda7b) by isaaciullah (https://sketchfab.com/isaaciullah) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

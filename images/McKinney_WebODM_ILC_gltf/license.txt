@@ -1,0 +1,11 @@
+Model Information:
+* title:	McKinney House pointcloud - WebODM using an ILC
+* source:	https://sketchfab.com/3d-models/mckinney-house-pointcloud-webodm-using-an-ilc-52f99461b8ac43ef9bec3dd63cbb2794
+* author:	isaaciullah (https://sketchfab.com/isaaciullah)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "McKinney House pointcloud - WebODM using an ILC" (https://sketchfab.com/3d-models/mckinney-house-pointcloud-webodm-using-an-ilc-52f99461b8ac43ef9bec3dd63cbb2794) by isaaciullah (https://sketchfab.com/isaaciullah) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
