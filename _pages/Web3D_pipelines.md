@@ -6,8 +6,16 @@ header:
     overlay_color: "#333"
 permalink: /Web3D_pipelines/
 ---
-<!-- Import the model viewer script -->
+
+<!-- Import the model viewer script and set viewport size -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
+<style>
+model-viewer {
+  width: 800px;
+  height: 600px;
+}
+</style>
+
 These are 3D models created for the paper "Preserving the Past for an Uncertain Future: Accessible, Low-Cost Methods for 3-D Data Creation, Processing, and Dissemination in Digital Cultural Heritage Preservation." Presented at the 2021 Web3D conference special track ["Online Legacies And Cultural Heritage"](https://web3d.siggraph.org/call-for-papers/online-legacies-and-cultural-heritage/).
 
 The data are archived in the Open Science Framework repository, including Web3D-friendly ".glTF" versions. To access these data please access [this OSF repository referencing DOI: DOI 10.17605/OSF.IO/8GKHT](https://osf.io/8gkht/).
