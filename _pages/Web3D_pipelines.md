@@ -21,7 +21,7 @@ Please wait for the interactive model-viewer frames to load (may take a minute o
 ### Model-viewer embed
 
 
-<model-viewer src="https://mfr.osf.io/render?url=https://osf.io/76yds/?direct%26mode=render%26action=download%26mode=render" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
+<model-viewer src="/images/McKinney_Livox_Avia_gltf.zip" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
@@ -42,7 +42,7 @@ Please wait for the interactive model-viewer frames to load (may take a minute o
 
 ### Model-viewer code
 
-<model-viewer src="scene.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
+<model-viewer src="/images/McKinney_WebODM_ILC_gltf.zip" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
@@ -64,7 +64,7 @@ Please wait for the interactive model-viewer frames to load (may take a minute o
 
 ### Model-viewer embed
 
-<model-viewer src="scene.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
+<model-viewer src="/images/McKinney_Trnio_gltf.zip" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
