@@ -8,19 +8,31 @@ permalink: /Web3D_pipelines/
 ---
 <!-- Import the model viewer script -->
 <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
-Please wait for the models to load (may take a minute or more)
+These are 3D models created for the paper "Preserving the Past for an Uncertain Future: Accessible, Low-Cost Methods for 3-D Data Creation, Processing, and Dissemination in Digital Cultural Heritage Preservation." Presented at the 2021 Web3D conference special track ["Online Legacies And Cultural Heritage"](https://web3d.siggraph.org/call-for-papers/online-legacies-and-cultural-heritage/).
+
+The data are archived in the Open Science Framework repository, including Web3D-friendly ".glTF" versions. To access these data please access [this OSF repository referencing DOI: DOI 10.17605/OSF.IO/8GKHT](https://osf.io/8gkht/).
+
+The Sketchfab models can also be viewed [directly on Sketchfab](https://sketchfab.com/isaaciullah).
+
+Please wait for the interactive model-viewer frames to load (may take a minute or more, depending on your connection speed).
 
 ## McKinney House Livox Avia LiDAR Scanning Pipeline
 
 ### Model-viewer embed
 
-<style>
-  model-viewer#interaction {
-    --poster-color: transparent;
-  }
-</style>
-<!-- use unique asset to ensure preloading -->
-<model-viewer id="reveal" camera-controls loading="eager" reveal="interaction" poster="/mckinney_livox_avia/McKinney_lidar.png" src="/mckinney_livox_avia/scene.gltf" alt="A 3D model of the McKinney House in La Mesa"></model-viewer>
+
+<model-viewer src="https://mfr.osf.io/render?url=https://osf.io/76yds/?direct%26mode=render%26action=download%26mode=render" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
+
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
 
 ### Sketchfab embed
 
@@ -29,13 +41,19 @@ Please wait for the models to load (may take a minute or more)
 ## McKinney House ILC and WebODM Photogrammetry Scanning Pipeline
 
 ### Model-viewer code
-<style>
-  model-viewer#interaction {
-    --poster-color: transparent;
-  }
-</style>
-<!-- use unique asset to ensure preloading -->
-<model-viewer id="reveal" camera-controls loading="eager" reveal="interaction" poster="/mckinney_livox_avia/McKinney_lidar.png" src="/mckinney_livox_avia/scene.gltf" alt="A 3D model of the McKinney House in La Mesa"></model-viewer>
+
+<model-viewer src="scene.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
+
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
 
 ### Sketchfab embed
 
@@ -45,13 +63,19 @@ Please wait for the models to load (may take a minute or more)
 ## McKinney House iPhone and Trnio App Scanning Pipeline
 
 ### Model-viewer embed
-<style>
-  model-viewer#interaction {
-    --poster-color: transparent;
-  }
-</style>
-<!-- use unique asset to ensure preloading -->
-<model-viewer id="reveal" camera-controls loading="eager" reveal="interaction" poster="/mckinney_livox_avia/McKinney_lidar.png" src="/mckinney_livox_avia/scene.gltf" alt="A 3D model of the McKinney House in La Mesa"></model-viewer>
+
+<model-viewer src="scene.gltf" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
+
+    <div class="progress-bar hide" slot="progress-bar">
+        <div class="update-bar"></div>
+    </div>
+    <button slot="ar-button" id="ar-button">
+        View in your space
+    </button>
+    <div id="ar-prompt">
+        <img src="https://modelviewer.dev/shared-assets/icons/hand.png">
+    </div>
+</model-viewer>
 
 ### Sketchfab embed
 
