@@ -26,6 +26,8 @@ Please wait for the interactive model-viewer frames to load (may take a minute o
 
 ## McKinney House Livox Avia LiDAR Scanning Pipeline
 
+Note: The Livox Avia scan data has been subsampled to 50% of the original points in order to faciliate faster loading of the Web3D viewer.
+
 ### Model-viewer embed
 
 
@@ -38,7 +40,7 @@ Please wait for the interactive model-viewer frames to load (may take a minute o
 
 ### Sketchfab embed
 
-<div class="sketchfab-embed-wrapper"> <iframe title="McKinney House - Livox Avia pointcloud" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/b8740a7e91804fc2a81804a9d12dda7b/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/mckinney-house-livox-avia-pointcloud-b8740a7e91804fc2a81804a9d12dda7b?utm_medium=embed&utm_campaign=share-popup&utm_content=b8740a7e91804fc2a81804a9d12dda7b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> McKinney House - Livox Avia pointcloud </a> by <a href="https://sketchfab.com/isaaciullah?utm_medium=embed&utm_campaign=share-popup&utm_content=b8740a7e91804fc2a81804a9d12dda7b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> isaaciullah </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=b8740a7e91804fc2a81804a9d12dda7b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
+<div class="sketchfab-embed-wrapper"> <iframe title="McKinney Livox Avai -- 50 pcnt subsample" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/f33d0b40ca6f4855a485a2d16289c221/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/mckinney-livox-avai-50-pcnt-subsample-f33d0b40ca6f4855a485a2d16289c221?utm_medium=embed&utm_campaign=share-popup&utm_content=f33d0b40ca6f4855a485a2d16289c221" target="_blank" style="font-weight: bold; color: #1CAAD9;"> McKinney Livox Avai -- 50 pcnt subsample </a> by <a href="https://sketchfab.com/isaaciullah?utm_medium=embed&utm_campaign=share-popup&utm_content=f33d0b40ca6f4855a485a2d16289c221" target="_blank" style="font-weight: bold; color: #1CAAD9;"> isaaciullah </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f33d0b40ca6f4855a485a2d16289c221" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ## McKinney House ILC and WebODM Photogrammetry Scanning Pipeline
 
