@@ -1,6 +1,6 @@
 ---
-title: Pipelines for creating and sharing 3D heritage data
-excerpt: Based on a presentation for Web3D 2021
+title: Accessible pipelines for creating and sharing 3D heritage data
+excerpt: Based on a presentation for the Web3D 2021 conference
 tags: [digital, Archaeology]
 header:
     overlay_color: "#333"
@@ -18,17 +18,23 @@ model-viewer {
 
 These are 3D models created for the paper "Preserving the Past for an Uncertain Future: Accessible, Low-Cost Methods for 3-D Data Creation, Processing, and Dissemination in Digital Cultural Heritage Preservation." Presented at the 2021 Web3D conference special track ["Online Legacies And Cultural Heritage"](https://web3d.siggraph.org/call-for-papers/online-legacies-and-cultural-heritage/).
 
-The data are archived in the Open Science Framework repository, including Web3D-friendly ".glTF" versions. To access these data please access [this OSF repository referencing DOI: DOI 10.17605/OSF.IO/8GKHT](https://osf.io/8gkht/).
+## Accessible pipelines for embeding interactive Web3D viewers for 3D heritage data
+
+Sharing access to to community-derived and/or open 3D heritage scan data is a major hurdle for completing a total accessible pipeline for 3D heritage data creation, analysis, and dissemination. Although specialized archives do exist for these kinds of data, such as [Open Heritage 3D](https://openheritage3d.org/), there remains some insitutional gatekeeping that might serve to reduce the number of stakeholders that feel like they can participate. On the other extreme, large, corporate-owned "freemium" repositories, such as [Sketchfab](https://sketchfab.com/) are seen as more welcoming to amateur and "citizen scientist" practioners, these platforms are so large that data can be hard to find or organize, and their corporate nature means that their long-term stability and openness are not guaranteed. 
+
+Here, we showcase two accessible means of embedding interactive Web3D viewers in websites that can help to alleviate both of the above issues: individual hosting means that there is a minimum of gatekeeping, while still keeping thematic organization tractable. We envision that a variety of stakeholder groups could leverage these simple techniques to create community-based and community-curated web archives of locally generated 3D heritage data. The first pipeline used [Github](www.github.com) to host the 3D data files, and the simple javascript-based [<model-viewer>](https://modelviewer.dev/) tool to create the interactive viewer in the website. This pipeline is the most "open," and we think is therefore the most amenable as a long-term solution. The second pipeline is much easier to implement, but relies on [Sketchfab](https://sketchfab.com/) to host the data, and uses their easy-to-generate embed codes to create the interactive viewer.
+
+Three accessible data-creation pipelines were used to create three different 3D models (more detail is in the main paper), which are visualized below. The raw data used in these visualizations are archived in the Open Science Framework repository, including Web3D-friendly ".glTF" versions. To access these data please access [this OSF repository referencing DOI: DOI 10.17605/OSF.IO/8GKHT](https://osf.io/8gkht/).
 
 The Sketchfab models can also be viewed [directly on Sketchfab](https://sketchfab.com/isaaciullah).
 
-Please wait for the interactive model-viewer frames to load (may take a minute or more, depending on your connection speed).
+Please wait for the interactive model-viewer frames to load (it may take a minute or more, depending on your connection speed).
 
 ## McKinney House Livox Avia LiDAR Scanning Pipeline
 
 Note: The Livox Avia scan data has been subsampled to 50% of the original points in order to faciliate faster loading of the Web3D viewer.
 
-### Model-viewer embed
+### Model-viewer embedded interactive viewer
 
 
 <model-viewer src="/images/McKinney_Livox_Avia_gltf/scene.gltf" loading="eager" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
@@ -38,13 +44,13 @@ Note: The Livox Avia scan data has been subsampled to 50% of the original points
     </div>
 </model-viewer>
 
-### Sketchfab embed
+### Sketchfab embedded interactive viewer
 
 <div class="sketchfab-embed-wrapper"> <iframe title="McKinney Livox Avai -- 50 pcnt subsample" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/f33d0b40ca6f4855a485a2d16289c221/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/mckinney-livox-avai-50-pcnt-subsample-f33d0b40ca6f4855a485a2d16289c221?utm_medium=embed&utm_campaign=share-popup&utm_content=f33d0b40ca6f4855a485a2d16289c221" target="_blank" style="font-weight: bold; color: #1CAAD9;"> McKinney Livox Avai -- 50 pcnt subsample </a> by <a href="https://sketchfab.com/isaaciullah?utm_medium=embed&utm_campaign=share-popup&utm_content=f33d0b40ca6f4855a485a2d16289c221" target="_blank" style="font-weight: bold; color: #1CAAD9;"> isaaciullah </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=f33d0b40ca6f4855a485a2d16289c221" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 ## McKinney House ILC and WebODM Photogrammetry Scanning Pipeline
 
-### Model-viewer embed
+### Model-viewer embedded interactive viewer
 
 <model-viewer src="/images/McKinney_WebODM_ILC_gltf/scene.gltf" loading="eager" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
@@ -53,14 +59,14 @@ Note: The Livox Avia scan data has been subsampled to 50% of the original points
     </div>
 </model-viewer>
 
-### Sketchfab embed
+### Sketchfab embedded interactive viewer
 
 <div class="sketchfab-embed-wrapper"> <iframe title="McKinney House pointcloud - WebODM using an ILC" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/52f99461b8ac43ef9bec3dd63cbb2794/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/mckinney-house-pointcloud-webodm-using-an-ilc-52f99461b8ac43ef9bec3dd63cbb2794?utm_medium=embed&utm_campaign=share-popup&utm_content=52f99461b8ac43ef9bec3dd63cbb2794" target="_blank" style="font-weight: bold; color: #1CAAD9;"> McKinney House pointcloud - WebODM using an ILC </a> by <a href="https://sketchfab.com/isaaciullah?utm_medium=embed&utm_campaign=share-popup&utm_content=52f99461b8ac43ef9bec3dd63cbb2794" target="_blank" style="font-weight: bold; color: #1CAAD9;"> isaaciullah </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=52f99461b8ac43ef9bec3dd63cbb2794" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
 
 ## McKinney House iPhone and Trnio App Scanning Pipeline
 
-### Model-viewer embed
+### Model-viewer embedded interactive viewer
 
 <model-viewer src="/images/McKinney_Trnio_gltf/scene.gltf" loading="eager" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
@@ -69,7 +75,7 @@ Note: The Livox Avia scan data has been subsampled to 50% of the original points
     </div>
 </model-viewer>
 
-### Sketchfab embed
+### Sketchfab embedded interactive viewer
 
 <div class="sketchfab-embed-wrapper"> <iframe title="McKinney House pointcloud - Trnio and iPhone" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share width="800" height="600" src="https://sketchfab.com/models/09f0a75db0ff454ab6f27f7922a15b7b/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/mckinney-house-pointcloud-trnio-and-iphone-09f0a75db0ff454ab6f27f7922a15b7b?utm_medium=embed&utm_campaign=share-popup&utm_content=09f0a75db0ff454ab6f27f7922a15b7b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> McKinney House pointcloud - Trnio and iPhone </a> by <a href="https://sketchfab.com/isaaciullah?utm_medium=embed&utm_campaign=share-popup&utm_content=09f0a75db0ff454ab6f27f7922a15b7b" target="_blank" style="font-weight: bold; color: #1CAAD9;"> isaaciullah </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=09f0a75db0ff454ab6f27f7922a15b7b" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>
 
