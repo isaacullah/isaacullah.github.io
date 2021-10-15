@@ -34,13 +34,13 @@ Three accessible data-creation pipelines were used to create three different 3D 
 
 The Sketchfab models can also be viewed [directly on Sketchfab](https://sketchfab.com/isaaciullah).
 
-Please wait for the interactive model-viewer frames to load (it may take a minute or more, depending on your connection speed).
+Please wait for the interactive \<model-viewer>\ frames to load (it may take a minute or more, depending on your connection speed).
 
 ## McKinney House [Livox Avia](https://www.livoxtech.com/avia) LiDAR Scanning Pipeline
 
 Note: The Livox Avia scan data has been subsampled to 50% of the original points in order to facilitate faster loading of the Web3D viewer.
 
-### Model-viewer embedded interactive viewer
+### \<model-viewer>\ embedded interactive viewer
 
 
 <model-viewer src="/images/McKinney_Livox_Avia_gltf/scene.gltf" loading="eager" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
@@ -56,7 +56,7 @@ Note: The Livox Avia scan data has been subsampled to 50% of the original points
 
 ## McKinney House Interchangeable Lens Camera and [WebODM](https://www.opendronemap.org/webodm/) Photogrammetry Scanning Pipeline
 
-### Model-viewer embedded interactive viewer
+### \<model-viewer>\ embedded interactive viewer
 
 <model-viewer src="/images/McKinney_WebODM_ILC_gltf/scene.gltf" loading="eager" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
@@ -72,7 +72,7 @@ Note: The Livox Avia scan data has been subsampled to 50% of the original points
 
 ## McKinney House iPhone and [Trnio App](https://www.trnio.com/) Scanning Pipeline
 
-### Model-viewer embedded interactive viewer
+### \<model-viewer>\ embedded interactive viewer
 
 <model-viewer src="/images/McKinney_Trnio_gltf/scene.gltf" loading="eager" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" shadow-intensity="1" alt="A 3D model of the McKinney House in La Mesa">
 
