@@ -29,7 +29,7 @@ Please wait for the interactive \<model-viewer>\ frames to load (it may take a m
 
 ### Code notes
 
-The code for each embedded 3D model view appears directly below each viewer. The /<model-viewer/> script needs to be loaded first, and that code appears here.
+The code for each embedded 3D model view appears directly below each viewer. The \<model-viewer\> script needs to be loaded first, and that code appears here.
 
     <!-- Import the model viewer script and set viewport size -->
     <script type="module" src="https://unpkg.com/@google/model-viewer/dist/model-viewer.min.js"></script>
