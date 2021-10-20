@@ -3,7 +3,7 @@
 title: "Historic Water Management Infrastrucure in the San Pasquale Valley"
 modified: 2018-04-12
 excerpt: "Failing resilience of a locally-derived erosion control system"
-tags: [digital archaeology, fieldwork, Calabria]
+tags: [digital archaeology, fieldwork, Calabria, anthropocene]
 layout: single
 author_profile: true
 read_time: true

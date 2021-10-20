@@ -2,7 +2,7 @@
 title: "Towards a theory of punctuated subsistence change"
 modified: 2015-08-04
 excerpt: "A complexity theory approach to the origins of agriculture"
-tags: [complexity, agriculture, theory, publications]
+tags: [complexity, agriculture, theory, publications, anthropocene]
 layout: single
 author_profile: true
 read_time: true

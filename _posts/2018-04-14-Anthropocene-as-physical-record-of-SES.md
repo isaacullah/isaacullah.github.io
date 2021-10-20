@@ -2,7 +2,7 @@
 title: "The Anthropocene as the Physical Record of Social-Ecological Systems"
 modified: 2018-04-14
 excerpt: "How can we use the archaeological record to learn about the future?"
-tags: [theory, Anthropocene]
+tags: [theory, anthropocene]
 layout: single
 author_profile: true
 read_time: true

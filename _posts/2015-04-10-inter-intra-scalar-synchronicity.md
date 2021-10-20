@@ -2,7 +2,7 @@
 title: "Inter- and Intra-scalar synchronicity in social-ecological systems"
 modified: 2015-04-10
 excerpt: "Some graphics about issues of scale and time in coupled human-natural systems"
-tags: [complexity, theory]
+tags: [complexity, theory, anthropocene]
 layout: single
 author_profile: true
 read_time: true

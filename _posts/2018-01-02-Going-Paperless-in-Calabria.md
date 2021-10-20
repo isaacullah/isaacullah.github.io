@@ -2,7 +2,7 @@
 title: "Going Paperless in Calabria"
 modified: 2018-01-02
 excerpt: "An open-source mobile data collection workflow."
-tags: [digtial archaeology, fieldwork, Calabria, FOSS, methods]
+tags: [digital archaeology, fieldwork, Calabria, FOSS, methods]
 layout: single
 author_profile: true
 read_time: true

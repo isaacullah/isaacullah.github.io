@@ -2,7 +2,7 @@
 title: "Water, Dust, and Agropastoralism"
 modified: 2019-07-22
 excerpt: "New article on our work in Kazakhstan, out now!"
-tags: [Anthropocene, geoarchaeology, publications, Central Eurasia]
+tags: [anthropocene, geoarchaeology, publications, Central Eurasia]
 layout: single
 author_profile: true
 read_time: true

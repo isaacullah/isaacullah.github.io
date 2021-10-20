@@ -2,7 +2,7 @@
 title: "Laborscapes and Archaeologies of Sustainability"
 modified: 2019-09-13
 excerpt: "New article on our work in Calabria, out now!"
-tags: [Anthropocene, publications, Calabria]
+tags: [anthropocene, publications, Calabria]
 layout: single
 author_profile: true
 read_time: true

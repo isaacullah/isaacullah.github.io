@@ -2,7 +2,7 @@
 title: "Some thoughts on the origins of agriculture"
 modified: 2014-10-16
 excerpt: "Some of my current thinking about why and how people made the initial switch to food production"
-tags: [agriculture, theory, complexity]
+tags: [agriculture, theory, complexity, anthropocene]
 layout: single
 author_profile: true
 read_time: true
