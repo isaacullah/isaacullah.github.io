@@ -2,7 +2,7 @@
 title: "Accessible pipelines for creating and sharing 3D heritage data"
 modified: 2021-10-18
 excerpt: "Based on a presentation for the Web3D 2021 conference"
-tags: [archaeology, digital archaeology, methods]
+tags: [archaeology, digital archaeology, methods, community engaged archaeology]
 layout: single
 author_profile: true
 read_time: true

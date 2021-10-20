@@ -2,7 +2,7 @@
 title: "Introducing the C-MAPLE Community Site"
 modified: 2017-04-14
 excerpt: "Introducing C-MAPLE, the Community for Modeling Agro-Pastoral Lifeways in Eurasia."
-tags: [computational archaeology, community, digital archaeology]
+tags: [computational archaeology, digital archaeology, open science]
 layout: single
 author_profile: true
 read_time: true

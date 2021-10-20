@@ -2,7 +2,7 @@
 title: "DroneSurveyPlanner v0.1 beta"
 modified: 2018-01-02
 excerpt: "A LibreOffice Calc spreadsheet designed to help you plan an aerial drone mapping survey mission."
-tags: [digital archaeology, fieldwork, drones, FOSS, methods]
+tags: [digital archaeology, fieldwork, FOSS, methods]
 layout: single
 author_profile: true
 read_time: true
