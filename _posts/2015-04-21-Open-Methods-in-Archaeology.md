@@ -2,7 +2,7 @@
 title: "Open sourcing archaeology"
 modified: 2015-04-21
 excerpt: "Thoughts on the 2015 SAA symposium on open methods in archaeology"
-tags: [FOSS, open science, methods]
+tags: [FOSS, open science, methods,computational archaeology, digital archaeology]
 layout: single
 author_profile: true
 read_time: true
