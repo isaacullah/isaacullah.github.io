@@ -15,6 +15,9 @@ toc_sticky: true
 
 These are 3D models created for the paper "Preserving the Past for an Uncertain Future: Accessible, Low-Cost Methods for 3-D Data Creation, Processing, and Dissemination in Digital Cultural Heritage Preservation." Presented at the 2021 Web3D conference special track ["Online Legacies And Cultural Heritage"](https://web3d.siggraph.org/call-for-papers/online-legacies-and-cultural-heritage/).
 
+The talk that accompanies these models is embedded here:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rNSSpGW2MPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Accessible pipelines for embedding interactive Web3D viewers for 3D heritage data
 
 Sharing access to to community-derived and/or open 3D heritage scan data is a major hurdle for completing a total accessible pipeline for 3D heritage data creation, analysis, and dissemination. Although specialized archives do exist for these kinds of data, such as [Open Heritage 3D](https://openheritage3d.org/), there remains some institutional gatekeeping that might serve to reduce the number of stakeholders that feel like they can participate. On the other extreme, large, corporate-owned "freemium" repositories, such as [Sketchfab](https://sketchfab.com/) are clearly seen as more welcoming to amateur and "citizen scientist" practitioners; but, these platforms are so large that data can be hard to find or organize, and their corporate nature means that their long-term stability and openness are not guaranteed. 
