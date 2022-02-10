@@ -15,6 +15,8 @@ toc_sticky: true
 
 These are 3D models created for the paper "Preserving the Past for an Uncertain Future: Accessible, Low-Cost Methods for 3-D Data Creation, Processing, and Dissemination in Digital Cultural Heritage Preservation." Presented at the 2021 Web3D conference special track ["Online Legacies And Cultural Heritage"](https://web3d.siggraph.org/call-for-papers/online-legacies-and-cultural-heritage/).
 
+Benchekroun, S., and Ullah, I.I.T. 2021. Preserving the Past for an Uncertain Future: Accessible, Low-Cost Methods for 3-D Data Creation, Processing, and Dissemination in Digital Cultural Heritage Preservation. In The 26th International Conference on 3D Web Technology (Web3D ’21), November 8–12, 2021, Pisa, Italy. ACM, New York, NY, USA, 9 pages. https://doi.org/10.1145/3485444.3507684
+
 You can download a [PDF version of the paper](/pdf/Benchekroun&Ullah_Web3d21-19.pdf), and the talk that accompanies these models is embedded here:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/rNSSpGW2MPs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
