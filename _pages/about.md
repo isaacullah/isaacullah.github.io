@@ -44,7 +44,15 @@ Please visit the following links for information about several actively ongoing 
 
 ### Teaching
 
-I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Principles of Archaeology," ANTH 562 "Computational Archaeology," ANTH 563 "Anthropogenic Landscapes," and ANTH 602 "Graduate Seminar in Archaeology." I also have lead undergraduate internships (ANTH 495) in historic preservation in coalition with the La Mesa Historical Society and the City of La Mesa, and have mentored several special topics courses for undergraduates (ANTH 499) and graduate students (ANTH 798) in the areas of computational archaeology and geoarchaeology.
+Course that I currently teach: 
+
+* [ANTH 349 "Roots of Civilization"](https://catalog.sdsu.edu/preview_course_nopop.php?catoid=5&coid=30340){:target="_blank"}
+* [ANTH 302 "Principles of Archaeology"](https://catalog.sdsu.edu/preview_course_nopop.php?catoid=5&coid=30334){:target="_blank"}
+* [ANTH 562 "Computational Archaeology"](https://catalog.sdsu.edu/preview_course_nopop.php?catoid=5&coid=30375){:target="_blank"}
+* [ANTH 563 "Anthropogenic Landscapes"](https://catalog.sdsu.edu/preview_course_nopop.php?catoid=5&coid=34910){:target="_blank"}
+* [ANTH 602 "Graduate Seminar in Archaeology"](https://catalog.sdsu.edu/preview_course_nopop.php?catoid=5&coid=33207){:target="_blank"}
+
+I also lead undergraduate internships (ANTH 495) in historic preservation in coalition with the La Mesa Historical Society and the City of La Mesa, and have mentor special topics courses for undergraduates (ANTH 499) and graduate students (ANTH 798) in the areas of computational archaeology and geoarchaeology.
 
 * * *
 
