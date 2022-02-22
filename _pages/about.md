@@ -13,7 +13,7 @@ I am an Associate Professor of Anthropology at [San Diego State University](http
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient house floors as a way to get at long-term patterns in domesticity.
 
 <br>
-I am also affiliated with the [Center for Climate and Sustainability Studies](https://c2s2.sdsu.edu/){:target="_blank"} at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/){:target="_blank"} at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page), [COMSeS/Open-ABM](https://www.openabm.org/comses){:target="_blank"}, [CHANS-net](https://chans-net.org/){:target="_blank"}, and the [Society for American Archaeology](www.saa.org){:target="_blank"}.
+I am also affiliated with the [Center for Climate and Sustainability Studies](https://c2s2.sdsu.edu/){:target="_blank"} at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/){:target="_blank"} at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page){:target="_blank"}, [COMSeS/Open-ABM](https://www.openabm.org){:target="_blank"}, [CHANS-net](https://chans-net.org/){:target="_blank"}, and the [Society for American Archaeology](https://www.saa.org){:target="_blank"}.
 <br>
 
 In my spare time, I like taking [photographs](/photography/index.html){:target="_blank"}.
@@ -31,15 +31,15 @@ In my spare time, I like taking [photographs](/photography/index.html){:target="
 Please visit the following links for information about several actively ongoing field and research projects that I am involved with.
 
 * [__The Mediterranean Landscape Dynamics Project__](https://repository.asu.edu/collections/5){:target="_blank"}
-* [__The Wadi Ziqlab/Wadi Quseiba Project__](https://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}
-* The Kazak-American Talgar Archaeology Project
+* [__The Wadi Ziqlab/Wadi Quseiba Project__](https://antiquity.ac.uk/projgall/banning344){:target="_blank"}
+* [__The Kazakh-American Talgar Archaeology Project__](https://www.cadb.pitt.edu/chang/index.html){:target="_blank"}
 * [__Bova Marina Archaeological Project__](https://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}
 
 * * *
 
 ### Teaching
 
-I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Principles of Archaeology," ANTH 562 "Computational Archaeology," ANTH 583 "Anthropogenic Landscapes," and ANTH 602 "Graduate Seminar in Archaeology." I also have lead undergraduate internships (ANTH 495) in historic preservation in coalition with the La Mesa Historical Society and the City of La Mesa, and have mentored several special topics courses for undergraduates (ANTH 499), and graduate students (ANTH 798).
+I currently teach ANTH 349 "Roots of Civilization," ANTH 302 "Principles of Archaeology," ANTH 562 "Computational Archaeology," ANTH 563 "Anthropogenic Landscapes," and ANTH 602 "Graduate Seminar in Archaeology." I also have lead undergraduate internships (ANTH 495) in historic preservation in coalition with the La Mesa Historical Society and the City of La Mesa, and have mentored several special topics courses for undergraduates (ANTH 499) and graduate students (ANTH 798) in the areas of computational archaeology and geoarchaeology.
 
 * * *
 
