@@ -13,11 +13,12 @@ I am an Associate Professor of Anthropology at [San Diego State University](http
 In addition to these large human-environment interaction studies, I also study households, and how people arrange and use their domestic spaces. I analyze the spatial patterning of very small artifacts ("micro-refuse") recovered from ancient house floors as a way to get at long-term patterns in domesticity.
 
 <br>
-<<<<<<< HEAD
+
 I am also affiliated with the [Center for Climate and Sustainability Studies](https://c2s2.sdsu.edu/){:target="_blank"} at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/){:target="_blank"} at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page){:target="_blank"}, [COMSeS/Open-ABM](https://www.openabm.org){:target="_blank"}, [The Open Modeling Foundation](https://openmodelingfoundation.github.io/){:target="_blank"} [CHANS-net](https://chans-net.org/){:target="_blank"}, and the [Society for American Archaeology](https://www.saa.org){:target="_blank"}.
-=======
+
+
 I am also affiliated with the [Center for Climate and Sustainability Studies](https://c2s2.sdsu.edu/){:target="_blank"} at SDSU and the [Center for Social Dynamics and Complexity](https://csdc.asu.edu/){:target="_blank"} at Arizona State University. Additional affiliations include the [CMSDS](https://csdms.colorado.edu/wiki/Main_Page){:target="_blank"}, [COMSeS/Open-ABM](https://www.openabm.org){:target="_blank"}, [CHANS-net](https://chans-net.org/){:target="_blank"}, and the [Society for American Archaeology](https://www.saa.org){:target="_blank"}.
->>>>>>> 32d54df3429513307f0bc15f137318dea5eb4a38
+
 <br>
 
 In my spare time, I like taking [photographs](/photography/index.html){:target="_blank"}.
