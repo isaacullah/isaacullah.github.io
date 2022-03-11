@@ -11,7 +11,7 @@ permalink: /ABM_Learning_Material/
 
 These are models that I host here for my classes. Some are made or modified by me, others I am re-hosting for convenience. To run each model, just click the link and it will load in a new tab. The credits and instructions are in the "Info" tab for each model (bottom of the page).
 
-- [Sampling Experiment](/models/Sampling_Experiment.html){:target="_blank"}
+- [The Archaeological Sampling Experimental Laboratory (tASEL) model](/models/tASLE.html){:target="_blank"} ([source code](/models/tASEL.nlogo))
 - [Erosion with Vegetation Model](/models/Erosion_veg.html){:target="_blank"}
 - [Diet Breadth Model](/models/diet_breadth.html){:target="_blank"}
 - [Buffalo Hunting Extinction Model](/models/diet_breadth_buffalo_with_grass.html){:target="_blank"}
