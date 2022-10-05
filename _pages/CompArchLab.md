@@ -112,7 +112,7 @@ The lab has the following hardware resources available for teaching and research
 	* pH, Salinity, and TDS meter
 	* Bouyoucos hydrometers, hydrometer flasks, and reagents
 	* Mixers, dehydrators, glassware, etc.
-	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
+	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), for [measuring soil pH and conductivity](https://lter.kbs.msu.edu/protocols/163), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
 
 * __Digital Field Data Collection:__
 	* Mobile tablet computers for field data collection using Open Data Kit.
