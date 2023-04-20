@@ -25,21 +25,19 @@ Simple, right?! Let's see how they did.
 
 ChatGPT writes only one version, which you can then modify with follow up commands if you like. Here, I am opting to provide just the initial raw result:
 
----
-
-<i>Archaeology has always been a field of study that is both multidisciplinary and constantly evolving. As new technologies are developed, archaeologists have been able to adopt them to enhance the way they study and interpret the past. Two of the most recent developments in this regard are computational archaeology and digital archaeology. In this blog post, we will compare and contrast these two approaches and discuss how they have impacted the field of archaeology.
-
-Computational archaeology is a subfield of archaeology that utilizes computational methods to study and analyze archaeological data. These methods include statistical analysis, computer simulations, and machine learning. Computational archaeology focuses on the quantitative analysis of data and uses mathematical models to test hypotheses about the past. For example, computational archaeologists can use algorithms to analyze patterns in the distribution of artifacts across a site to understand how people used and interacted with that site.
-
-On the other hand, digital archaeology is a subfield of archaeology that focuses on the use of digital technologies in archaeological research. This can include the use of 3D modeling, virtual reality, and GIS (geographic information systems) to create digital reconstructions of archaeological sites and artifacts. Digital archaeology focuses on the visual representation of data and aims to create immersive and interactive experiences for researchers and the public. For example, digital archaeologists can create a virtual reconstruction of a historical site to show how it looked in the past.
-
-While these two subfields share similarities, they have different approaches and goals. Computational archaeology is concerned with the quantitative analysis of data, whereas digital archaeology is focused on creating immersive digital experiences. However, both fields share a common goal of improving our understanding of the past.
-
-One area where these two subfields overlap is in the use of 3D modeling. Computational archaeologists can use 3D modeling to create simulations of ancient structures and landscapes, which can help to test hypotheses about how people interacted with their environment. Digital archaeologists, on the other hand, can use 3D modeling to create immersive digital experiences for the public, allowing them to explore archaeological sites and artifacts in a virtual environment.
-
-Another area of overlap is the use of GIS. Both computational and digital archaeologists use GIS to create maps of archaeological sites and to analyze spatial relationships between artifacts. However, computational archaeologists may use GIS to create models that predict where artifacts might be found, whereas digital archaeologists may use GIS to create interactive maps for the public to explore.
-
-In conclusion, computational archaeology and digital archaeology are two subfields of archaeology that have emerged due to advances in technology. Computational archaeology focuses on the quantitative analysis of data, while digital archaeology is concerned with creating immersive digital experiences. While these two subfields have different approaches and goals, they both aim to improve our understanding of the past. As technology continues to evolve, it is likely that these two subfields will continue to grow and expand, providing archaeologists with new and innovative ways to study the past.</i>
+> Archaeology has always been a field of study that is both multidisciplinary and constantly evolving. As new technologies are developed, archaeologists have been able to adopt them to enhance the way they study and interpret the past. Two of the most recent developments in this regard are computational archaeology and digital archaeology. In this blog post, we will compare and contrast these two approaches and discuss how they have impacted the field of archaeology.
+> 
+> Computational archaeology is a subfield of archaeology that utilizes computational methods to study and analyze archaeological data. These methods include statistical analysis, computer simulations, and machine learning. Computational archaeology focuses on the quantitative analysis of data and uses mathematical models to test hypotheses about the past. For example, computational archaeologists can use algorithms to analyze patterns in the distribution of artifacts across a site to understand how people used and interacted with that site.
+> 
+> On the other hand, digital archaeology is a subfield of archaeology that focuses on the use of digital technologies in archaeological research. This can include the use of 3D modeling, virtual reality, and GIS (geographic information systems) to create digital reconstructions of archaeological sites and artifacts. Digital archaeology focuses on the visual representation of data and aims to create immersive and interactive experiences for researchers and the public. For example, digital archaeologists can create a virtual reconstruction of a historical site to show how it looked in the past.
+> 
+> While these two subfields share similarities, they have different approaches and goals. Computational archaeology is concerned with the quantitative analysis of data, whereas digital archaeology is focused on creating immersive digital experiences. However, both fields share a common goal of improving our understanding of the past.
+> 
+> One area where these two subfields overlap is in the use of 3D modeling. Computational archaeologists can use 3D modeling to create simulations of ancient structures and landscapes, which can help to test hypotheses about how people interacted with their environment. Digital archaeologists, on the other hand, can use 3D modeling to create immersive digital experiences for the public, allowing them to explore archaeological sites and artifacts in a virtual environment.
+> 
+> Another area of overlap is the use of GIS. Both computational and digital archaeologists use GIS to create maps of archaeological sites and to analyze spatial relationships between artifacts. However, computational archaeologists may use GIS to create models that predict where artifacts might be found, whereas digital archaeologists may use GIS to create interactive maps for the public to explore.
+> 
+> In conclusion, computational archaeology and digital archaeology are two subfields of archaeology that have emerged due to advances in technology. Computational archaeology focuses on the quantitative analysis of data, while digital archaeology is concerned with creating immersive digital experiences. While these two subfields have different approaches and goals, they both aim to improve our understanding of the past. As technology continues to evolve, it is likely that these two subfields will continue to grow and expand, providing archaeologists with new and innovative ways to study the past.
 
 Pretty good, I suppose! A bit dry, and not particularly nuanced, perhaps, but it got the basic descriptions of the two areas reasonably correct. It also identified the potential overlap, and highlighted GIS as an important region of coincidence. Not bad! The ending is a bit lackluster and generic, however, and there isn't much of a "take away" message. I'll give it a B+!
 
@@ -47,46 +45,43 @@ Pretty good, I suppose! A bit dry, and not particularly nuanced, perhaps, but it
 
 Well, what about Bard? Bard gives you three drafts by default, but as with ChatGPT, I provide only the first draft here:
 
----
-
-<i>**Computational Archaeology vs. Digital Archaeology**
-
-Archaeology is the study of human activity through the recovery and analysis of material culture and environmental data. It is a multidisciplinary field that draws on a variety of scientific and humanistic methods. In recent years, there has been a growing interest in the use of digital technologies in archaeology. This has led to the development of two distinct subfields: computational archaeology and digital archaeology.
-
-**Computational archaeology** refers to the use of computers to analyze archaeological data. This can involve a wide range of tasks, such as:
-
-**Data processing:** Computers can be used to organize, clean, and format archaeological data. This makes it easier to store, retrieve, and analyze the data.
-**Data analysis:** Computers can be used to identify patterns and trends in archaeological data. This can help archaeologists to understand the past in new ways.
-**Modeling:** Computers can be used to create models of archaeological sites, objects, and landscapes. This can help archaeologists to visualize the past and to test hypotheses about how it was used.
-
-Digital archaeology refers to the use of digital technologies in all aspects of archaeological research, from data collection to dissemination. This can involve a wide range of activities, such as:
-
-**Data collection:** Digital technologies are used to collect archaeological data in a variety of ways, such as:
-
-* Using digital cameras to record archaeological sites
-* Using GPS to track the location of artifacts
-* Using drones to create aerial maps of archaeological sites
-
-**Data storage:** Digital technologies are used to store archaeological data in a variety of ways, such as:
-
-* Using databases to store artifact data
-* Using GIS to store spatial data
-* Using 3D scanning to store 3D models of artifacts
-	
-**Data analysis:** Digital technologies are used to analyze archaeological data in a variety of ways, such as:
-
-* Using statistical software to identify patterns in data
-* Using GIS to create spatial models
-* Using 3D modeling software to create 3D reconstructions of archaeological sites
-
-**Data dissemination:** Digital technologies are used to disseminate archaeological data in a variety of ways, such as:
-
-* Publishing articles and books online
-* Creating websites and blogs
-* Using social media to share archaeological findings
-
-Computational archaeology and digital archaeology are two complementary subfields of archaeology. Computational archaeology focuses on the use of computers to analyze archaeological data, while digital archaeology focuses on the use of digital technologies in all aspects of archaeological research. Both subfields are essential for the future of archaeology.</i>
-
+> **Computational Archaeology vs. Digital Archaeology**
+> 
+> Archaeology is the study of human activity through the recovery and analysis of material culture and environmental data. It is a multidisciplinary field that draws on a variety of scientific and humanistic methods. In recent years, there has been a growing interest in the use of digital technologies in archaeology. This has led to the development of two distinct subfields: computational archaeology and digital archaeology.
+> 
+> **Computational archaeology** refers to the use of computers to analyze archaeological data. This can involve a wide range of tasks, such as:
+> 
+> **Data processing:** Computers can be used to organize, clean, and format archaeological data. This makes it easier to store, retrieve, and analyze the data.
+> **Data analysis:** Computers can be used to identify patterns and trends in archaeological data. This can help archaeologists to understand the past in new ways.
+> **Modeling:** Computers can be used to create models of archaeological sites, objects, and landscapes. This can help archaeologists to visualize the past and to test hypotheses about how it was used.
+> 
+> Digital archaeology refers to the use of digital technologies in all aspects of archaeological research, from data collection to dissemination. This can involve a wide range of activities, such as:
+> 
+> **Data collection:** Digital technologies are used to collect archaeological data in a variety of ways, such as:
+> 
+> * Using digital cameras to record archaeological sites
+> * Using GPS to track the location of artifacts
+> * Using drones to create aerial maps of archaeological sites
+> 
+> **Data storage:** Digital technologies are used to store archaeological data in a variety of ways, such as:
+> 
+> * Using databases to store artifact data
+> * Using GIS to store spatial data
+> * Using 3D scanning to store 3D models of artifacts
+> 	
+> **Data analysis:** Digital technologies are used to analyze archaeological data in a variety of ways, such as:
+> 
+> * Using statistical software to identify patterns in data
+> * Using GIS to create spatial models
+> * Using 3D modeling software to create 3D reconstructions of archaeological sites
+> 
+> **Data dissemination:** Digital technologies are used to disseminate archaeological data in a variety of ways, such as:
+> 
+> * Publishing articles and books online
+> * Creating websites and blogs
+> * Using social media to share archaeological findings
+> 
+> Computational archaeology and digital archaeology are two complementary subfields of archaeology. Computational archaeology focuses on the use of computers to analyze archaeological data, while digital archaeology focuses on the use of digital technologies in all aspects of archaeological research. Both subfields are essential for the future of archaeology.
 
 First impression: bullet points are boring! I guess it basically covered the topic, but I'd say drier and even less nuanced than ChatGPT's result. In fact, I'd say it barely returned reasonable coverage of this comparison, and didn't identify any specific areas of overlap. I'll give Bard a solid C. 
 
