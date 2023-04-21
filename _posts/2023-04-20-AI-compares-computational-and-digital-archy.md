@@ -1,6 +1,6 @@
 ---
 title: "An AI compares computational and digital archaeology"
-modified: 2023-04-10
+modified: 2023-04-21
 excerpt: "Can ChatGPT and Google Bard do it justice?! Read on to find out..."
 tags: [archaeology, digital archaeology, AI, computational archaeology]
 layout: single
@@ -15,7 +15,9 @@ toc_sticky: true
 
 Well, it was just a matter of time before you saw some natural language model AI output on this blog, wasn't it? I've been playing with [ChatGPT](https://chat.openai.com/) since it became available, and I just got my invitation to use Google's [Bard](https://bard.google.com) in my inbox yesterday, so I thought it would be fun to compare them. But what subject to use? My previous [blog post comparing computational archaeology and digital archaeology](https://isaacullah.github.io/What-is-Computational-Archaeology/) has been one of the most read posts I've put up, so I figured I better check to see if the AI's are going to put me out of business!
 
-Here's the prompt I used for both of them:
+**UPDATE** There are some other free-to-use large language models out there, so I decided to add a couple of them into the mix as well: [Chat-LLM-streaming](https://huggingface.co/spaces/olivierdehaene/chat-llm-streaming) and [you.com YouChat](https://you.com/search?q=who+are+you&tbm=youchat&cfr=chat). I have opted NOT to include Microsoft's Bing Chat, because they force you to use their Edge browser, which is not available for Linux (which I use exclusively). 
+
+Here's the prompt I used for ~~both~~ all of them:
 
 > Write an academic blog post comparing computational archaeology and digital archaeology
 
@@ -23,7 +25,7 @@ Simple, right?! Let's see how they did.
 
 ## ChatGPT
 
-ChatGPT writes only one version, which you can then modify with follow up commands if you like. Here, I am opting to provide just the initial raw result:
+ChatGPT provides one draft that you can then modify with follow up commands if you like. Here, I am opting to provide just the initial, unmodified result:
 
 > Archaeology has always been a field of study that is both multidisciplinary and constantly evolving. As new technologies are developed, archaeologists have been able to adopt them to enhance the way they study and interpret the past. Two of the most recent developments in this regard are computational archaeology and digital archaeology. In this blog post, we will compare and contrast these two approaches and discuss how they have impacted the field of archaeology.
 > 
@@ -43,7 +45,7 @@ Pretty good, I suppose! A bit dry, and not particularly nuanced, perhaps, but it
 
 ## Bard
 
-Well, what about Bard? Bard gives you three drafts by default, but as with ChatGPT, I provide only the first draft here:
+Well, what about Google's Bard? Bard gives you three drafts by default, but as with ChatGPT, I provide only the first draft here:
 
 > **Computational Archaeology vs. Digital Archaeology**
 > 
@@ -85,10 +87,44 @@ Well, what about Bard? Bard gives you three drafts by default, but as with ChatG
 
 First impression: bullet points are boring! I guess it basically covered the topic, but I'd say drier and even less nuanced than ChatGPT's result. In fact, I'd say it barely returned reasonable coverage of this comparison, and didn't identify any specific areas of overlap. I'll give Bard a solid C. 
 
+## Chat-LLM-streaming
+
+Chat-LLM-streaming is a smaller large language model with an open interface and several choices for underlaying model engines. I used the newest one (selected by default), and here is what it returned:
+
+> Computational archaeology and digital archaeology are two closely related fields that have both seen rapid growth in recent years. While there are some similarities between the two, there are also important differences.
+> 
+> Computational archaeology focuses on the use of advanced technology and algorithms to study past human societies and environments. This field is largely focused on using data from different sources, such as satellite imagery, archaeological sites, and other historical records, to build detailed models of the past. By studying these models, researchers can gain new insights into the past, including the locations and types of settlements, the economic activities of people, and the impact of environmental factors on human behavior.
+> 
+> Digital archaeology, on the other hand, is a subfield of archaeology that involves the use of digital tools and techniques to study past human societies and environments. This field includes the use of archaeological data from various sources, such as fieldwork and aerial photography, to create digital reconstructions of the past. By using digital tools, researchers can explore the history of a site in more detail and generate new insights into the culture, beliefs, and activities of past people.
+> 
+> Overall, computational archaeology and digital archaeology are two closely related fields that have both had a profound impact on our understanding of the past. While there are some similarities between the two, there are also important differences that have allowed them to advance in different ways. As the field of archaeology continues to advance, the use of computational and digital tools will continue to play an increasingly important role in our understanding of the past.
+
+As much as I admire this project for trying to keep things as free and open as possible, it's pretty clear that their model is pretty anemic compared to the bigger ones. This reads like a Wikipedia entry on the subject that has not been updated since 1997. It's barely informative of the basics at best. I give it a C-, and that's being generous.
+
+## You.com Chat
+
+Now, here's an interesting new player on the scene. You.com is a relatively new search engine that seeks to be more personalized and less extractive than the big search engines. It has recently released it's own large language model AI interface. Let's see how it does!
+
+> Computational Archaeology vs. Digital Archaeology: Understanding the Differences and Synergies
+> 
+> Archaeology has undergone a major transformation in the past two decades with the advent of digital technologies. Today, archaeologists have access to a range of digital tools that allow them to do everything from collecting data in the field to analyzing artifacts in the lab. Two terms that are often used to describe these practices are computational archaeology and digital archaeology. Although these terms are often used interchangeably, there are important differences between them that are worth exploring.
+> 
+> Computational archaeology is a subfield of archaeology that focuses on the application of computational methods to archaeological data. This includes everything from statistical analysis to computer simulation. The goal of computational archaeology is to use these methods to gain new insights into archaeological data that would not be possible through traditional methods. For example, a computational archaeologist might use machine learning algorithms to identify patterns in ceramic data that would be difficult to see with the naked eye.
+> 
+> Digital archaeology, on the other hand, refers to the use of digital technologies in all aspects of archaeology, from data collection to interpretation. This includes everything from using drones to create aerial surveys of archaeological sites to using 3D printing to create replicas of artifacts. Digital archaeology is not just about using technology for technology's sake, rather it is about leveraging digital tools to enhance traditional archaeological methods.
+> 
+> Despite their differences, there is significant overlap between computational archaeology and digital archaeology. In fact, many practitioners in the field use both methods in their work. For example, a digital archaeologist might use computational methods to analyze data collected from a remote sensing survey.
+> 
+> The synergies between computational archaeology and digital archaeology are many. By using digital methods to enhance traditional archaeological practices, archaeologists can collect and analyze more data than ever before. This in turn allows them to gain new insights into past societies and cultures. Computational methods, in particular, can help researchers to identify patterns and trends that may not be visible to the human eye. For example, using machine learning to analyze DNA data from archaeological samples can help researchers to identify population movements and genetic relationships between ancient communities.
+> 
+> In conclusion, while computational archaeology and digital archaeology are different practices with distinct goals, they both play important roles in modern archaeology. By working together, computational and digital archaeologists can push the boundaries of what we know about the past and gain new insights into the cultural, social, and technological evolution of
+
+...of what?!! Don't leave us hanging like that!!! Just tell us! The evolution of what?!!! Sheesh. Well, up until that point, it was doing pretty well! It even gave us a snazzy title to use. It seems like it wanted to write more, but all of these models are limited in the number of "tokens" (word parts) that they can produce. Clearly it ran out of space. Bummer. Up until then, it was giving ChatGPT a run for it's money. Since it didn't finish, I can only give it a B-.
+
 ## Conclusions
 
-So what do we make of all this? Well, I am not fully sure to be honest. I suppose that one take away, at a minimally practical level, is that ChatGPT seems to do a "better" job at writing academic blog posts than does Bard. Neither does an amazing job, however, and I think my future as a computational archaeology blogger isn't  in much imminent jeopardy from an AI takeover. 
+So what do we make of all this? Well, I am not fully sure to be honest. I suppose that one take away, at a minimally practical level, is that ChatGPT seems to do a "better" job at writing academic blog posts than ~~does Bard~~ the other models. ~~Neither~~ None of them does an amazing job, however, and I think my future as a computational archaeology blogger isn't  in much imminent jeopardy from an AI takeover. 
 
-That said, the broader discussion around AI in computational archaeology is certainly intriguing. I attended more than a few talks and sessions at the recent [CAA 2023 meeting](https://2023.caaconference.org/programme/conference-schedule/) focusing on the use of "AI" techniques. A lot of this isn't particularly "new," however, but it's making a resurgence due to all the press. For example, Machine Learning techniques made up the large bulk of these applications in archaeology, and [we've known about those for a very long time indeed](https://link.springer.com/article/10.1023/A:1000904004065). The tools are bit better nowadays, and there are more of them now than there used to be. There is also much more awareness of the potential for these kinds of approaches by the general public and by less computationally-aware archaeologists, so they might be experience a bit more mainstream acceptance. That's all a good thing, in my opinion. If it draws public engagement, new people, and new funding into the discipline, then by all means lets do it!
+That said, the broader discussion around AI in computational archaeology is certainly intriguing. I attended more than a few talks and sessions at the recent [CAA 2023 meeting](https://2023.caaconference.org/programme/conference-schedule/) focusing on the use of "AI" techniques. A lot of this isn't particularly "new," however, but it's making a resurgence due to all the press. For example, Machine Learning techniques made up the large bulk of these applications in archaeology, and [we've been using Machine Learning for a quite a while](https://link.springer.com/article/10.1023/A:1000904004065). The tools for Machine Learning (and other "AI" types of data mining) are quite a bit better nowadays, and there are a lot more of them now than there used to be. There is also much more awareness of the potential for these kinds of approaches by the general public and by less computationally-aware archaeologists, so they might be experience a bit more mainstream acceptance. That's all a good thing, in my opinion. If it draws public engagement, new people, and new funding into the discipline, then by all means lets do it!
 
 I suppose, then, that my main take away from this admittedly facile stunt with two of the big natural language AI models is this: branding and public perception actually do matter. If we want to push computational and digital  archaeology further, then we might need to get on this current "AI" bandwagon and really start "selling it" to our colleagues and to the public. More engagement with digital and computational tools and approaches can only be a good thing. And if we don't do it for ourselves, well, then the AI's are gonna do it for us!
