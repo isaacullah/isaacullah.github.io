@@ -22,11 +22,11 @@ feature_row:
     url: "/CompArchLab/"
     btn_label: "Learn More."
     btn_class: "btn--primary"
-  - image_path: /images/Bedouin_pastoralist_Wadi_Faynan_1999.png
-    title: "The Community for Modeling Agro-Pastoral Lifeways in Eurasia"
-    url: "https://www.cmaple.org"
-    excerpt: "A community curated digital clearinghouse for sharing data and models about Agro-Pastoralism in Eurasia."
-    btn_label: "Go to CMAPLE.org"
+  - image_path: /images/ABM.png
+    title: "Agent-based modeling tutorials"
+    url: "/Agent_Based_Modeling_Learning_Material/"
+    excerpt: "Materials to learn how to make and use Agent-Based Models with NetLogo."
+    btn_label: "Go to ABM tutorials"
     btn_class: "btn--primary"
 ---
 Dr. Isaac I. Ullah is a [computational geo-archaeologist](https://isaacullah.github.io/What-is-Computational-Archaeology/) who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production.

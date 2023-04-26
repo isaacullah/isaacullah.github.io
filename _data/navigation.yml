@@ -18,9 +18,6 @@ main:
     - title: GRASS GIS Addons
       url: /GRASS_GIS_Scripts/
       
-    - title: The Community for Modeling Agro-Pastoral Lifeways in Eurasia
-      url: https://www.cmaple.org
-      
     - title: Search this site
       url: /search/
 
