@@ -24,7 +24,7 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /images/ABM.png
     title: "Agent-based modeling tutorials"
-    url: "/Agent_Based_Modeling_Learning_Material/"
+    url: "/ABM_Learning_Material/"
     excerpt: "Materials to learn how to make and use Agent-Based Models with NetLogo."
     btn_label: "Go to ABM tutorials"
     btn_class: "btn--primary"
