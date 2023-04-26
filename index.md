@@ -22,11 +22,11 @@ feature_row:
     url: "/CompArchLab/"
     btn_label: "Learn More."
     btn_class: "btn--primary"
-  - image_path: /images/ABM.png
-    title: "Agent-based modeling tutorials"
-    url: "/ABM_Learning_Material/"
-    excerpt: "Materials to learn how to make and use Agent-Based Models with NetLogo."
-    btn_label: "Go to ABM tutorials"
+  - image_path: /images/ABM-GIS.png
+    title: "GIS and ABM tutorials"
+    url: "/GIS_and_ABM_Learning_Material/"
+    excerpt: "Materials to learn archaeological GIS and about how to make and use Agent-Based Models with NetLogo."
+    btn_label: "Go to GIS and ABM tutorials"
     btn_class: "btn--primary"
 ---
 Dr. Isaac I. Ullah is a [computational geo-archaeologist](https://isaacullah.github.io/What-is-Computational-Archaeology/) who studies the intersection of complexity theory, archaeology, complex adaptive systems, simulation, and early food production.
