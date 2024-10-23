@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-interior-1",
-      "name": "Interior 1",
+      "id": "0-interior-north-room",
+      "name": "Interior North Room",
       "levels": [
         {
           "tileSize": 256,
@@ -24,20 +24,125 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.3423530455835113,
-        "pitch": 0.07662836946704488,
+        "yaw": -0.065789146272202,
+        "pitch": 0.5702576332431093,
         "fov": 1.509400672990387
       },
       "linkHotspots": [
         {
-          "yaw": 3.084332321498424,
-          "pitch": 0.6522829196848967,
+          "yaw": 2.990691706790413,
+          "pitch": 0.6592245176856597,
           "rotation": 0,
-          "target": "2-interior-3"
+          "target": "3-north-side-center"
         },
         {
-          "yaw": -0.15882944997560244,
-          "pitch": 0.49449408205358303,
+          "yaw": -0.08926608939825442,
+          "pitch": 0.7268843669196556,
+          "rotation": 0,
+          "target": "1-interior-center"
+        },
+        {
+          "yaw": -0.09810727334977187,
+          "pitch": 0.30756962752835904,
+          "rotation": 0,
+          "target": "2-interior-south-room"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -2.0395219441476513,
+          "pitch": -0.030858082268816034,
+          "title": "Niche",
+          "text": "A wall niche with a wooden lintel."
+        },
+        {
+          "yaw": 1.9267223430080653,
+          "pitch": 0.2576930698591191,
+          "title": "Exterior entry",
+          "text": "Probable entry door leading from the landing at the top of the probable exterior staircase."
+        },
+        {
+          "yaw": 0.9531825146138626,
+          "pitch": 0.5958702172527417,
+          "title": "Interior doorway",
+          "text": "Probable interior doorway connecting the north and south rooms of the lower level."
+        },
+        {
+          "yaw": 2.3722239910679903,
+          "pitch": 0.45709749946206024,
+          "title": "Niche",
+          "text": "One of a pair of wall niches for the lower level room."
+        },
+        {
+          "yaw": -2.6802862837749224,
+          "pitch": 0.5021553386150668,
+          "title": "Niche",
+          "text": "One of a pair of wall niches for the lower level room."
+        },
+        {
+          "yaw": 2.957990999710831,
+          "pitch": -0.6164135127170276,
+          "title": "Niche",
+          "text": "A small niche high up the wall of the second level."
+        },
+        {
+          "yaw": -1.5465461572764738,
+          "pitch": 0.26314255571914025,
+          "title": "Floor line",
+          "text": "This line likely indicates the level of the floor of the second level."
+        },
+        {
+          "yaw": -0.7576310976657936,
+          "pitch": 0.6926866692472888,
+          "title": "Interior dividing wall",
+          "text": "This interior wall separated the north and south rooms."
+        },
+        {
+          "yaw": 2.9745495196848957,
+          "pitch": 0.25209295496295603,
+          "title": "Entry door",
+          "text": "This doorway provided direct exterior access to the north room of the lower level.&nbsp;"
+        }
+      ]
+    },
+    {
+      "id": "1-interior-center",
+      "name": "Interior Center",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.061756665938450084,
+        "pitch": 0.48471898825664894,
+        "fov": 1.509400672990387
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.9731462061810223,
+          "pitch": 0.6148625865920945,
+          "rotation": 0,
+          "target": "2-interior-south-room"
+        },
+        {
+          "yaw": -0.14789117599372048,
+          "pitch": 0.41967064835726475,
           "rotation": 0,
           "target": "3-north-side-center"
         },
@@ -46,77 +151,26 @@ var APP_DATA = {
           "pitch": 0.61640854104661,
           "rotation": 0,
           "target": "15-west-side-center-2"
+        },
+        {
+          "yaw": -0.15838779254816515,
+          "pitch": 0.6800660527186881,
+          "rotation": 0,
+          "target": "0-interior-north-room"
         }
       ],
       "infoHotspots": [
         {
-          "yaw": 0.5271336654827987,
-          "pitch": 0.1349912727223952,
-          "title": "Upper level floorline",
-          "text": "The partial second floor likely began at this line."
-        },
-        {
-          "yaw": -0.14426355224770937,
-          "pitch": -0.17511077927187557,
-          "title": "Niche",
-          "text": "One of several interior niches ont he second floor"
+          "yaw": -1.6263989053797765,
+          "pitch": 0.36693336088638695,
+          "title": "Lower level entry door",
+          "text": "This brick lined arched door provided access directly to the south room of the lower level."
         }
       ]
     },
     {
-      "id": "1-interior-2",
-      "name": "Interior 2",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": 2.6203994531885613,
-        "pitch": 0.38621843126834676,
-        "fov": 1.509400672990387
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.2967670109420073,
-          "pitch": 0.42132283294404616,
-          "rotation": 0,
-          "target": "0-interior-1"
-        },
-        {
-          "yaw": 0.36443926710930086,
-          "pitch": 0.6467828608309993,
-          "rotation": 0,
-          "target": "3-north-side-center"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": 2.005686264593346,
-          "pitch": 0.5435021936791511,
-          "title": "Interior wall",
-          "text": "This wall separated the two story section from the larger open area beyond."
-        }
-      ]
-    },
-    {
-      "id": "2-interior-3",
-      "name": "Interior 3",
+      "id": "2-interior-south-room",
+      "name": "Interior South Room",
       "levels": [
         {
           "tileSize": 256,
@@ -144,16 +198,22 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": 1.857511097712016,
-          "pitch": 0.4557258146541443,
+          "yaw": 1.7841610358679088,
+          "pitch": 0.5716516324117507,
           "rotation": 0,
-          "target": "1-interior-2"
+          "target": "1-interior-center"
         },
         {
           "yaw": 0.9824807882064395,
           "pitch": 0.39317234116619204,
           "rotation": 0,
           "target": "15-west-side-center-2"
+        },
+        {
+          "yaw": 1.7924783441883294,
+          "pitch": 0.2515648405648232,
+          "rotation": 0,
+          "target": "0-interior-north-room"
         }
       ],
       "infoHotspots": [
