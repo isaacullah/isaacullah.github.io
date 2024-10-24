@@ -37,7 +37,7 @@ var APP_DATA = {
           "initialViewParameters": {
             "yaw": -0.061756665938450084,
             "pitch": 0.48471898825664894,
-            "fov": 1.509400672990387
+            "fov": 1.426417314891757
           }
         },
         {
@@ -89,13 +89,23 @@ var APP_DATA = {
           "yaw": 2.9731462061810223,
           "pitch": 0.6148625865920945,
           "rotation": 0,
-          "target": "0-interior-south-room"
+          "target": "0-interior-south-room",
+          "initialViewParameters": {
+            "yaw": -1.0321394969837936,
+            "pitch": 0.05261304266065103,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -1.646655981242267,
           "pitch": 0.61640854104661,
           "rotation": 0,
-          "target": "15-west-side-center-2"
+          "target": "15-west-side-center-2",
+          "initialViewParameters": {
+            "yaw": -1.752162658633324,
+            "pitch": 0.28112608221189284,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -0.15838779254816515,
@@ -103,9 +113,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "2-interior-north-room",
           "initialViewParameters": {
-            "yaw": 2.964578588127667,
-            "pitch": 0.7218012203223534,
-            "fov": 1.509400672990387
+            "yaw": 3.123839882372149,
+            "pitch": 0.534386345631221,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -164,9 +174,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "1-interior-center",
           "initialViewParameters": {
-            "yaw": -3.0237439151254613,
-            "pitch": 0.9691544514776176,
-            "fov": 1.509400672990387
+            "yaw": 3.1165425595470904,
+            "pitch": 0.5883798606410267,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -274,16 +284,21 @@ var APP_DATA = {
           "rotation": 0,
           "target": "4-north-side-east",
           "initialViewParameters": {
-            "yaw": 1.7906733675158755,
-            "pitch": 0.5603634192289952,
-            "fov": 1.509400672990387
+            "yaw": 1.9073922612429985,
+            "pitch": 0.17810142764694525,
+            "fov": 1.426417314891757
           }
         },
         {
           "yaw": 0.6398564377832514,
           "pitch": 0.45544070169784767,
           "rotation": 0,
-          "target": "2-interior-north-room"
+          "target": "2-interior-north-room",
+          "initialViewParameters": {
+            "yaw": -0.0737858521154493,
+            "pitch": 0.49879234095449476,
+            "fov": 1.426417314891757
+          }
         }
       ],
       "infoHotspots": [
@@ -328,7 +343,12 @@ var APP_DATA = {
           "yaw": -1.6534707984877706,
           "pitch": 0.7945035780536269,
           "rotation": 0,
-          "target": "3-north-side-center"
+          "target": "3-north-side-center",
+          "initialViewParameters": {
+            "yaw": 1.4299113357324824,
+            "pitch": 0.08930163893185572,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": 1.7759343719621663,
@@ -336,9 +356,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "5-northeast-corner",
           "initialViewParameters": {
-            "yaw": -1.5605786650627227,
-            "pitch": 0.44999018946041147,
-            "fov": 1.509400672990387
+            "yaw": -1.5038554643729078,
+            "pitch": -0.07654967443081517,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -377,7 +397,12 @@ var APP_DATA = {
           "yaw": 1.0337719415658793,
           "pitch": 0.33680841463421274,
           "rotation": 0,
-          "target": "4-north-side-east"
+          "target": "4-north-side-east",
+          "initialViewParameters": {
+            "yaw": -2.6701641798498237,
+            "pitch": 0.47972002119708534,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -1.7171354717698133,
@@ -385,9 +410,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "6-east-side-north",
           "initialViewParameters": {
-            "yaw": -1.0419789488215834,
-            "pitch": 0.17247638194561432,
-            "fov": 1.509400672990387
+            "yaw": -1.002395654183136,
+            "pitch": -0.042555749642325225,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -426,7 +451,12 @@ var APP_DATA = {
           "yaw": 1.5367700254325243,
           "pitch": 0.35386406788429525,
           "rotation": 0,
-          "target": "5-northeast-corner"
+          "target": "5-northeast-corner",
+          "initialViewParameters": {
+            "yaw": 0.04480818556154631,
+            "pitch": -0.03179441280373929,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -1.5030822592963116,
@@ -434,9 +464,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "7-east-side-center",
           "initialViewParameters": {
-            "yaw": -1.4660188482569154,
-            "pitch": 0.4551457242356314,
-            "fov": 1.509400672990387
+            "yaw": -1.4060231552196072,
+            "pitch": 0.1978184584132876,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -475,7 +505,12 @@ var APP_DATA = {
           "yaw": 1.3627342595769179,
           "pitch": 0.7074758762422348,
           "rotation": 0,
-          "target": "6-east-side-north"
+          "target": "6-east-side-north",
+          "initialViewParameters": {
+            "yaw": 0.6551697499794091,
+            "pitch": 0.18892815257946083,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -1.6896340372754821,
@@ -483,9 +518,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "8-southeast-corner",
           "initialViewParameters": {
-            "yaw": -1.732190158078378,
-            "pitch": 1.1121368474346163,
-            "fov": 1.509400672990387
+            "yaw": -1.3962142770694683,
+            "pitch": 0.6406317302312523,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -524,7 +559,12 @@ var APP_DATA = {
           "yaw": 1.4295527667515806,
           "pitch": 0.5822479509141854,
           "rotation": 0,
-          "target": "7-east-side-center"
+          "target": "7-east-side-center",
+          "initialViewParameters": {
+            "yaw": 0.12443861926477773,
+            "pitch": 0.6063348905683537,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -2.0795146238996693,
@@ -532,9 +572,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "9-south-side-east",
           "initialViewParameters": {
-            "yaw": -1.6033960689856368,
-            "pitch": 0.8850223158682375,
-            "fov": 1.509400672990387
+            "yaw": -1.1397983158926905,
+            "pitch": 0.5250786024565208,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -588,9 +628,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "10-south-side-center",
           "initialViewParameters": {
-            "yaw": -1.2755857403393822,
-            "pitch": 1.0360978496248023,
-            "fov": 1.509400672990387
+            "yaw": -0.8043461348437191,
+            "pitch": 0.7490304704041364,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -629,7 +669,12 @@ var APP_DATA = {
           "yaw": 2.160644325197281,
           "pitch": 0.403110885292822,
           "rotation": 0,
-          "target": "9-south-side-east"
+          "target": "9-south-side-east",
+          "initialViewParameters": {
+            "yaw": 0.521670917228116,
+            "pitch": 0.5478073861892554,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -1.713798359244663,
@@ -637,9 +682,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "11-south-side-west",
           "initialViewParameters": {
-            "yaw": -1.0975431393697619,
-            "pitch": 0.7971863400745818,
-            "fov": 1.509400672990387
+            "yaw": -0.6612108263711693,
+            "pitch": 0.4015404865705978,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -678,7 +723,12 @@ var APP_DATA = {
           "yaw": 1.981624961911793,
           "pitch": 0.4383855555556586,
           "rotation": 0,
-          "target": "10-south-side-center"
+          "target": "10-south-side-center",
+          "initialViewParameters": {
+            "yaw": 0.9743636189498925,
+            "pitch": 0.6294540399161654,
+            "fov": 1.426417314891757
+          }
         },
         {
           "yaw": -1.3281649778400908,
@@ -686,9 +736,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "12-southwest-corner",
           "initialViewParameters": {
-            "yaw": 0.3801966957949059,
-            "pitch": 0.20181460585089894,
-            "fov": 1.509400672990387
+            "yaw": -1.055413442433716,
+            "pitch": 0.44575415947308805,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -729,9 +779,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "11-south-side-west",
           "initialViewParameters": {
-            "yaw": -2.161864806662498,
-            "pitch": 1.106499817554976,
-            "fov": 1.509400672990387
+            "yaw": 1.492697153332081,
+            "pitch": 0.02981178285278574,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -740,9 +790,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "13-west-side-south",
           "initialViewParameters": {
-            "yaw": -1.2440645795594882,
-            "pitch": 1.0828986804862062,
-            "fov": 1.509400672990387
+            "yaw": -0.9724477147178607,
+            "pitch": 0.48198877932220974,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -790,9 +840,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "12-southwest-corner",
           "initialViewParameters": {
-            "yaw": 0.3079630786448213,
-            "pitch": 0.2769320116889844,
-            "fov": 1.509400672990387
+            "yaw": 0.2665115089099519,
+            "pitch": -0.20052362760221776,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -801,9 +851,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "14-west-side-center-1",
           "initialViewParameters": {
-            "yaw": -1.270151583278114,
-            "pitch": 0.6996831303952966,
-            "fov": 1.509400672990387
+            "yaw": -0.8796341631443791,
+            "pitch": 0.2356140978131993,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -844,9 +894,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "13-west-side-south",
           "initialViewParameters": {
-            "yaw": 0.6766437222504749,
-            "pitch": 1.1715786113074742,
-            "fov": 1.509400672990387
+            "yaw": 0.5773781210433011,
+            "pitch": 0.48886166914341267,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -855,9 +905,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "15-west-side-center-2",
           "initialViewParameters": {
-            "yaw": -1.5044631941574949,
-            "pitch": 0.6334161624622432,
-            "fov": 1.509400672990387
+            "yaw": -1.3648368539979536,
+            "pitch": 0.25264157162565404,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -905,9 +955,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "16-west-side-north",
           "initialViewParameters": {
-            "yaw": -0.9800736624864541,
-            "pitch": 0.7378397761046394,
-            "fov": 1.509400672990387
+            "yaw": -0.9386220927515776,
+            "pitch": 0.04322362797693913,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -916,9 +966,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "14-west-side-center-1",
           "initialViewParameters": {
-            "yaw": 0.849791369516943,
-            "pitch": 0.6089726527206416,
-            "fov": 1.509400672990387
+            "yaw": 0.8683354928193836,
+            "pitch": 0.04524777019301851,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -971,9 +1021,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "15-west-side-center-2",
           "initialViewParameters": {
-            "yaw": 1.2496370841805664,
-            "pitch": 1.2385895713008974,
-            "fov": 1.509400672990387
+            "yaw": 1.1820055756657801,
+            "pitch": 0.39225854713675723,
+            "fov": 1.426417314891757
           }
         },
         {
@@ -982,9 +1032,9 @@ var APP_DATA = {
           "rotation": 0,
           "target": "18-northwest-corner",
           "initialViewParameters": {
-            "yaw": -0.555929872093273,
-            "pitch": 0.42108241623968823,
-            "fov": 1.509400672990387
+            "yaw": -0.6377421807805046,
+            "pitch": 0.15483768280316212,
+            "fov": 1.426417314891757
           }
         }
       ],
@@ -1070,16 +1120,21 @@ var APP_DATA = {
           "rotation": 0,
           "target": "16-west-side-north",
           "initialViewParameters": {
-            "yaw": -0.07917188142044296,
-            "pitch": 0.3541830263825183,
-            "fov": 1.509400672990387
+            "yaw": -0.12498677428529881,
+            "pitch": -0.10244900247230682,
+            "fov": 1.426417314891757
           }
         },
         {
           "yaw": -0.8350729190311661,
           "pitch": 0.3278981391147937,
           "rotation": 0,
-          "target": "3-north-side-center"
+          "target": "3-north-side-center",
+          "initialViewParameters": {
+            "yaw": -0.231423946009647,
+            "pitch": 0.05806622327730082,
+            "fov": 1.426417314891757
+          }
         }
       ],
       "infoHotspots": []
