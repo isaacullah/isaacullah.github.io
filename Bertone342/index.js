@@ -13,6 +13,9 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
+ /*
+ * File Changed: https://github.com/gamebeaker
+ */
 'use strict';
 
 (function() {
@@ -182,9 +185,13 @@
     return s.replace('&', '&amp;').replace('<', '&lt;').replace('>', '&gt;');
   }
 
-  function switchScene(scene) {
+    function switchScene(scene, hotspot) {
     stopAutorotate();
-    scene.view.setParameters(scene.data.initialViewParameters);
+    if (hotspot == undefined || hotspot.initialViewParameters == undefined) {
+      scene.view.setParameters(scene.data.initialViewParameters);
+    }else{
+        scene.view.setParameters(hotspot.initialViewParameters);
+    }
     scene.scene.switchTo();
     startAutorotate();
     updateSceneName(scene);
@@ -265,7 +272,7 @@
 
     // Add click event handler.
     wrapper.addEventListener('click', function() {
-      switchScene(findSceneById(hotspot.target));
+      switchScene(findSceneById(hotspot.target), hotspot);
     });
 
     // Prevent touch and scroll events from reaching the parent element.

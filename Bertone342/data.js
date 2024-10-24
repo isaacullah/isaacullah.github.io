@@ -1,7 +1,115 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-interior-north-room",
+      "id": "0-interior-south-room",
+      "name": "Interior South Room",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": 1.857511097712016,
+        "pitch": 0.4557258146541443,
+        "fov": 1.509400672990387
+      },
+      "linkHotspots": [
+        {
+          "yaw": 1.7841610358679088,
+          "pitch": 0.5716516324117507,
+          "rotation": 0,
+          "target": "1-interior-center"
+        },
+        {
+          "yaw": 0.9824807882064395,
+          "pitch": 0.39317234116619204,
+          "rotation": 0,
+          "target": "15-west-side-center-2"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.614583042229011,
+          "pitch": -0.30337065917285244,
+          "title": "Putlogs",
+          "text": "These holes likely supported beams or rafters."
+        }
+      ]
+    },
+    {
+      "id": "1-interior-center",
+      "name": "Interior Center",
+      "levels": [
+        {
+          "tileSize": 256,
+          "size": 256,
+          "fallbackOnly": true
+        },
+        {
+          "tileSize": 512,
+          "size": 512
+        },
+        {
+          "tileSize": 512,
+          "size": 1024
+        },
+        {
+          "tileSize": 512,
+          "size": 2048
+        }
+      ],
+      "faceSize": 1520,
+      "initialViewParameters": {
+        "yaw": -0.061756665938450084,
+        "pitch": 0.48471898825664894,
+        "fov": 1.509400672990387
+      },
+      "linkHotspots": [
+        {
+          "yaw": 2.9731462061810223,
+          "pitch": 0.6148625865920945,
+          "rotation": 0,
+          "target": "0-interior-south-room"
+        },
+        {
+          "yaw": -1.646655981242267,
+          "pitch": 0.61640854104661,
+          "rotation": 0,
+          "target": "15-west-side-center-2"
+        },
+        {
+          "yaw": -0.15838779254816515,
+          "pitch": 0.6800660527186881,
+          "rotation": 0,
+          "target": "2-interior-north-room"
+        }
+      ],
+      "infoHotspots": [
+        {
+          "yaw": -1.6263989053797765,
+          "pitch": 0.36693336088638695,
+          "title": "Lower level entry door",
+          "text": "This brick lined arched door provided access directly to the south room of the lower level."
+        }
+      ]
+    },
+    {
+      "id": "2-interior-north-room",
       "name": "Interior North Room",
       "levels": [
         {
@@ -24,8 +132,8 @@ var APP_DATA = {
       ],
       "faceSize": 1520,
       "initialViewParameters": {
-        "yaw": -0.065789146272202,
-        "pitch": 0.5702576332431093,
+        "yaw": 2.964578588127667,
+        "pitch": 0.7218012203223534,
         "fov": 1.509400672990387
       },
       "linkHotspots": [
@@ -45,7 +153,7 @@ var APP_DATA = {
           "yaw": -0.09810727334977187,
           "pitch": 0.30756962752835904,
           "rotation": 0,
-          "target": "2-interior-south-room"
+          "target": "0-interior-south-room"
         }
       ],
       "infoHotspots": [
@@ -106,126 +214,6 @@ var APP_DATA = {
       ]
     },
     {
-      "id": "1-interior-center",
-      "name": "Interior Center",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": -0.061756665938450084,
-        "pitch": 0.48471898825664894,
-        "fov": 1.509400672990387
-      },
-      "linkHotspots": [
-        {
-          "yaw": 2.9731462061810223,
-          "pitch": 0.6148625865920945,
-          "rotation": 0,
-          "target": "2-interior-south-room"
-        },
-        {
-          "yaw": -0.14789117599372048,
-          "pitch": 0.41967064835726475,
-          "rotation": 0,
-          "target": "3-north-side-center"
-        },
-        {
-          "yaw": -1.646655981242267,
-          "pitch": 0.61640854104661,
-          "rotation": 0,
-          "target": "15-west-side-center-2"
-        },
-        {
-          "yaw": -0.15838779254816515,
-          "pitch": 0.6800660527186881,
-          "rotation": 0,
-          "target": "0-interior-north-room"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.6263989053797765,
-          "pitch": 0.36693336088638695,
-          "title": "Lower level entry door",
-          "text": "This brick lined arched door provided access directly to the south room of the lower level."
-        }
-      ]
-    },
-    {
-      "id": "2-interior-south-room",
-      "name": "Interior South Room",
-      "levels": [
-        {
-          "tileSize": 256,
-          "size": 256,
-          "fallbackOnly": true
-        },
-        {
-          "tileSize": 512,
-          "size": 512
-        },
-        {
-          "tileSize": 512,
-          "size": 1024
-        },
-        {
-          "tileSize": 512,
-          "size": 2048
-        }
-      ],
-      "faceSize": 1520,
-      "initialViewParameters": {
-        "yaw": 1.857511097712016,
-        "pitch": 0.4557258146541443,
-        "fov": 1.509400672990387
-      },
-      "linkHotspots": [
-        {
-          "yaw": 1.7841610358679088,
-          "pitch": 0.5716516324117507,
-          "rotation": 0,
-          "target": "1-interior-center"
-        },
-        {
-          "yaw": 0.9824807882064395,
-          "pitch": 0.39317234116619204,
-          "rotation": 0,
-          "target": "15-west-side-center-2"
-        },
-        {
-          "yaw": 1.7924783441883294,
-          "pitch": 0.2515648405648232,
-          "rotation": 0,
-          "target": "0-interior-north-room"
-        }
-      ],
-      "infoHotspots": [
-        {
-          "yaw": -1.614583042229011,
-          "pitch": -0.30337065917285244,
-          "title": "Putlogs",
-          "text": "These holes likely supported beams or rafters."
-        }
-      ]
-    },
-    {
       "id": "3-north-side-center",
       "name": "North Side Center",
       "levels": [
@@ -270,7 +258,7 @@ var APP_DATA = {
           "yaw": 0.6398564377832514,
           "pitch": 0.45544070169784767,
           "rotation": 0,
-          "target": "0-interior-north-room"
+          "target": "2-interior-north-room"
         }
       ],
       "infoHotspots": [
@@ -984,4 +972,4 @@ var APP_DATA = {
     "fullscreenButton": true,
     "viewControlButtons": true
   }
-};
+}
