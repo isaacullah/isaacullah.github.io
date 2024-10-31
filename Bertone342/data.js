@@ -51,7 +51,7 @@ var APP_DATA = {
         {
           "yaw": -1.614583042229011,
           "pitch": -0.30337065917285244,
-          "title": "3D Scan",
+          "title": "View a 3D Scan of this building!",
           "text": "<iframe width='560' height='315' src='https://www.youtube.com/embed/XqCv7Lj1Gdw?si=lDp4c4Mig7oRNCoL' title='YouTube video player' frameborder='0' allow='accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share' referrerpolicy='strict-origin-when-cross-origin' allowfullscreen></iframe>"
         }
       ]
@@ -203,7 +203,7 @@ var APP_DATA = {
           "yaw": 0.9531825146138626,
           "pitch": 0.5958702172527417,
           "title": "Interior doorway",
-          "text": "Probable <a href='https://isaacullah.github.io/Web3D-pipelines/'>interior doorway</a> connecting the north and south rooms of the lower level."
+          "text": "Probable <u><a href='https://isaacullah.github.io/Web3D-pipelines/' target='_blank'>interior doorway</a></u> connecting the north and south rooms of the lower level."
         },
         {
           "yaw": 2.3722239910679903,
