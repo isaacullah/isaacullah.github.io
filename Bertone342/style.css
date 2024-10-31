@@ -521,7 +521,7 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
 
 .desktop .info-hotspot.visible .info-hotspot-title-wrapper,
 .desktop.no-touch .info-hotspot .info-hotspot-header:hover .info-hotspot-title-wrapper {
-  width: 220px;
+  width: 560px;
   padding: 0 5px;
   -webkit-transition: width 0s 0.4s,
                       padding 0s 0.4s;
