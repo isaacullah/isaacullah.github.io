@@ -203,7 +203,7 @@ var APP_DATA = {
           "yaw": 0.9531825146138626,
           "pitch": 0.5958702172527417,
           "title": "Interior doorway",
-          "text": "Probable < a href='https://isaacullah.github.io/Web3D-pipelines/'>interior doorway</a> connecting the north and south rooms of the lower level."
+          "text": "Probable <a href='https://isaacullah.github.io/Web3D-pipelines/'>interior doorway</a> connecting the north and south rooms of the lower level."
         },
         {
           "yaw": 2.3722239910679903,
