@@ -63,12 +63,12 @@ If we really want GIS to function as a hub in archaeology, the curriculum has to
 
 Here’s the high-level scaffold I’ve been using:
 
-| **Tier / Course**           | **Intro to Arch** | **Field Arch.** | **Arch. Lab.** | **Adv. Methods** | **Capstone** | **Capstone** |
-|-----------------------------|:-----------------:|:-----------------:|:----------------------:|:----------:|:-----------------:|
-| **Exposure**                | ✓                 | ✓                 |                        |            |                   | ✓            |
-| **Engagement**              |                   | ✓                 | ✓                      | ✓          |                   | ✓            |
-| **Application**             |                   |                   | ✓                      | ✓          | ✓                 | ✓            |
-| **Interpretation & Critique** |                 |                   |                        | ✓          | ✓                 | ✓            |
+| **Tier / Course**             | **Intro to Arch** | **Field Arch.** | **Arch. Lab.** | **Adv. Methods** | **Capstone** |
+|-------------------------------|:-----------------:|:---------------:|:--------------:|:----------------:|:------------:|
+| **Exposure**                  | ✓                 | ✓               |                |                  |              |
+| **Engagement**                |                   | ✓               | ✓              | ✓                |              |
+| **Application**               |                   |                 | ✓              | ✓                | ✓            |
+| **Interpretation & Critique** |                   |                 |                | ✓                | ✓            |
 
 The **Map Project—Part 1** in ANTH 103 lives squarely in the **Exposure → Engagement** space: students geolocate a claim, document evidence, and begin to reason spatially. Later courses move those same habits toward **Application** (e.g., designing a sampling strategy, building a basic model) and finally **Interpretation & Critique** (e.g., making and defending spatial claims, sensitivity analysis). That spiral is what turns “making a map” into **thinking with** maps. :contentReference[oaicite:1]{index=1}
 
