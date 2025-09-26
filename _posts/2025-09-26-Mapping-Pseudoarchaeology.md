@@ -70,7 +70,7 @@ Here’s the high-level scaffold I’ve been using:
 | **Application**               |                   |                 | ✓              | ✓                | ✓            |
 | **Interpretation & Critique** |                   |                 |                | ✓                | ✓            |
 
-The **Map Project—Part 1** in ANTH 103 lives squarely in the **Exposure → Engagement** space: students geolocate a claim, document evidence, and begin to reason spatially. Later courses move those same habits toward **Application** (e.g., designing a sampling strategy, building a basic model) and finally **Interpretation & Critique** (e.g., making and defending spatial claims, sensitivity analysis). That spiral is what turns “making a map” into **thinking with** maps. :contentReference[oaicite:1]{index=1}
+The **Map Project—Part 1** in ANTH 103 lives squarely in the **Exposure → Engagement** space: students geolocate a claim, document evidence, and begin to reason spatially. Later courses move those same habits toward **Application** (e.g., designing a sampling strategy, building a basic model) and finally **Interpretation & Critique** (e.g., making and defending spatial claims, sensitivity analysis). That spiral is what turns “making a map” into **thinking with** maps.
 
 ---
 
@@ -86,4 +86,4 @@ As we move into the next phase of the course, students will revisit the map for 
 
 Ultimately, I want students to leave ANTH 103 not only with a sharper eye for pseudoarchaeological claims, but also with a first taste of spatial reasoning. If we treat GIS as a hub — infrastructural, theoretical, and pedagogical — then even intro students can see why context and provenience matter, and why archaeology is, at its core, a spatial science.
 
-This project is one small example of how to weave GIS through the curriculum from the very beginning, helping students connect method, evidence, and interpretation in ways that will serve them as majors, professionals, and citizens alike. I'm currently working with SDSU MA Zach Clow on a manuscript detailing this approach to holistic GIS integration. Keep your eye out for that in the near future!
+This project is one small example of how to weave GIS through the curriculum from the very beginning, helping students connect method, evidence, and interpretation in ways that will serve them as majors, professionals, and citizens alike. I'm currently working with SDSU MA alum Zach Clow on a manuscript detailing this approach to holistic GIS integration. Keep your eye out for that in the near future!
