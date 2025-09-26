@@ -197,7 +197,7 @@ var APP_DATA = {
           "yaw": 1.9267223430080653,
           "pitch": 0.2576930698591191,
           "title": "Exterior entry",
-          "text": "Probable entry door leading from the landing at the top of the probable exterior staircase."
+          "text": "Probable entry door leading from the landing at the top of the probable exterior staircase. <img src='https://isaacullah.github.io/images/BMAP-PR2.jpg' alt='Drone image of SPV' width='500'>"
         },
         {
           "yaw": 0.9531825146138626,
