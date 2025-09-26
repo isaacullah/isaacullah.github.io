@@ -48,29 +48,29 @@ In my SAA talk, I described four dimensions of GIS as a hub for landscape archae
 - **Theoretical and epistemological hub**: Spatial models always encode assumptions — they’re interpretive acts.  
 - **Cognitive and pedagogical hub**: GIS trains spatial reasoning, reflexivity, and modeling literacy.  
 
-This project lives in that fourth dimension. Students aren’t just passively looking at maps; they’re making arguments in space, and seeing how pseudoarchaeology often ignores context and provenience. It’s a modest step, but one that makes GIS part of the conceptual toolkit from day one.
+This project lives in that fourth area. Students aren’t just passively looking at maps; they’re making arguments in space, and seeing how pseudoarchaeology often ignores context and provenience. It’s a modest step, but one that makes GIS part of the conceptual toolkit from day one.
 
 ---
 
 ### A scaffolded path for GIS across the curriculum
 
-If we really want GIS to function as a hub in archaeology, the curriculum has to make space for it early and often—not just in one upper-division class. In our program we map GIS exposure across **four tiers** that repeat through multiple courses:
+If we really want GIS to function as a hub in archaeology, the curriculum has to make space for it early and often—not just in one upper-division class. In our program here at SDSU we map GIS exposure across **four tiers** that repeat through multiple courses:
 
 - **Exposure:** encounter tools/ideas; basic spatial literacy.
 - **Engagement:** hands-on exercises with guidance; interpret simple outputs.
 - **Application:** independent use on authentic data; justify choices.
 - **Interpretation & critique:** make claims with spatial models; articulate assumptions and limits.
 
-Here’s the high-level scaffold I’ve been using:
+Here’s the high-level scaffold I’ve been using with some generic placeholders instead of specific course names:
 
-| **Tier / Course**             | **Intro to Arch** | **Field Arch.** | **Arch. Lab.** | **Adv. Methods** | **Capstone** |
+| **Tier / Course**             | **Intro to Arch.** | **Field Arch.** | **Arch. Lab.** | **Adv. Methods** | **Capstone** |
 |-------------------------------|:-----------------:|:---------------:|:--------------:|:----------------:|:------------:|
 | **Exposure**                  | ✓                 | ✓               |                |                  |              |
 | **Engagement**                |                   | ✓               | ✓              | ✓                |              |
 | **Application**               |                   |                 | ✓              | ✓                | ✓            |
 | **Interpretation & Critique** |                   |                 |                | ✓                | ✓            |
 
-The **Map Project—Part 1** in ANTH 103 lives squarely in the **Exposure → Engagement** space: students geolocate a claim, document evidence, and begin to reason spatially. Later courses move those same habits toward **Application** (e.g., designing a sampling strategy, building a basic model) and finally **Interpretation & Critique** (e.g., making and defending spatial claims, sensitivity analysis). That spiral is what turns “making a map” into **thinking with** maps.
+The **Mapping Pseudoarchaeology** project in ANTH 103 lives squarely in that first **Exposure → Engagement** space: students geolocate a claim, document evidence, and begin to reason spatially. Later courses move those same habits toward **Application** (e.g., designing a sampling strategy, building a basic model) and finally **Interpretation & Critique** (e.g., making and defending spatial claims, sensitivity analysis). That spiral is what turns “making a map” into **thinking with** maps.
 
 ---
 
