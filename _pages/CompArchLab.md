@@ -21,7 +21,7 @@ The Computational Archaeology Laboratory at San Diego State University is a stat
 The lab is located on the ground floor of the Hardy Tower building. Students should enter through HT 62 door in the stairwell (look for "Computational Archaeology Laboratory" signs).
 <br>
 <br>
-**Supervised Lab Hours:** *Currently on hold due to COVID-19 restrictions.* 
+**Supervised Lab Hours:*Fall 2025 - Thursdays 9a-3p* 
 <br>
 
 <figure>
@@ -59,11 +59,11 @@ The lab is located on the ground floor of the Hardy Tower building. Students sho
 
 ### Students
 
-The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the fields of Computational Archaeology and Geoarchaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit). There may be a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
+The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the fields of Computational Archaeology and Geoarchaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit) and occasionally a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
 
 #### Prospective Master's Students
 
-I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](https://isaacullah.github.io/What-is-Computational-Archaeology/){:target="_blank"}, [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology){:target="_blank"}, and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology){:target="_blank"}. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](https://anthropology.sdsu.edu/graduate/index.html){:target="_blank"} for more information about our graduate studies program.
+I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](https://isaacullah.github.io/What-is-Computational-Archaeology/){:target="_blank"}, [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology){:target="_blank"}, and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology){:target="_blank"}. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include data from past fieldwork in Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](https://anthropology.sdsu.edu/graduate/index.html){:target="_blank"} for more information about our graduate studies program.
 
 <figure>
 	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
@@ -93,16 +93,16 @@ The lab has the following hardware resources available for teaching and research
 
 * __3D Scanning and Photogrammetry:__
 	* Livox Avia LiDAR scanner with mobile battery and laptop connection kit
-	* Olympus EM1 ii mirrorless camera and assortment of lenses (including macro)
-	* DJI Mavic Pro aerial drone
-	* Insta360 360 degree camera
+	* Insta360 360 degree cameras
+	* Creality structured light 3D scanner
+	* Turntables and light tents for 3D scanning and object photography
 	* MapIR Survey2 Red-NIR NDVI camera
 	* MapIR luminosity calibration target
 	* Xrite Color checker chart and grey cards
 	* Pantone Huey screen profiling calibration tool
 	* Tripods and lighting
 	* High resolution Canon flatbed and film scanner
-	* Our drone photogrammetery workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
+	* Our field workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
 	
 * __Sedimentology and Granulometry:__
 	* Beckman Coulter Multisizer 3 Particle Size Analyzer (~0.1 to 1000 microns)
@@ -115,7 +115,7 @@ The lab has the following hardware resources available for teaching and research
 	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), for [measuring soil pH and conductivity](https://lter.kbs.msu.edu/protocols/163), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
 
 * __Digital Field Data Collection:__
-	* Mobile tablet computers for field data collection using Open Data Kit.
+	* Android phones for field data collection using Open Data Kit.
 	* Bad-Elf GNSS surveyor high precision bluetooth GPS units.
 	* 2 small (but old) Ubuntu Linux laptops for dirty field locations
 	* Our mobile data collection workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
@@ -144,8 +144,7 @@ The lab specializes in Free and Open Source Software (FOSS) approaches to comput
     
 * __Agent Based Modeling:__
     * NetLogo
-    * PyABM
-    * "Pure" Python 
+    * Python
     
 * __Image Analysis__
     * Image-J
@@ -157,17 +156,14 @@ The lab specializes in Free and Open Source Software (FOSS) approaches to comput
     * Open Drone Map (and WebODM)
     * Open CV
     * MVE
+    * Meshroom
     * Livox Viewer
     * Meshlab
     * CloudCompare
-    
-* __Data Science__
+        
+* __Scripting, Programming, and Data Science__
     * Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, etc.)
     * R
-    * Orange
-    
-* __Scripting and Programming__
-    * Python
-    * BASH
+    * BASH/Shell Script
 
 
