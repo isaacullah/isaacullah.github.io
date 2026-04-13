@@ -39,7 +39,9 @@ These are models that I host here on my website and that are runnable from withi
 - [Erosion with Vegetation Model](/models/Erosion_veg.html){:target="_blank"}
 - [Diet Breadth Model](/models/diet_breadth.html){:target="_blank"}
 - [Buffalo Hunting Extinction Model](/models/diet_breadth_buffalo_with_grass.html){:target="_blank"}
-- [Grazing model](/models/Grazing.html){:target="_blank"}
+- [Mission-Cattle Model TBA](models/Mission-Cattle.html){:target="_blank"}
+- [Multispecies grazing model](/models/Grazing.html){:target="_blank"}
+- [Rotational Grazing](/models/rotational_grazing.html){:target="_blank"}
 - [TRUE GRASP Model](/models/TRUE_GRASP.html){:target="_blank"}
 - [Swidden Farming V2](/models/swidden_farming_v2.html){:target="_blank"}  also download the [Model Documentation](swidden_farming_v2_ODD.pdf){:target="_blank"} (PDF)
 - [The Urban Sprawl Model](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/Urban%20Suite/Urban%20Suite%20-%20Sprawl%20Effect.nlogo){:target="_blank"}  ([video tutorial](https://youtu.be/jVzzd4Qz3_A){:target="_blank"} on YouTube)
