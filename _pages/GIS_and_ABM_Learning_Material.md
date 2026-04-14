@@ -39,7 +39,7 @@ These are models that I host here on my website and that are runnable from withi
 - [Erosion with Vegetation Model](/models/Erosion_veg.html){:target="_blank"}
 - [Diet Breadth Model](/models/diet_breadth.html){:target="_blank"}
 - [Buffalo Hunting Extinction Model](/models/diet_breadth_buffalo_with_grass.html){:target="_blank"}
-- [Mission-Cattle Model TBA](/models/Mission-Cattle.html){:target="_blank"}
+- [Mission-Cattle Model](/models/Mission-Cattle.html){:target="_blank"}
 - [Multispecies grazing model](/models/Grazing.html){:target="_blank"}
 - [Rotational Grazing](/models/rotational_grazing.html){:target="_blank"}
 - [TRUE GRASP Model](/models/TRUE_GRASP.html){:target="_blank"}
