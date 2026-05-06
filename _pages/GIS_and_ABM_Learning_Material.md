@@ -45,7 +45,7 @@ These are models that I host here on my website and that are runnable from withi
 - [TRUE GRASP Model](/models/TRUE_GRASP.html){:target="_blank"}
 - [Swidden Farming V2](/models/swidden_farming_v2.html){:target="_blank"}  also download the [Model Documentation](swidden_farming_v2_ODD.pdf){:target="_blank"} (PDF)
 - [The Urban Sprawl Model](https://www.netlogoweb.org/launch#https://www.netlogoweb.org/assets/modelslib/Curricular%20Models/Urban%20Suite/Urban%20Suite%20-%20Sprawl%20Effect.nlogo){:target="_blank"}  ([video tutorial](https://youtu.be/jVzzd4Qz3_A){:target="_blank"} on YouTube)
-- [PoliSEA_2.6](/models/PoliSEA2.6.html){:target="_blank"} (opens model in a new window) and accompanying [ODD Documentation](/models/PoliSEA_ODD.pdf) (PDF download)
+- [PoliSEA_2.6](/models/PoliSEA_v1.1.0.zip) (dowloads zip file with code and documentation. runs well in NetLogo 7)
 - [ABSOLUG_1.1](/models/ABSOLUG_1.1.html){:target="_blank"} (opens model in a new window) and accompanying [ODD Documentation](/models/ABSOLUG_ODD.pdf) (PDF download)
 
 ## Other NetLogo Models
