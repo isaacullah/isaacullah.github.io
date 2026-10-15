@@ -1,169 +1,276 @@
 ---
+excerpt: About the Computational Archaeology Laboratory at San Diego
+  State University.
 layout: single
+permalink: /CompArchLab/
+tags:
+- Computational Archaeology
+- Laboratory
+- Resources
 title: The Computational Archaeology Laboratory
-excerpt: About the Computational Archaeology Laboratory at San Diego State University.
-tags: [Computational Archaeology, Laboratory, Resources]
-header:
-  overlay_image: /images/CompArch_Students.jpg
-  overlay_filter: 0.5
 toc: true
 toc_sticky: true
-permalink: /CompArchLab/
 ---
 
-The Computational Archaeology Laboratory at San Diego State University is a state of the art facility for computational approaches in archaeology and geoarchaeology. Specialties include GIS, agent-based modeling, imagery analysis, advanced statistical modeling, 3D analysis, as well sedimentology, granulometry, geomorphology, landscape analysis, and geochronology. A main focus of research is on the origins and long-term dynamics of coupled human and natural systems, including anthropogenic landscapes, in the Mediterranean and beyond.
-<br><br>
+
+
+::: {style="height: 390px; overflow: hidden; margin-bottom: 1.5em;"}
+`<img src="/images/SDSU_Calabrai_field_work.jpg"
+       alt="Archaeological fieldwork in Calabria, southern Italy."
+       style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 68%;">`{=html}
+:::
+
+The Computational Archaeology Laboratory at San Diego State University
+is a research and teaching facility focused on computational, spatial,
+and geoarchaeological approaches to understanding archaeological
+landscapes and long-term human-environment systems.
+
+The lab brings together GIS and spatial analysis, computational
+modeling, scientific computing, digital field methods, 3D documentation,
+and geoarchaeology. A particular emphasis is placed on integrating
+archaeological fieldwork and empirical data with computational methods
+for investigating how people interacted with, modified, and moved
+through landscapes over long periods of time.
 
 ### Lab Information
 
-**Location:** *Hardy Tower 62/66.* 
-<br>
-The lab is located on the ground floor of the Hardy Tower building. Students should enter through HT 62 door in the stairwell (look for "Computational Archaeology Laboratory" signs).
-<br>
-<br>
-**Supervised Lab Hours:*Fall 2025 - Thursdays 9a-3p* 
-<br>
+**Location:** *Hardy Tower 62/66.*
 
-<figure>
-	<a href="/images/CompArch_equipment.jpg"><img src="/images/CompArch_equipment.jpg" alt="Computational Archaeology Lab Microscopy."></a>
-	<figcaption>The Computational Archaeology lab set up for low power digital microscopy work.</figcaption>
-</figure>
+The lab is located on the ground floor of Hardy Tower. Students should
+enter through the HT 62 door in the stairwell and follow signs for the
+Computational Archaeology Laboratory.
 
 ### Research
 
-|**Research topics**                            | | **Methods**                               |
-| :--                                           | | :--                                       |
-| &bull; Coupled human-natural systems<br>&nbsp;&nbsp;&nbsp;research        | | &bull; GIS and spatial analysis                  |
-| &bull; Anthropogenic landscapes, sediments,<br>&nbsp;&nbsp;&nbsp;and soils| | &bull; Agent-based modeling                      |
-| &bull; Agro-pastoral landuse and subsistence         | | &bull; 3D and multispectral<br>&nbsp;&nbsp;&nbsp;imaging              |
-| &bull; Long-term human socio-ecology                 | | &bull; Sediment analysis and<br>&nbsp;&nbsp;&nbsp;geomorphology       |
-| &bull; Human eco-dynamics                            | | &bull; Scientific computing and<br>&nbsp;&nbsp;&nbsp;machine learning | 
-| &bull; Landscape evolution                           | | &bull; Archaeological survey                     | 
-| &bull; Human-climate interaction                     | | &bull; Paleoenvironmental<br>&nbsp;&nbsp;&nbsp;reconstruction         |
+Research in the Computational Archaeology Laboratory examines
+archaeological problems through the integration of field archaeology,
+spatial and computational analysis, and environmental evidence.
 
-<br>
+  -----------------------------------------------------------------------
+  **Research themes**                 **Computational and analytical
+                                      approaches**
+  ----------------------------------- -----------------------------------
+  Human-landscape interactions and    GIS, spatial analysis, and
+  anthropogenic landscapes            geomorphometry
 
-| **Collaborations**                                                                                                     | **Funding and support**                   |
-| :--                                                                                                                   | :--                                      |
-| &bull; [The Mediterranean Landscape<br>&nbsp;&nbsp;&nbsp;Dynamics Project](https://repository.asu.edu/collections/5){:target="_blank"}             | &bull; The National Science Foundation           |
-| &bull; [The Bova Marina Archaeological<br>&nbsp;&nbsp;&nbsp;Project](https://www.arch.cam.ac.uk/research/projects/bova-marina/){:target="_blank"}   | &bull; The National Endowment for<br>&nbsp;&nbsp;&nbsp;the Humanities |
-| &bull; [The Wadi Ziqlab/Wadi Quseiba<br>&nbsp;&nbsp;&nbsp;Project](https://homes.chass.utoronto.ca/%7Ebanning/Ziqlab/){:target="_blank"}            | &bull; The Social Science Research<br>&nbsp;&nbsp;&nbsp;Council, Canada |
-| &bull; [The Center for Climate and<br>&nbsp;&nbsp;&nbsp;Sustainability Studies](https://c2s2.sdsu.edu/){:target="_blank"}                           | &bull; The SDSU University Grants Program        |
+  Long-term socio-environmental       Computational modeling and
+  dynamics                            simulation
 
-<br>
+  Agro-pastoral land use and          Agent-based modeling
+  subsistence                         
 
+  Landscape evolution and             Terrain and hydrological modeling
+  geoarchaeology                      
+
+  Archaeological mobility,            Movement, accessibility, and
+  territoriality, and interaction     network modeling
+
+  Archaeological survey and           Spatial statistics and predictive
+  settlement patterns                 modeling
+
+  Digital archaeology and             Remote sensing, photogrammetry,
+  archaeological documentation        LiDAR, and 3D analysis
+  -----------------------------------------------------------------------
+
+Research is geographically diverse, with ongoing and recent work in the
+Mediterranean, Southwest Asia, Central Eurasia, and Southern California.
+
+```{=html}
 <figure>
-	<a href="/images/SDSU_COMPARCH_Low_Power_Microscopy.jpg"><img src="/images/SDSU_COMPARCH_Low_Power_Microscopy.jpg" alt="Students using low-power microscopy to analyze sediment particle shapes in the Computational Archaeology Laboratory."></a>
-	<figcaption>Students using low-power microscopy to analyze sediment particle shapes in the Computational Archaeology Laboratory.</figcaption>
+```
+`<a href="/images/Figure_3.png">`{=html}`<img src="/images/Figure_3.png" alt="Computational landscape model showing accumulated movement pathways and Nabataean tower locations.">`{=html}`</a>`{=html}
+```{=html}
+<figcaption>
+```
+Computational landscape analysis of Nabataean tower locations, using
+terrain-based movement modeling to investigate potential pathways and
+connectivity across a topographically complex landscape.
+```{=html}
+</figcaption>
+```
+```{=html}
 </figure>
+```
+### Students and Research Opportunities
 
-### Students
+The Computational Archaeology Laboratory supports undergraduate and
+graduate research in computational archaeology, geoarchaeology,
+landscape archaeology, and related areas. Students use the lab for
+thesis research, independent studies, course projects, internships, and
+collaborative research. Opportunities for undergraduate research
+volunteers and internships for academic credit are regularly available,
+with occasional paid research positions depending on project funding.
+Please [email me](mailto:iullah@sdsu.edu) if you are interested.
 
-The Computational Archaeology Lab provides computing and other resources for undergraduate and graduate student research in the fields of Computational Archaeology and Geoarchaeology. There are ongoing opportunities for undergraduate student research volunteers and internships (for credit) and occasionally a limited number of paid hourly positions as well. Please [email me](iullah@sdsu.edu) if you are interested.
-
+```{=html}
+<figure>
+```
+`<a href="/images/SDSU_Geoarchaeology_fieldtrip.jpg">`{=html}`<img src="/images/SDSU_Geoarchaeology_fieldtrip.jpg" alt="Students conducting geoarchaeological field observations in San Diego County.">`{=html}`</a>`{=html}
+```{=html}
+<figcaption>
+```
+Students conducting geoarchaeological field observations and recording
+in San Diego County.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
 #### Prospective Master's Students
 
-I am currently seeking prospective MA students interested in the fields of [**Computational or Digital Archaeology**](https://isaacullah.github.io/What-is-Computational-Archaeology/){:target="_blank"}, [**Geoarchaeology**](https://en.wikipedia.org/wiki/Geoarchaeology){:target="_blank"}, and [**Landscape Archaeology**](https://en.wikipedia.org/wiki/Landscape_archaeology){:target="_blank"}. I am particularly interested in students with some background in GIS or other computational approaches and/or the geosciences. I have ongoing research opportunities for students interested in working in the Mediterranean region, San Diego County, or in Central Eurasia. I have active fieldwork in Southern Italy and in San Diego County, and other opportunities may also include data from past fieldwork in Spain, Jordan, or Kazakhstan. Interested prospective students should [email me](iullah@sdsu.edu) to discuss potential thesis topics further. You are also advised to visit the main [Anthropology MA program page](https://anthropology.sdsu.edu/graduate/index.html){:target="_blank"} for more information about our graduate studies program.
+I welcome inquiries from prospective MA students interested in
+[computational and digital
+archaeology](https://isaacullah.github.io/What-is-Computational-Archaeology/){:target="\_blank"},
+GIS and spatial analysis, landscape archaeology, archaeological survey,
+geoarchaeology, remote sensing and 3D documentation, or computational
+approaches to long-term human-environment interactions.
 
-<figure>
-	<a href="/images/Granulomtery.jpg"><img src="/images/Granulometry.jpg" alt="Students undertake sediment granulometry analysis in the Computational Archaeology Laboratory."></a>
-	<figcaption>Students in ANTH 563 "Anthropogenic Landscapes" undertake sediment granulometry analysis in the Computational Archaeology Laboratory.</figcaption>
-</figure>
+I am particularly interested in working with students who want to
+develop projects involving archaeological GIS and spatial modeling;
+computational modeling and simulation; landscape and settlement
+analysis; archaeological survey; remote sensing, photogrammetry, or 3D
+documentation; geoarchaeology and anthropogenic landscapes; or
+reproducible computational research.
+
+Potential thesis projects can draw on active field research, existing
+archaeological and spatial datasets, legacy survey collections, or
+independently developed research questions. Current and recent research
+provides opportunities to work with archaeological materials and data
+from Southern California, southern Italy, Jordan, Kazakhstan, Spain, and
+other regions.
+
+Prospective students do not need to arrive with advanced computational
+expertise. Some previous experience with GIS, programming, quantitative
+methods, geoscience, or digital archaeological methods is useful, but a
+strong archaeological question and an interest in developing
+computational or geoarchaeological skills are equally important.
+
+Interested prospective students should [email
+me](mailto:iullah@sdsu.edu) to discuss possible research directions. You
+are also encouraged to visit the main [Anthropology MA program
+page](https://anthropology.sdsu.edu/graduate/index.html){:target="\_blank"}
+for more information about graduate study at SDSU.
 
 ### Courses
 
-The following courses are partially taught in the lab, have open lab hours in the lab, or use lab resources.
+The lab provides specialized facilities for courses in computational
+archaeology, GIS, landscape archaeology, and geoarchaeology. It also
+serves as a workspace where students can continue course-based analyses
+using software and equipment not readily available elsewhere on campus.
 
-* ANTH 562 Computational Archaeology <br>(_Activities: GIS, Imagery Analysis, LiDAR, 3D modeling_)
-* ANTH 563 Anthropogenic Landscapes <br>(_Activities: Geoarchaeology, Erosion Modeling, Sediment Granulometry, Agent Based Modeling_)
+-   **ANTH 562: Archaeological GIS and Geospatial Technologies**\
+    GIS, spatial analysis, terrain modeling, remote sensing,
+    archaeological survey, spatial statistics, and digital
+    archaeological workflows.
 
-### Lab Resources
+-   **ANTH 563: Anthropogenic Landscapes**\
+    Geoarchaeology, landscape evolution, sediment analysis,
+    human-environment interactions, erosion and landscape modeling, and
+    computational approaches to anthropogenic landscapes.
 
-#### Hardware
+### Laboratory Capabilities and Resources
 
-The lab has the following hardware resources available for teaching and research in the areas of computational archaeology and geoarchaeology:
+The Computational Archaeology Laboratory combines high-performance
+computing with specialized archaeological, geoarchaeological, imaging,
+and field equipment. Rather than emphasizing particular hardware
+platforms, the laboratory is designed to support integrated workflows
+extending from archaeological field observation and data collection
+through laboratory analysis, spatial modeling, simulation, and
+visualization.
 
-* __Computation:__
-	* 5 high-power Ubuntu Linux computer workstations. These workstations are available to my graduate students and students in my courses to complete assignments and conduct research.
-	* A Puget Systems "Peak" HPC workstation. This workstation contains 44 multithreaded cores for parallel and high-performance computing.
-	* 1 Windows 95 computer for legacy software
-	* Wacom tablets for data entry and digitization
-	* High-capacity external hardrives for long-term data storage
-    
+#### Geocomputation and Scientific Computing
 
-* __3D Scanning and Photogrammetry:__
-	* Livox Avia LiDAR scanner with mobile battery and laptop connection kit
-	* Insta360 360 degree cameras
-	* Creality structured light 3D scanner
-	* Turntables and light tents for 3D scanning and object photography
-	* MapIR Survey2 Red-NIR NDVI camera
-	* MapIR luminosity calibration target
-	* Xrite Color checker chart and grey cards
-	* Pantone Huey screen profiling calibration tool
-	* Tripods and lighting
-	* High resolution Canon flatbed and film scanner
-	* Our field workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
-	
-* __Sedimentology and Granulometry:__
-	* Beckman Coulter Multisizer 3 Particle Size Analyzer (~0.1 to 1000 microns)
-	* ISO standard nesting geologic sieves
-	* Mechanical sieve shaker
-	* Precision balance
-	* pH, Salinity, and TDS meter
-	* Bouyoucos hydrometers, hydrometer flasks, and reagents
-	* Mixers, dehydrators, glassware, etc.
-	* We follow the KBS LTER protocols for [sediment particle analysis via hydrometer method](https://lter.kbs.msu.edu/protocols/108), [measuring soil moisture](https://lter.kbs.msu.edu/protocols/24), for [measuring soil pH and conductivity](https://lter.kbs.msu.edu/protocols/163), and for [measuring soil bulk density](https://lter.kbs.msu.edu/protocols/110). 
+The lab maintains high-performance Linux workstations for GIS,
+scientific computing, spatial modeling, simulation, image processing,
+photogrammetry, and analysis of large archaeological datasets. Dedicated
+high-performance computing resources support parallel and
+computationally intensive research.
 
-* __Digital Field Data Collection:__
-	* Android phones for field data collection using Open Data Kit.
-	* Bad-Elf GNSS surveyor high precision bluetooth GPS units.
-	* 2 small (but old) Ubuntu Linux laptops for dirty field locations
-	* Our mobile data collection workflow can be found [here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/).
-	
-* __Artifact Analysis:__
-	* Low-power USB microscopes for conducting microrefuse analysis or other such tasks.
-	* Calipers, profilers, and other measurement tools
-	* Assorted glassware and other laboratory tools
-	* Experimental archaeology collectiong
-	* Flintknapping materials and supplies
+The laboratory emphasizes reproducible computational workflows and Free
+and Open Source Software. Core areas of expertise include GRASS GIS and
+QGIS, Python and R, agent-based modeling, spatial statistics, image
+analysis, point-cloud and mesh processing, and shell-based scientific
+computing.
 
-* __Archaeological and Geoarchaeological Fieldwork:__
-	* Sediment auger (regular, sand, and wide buckets)
-	* OSL sampling tools
-	* Tools and guides for in-situ sediment descriptions
-	* Tapes, levels, tools, etc., for survey and excavation
+#### Digital Documentation and 3D Archaeology
 
-#### Software
+The lab supports archaeological documentation at scales ranging from
+individual artifacts and architectural features to archaeological sites
+and landscapes. Available equipment supports close-range photogrammetry,
+structured-light scanning, terrestrial and mobile LiDAR, 360-degree
+imaging, calibrated photography, and multispectral imaging.
 
-The lab specializes in Free and Open Source Software (FOSS) approaches to computational archaeology, with teaching and research strengths in the following software areas: 
-    
-* __GIS:__
-    * GRASS GIS
-    * QGIS
-    * Q-Field
-    
-* __Agent Based Modeling:__
-    * NetLogo
-    * Python
-    
-* __Image Analysis__
-    * Image-J
-    * GIMP
-    * Darktable
-    * Open CV
-    
-* __Photogrammetery and 3D Scanning__
-    * Open Drone Map (and WebODM)
-    * Open CV
-    * MVE
-    * Meshroom
-    * Livox Viewer
-    * Meshlab
-    * CloudCompare
-        
-* __Scripting, Programming, and Data Science__
-    * Python (Pandas, NumPy, SciPy, Matplotlib, Seaborn, etc.)
-    * R
-    * BASH/Shell Script
+::: {style="display: flex; gap: 1.25em; align-items: flex-start; margin: 1.5em 0;"}
+```{=html}
+<figure style="flex: 1; margin: 0;">
+```
+`<a href="/images/SDSU_Photogrammetry_rig.jpg">`{=html}`<img src="/images/SDSU_Photogrammetry_rig.jpg" alt="Digital documentation of archaeological collections using a controlled photogrammetry setup.">`{=html}`</a>`{=html}
+```{=html}
+<figcaption>
+```
+Digital documentation of archaeological collections using controlled
+imaging and photogrammetric techniques.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+```{=html}
+<figure style="flex: 1; margin: 0;">
+```
+`<a href="/images/SDSU_laser_scanning_Calabria.jpg">`{=html}`<img src="/images/SDSU_laser_scanning_Calabria.jpg" alt="LiDAR documentation during archaeological fieldwork in Calabria, southern Italy.">`{=html}`</a>`{=html}
+```{=html}
+<figcaption>
+```
+LiDAR documentation during archaeological field research in Calabria,
+southern Italy.
+```{=html}
+</figcaption>
+```
+```{=html}
+</figure>
+```
+:::
 
+#### Geoarchaeology and Sediment Analysis
 
+Laboratory and field resources support sediment characterization,
+particle-size and granulometric analysis, soil and sediment sampling,
+basic geochemical measurements, and archaeological sediment description.
+These facilities support research on anthropogenic sediments, landscape
+formation, erosion and deposition, and the long-term interactions
+between human activities and geomorphic processes.
+
+#### Digital Archaeological Field Methods
+
+The lab maintains equipment for digital archaeological survey and field
+recording, including GNSS positioning, mobile data collection, GIS-based
+field recording, photographic and 3D documentation, and portable
+computing. These resources support workflows that connect field
+observations directly with spatial databases and subsequent
+computational analysis. Our general mobile and digital field data
+collection workflow is described
+[here](https://isaacullah.github.io/Digital-Data-Collection-for-Field-Sciences/){:target="\_blank"}.
+
+#### Archaeological Analysis
+
+Additional facilities support low-power digital microscopy, artifact
+measurement and morphometric analysis, microrefuse analysis,
+experimental archaeology, and general archaeological laboratory work.
+
+### Open and Reproducible Archaeological Computing
+
+A central principle of the Computational Archaeology Laboratory is that
+sophisticated computational archaeology should not depend upon
+inaccessible or proprietary technological ecosystems. Research and
+teaching therefore emphasize Free and Open Source Software, transparent
+analytical procedures, reproducible workflows, and methods that students
+and collaborators can continue to use outside the laboratory.
+
+This approach extends across GIS and spatial analysis, programming and
+data science, simulation, image analysis, photogrammetry, 3D processing,
+and field data collection. The lab has particular expertise in GRASS
+GIS, QGIS, Python, R, NetLogo, OpenDroneMap, CloudCompare, MeshLab, and
+related open-source tools.
