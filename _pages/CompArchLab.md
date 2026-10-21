@@ -12,13 +12,12 @@ toc: true
 toc_sticky: true
 ---
 
-
-
-::: {style="height: 390px; overflow: hidden; margin-bottom: 1.5em;"}
-`<img src="/images/SDSU_Calabrai_field_work.jpg"
+<div style="height: 390px; overflow: hidden; margin-bottom: 1.5em;">
+  <img src="/images/SDSU_Calabrai_field_work.jpg"
        alt="Archaeological fieldwork in Calabria, southern Italy."
-       style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 68%;">`{=html}
-:::
+       style="width: 100%; height: 100%; object-fit: cover; object-position: 50% 68%;">
+</div>
+
 
 The Computational Archaeology Laboratory at San Diego State University
 is a research and teaching facility focused on computational, spatial,
@@ -75,22 +74,11 @@ spatial and computational analysis, and environmental evidence.
 Research is geographically diverse, with ongoing and recent work in the
 Mediterranean, Southwest Asia, Central Eurasia, and Southern California.
 
-```{=html}
 <figure>
-```
-`<a href="/images/Figure_3.png">`{=html}`<img src="/images/Figure_3.png" alt="Computational landscape model showing accumulated movement pathways and Nabataean tower locations.">`{=html}`</a>`{=html}
-```{=html}
-<figcaption>
-```
-Computational landscape analysis of Nabataean tower locations, using
-terrain-based movement modeling to investigate potential pathways and
-connectivity across a topographically complex landscape.
-```{=html}
-</figcaption>
-```
-```{=html}
+  <a href="/images/Figure_3.png"><img src="/images/Figure_3.png" alt="Computational landscape model showing accumulated movement pathways and Nabataean tower locations."></a>
+  <figcaption>Computational landscape analysis of Nabataean tower locations, using terrain-based movement modeling to investigate potential pathways and connectivity across a topographically complex landscape.</figcaption>
 </figure>
-```
+
 ### Students and Research Opportunities
 
 The Computational Archaeology Laboratory supports undergraduate and
@@ -102,21 +90,16 @@ volunteers and internships for academic credit are regularly available,
 with occasional paid research positions depending on project funding.
 Please [email me](mailto:iullah@sdsu.edu) if you are interested.
 
-```{=html}
 <figure>
-```
-`<a href="/images/SDSU_Geoarchaeology_fieldtrip.jpg">`{=html}`<img src="/images/SDSU_Geoarchaeology_fieldtrip.jpg" alt="Students conducting geoarchaeological field observations in San Diego County.">`{=html}`</a>`{=html}
-```{=html}
-<figcaption>
-```
-Students conducting geoarchaeological field observations and recording
-in San Diego County.
-```{=html}
-</figcaption>
-```
-```{=html}
+  <a href="/images/SDSU_Geoarchaeology_fieldtrip.jpg">
+    <img src="/images/SDSU_Geoarchaeology_fieldtrip.jpg"
+         alt="Students conducting geoarchaeological field observations in San Diego County.">
+  </a>
+  <figcaption>
+    Students conducting geoarchaeological field observations and recording in San Diego County.
+  </figcaption>
 </figure>
-```
+
 #### Prospective Master's Students
 
 I welcome inquiries from prospective MA students interested in
@@ -201,38 +184,29 @@ and landscapes. Available equipment supports close-range photogrammetry,
 structured-light scanning, terrestrial and mobile LiDAR, 360-degree
 imaging, calibrated photography, and multispectral imaging.
 
-::: {style="display: flex; gap: 1.25em; align-items: flex-start; margin: 1.5em 0;"}
-```{=html}
-<figure style="flex: 1; margin: 0;">
-```
-`<a href="/images/SDSU_Photogrammetry_rig.jpg">`{=html}`<img src="/images/SDSU_Photogrammetry_rig.jpg" alt="Digital documentation of archaeological collections using a controlled photogrammetry setup.">`{=html}`</a>`{=html}
-```{=html}
-<figcaption>
-```
-Digital documentation of archaeological collections using controlled
-imaging and photogrammetric techniques.
-```{=html}
-</figcaption>
-```
-```{=html}
-</figure>
-```
-```{=html}
-<figure style="flex: 1; margin: 0;">
-```
-`<a href="/images/SDSU_laser_scanning_Calabria.jpg">`{=html}`<img src="/images/SDSU_laser_scanning_Calabria.jpg" alt="LiDAR documentation during archaeological fieldwork in Calabria, southern Italy.">`{=html}`</a>`{=html}
-```{=html}
-<figcaption>
-```
-LiDAR documentation during archaeological field research in Calabria,
-southern Italy.
-```{=html}
-</figcaption>
-```
-```{=html}
-</figure>
-```
-:::
+<div style="display: flex; gap: 1.25em; align-items: flex-start; margin: 1.5em 0;">
+
+  <figure style="flex: 1; margin: 0;">
+    <a href="/images/SDSU_Photogrammetry_rig.jpg">
+      <img src="/images/SDSU_Photogrammetry_rig.jpg"
+           alt="Digital documentation of archaeological collections using a controlled photogrammetry setup.">
+    </a>
+    <figcaption>
+      Digital documentation of archaeological collections using controlled imaging and photogrammetric techniques.
+    </figcaption>
+  </figure>
+
+  <figure style="flex: 1; margin: 0;">
+    <a href="/images/SDSU_laser_scanning_Calabria.jpg">
+      <img src="/images/SDSU_laser_scanning_Calabria.jpg"
+           alt="LiDAR documentation during archaeological fieldwork in Calabria, southern Italy.">
+    </a>
+    <figcaption>
+      LiDAR documentation during archaeological field research in Calabria, southern Italy.
+    </figcaption>
+  </figure>
+
+</div>
 
 #### Geoarchaeology and Sediment Analysis
 
