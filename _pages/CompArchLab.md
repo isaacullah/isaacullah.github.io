@@ -42,36 +42,20 @@ Computational Archaeology Laboratory.
 ### Research
 
 Research in the Computational Archaeology Laboratory examines
-archaeological problems through the integration of field archaeology,
+archaeological problems through the integration of field archaeology and geoarchaeology,
 spatial and computational analysis, and environmental evidence.
 
-  -----------------------------------------------------------------------
-  **Research themes**                 **Computational and analytical
-                                      approaches**
-  ----------------------------------- -----------------------------------
-  Human-landscape interactions and    GIS, spatial analysis, and
-  anthropogenic landscapes            geomorphometry
+| Research themes | Computational and analytical approaches |
+|---|---|
+| Human-landscape interactions and anthropogenic landscapes | GIS, spatial analysis, and geomorphometry |
+| Long-term socio-environmental dynamics | Computational modeling and simulation |
+| Agro-pastoral land use and subsistence | Agent-based modeling |
+| Landscape evolution and geoarchaeology | Terrain and hydrological modeling |
+| Archaeological mobility, territoriality, and interaction | Movement, accessibility, and network modeling |
+| Archaeological survey and settlement patterns | Spatial statistics and predictive modeling |
+| Digital archaeology and archaeological documentation | Remote sensing, photogrammetry, LiDAR, and 3D analysis |
 
-  Long-term socio-environmental       Computational modeling and
-  dynamics                            simulation
-
-  Agro-pastoral land use and          Agent-based modeling
-  subsistence                         
-
-  Landscape evolution and             Terrain and hydrological modeling
-  geoarchaeology                      
-
-  Archaeological mobility,            Movement, accessibility, and
-  territoriality, and interaction     network modeling
-
-  Archaeological survey and           Spatial statistics and predictive
-  settlement patterns                 modeling
-
-  Digital archaeology and             Remote sensing, photogrammetry,
-  archaeological documentation        LiDAR, and 3D analysis
-  -----------------------------------------------------------------------
-
-Research is geographically diverse, with ongoing and recent work in the
+Our research is geographically diverse, with ongoing and recent work in the
 Mediterranean, Southwest Asia, Central Eurasia, and Southern California.
 
 <figure>
@@ -105,14 +89,14 @@ Please [email me](mailto:iullah@sdsu.edu) if you are interested.
 I welcome inquiries from prospective MA students interested in
 [computational and digital
 archaeology](https://isaacullah.github.io/What-is-Computational-Archaeology/){:target="\_blank"},
-GIS and spatial analysis, landscape archaeology, archaeological survey,
+GIS and spatial analysis, landscape archaeology, historic preservation, archaeological survey,
 geoarchaeology, remote sensing and 3D documentation, or computational
 approaches to long-term human-environment interactions.
 
 I am particularly interested in working with students who want to
 develop projects involving archaeological GIS and spatial modeling;
 computational modeling and simulation; landscape and settlement
-analysis; archaeological survey; remote sensing, photogrammetry, or 3D
+analysis; archaeological survey; remote sensing, photogrammetry/LiDAR or 3D
 documentation; geoarchaeology and anthropogenic landscapes; or
 reproducible computational research.
 
@@ -141,6 +125,11 @@ The lab provides specialized facilities for courses in computational
 archaeology, GIS, landscape archaeology, and geoarchaeology. It also
 serves as a workspace where students can continue course-based analyses
 using software and equipment not readily available elsewhere on campus.
+
+-   **ANTH 560:Advanced Archaeological Field Techniques**\
+    Archaeological survey methods, non-invasive field recordation,
+    digital documentation techniques, database design, 3D
+    scanning, UAV documentation, architectural survey
 
 -   **ANTH 562: Archaeological GIS and Geospatial Technologies**\
     GIS, spatial analysis, terrain modeling, remote sensing,
